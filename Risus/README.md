@@ -1,5 +1,11 @@
 # Règles Risus résumées
 
+## Intro
+
+* Version originale : [Risus the RPG](https://www.drivethrurpg.com/product/170294/Risus-The-Anything-RPG)
+* Version française : [Risus, traduction de Tristan Lhomme](risus-fr.pdf)
+* Site américain : [risusiverse](http://www.risusiverse.com/)
+
 ## Création du personnage
 
 **Comment ?**

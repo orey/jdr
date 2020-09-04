@@ -6,6 +6,17 @@
 * Version française : [Risus, traduction de Tristan Lhomme](risus-fr.pdf)
 * Site américain : [risusiverse](http://www.risusiverse.com/)
 
+## V1 du flowchart Risus : création de perso + système de jeu
+
+![Risus flowchart](risus-flowchart-small.png)
+
+Sinon :
+
+* [En PDF](risus-flowchart.pdf)
+* [En PNG taille normale](risus-flowchart.png)
+* [En PNG taille maxi](risus-flowchart-big.png)
+
+
 ## Création du personnage
 
 **Comment ?**
@@ -84,7 +95,7 @@ Attention :
 * Cliché inadapté : le roleplay permet de l'utiliser ;
 * -3D si le Cliché inadapté gagne.
 
- Porte de sortie  : 2D par défaut en cas d'absence totale de Cliché adapté.
+ Porte de sortie : 2D par défaut en cas d'absence totale de Cliché adapté.
 
 ## Conflit à action unique (trop rapides)
 

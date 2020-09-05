@@ -535,142 +535,143 @@ un dragon kidnappe la fille du tsar avec l'intention d'imposer un mariage, et il
 | 64. | promesses
 | 65. | équipement pour le voyage
 | 66. | éléments auxiliaires triplés
-| 67. | 
-68-69. Goal of the hero:
-68. goal as an action (to seek out, to liberate, to
-rescue);
-69. goal as an object (a princess, a magical steed, etc.).
-TABLE IV: Donors
-70. Journey from home to the donor.
-71-77. Donors:
-71. manner of inclusion into the tale, nomenclature;
-72. dwelling;
-73. physical appearance;
-74. peculiarities of external appearance on the scene;
-75. other attributes;
-76. dialogue with the hero;
-77. hospitality shown to the hero.
-78. Preparation for the transmission of a magical agent:
-a. tasks;
-b. requests;
-c. skirmish;
-d. other forms; trebling.
-79. Reaction of the hero:
-a. positive;
-b. negative.
-80-81. Provision:
-80. what is given;
-81. in what form.
-TABLE V: From the Entry of the Helper to the
-End of the First Move
-82-89. The helper (magical agent):
-82. nomenclature;
-83. form of summons;
-84. manner of inclusion into the course of the
-action;
-85. peculiarities of appearance on the scene;
-86. physical appearance;
-87. original location;
-88. training (taming) of the helper;
-89. wisdom of the helper.
-90. Delivery to the appointed place.
-91. Forms of arrival.
-92. Details of the setting of the object sought for:
-a. dwelling of the princess;
-b. dwelling of the villain;
-c. description of the faraway kingdom.
-93-97. Second appearance of the villain:
-93. manner of inclusion into the course of the action
-(he is sought out, etc.);
-94. physical appearance of the villain;
-95. retinue;
-96. peculiarities of external appearance on the scene;
-97. dialogue of the villain with the hero.
-98-101. Second (first, in the case of lacks) appearance of the
-princess (of the object of the quest):
-98. manner of inclusion into the course of action;
-99. physical appearance;
-100. peculiarities of external appearance at the scene
-(she sits on the seashore, etc.);
-101. dialogue.
-102-105. Struggle with the villain:
-102. place of the fight;
-103. actions preceding the fight (clearing the field);
-104. forms of the fight or struggle;
-105. after the fight (cremation).
-106-107. Marking:
-106. personage;
-107. manner.
-108-109. Victory over the villain:
-108. role of the hero;
-109. role of the helper; trebling.
-110-113. The false hero (of second type—water-carrier, gen-
-eral):
-110. nomenclature;
-111. forms of appearance on the scene;
-112. behavior during battle;
-113. dialogue with the princess, deceptions, etc.
-114-119. Liquidation of misfortune or lack:
-114. interdiction of the helper;
-115. violation of the interdiction;
-116. role of the hero;
-117. role of the helper;
-118. means;
-119. auxiliary elements trebled.
-120. Return.
-121-124. Pursuit:
-121. forms of notifying the villain about the escape;
-122. forms of pursuit;
-123. notification of hero about the pursuit;
-124. auxiliary elements trebled,
-125-127. Rescue from pursuit:
-125. the rescuer;
-126. forms;
-127. downfall of the villain.
-TABLE VI: Beginning of the Second Move
-From a new villainy (A 1 or A 2 , etc.) to the arrival—repetition
-of the preceding; same headings.
-TABLE VII: Continuation of the Second Move
-128. Unrecognized arrival:
-a. home, with entry into service;
-b. home, without entry into service;
-c. to another tsar's domain:
-d. other forms of concealment, etc.
-129-131. Unfounded claims of the false hero:
-129. person performing;
-130. forms of claims;
-131. preparations for marriage.
-132-136. The difficult task:
-132. the person who sets it;
-133. motivation for the task by the person who sets
-it (illness, etc.);
-134. actual motivation for the task (the desire to
-differentiate the false hero from the true one,
-etc.);
-135. contents of task;
-136. auxiliary elements trebled.
-137-140. Resolution of the task:
-137. dialogue with the helper;
-138. role of the helper;
-139. form of solution;
-140. auxiliary elements trebled.
-141-143. Recognition:
-141. means of summoning the true hero (spreading
-out a feast, making the rounds of beggars);
-142. form of the hero's appearance on the scene (at
-the wedding, etc.);
-143. form of recognition.
-144-146. Exposure:
-144. person exposing;
-145. manner of exposing;
-146. motivation of exposure.
-147-148. Transfiguration:
-147. personage;
-148. manner of transfiguration.
-149-150. Punishment:
-149. personage;
-150. manner of punishment.
-151. Wedding.
+| 67. | envoi du héros à sa destination en partant de chez lui
+68-69. | | But du héros
+| 68. | le but comme action (chercher, libérer, secourir)
+| 69. | le but comme objet (une princesse, un étalon magique, etc.)
+
+### TABLE IV : Donneurs
+
+Etape | Sous-étape | Description
+---|---|---
+70. | | Voyage de la maison au donneur
+71-77. | | Les donneurs
+| 71. | façon de l'inclure dans le conte, nomenclature
+| 72. | domicile
+| 73. | apparence physique
+| 74. | particularités des apparences externes dans la scène
+| 75. | autres attributs
+| 76. | dialogue avec le héro
+| 77. | Hospitalité montrée au héro
+| 78. | Préparation à la transmission de lm'agent magique
+| a. | tâches
+| b. | requêtes
+| c. | escarmouche
+| d. | autres formes, triplées
+79. | | Réaction du héros
+| a. | positive
+| b. | négative
+80-81. | | Provision
+| 80. | ce qui est donné
+| 81. | sous quelle forme
+
+### TABLE V : Depuis l'entrée chez la personne aidante jusqu'à la fin du premier mouvement
+
+Etape | Sous-étape | Description
+---|---|---
+82-89. | | L'aide (l'agent magique)
+| 82. | nomenclature
+| 83. | formes d'invocations
+| 84. | façon de l'inclure dans le cours de l'action
+| 85. | particularités de l'apparence dans la scène
+| 86. | apparence physique
+| 87. | localisation originale
+| 88. | formation (apprivoisement) de l'aide
+| 89. | sagesse de l'aide
+90. | | Livraison à l'endroit choisi
+91. | | Formes de l'arrivée
+92. | | Détails des paramètres de l'objet recherché
+| a. | demeure de la princesse
+| b. | demeure du méchant
+| c. | description du royaume lointain
+93-97. | | Seconde apparition du méchant
+| 93. | Façon de l'inclure dans le cours de l'action (il est recherché)
+| 94. | apparence physique du méchant
+| 95. | cortège
+| 96. | particularités des apparences externes de la scène
+| 97. | dialogue du méchant avec le héro
+98-101. | Seconde (première dans le cas des manques) apparition de la princesse (ou de l'objet de la quête)
+| 98. | Façon de l'inclure dans le cours de l'action
+| 99. | apparence physique
+| 100. | particularités d'apparence extérieure dans la scène (elle est assise sur la plage, etc.)
+| 101. | dialogue
+102-105. | | combat avec le méchant
+| 102. | endroit pour le combat
+| 103. | actions précédant le combat (faire de la place, etc.)
+| 104. | formes du combat
+| 105. | après le combat (crémation)
+106-107. | | Marquage
+| 106. | personnage
+| 107. | manière
+108-109. | | Victoire sur le méchant
+| 108. | rôle du héros
+| 109. | rôle de l'aide; tripler
+110-113. | Le faux héros (du second type)
+| 110. | nomenclature
+| 111. | formes de l'apparence dans la scène
+| 112. | comportement durant la bataille
+| 113. | dialogue avec la princesse, mensonges, etc.
+114-119. | | Fin de la mauvaise fortune ou du manque
+| 114. | interdiction de l'aide
+| 115. | violation de l'interdiction
+| 116. | rôle du héros
+| 117. | rôle de l'aide
+| 118. | moyens
+| 119. | éléments auxiliaires triplés
+120. | | Le retour
+121-124. | La poursuite
+| 121. | Formes de notification du méchant à propos de l'évasion
+| 122. | Formes de la poursuite
+| 123. | Notification du héros quant à al poursuite
+| 124. | éléments auxiliaires triplés
+125-127. | | Sauvetage de la poursuite
+| 125. | la sauveteur
+| 126. | les formes
+| 127. | la chute du méchant
+
+### TABLE VI : Début du second mouvement
+
+Depuis une nouvelle vilenie (A1 ou A2, etc.) à l'arrivée ; répétition de la séquence précédente ; même titres.
+
+### TABLE VII : Suite du second mouvement
+
+Etape | Sous-étape | Description
+---|---|---
+128. | | Arrivée incognito
+| a. | à la maison avec entrée en service
+| b. | à la maison sans entrée en service
+| c. | dans un autre domaine du tsar
+| d. | autres formes de dissimulation
+129-131. | Réclamations non fondées du faux héros
+| 129. | personne actrice
+| 130. | formes de plaintes
+| 131. | préparatifs de mariage
+132-136. | | La tâche difficile
+| 132. | La personne qui la définit
+| 133. | motivation pour la personne qui la définit (maladie, etc.)
+| 134. | motivation réelle pour la tâche (le désir de différencier le faux héros du vrai héros, etc.)
+| 135. | contenu de la tâche
+| 136. | éléments auxiliaires triplés
+137-140. | | Accomplissement de la tâche
+| 137. | dialogue avec l'aide
+| 138. | rôle de l'aide
+| 139. | forme de la solution
+| 140. | éléments auxiliaires triplés
+141-143. | | Reconnaissance
+| 141. | moyens d'invoquer le vrai héro (faire une grande fête, faire le tour des mendiants, etc.)
+| 142. | forme de l'apparence du héro dans la scène (au mariage, etc.)
+| 143. | forme de la reconnaissance
+144-146. | | Exposition
+| 144. | personne qui expose
+| 145. | manière d'exposer
+| 146. | motivation de l'exposition
+147-148. | | Transfiguration
+| 147. | personnage
+| 148. | manière de transfigurer
+149-150. | | Punition
+| 149. | personnage
+| 150. | type de punition
+| 151. | mariage
 
 
 

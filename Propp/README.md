@@ -414,48 +414,48 @@ Expéditeur | [médiation, B](#IX)
 
 ## TABLE I : La situation initiale
 
-Etape | Sous-étape | Description
----|---|---
-1. | - | Détermination spatio temporelle ("dans un certain royaume")
-2. | - | Composition de la famille
-- | a. | selon la classification et le statut
-- | b. | selon les catégories de personnages (dramatis personae) (expéditeur, quêteur, etc.)
-3. | - | Absence d'enfant.
-4-5. | - | Prière pour la naissance d'un enfant
-- | 4. | forme de la prière
-- | 5. | motivation de la prière
-6. | - | Cause de la grossesse
-- | a. | intentionnelle (un poisson a été mange, etc.)
-- | b. | accidentelle (un pois avalé, etc.)
-- | c. | forcée (une fille est enlevée par un ours, etc.).
-7. | - | Forme de la naissance miraculeuse
-- | a. | d'un poisson et de l'eau
-- | b. | d'une cheminée
-- | c. | d'un animal
-- | d. | autre
-8. | - | Prophéties, avertissements
-9. | - | Bien-être avant les complications
-- | a. | fantastique
-- | b. | domestique
-- | c. | agraire
-- | d. | autres formes
-10-15. | - | Le futur héro
-- | 10. | nomenclature, sexe
-- | 11. | croissance rapide
-- | 12. | connexion avec les cheminées, les cendres
-- | 13. | qualités spirituelles
-- | 14. | malice
-- | 15. | autres qualités
-16-20. | - | Le futur faux-héros (du premier type ; un frère, une belle-sœur)
-- | 16. | nomenclature, sexe
-- | 17. | degré de parenté avec le héro
-- | 18. | qualités négatives
-- | 19. | qualités spirituelles en comparaison avec le héro (intelligent)
-- | 20. | autres qualités
-21-23. | - | Dispute des frères sur la primauté
-- | 21. | forme de la dispute et sorte de solution
-- | 22. | éléments auxiliaires triplés
-- | 23. | résultat de la dispute
+| Etape | Sous-étape | Description |
+| ---|---|---|
+| 1. | - | Détermination spatio temporelle ("dans un certain royaume") |
+| 2. | - | Composition de la famille |
+| - | a. | selon la classification et le statut |
+| - | b. | selon les catégories de personnages (dramatis personae) (expéditeur, quêteur, etc.) |
+| 3. | - | Absence d'enfant. |
+| 4-5. | - | Prière pour la naissance d'un enfant |
+| - | 4. | forme de la prière |
+| - | 5. | motivation de la prière |
+| 6. | - | Cause de la grossesse |
+| - | a. | intentionnelle (un poisson a été mange, etc.) |
+| - | b. | accidentelle (un pois avalé, etc.) |
+| - | c. | forcée (une fille est enlevée par un ours, etc.). |
+| 7. | - | Forme de la naissance miraculeuse |
+| - | a. | d'un poisson et de l'eau |
+| - | b. | d'une cheminée |
+| - | c. | d'un animal |
+| - | d. | autre |
+| 8. | - | Prophéties, avertissements |
+| 9. | - | Bien-être avant les complications |
+| - | a. | fantastique |
+| - | b. | domestique |
+| - | c. | agraire |
+| - | d. | autres formes |
+| 10-15. | - | Le futur héro |
+| - | 10. | nomenclature, sexe |
+| - | 11. | croissance rapide |
+| - | 12. | connexion avec les cheminées, les cendres |
+| - | 13. | qualités spirituelles |
+| - | 14. | malice |
+| - | 15. | autres qualités |
+| 16-20. | - | Le futur faux-héros (du premier type ; un frère, une belle-sœur) |
+| - | 16. | nomenclature, sexe |
+| - | 17. | degré de parenté avec le héro |
+| - | 18. | qualités négatives |
+| - | 19. | qualités spirituelles en comparaison avec le héro (intelligent) |
+| - | 20. | autres qualités |
+| 21-23. | - | Dispute des frères sur la primauté |
+| - | 21. | forme de la dispute et sorte de solution |
+| - | 22. | éléments auxiliaires triplés |
+| - | 23. | résultat de la dispute |
 
 
 ### TABLE II : Section préparatoire

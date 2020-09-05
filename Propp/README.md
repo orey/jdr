@@ -4,12 +4,57 @@
 ## Table
 
 * Les fonctions de la Dramatis Personae
+  * [Synthèse](#synthese)
   * [Phase préparatoire](#prepa)
   * [Complication](#complication)
   * [Aventure](#aventure)
-  * [Synthèse](#synthese)
 
 ## Les fonctions de la Dramatis Personae
+
+<a name="synthese"></a>
+
+### Synthèse
+
+Phases :
+
+* Préparatoire : P
+* Complication : C
+* Aventure : A
+
+Phase | Etape | Description | Alias | Symbole | Lien
+---|---|---|---|---|---
+P | I. | Un des membres de la famille s'absente de la maison | **absence** | &beta; | [Lien](#I)
+P | II. | On interdit quelque chose au héros | **interdiction** | &gamma; | [Lien](#II)
+P | III. | L'interdiction est violée | **violation** | &delta; | [Lien](#III)
+p | IV. | Le méchant cherche des indices (sous forme de question) (il vient en reconnaissance, dans le but d'obtenir des informations) | **reconnaissance** | &epsilon; | [Lien](#IV)
+P | V. | Le méchant reçoit des informations sur sa victime | **réception** | &zeta; | [Lien](#V)
+P | VI. | Le méchant tente de tromper la victime pour prendre possession de lui ou de ses affaires | **tromperie** | &eta; | [Lien](#VI)
+P | VII. | La victime se fait tromper et se aide involontairement son ennemi | **complicité** | &theta; | [Lien](#VII)
+C | VIII. | Le méchant fait du mal ou blesse un membre de la famille | **infamie** | A | [Lien](#VIII)
+C | VIIIa. | Un membre de la famille soit manque de quelque chose, soit désire quelque chose | **manque** | a | [Lien](#VIIIa)
+C | IX. | La mauvaise fortune ou le manque devient connu : le héros est approché avec une requête ou une commande ; il est autorisé à partir ou il est envoyé | **médiation (incident de transition)** | B | [Lien](#IX)
+C | X. | Le quêteur accepte ou décide d'une réaction | **début de réaction** | C | [Lien](#X)
+C | XI. | Le héros quitte la maison | **départ** | &uarr; | [Lien](#XI)
+A | XII. | Le héros est testé, interrogé, attaqué, etc., ce qui prépare la phase où il va recevoir un agent magique ou de l'aide | **fonction première du donneur** | D | [Lien](#XII)
+A | XIII. | Le héros réagit aux actions du futur donneur | **réaction du héros** | E | [Lien](#XIII)
+A | XIV. | Le héros acquiert l'usage d'un agent magique | **réception d'un agent magique** | F | [Lien](#XIV)
+A | XV. | Le héros est transféré, livré ou conduit dans les environs d'un objet lié à la recherche | **guidance** | G | [Lien](#XV)
+A | XVI. | Le héros et le méchant se rejoignent pour un  combat | **combat** | H | [Lien](#XVI)
+A | XVII. | Le héros est marqué | **marque** | J | [Lien](#XVII)
+A | XVIII. | Le méchant est vaincu | **victoire** | I | [Lien](#XVIII)
+A | XIX. | La mauvaise fortune initiale ou le manque sont résolus | **resolution** | K | [Lien](#XIX)
+A | XX. | Le héros revient | **retour** | &darr; | [Lien](#XX)
+A | XXI. | Le héros est poursuivi | **poursuite** | Pr | [Lien](#XXI)
+A | XXII. | Le héros est secouru dans la poursuite | **secours** | Rs | [Lien](#XXII)
+A | XXIII. | Le héros, sous une forme non reconnaissable, arrive chez lui ou dans un autre pays | **arrivé non reconnu** | o | [Lien](#XXIII)
+A | XXIV. | Un faux héros présente des demandes infondées | **demandes infondées** | L | [Lien](#XXIV)
+A | XXV. | Une tâche difficile est proposée au héros | **épreuve** | M | [Lien](#XXV)
+A | XXVI. | La tâche est accomplie | **solution** | N | [Lien](#XXVI)
+A | XXVII. | Le héros est reconnu | **reconnaissance**| Q | [Lien](#XXVII)
+A | XXVIII. | Le faux héros ou le méchant est découvert | **découverte** | Ex | [Lien](#XXVIII)
+A | XXIX. | On donne au héros une nouvelle apparence | **transfiguration** | T | [Lien](#XXIX)
+A | XXX. | Le méchant est puni | **punition** | U | [Lien](#XXX)
+A | XXXI. | Le héros se marrie et monte sur le trône | **mariage** | W | [Lien](#XXXI)
 
 <a name="prepa"></a>
 
@@ -353,51 +398,4 @@ Convention par rapport à notation originale :
 4. Un acte de vilenie interrompt le mariage qui devient une promesse : W1
 5. La mariée est absente, ou enlevée et le mariage est le résultat de la quête : W2
 6. La récompense du héros est matérielle et non un mariage : W3
-
-<a name="synthese"></a>
-
-### Synthèse
-
-Phases :
-
-* Préparatoire : P
-* Complication : C
-* Aventure : A
-
-Phase | Etape | Description | Alias | Symbole | Lien
----|---|---|---|---|---
-P | I. | Un des membres de la famille s'absente de la maison | **absence** | &beta; | [Lien](#I)
-P | II. | On interdit quelque chose au héros | **interdiction** | &gamma; | [Lien](#II)
-P | III. | L'interdiction est violée | **violation** | &delta; | [Lien](#III)
-p | IV. | Le méchant cherche des indices (sous forme de question) (il vient en reconnaissance, dans le but d'obtenir des informations) | **reconnaissance** | &epsilon; | [Lien](#IV)
-P | V. | Le méchant reçoit des informations sur sa victime | **réception** | &zeta; | [Lien](#V)
-P | VI. | Le méchant tente de tromper la victime pour prendre possession de lui ou de ses affaires | **tromperie** | &eta; | [Lien](#VI)
-P | VII. | La victime se fait tromper et se aide involontairement son ennemi | **complicité** | &theta; | [Lien](#VII)
-C | VIII. | Le méchant fait du mal ou blesse un membre de la famille | **infamie** | A | [Lien](#VIII)
-C | VIIIa. | Un membre de la famille soit manque de quelque chose, soit désire quelque chose | **manque** | a | [Lien](#VIIIa)
-C | IX. | La mauvaise fortune ou le manque devient connu : le héros est approché avec une requête ou une commande ; il est autorisé à partir ou il est envoyé | **médiation (incident de transition)** | B | [Lien](#IX)
-C | X. | Le quêteur accepte ou décide d'une réaction | **début de réaction** | C | [Lien](#X)
-C | XI. | Le héros quitte la maison | **départ** | &uarr; | [Lien](#XI)
-A | XII. | Le héros est testé, interrogé, attaqué, etc., ce qui prépare la phase où il va recevoir un agent magique ou de l'aide | **fonction première du donneur** | D | [Lien](#XII)
-A | XIII. | Le héros réagit aux actions du futur donneur | **réaction du héros** | E | [Lien](#XIII)
-A | XIV. | Le héros acquiert l'usage d'un agent magique | **réception d'un agent magique** | F | [Lien](#XIV)
-A | XV. | Le héros est transféré, livré ou conduit dans les environs d'un objet lié à la recherche | **guidance** | G | [Lien](#XV)
-A | XVI. | Le héros et le méchant se rejoignent pour un  combat | **combat** | H | [Lien](#XVI)
-A | XVII. | Le héros est marqué | **marque** | J | [Lien](#XVII)
-A | XVIII. | Le méchant est vaincu | **victoire** | I | [Lien](#XVIII)
-A | XIX. | La mauvaise fortune initiale ou le manque sont résolus | **resolution** | K | [Lien](#XIX)
-A | XX. | Le héros revient | **retour** | &darr; | [Lien](#XX)
-A | XXI. | Le héros est poursuivi | **poursuite** | Pr | [Lien](#XXI)
-A | XXII. | Le héros est secouru dans la poursuite | **secours** | Rs | [Lien](#XXII)
-A | XXIII. | Le héros, sous une forme non reconnaissable, arrive chez lui ou dans un autre pays | **arrivé non reconnu** | o | [Lien](#XXIII)
-A | XXIV. | Un faux héros présente des demandes infondées | **demandes infondées** | L | [Lien](#XXIV)
-A | XXV. | Une tâche difficile est proposée au héros | **épreuve** | M | [Lien](#XXV)
-A | XXVI. | La tâche est accomplie | **solution** | N | [Lien](#XXVI)
-A | XXVII. | Le héros est reconnu | **reconnaissance**| Q | [Lien](#XXVII)
-A | XXVIII. | Le faux héros ou le méchant est découvert | **découverte** | Ex | [Lien](#XXVIII)
-A | XXIX. | On donne au héros une nouvelle apparence | **transfiguration** | T | [Lien](#XXIX)
-A | XXX. | Le méchant est puni | **punition** | U | [Lien](#XXX)
-A | XXXI. | Le héros se marrie et monte sur le trône | **mariage** | W | [Lien](#XXXI)
-
-
 

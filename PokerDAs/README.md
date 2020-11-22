@@ -5,7 +5,7 @@
 Trois lancers maximum avec reprise ou pas de dés déjà lancés.
 
 Combinaison | Principe | Points
------
+-----|-----|-----
 9 | Faire plus de 9 possible | Nombre de 9 x 9
 10 | Faire plus de 10 possible | Nombre de 10 x 10
 Valet | Faire plus de valets possible | Nombre de valets x 11

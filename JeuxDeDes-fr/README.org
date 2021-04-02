@@ -14,8 +14,8 @@
 *** Règles
 
 1. Déterminer le joueur qui joue en premier.
-  a. Par exemple le joueur le plus jeune.
-  b. Ou lancer un D6 et celui qui a le plus haut score commence.
+  * Par exemple le joueur le plus jeune.
+  * Ou lancer un D6 et celui qui a le plus haut score commence.
 
 2. Le tour d'un joueur commence par lancer les 6D6 :
   * S'il n'a tiré aucun 1, ni aucun 5 ni n'a aucune combinaison de la table ci-dessous, le joueur marque 0 point et le tour est terminé.
@@ -29,7 +29,7 @@
 | Combinaison                   | Valeur  |
 |-------------------------------+---------|
 | Dé à 1                        | 100     |
-| Dé à                          | 50      |
+| Dé à 5                        | 50      |
 | Brelan de 1                   | 1 000   |
 | Quarré de 1                   | 2 000   |
 | 5 dés de 1                    | 4 000   |
@@ -42,4 +42,30 @@
 | Suite de 5 dés (au 5 ou au 6) | 1 000   |
 | Suite de 6 dés                | 1 500   |
 
+
+
+** Le cochon
+
+*** Caractéristiques
+
+Ce jeu est une variante du 10 000, mais en plus simple.
+- Nombre de joueurs : 2 ou plus
+- Nombre de dés : 1D6
+
+*** Objectif
+
+Être le premier à marquer 100 points.
+
+
+*** Règles
+
+1. Déterminer le joueur qui joue en premier.
+  * Par exemple le joueur le plus jeune.
+  * Ou lancer un D6 et celui qui a le plus haut score commence.
+
+2. Le jouer dont c'est le tour commence par lancer le dé.
+  * A. Si la valeur du dé est un 1, le joueur marque 0 point (même s'il avait cumulé des points de précédents lancers) et le tour est terminé.
+  * B. Si la valeur du dé est différente de 1, il a deux possibilités :
+    - Soit il marque les points du dé (en les cumulant le cas échéant à des précédents lancers) et arrête le tour.
+    - Soit il décide de rejouer le dé pour augmenter son score. Il se retrouvera dans l'une des deux solutions A ou B.
 

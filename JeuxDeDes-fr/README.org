@@ -18,13 +18,13 @@
   b. Ou lancer un D6 et celui qui a le plus haut score commence.
 
 2. Le tour d'un joueur commence par lancer les 6D6 :
-  a. S'il n'a tiré aucun 1, ni aucun 5 ni n'a aucune combinaison de la table ci-dessous, le joueur marque 0 point et le tour est terminé.
-  b. Si le joueur a tiré une combinaison :
+  * S'il n'a tiré aucun 1, ni aucun 5 ni n'a aucune combinaison de la table ci-dessous, le joueur marque 0 point et le tour est terminé.
+  * Si le joueur a tiré une combinaison :
     - Il peut choisir de garder son score. Le tour est alors terminé.
     - Il peut choisir de tout relancer, mais la combinaison d'avant est perdue.
     - Il peut mettre de côté les dés de la combinaison et rejouer les autres dés pour avoir plus de points. Les dés mis de côté ne peuvent pas servir à une nouvelle combinaison. Si les dés restant ne donnent aucune nouvelle combinaison, le tour se termine et le joueur marque 0 point. Si une nouvelle combinaison est tirée, cette dernière s'additionne à la précédente.
 
-_Table des valeurs_
+*** Table des valeurs
 
 | Combinaison                   | Valeur  |
 |-------------------------------+---------|

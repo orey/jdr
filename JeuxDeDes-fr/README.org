@@ -1,0 +1,45 @@
+* Jeux de dés pour coin de table
+
+** Le "10 000"
+
+*** Caractéristiques
+
+- Nombre de joueurs : 2 ou plus
+- Nombre de dés : 6D6
+
+*** Objectif
+
+Être le premier à parvenir à 10 000 points.
+
+*** Règles
+
+1. Déterminer le joueur qui joue en premier.
+  a. Par exemple le joueur le plus jeune.
+  b. Ou lancer un D6 et celui qui a le plus haut score commence.
+
+2. Le tour d'un joueur commence par lancer les 6D6 :
+  a. S'il n'a tiré aucun 1, ni aucun 5 ni n'a aucune combinaison de la table ci-dessous, le joueur marque 0 point et le tour est terminé.
+  b. Si le joueur a tiré une combinaison :
+    - Il peut choisir de garder son score. Le tour est alors terminé.
+    - Il peut choisir de tout relancer, mais la combinaison d'avant est perdue.
+    - Il peut mettre de côté les dés de la combinaison et rejouer les autres dés pour avoir plus de points. Les dés mis de côté ne peuvent pas servir à une nouvelle combinaison. Si les dés restant ne donnent aucune nouvelle combinaison, le tour se termine et le joueur marque 0 point. Si une nouvelle combinaison est tirée, cette dernière s'additionne à la précédente.
+
+_Table des valeurs_
+
+| Combinaison                   | Valeur  |
+|-------------------------------+---------|
+| Dé à 1                        | 100     |
+| Dé à                          | 50      |
+| Brelan de 1                   | 1 000   |
+| Quarré de 1                   | 2 000   |
+| 5 dés de 1                    | 4 000   |
+| 6 dés de 1                    | 8 000   |
+| Brelan                        | 100 x D |
+| Carré                         | 200 x D |
+| 5 dés identiques              | 400 x D |
+| 6 dés identiques              | 800 x D |
+| 3 paires                      | 500     |
+| Suite de 5 dés (au 5 ou au 6) | 1 000   |
+| Suite de 6 dés                | 1 500   |
+
+

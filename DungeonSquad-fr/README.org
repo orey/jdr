@@ -4,10 +4,218 @@
 
 ** Introduction
 
-Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être générés en 3 secondes.
+Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
 
 | Concepteur       | Jason Morningstar      |
 | Version traduite | 2005                   |
 | PDF original     | [[file:dungeon_squad.pdf]] |
 
+** Ce dont vous avez besoin pour jouer
+
+Chaque joueur doit avoir accès à :
+- Un crayon et du papier,
+- Un ensemble de dés polyhédriques par personne : D4, D6, D8, D10 et D12 ;
+- Des choses à picorer et des boissons.
+
+** Création des personnages
+
+*** Caractéristiques
+
+Chaque personnage possèdes trois caractéristiques : *Magicien*, *Guerrier* et *Explorateur* (respectivement *Magicienne*, *Guerrière* et *Explorateur*). Chaque joueur possède 3 dés, un D4, un D8 et un D12, chaque dé devant être assigné à une des trois caractéristiques. 
+
+/Exemple : je veux créer un magicien voleur. Je choisis :/
+
+| Magicien    | D12 |
+| Explorateur | D8  |
+| Guerrier    | D4  |
+
+/Espérons que j'aurai quelqu'un près de moi pour me protéger durant les combats !/
+
+*** Choses
+
+Chaque personnage possède un D6 et un D10 pour décrire des choses :
+- Une arme ;
+- Une armure ;
+- Un sort.
+
+/Exemple : pour mon magicien voleur, je choisis les sorts suivantes :/
+
+| Sort | Sommeil | D10 |
+| Sort | Eclair  | D6  |
+
+Tous les personnages ont 15 points de vie (PV). Les dommages réduisent directement les PV.
+
+** La mécanique du jeu
+
+Tous les personnages peuvent se battre, lancer des sorts et fureter. La difficulté de l'action est déterminée par un nombre, typiquement 2, 4 ou 6. Plus le nombre est grand, plus la tâche est difficile.
+
+*** Combat
+
+Dans un combat, lancez votre dé de *Guerrier* :
+- Un 2 ou plus est requis pour toucher un faible ennemi ;
+- Un 4 ou plus est requis pour un ennemi de force moyenne ;
+- Un 6 ou plus est requis pour toucher un ennemi de grande force.
+
+Bien entendu, si vous avez assigné le D4 au *Guerrier*, le combat risque de s'avérer difficile, voire impossible.
+
+*** Magie
+
+Pour lancer un sort, jetez votre dé de *Magicien* :
+- Un 6 ou plus est requis pour que le sort réussisse si le personnage est dans un combat ;
+- Un 2 ou plus est requis pour que le sort réussisse à condition que le jeteur de sorts ne soit pas dans une position dangereuse.
+
+Une option sécurisante est d'assigner le D4 au *Magicien* et de prendre le sort *Guérison*, en ne le lançant qu'entre les combats.
+
+*** Furtivité
+
+Pour être furtif comme un voleur, jetez votre dé de *Explorateur* :
+- Vous avez besoin d'un 2 ou de plus pour vous déplacer silencieusement ;
+- D'un 4 ou plus pour crocheter une serrure ou escalader un mur ;
+- D'un 6 ou plus pour désamorcer un piège ou sauter au dessus d'un fossé.
+
+** Equipement
+
+Tout équipement ou sort se voit assigner un dé de "choses".
+
+*** Bagarre
+
+Tous les personnages peuvent frapper avec leurs points ou avec une dague et infliger D4 dommages.
+
+*** Armes de mélée
+
+Les dommages causés par les armes (épée, hache ou autre) correspondent au dé qui leur est assigné, soit D6 ou D10.
+
+D'autres armes peuvent être trouvées dans les trésors avec des dés pouvant aller du D4 au D12.
+
+*** Armes de jet
+
+Les commages causés par les armes de jet (arc, couteau lancé, arbalette, etc.) corresponde tau dé qui leur a été affecté, mais seulement si le résultat du jet est pair ! S'il est impair, il ne se passe rien.
+
+*** Armures
+
+Les armures réduisent les dommages encaissés de la valeur de leur dé assigné.
+
+/Par exemple, dans un combat, si vous prenez 7 points de dommages, que vous avez un armure D6, et que vous faites 4 à votre jet, vous prendrez seulement 3 points de dommages./
+
+D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant aller du D4 au D12.
+
+*** Autres matériels
+
+Certains matériels spécifiques vous donnent un bonus de +1 pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
+
+| Bonus | Dé de départ | Dé à utiliser |
+|  ---- | ----         | ----          |
+|    +1 | D4           | D6            |
+|    +1 | D6           | D8            |
+|    +1 | D8           | D12           |
+
+/Par exemple, si vous utilisez des bottes elfiques, vous pouvez passer de *Explorateur* D4 à *Explorateur* D6 quand vous furetez pour chercher des choses./
+
+*** Limitation
+
+Un personne peut porter au maximum 4 choses avec leurs dés associés, en comptant les sorts, les armes et les armures.
+
+/Par exemple, si le personnage trouve un trésor avec quelque chose de cool à l'intérieur (comme un parchemin de *Boule de feu* par exemple), il l'inscrit sur sa feuille en plus des deux autres choses qu'il a choisies à la création de son personnage. Le personnage peut choisir de prendre ou de laisser des choses, mais il ne peut pas en avoir plus de 4 avec lui./
+
+*** Autres équipements
+
+Les cordes, piolets, pelles, etc. peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
+
+** Magie
+
+6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de choses à deux sorts différents.
+
+| Sort             | Description                                                                                                                                                              | Fréquence           |
+| ----             | ----                                                                                                                                                                     |                     |
+| Eblouissement    | Désoriente un ennemi de la taille d'un humain par 2 points de jet, 4 pour les grosses créatures et 1 pour les petites. Les victimes ne peuvent pas agir pendant un tour. | 1 fois par combat   |
+| Boule de feu     | Les dommages sont le triple du dé assigné. Tous ceux qui sont proches de la cible prennent le dé de dommages (sans multiplicateur).                                      | 1 fois par aventure |
+| Soins            | Fournit le dés du sort en PV à la personne guérie. Ne s'applique qu'à une seule personne.                                                                                | 1 fois par combat   |
+| Eclair           | Les dommages sont ceux du dé assigné. Le magicien peut diviser les dommages sur plusieurs cibles.                                                                        | Chaque tour         |
+| Chance           | Permet d'ajouter le dé du sort au jet d'une autre personne. Permet aussi de retrancher le dé du sort au jet d'un attaquant. Ce jet doit être fait avant l'action.        | Chaque tour         |
+| Bouclier magique | Protège une seule personne au choix du magicien (incluant lui-même s'il le souhaite). Absorbe les dommages du dé de sort puis disparaît.                                 | 1 fois par combat   |
+
+** Trésors et expérience
+
+
+
+In the dungeon there may be treasures, such as magic swords (+1, which makes a D6 sword a
+D8 sword), magic wands (+1 die size for wizards casting spells), Elven boots (+1 die size for
+moving silently), and potions (containing spells with a one-time use). Gold pieces can also be
+found! Gold can be used to buy equipment, like ropes, lock-picks, lanterns, and ten-foot poles.
+Gold can also be used to increase any die one size after each adventure, up to D12. 100 gold
+pieces equals a one die increase. Gold can also be used to buy increased hit points. 20 gold
+increases permanent hit point total by one.MONSTER EXAMPLES
+All monsters need a 4 or better to hit an adventurer.
+VERMIN
+Attack with D4, Adventurers automatically hit one per attack, but they come in swarms
+Rat or spider: Bite 1 point, 1 HP
+Giant vampire bat: Bite 2 points, 2 HP
+Stinking slime mold: Erodes metal, ruins armor and swords, 25 HP
+Magic sponge mold: Each point of magic used on it increases its HP by an equal amount, 25 HP
+WEAK
+Attack with D6, Adventurers need a 2 or better to hit, travel in packs
+Giant rat: Bite D4, 4 HP
+Wolf: Bite D6, 6 HP
+Goblin or highwayman: Axe D8, 8 HP
+AVERAGE
+Attack with D8, Adventurers need a 4 or better to hit.
+Orc or soldier: Sword D6, Shield D6, 10 HP
+Skeleton warrior: Axe D8, 4 HP
+Giant spider: Bite D4, poison D4 per turn for 4 turns, 12 HP
+TOUGH
+Attack with D10, Adventurers need a 6 or better to hit.
+Giant: Club D10, 20 HP
+Troll: Hands D10, natural armor D10, 12 HP
+Small Dragon: Claws D6, Bite D8, Fire breath D12, natural armor D6, 40 HP
+RUN AWAY!
+Attack with D12, Adventurers need an 8 or better to hit.
+Huge Dragon: Claws D10, Fire breath D12, natural armor D10, 60 HPEQUIPMENT LIST
+1 Gold Piece:
+Candle
+Bedroll
+Waterskin
+Whistle
+Torch
+Loot sack
+5 Gold Pieces:
+Food for a week
+Waterproof case
+Ten foot pole
+Firestarter
+Backpack
+Shovel for digging (+1 die size)
+Bandage (Heals D4 one time)
+10 Gold Pieces:
+Adventurer's Kit (Backpack, fire-starter, bedroll, waterskin, loot sack)
+Lantern
+Local map
+Rope
+Grappling hook for climbing (+1 die size with rope)
+Hammer and spikes
+Parchment, ink and quill
+Musical instrument
+Healing salve (Heals D6 one time)
+20 Gold Pieces:
+Increase hit point total by one!
+Four-person tent
+Fancy clothes
+Pet cat, weasel, owl, or hawk
+Cloak for hiding (+1 die size)
+Gloves for climbing (+1 die size)
+Elven boots for sneaking (+1 die size)
+Healing potion (Heals D12 one time)
+50 Gold Pieces:
+Riding horse
+Bear trap
+Spyglass
+Mirror
+Lock-pick (+1 die size)
+Spell scroll (containing a spell with a one-time use)
+100 Gold Pieces:
+Increase Warrior, Wizard, or Explorer by one die size!
+Guard Dog (D8 attack, Bite D6, 6 Hit points, loyal)
+Magic sword (+1 die size)
+Magic wand (+1 die size for wizards casting spells)
+Warrior's steed (D6 trample attack, 12 Hit Points, ferocious)
+Wizard's portable laboratory (for inventing new spells!)
 

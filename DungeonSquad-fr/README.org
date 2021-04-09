@@ -104,7 +104,7 @@ D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant
 Certains matériels spécifiques vous donnent un bonus de +1 pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
 
 | Bonus | Dé de départ | Dé à utiliser |
-|  ---- | ----         | ----          |
+|-------+--------------+---------------|
 |    +1 | D4           | D6            |
 |    +1 | D6           | D8            |
 |    +1 | D8           | D12           |
@@ -119,14 +119,14 @@ Un personne peut porter au maximum 4 choses avec leurs dés associés, en compta
 
 *** Autres équipements
 
-Les cordes, piolets, pelles, etc. peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
+Les cordes, crochets pour serrure, pelles, etc. peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
 
 ** Magie
 
 6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de choses à deux sorts différents.
 
 | Sort             | Description                                                                                                                                                              | Fréquence           |
-| ----             | ----                                                                                                                                                                     |                     |
+|------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------|
 | Eblouissement    | Désoriente un ennemi de la taille d'un humain par 2 points de jet, 4 pour les grosses créatures et 1 pour les petites. Les victimes ne peuvent pas agir pendant un tour. | 1 fois par combat   |
 | Boule de feu     | Les dommages sont le triple du dé assigné. Tous ceux qui sont proches de la cible prennent le dé de dommages (sans multiplicateur).                                      | 1 fois par aventure |
 | Soins            | Fournit le dés du sort en PV à la personne guérie. Ne s'applique qu'à une seule personne.                                                                                | 1 fois par combat   |
@@ -136,86 +136,129 @@ Les cordes, piolets, pelles, etc. peuvent être achetés, mais ils n'ont pas de 
 
 ** Trésors et expérience
 
+*** Trésors
 
+Au cours des aventures, il est possible de trouver des trésors :
+- Epée normale D6,
+- Epée magique D8,
+- Baguette magique : +1 pour lancer les sorts,
+- Bottes elfiques : +1 pour se déplacer en silence,
+- Potions contenant des sorts ne fonctionnant qu'une seule fois,
+- Des pièces d'or permettant d'acheter des équipements (cordes, crochets pour serrure, lanternes, bâtons, etc.).
 
-In the dungeon there may be treasures, such as magic swords (+1, which makes a D6 sword a
-D8 sword), magic wands (+1 die size for wizards casting spells), Elven boots (+1 die size for
-moving silently), and potions (containing spells with a one-time use). Gold pieces can also be
-found! Gold can be used to buy equipment, like ropes, lock-picks, lanterns, and ten-foot poles.
-Gold can also be used to increase any die one size after each adventure, up to D12. 100 gold
-pieces equals a one die increase. Gold can also be used to buy increased hit points. 20 gold
-increases permanent hit point total by one.MONSTER EXAMPLES
-All monsters need a 4 or better to hit an adventurer.
-VERMIN
-Attack with D4, Adventurers automatically hit one per attack, but they come in swarms
-Rat or spider: Bite 1 point, 1 HP
-Giant vampire bat: Bite 2 points, 2 HP
-Stinking slime mold: Erodes metal, ruins armor and swords, 25 HP
-Magic sponge mold: Each point of magic used on it increases its HP by an equal amount, 25 HP
-WEAK
-Attack with D6, Adventurers need a 2 or better to hit, travel in packs
-Giant rat: Bite D4, 4 HP
-Wolf: Bite D6, 6 HP
-Goblin or highwayman: Axe D8, 8 HP
-AVERAGE
-Attack with D8, Adventurers need a 4 or better to hit.
-Orc or soldier: Sword D6, Shield D6, 10 HP
-Skeleton warrior: Axe D8, 4 HP
-Giant spider: Bite D4, poison D4 per turn for 4 turns, 12 HP
-TOUGH
-Attack with D10, Adventurers need a 6 or better to hit.
-Giant: Club D10, 20 HP
-Troll: Hands D10, natural armor D10, 12 HP
-Small Dragon: Claws D6, Bite D8, Fire breath D12, natural armor D6, 40 HP
-RUN AWAY!
-Attack with D12, Adventurers need an 8 or better to hit.
-Huge Dragon: Claws D10, Fire breath D12, natural armor D10, 60 HPEQUIPMENT LIST
-1 Gold Piece:
-Candle
-Bedroll
-Waterskin
-Whistle
-Torch
-Loot sack
-5 Gold Pieces:
-Food for a week
-Waterproof case
-Ten foot pole
-Firestarter
-Backpack
-Shovel for digging (+1 die size)
-Bandage (Heals D4 one time)
-10 Gold Pieces:
-Adventurer's Kit (Backpack, fire-starter, bedroll, waterskin, loot sack)
-Lantern
-Local map
-Rope
-Grappling hook for climbing (+1 die size with rope)
-Hammer and spikes
-Parchment, ink and quill
-Musical instrument
-Healing salve (Heals D6 one time)
-20 Gold Pieces:
-Increase hit point total by one!
-Four-person tent
-Fancy clothes
-Pet cat, weasel, owl, or hawk
-Cloak for hiding (+1 die size)
-Gloves for climbing (+1 die size)
-Elven boots for sneaking (+1 die size)
-Healing potion (Heals D12 one time)
-50 Gold Pieces:
-Riding horse
-Bear trap
-Spyglass
-Mirror
-Lock-pick (+1 die size)
-Spell scroll (containing a spell with a one-time use)
-100 Gold Pieces:
-Increase Warrior, Wizard, or Explorer by one die size!
-Guard Dog (D8 attack, Bite D6, 6 Hit points, loyal)
-Magic sword (+1 die size)
-Magic wand (+1 die size for wizards casting spells)
-Warrior's steed (D6 trample attack, 12 Hit Points, ferocious)
-Wizard's portable laboratory (for inventing new spells!)
+*** Expérience
+ 
+Les pièces d'or permettent aussi d'augmenter un dé de façon permanente après chaque aventure et cela jusqu'au D12.
+
+| Nombre de pièces d'or | Expérience    |
+|-----------------------+---------------|
+|                   100 | +1 pour un dé |
+|                    20 | +1 PV         |
+
+** Monstres
+
+*** Vermines
+
+Tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages. Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
+
+| Monstre                      | Attaque | Dommages                                                                        | PV |
+|------------------------------+---------+---------------------------------------------------------------------------------+----|
+| Rat/Araignée                 | D4      | Morsure 1 PV                                                                    |  1 |
+| Chauve souris vampire géante | D4      | Morsure 2 PV                                                                    |  2 |
+| Moisissure gluante et puante | D4      | Erode le métal, détruit les armures et les épées                                | 25 |
+| Eponge moisie magique        | D4      | Les points de magie utilisés contre elle accroissent ses points de vie d'autant | 25 |
+
+*** Monstres faibles
+
+Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou plus pour les toucher.
+
+| Monstre                       | Attaque | Dommages   | PV |
+|-------------------------------+---------+------------+----|
+| Rat géant                     | D6      | Morsure D4 |  4 |
+| Loup                          | D6      | Morsure D6 |  6 |
+| Goblin/Bandit de grand chemin | D6      | Hache D8   |  8 |
+
+*** Monstres moyens
+
+Les personnages ont desoin d'un 4 ou plus pour les toucher.
+
+| Monstre           | Attaque | Dommages                           | PV | Armure      |
+|-------------------+---------+------------------------------------+----+-------------|
+| Orc/Soldat        | D8      | Epée D6                            | 10 | Bouclier D6 |
+| Skelette guerrier | D8      | Hache D8                           |  4 |             |
+| Araignée géante   | D8      | Poison D4 par tour pendant 4 tours | 12 |             |
+
+*** Monstres difficiles
+
+Les personnages ont desoin d'un 6 ou plus pour les toucher.
+
+| Monstre      | Attaque | Dommages                                  | PV | Armure               |
+|--------------+---------+-------------------------------------------+----+----------------------|
+| Géant        | D10     | Gourdin D10                               | 20 |                      |
+| Troll        | D10     | Mains D10                                 | 12 | Armure naturelle D10 |
+| Petit dragon | D10     | Pinces d6, morsure D8, souffle de feu D12 | 40 | Armure naturelle D6  |
+
+*** Sauve qui peut !
+
+Les personnages ont desoin d'un 8 ou plus pour les toucher.
+
+| Monstre      | Attaque | Dommages                       | PV | Armure               |
+|--------------+---------+--------------------------------+----+----------------------|
+| Grand dragon | D12     | Pinces D10, souffle de feu D12 | 60 | Armure naturelle D10 |
+
+** Listes d'équipement
+
+*1 pièce d'or* :
+- Bougie
+- Sac de couchage
+- Gourde
+- Sifflet
+- Torche
+- Sac à butin
+
+*5 pièces d'or* :
+- Repas pour une semaine
+- Valise waterproof
+- Corde de 3 mètres
+- Briquet silex
+- Sac à dos
+- Pelle à creuser (+1 pour creuser)
+- Bandages (soigne D4 une fois)
+
+*10 pièces d'or* :
+- Kit de l'aventurier (sac à dos, briquet silex, sac de couchage, gourde, sac à butin)
+- Lanterne
+- Carte locale
+- Corde
+- Chrochet escalade (+1 en escalmade si utilisé avec la corde)
+- Matreau et piquets
+- Parchemin, encre et plume
+- Instrument de musique
+-  Baume soignant (soigne D6 une fois)
+
+*20 pièces d'or* :
+- Augmente les PV de 1
+- Tente pour 4 personnes
+- Beaux habits
+- Animal de compagnie: chat, belette, hibou, faucon, etc.
+- Cape (+1 pour se cacher)
+- Gants pour escalader (+1 escalade)
+- Bottes elfiques (+1 se déplacer en silence)
+- Potion de soins (soigne D12 une fois)
+
+*50 pièces d'or* :
+- Cheval harnaché
+- Piège à ours
+- Longue-vue
+- Mirroir
+- Crocket pour serrure (+1 crochetage)
+- Parchemin de sort (contenant un sort à usage unique)
+
+*100 pièces d'or* :
+- Augmenter une caractéristique (Magicien, Guerrier ou Explorateur) d'un dé
+- Chien de garde (Attaque D8 , Dommages : morsure D6, 6 PV, loyal)
+- Epée magique (+1 combat)
+- Baguette magique (+1 pour lancer des sorts)
+- Etalon de guerrier (Attaque par piétinement D6, 12 PV, féroce)
+- Laboratoire portable de magicien (pour inventer de nouveaux sorts)
 

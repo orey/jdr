@@ -1,4 +1,4 @@
-file:logo.png
+[[file:logo.png]]
 
 * Dungeon Squad - Version Française
 

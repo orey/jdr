@@ -1,10 +1,10 @@
-./logo.png
+file:logo.png
 
-* Dungean Squad - Version Française
+* Dungeon Squad - Version Française
 
 ** Introduction
 
-Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages puvent être générés en 3 secondes
+Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être générés en 3 secondes.
 
 Concepteur : Jason Morningstar
 

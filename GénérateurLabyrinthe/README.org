@@ -42,6 +42,7 @@ Pour déterminer le nombre X de cases, lancez le dé approprié :
 Gardez en mémoire que vous pouvez toujours adapter un peu les choses si votre labyrithe ne rentre pas dans la page.
 
 *-4-* Si vous jouez sans MJ ou en solo, résolvez les rencontres.
+
 *-5-* Retournez à l'étape 3
 
 ** Génération des salles

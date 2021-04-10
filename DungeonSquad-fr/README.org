@@ -6,6 +6,7 @@
 
 Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Concepteur       | Jason Morningstar      |
 | Version traduite | 2005                   |
 | PDF original     | [[file:dungeon_squad.pdf]] |
@@ -26,6 +27,7 @@ Chaque personnage possèdes trois caractéristiques : *Magicien*, *Guerrier* et 
 
 /Exemple : je veux créer un magicien voleur. Je choisis :/
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Magicien    | D12 |
 | Explorateur | D8  |
 | Guerrier    | D4  |
@@ -41,6 +43,7 @@ Chaque personnage possède un D6 et un D10 pour décrire des choses :
 
 /Exemple : pour mon magicien voleur, je choisis les sorts suivantes :/
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Sort | Sommeil | D10 |
 | Sort | Eclair  | D6  |
 
@@ -104,6 +107,7 @@ D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant
 
 Certains matériels spécifiques vous donnent un bonus de +1 pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Bonus | Dé de départ | Dé à utiliser |
 |-------+--------------+---------------|
 |    +1 | D4           | D6            |
@@ -126,6 +130,7 @@ Les cordes, crochets pour serrure, pelles, etc. peuvent être achetés, mais ils
 
 6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de choses à deux sorts différents.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Sort             | Description                                                                                                                                                              | Fréquence           |
 |------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------|
 | Eblouissement    | Désoriente un ennemi de la taille d'un humain par 2 points de jet, 4 pour les grosses créatures et 1 pour les petites. Les victimes ne peuvent pas agir pendant un tour. | 1 fois par combat   |
@@ -151,6 +156,7 @@ Au cours des aventures, il est possible de trouver des trésors :
  
 Les pièces d'or permettent aussi d'augmenter un dé de façon permanente après chaque aventure et cela jusqu'au D12.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Nombre de pièces d'or | Expérience    |
 |-----------------------+---------------|
 |                   100 | +1 pour un dé |
@@ -162,6 +168,7 @@ Les pièces d'or permettent aussi d'augmenter un dé de façon permanente après
 
 Tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages. Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Monstre                      | Attaque | Dommages                                                                        | PV |
 |------------------------------+---------+---------------------------------------------------------------------------------+----|
 | Rat/Araignée                 | D4      | Morsure 1 PV                                                                    |  1 |
@@ -173,6 +180,7 @@ Tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages. Les pe
 
 Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou plus pour les toucher.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Monstre                       | Attaque | Dommages   | PV |
 |-------------------------------+---------+------------+----|
 | Rat géant                     | D6      | Morsure D4 |  4 |
@@ -183,6 +191,7 @@ Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou pl
 
 Les personnages ont desoin d'un 4 ou plus pour les toucher.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Monstre           | Attaque | Dommages                           | PV | Armure      |
 |-------------------+---------+------------------------------------+----+-------------|
 | Orc/Soldat        | D8      | Epée D6                            | 10 | Bouclier D6 |
@@ -193,6 +202,7 @@ Les personnages ont desoin d'un 4 ou plus pour les toucher.
 
 Les personnages ont desoin d'un 6 ou plus pour les toucher.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Monstre      | Attaque | Dommages                                  | PV | Armure               |
 |--------------+---------+-------------------------------------------+----+----------------------|
 | Géant        | D10     | Gourdin D10                               | 20 |                      |
@@ -203,6 +213,7 @@ Les personnages ont desoin d'un 6 ou plus pour les toucher.
 
 Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Monstre      | Attaque | Dommages                       | PV | Armure               |
 |--------------+---------+--------------------------------+----+----------------------|
 | Grand dragon | D12     | Pinces D10, souffle de feu D12 | 60 | Armure naturelle D10 |

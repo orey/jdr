@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-04-10 Sat 11:56 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Olivier" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org209996c">1. Dungeon Squad - Version Française</a>
+<ul>
+<li><a href="#org2604e37">1.1. Introduction</a></li>
+<li><a href="#org3430722">1.2. Ce dont vous avez besoin pour jouer</a></li>
+<li><a href="#orge6f0ed7">1.3. Création des personnages</a>
+<ul>
+<li><a href="#orgb0cd7a5">1.3.1. Caractéristiques</a></li>
+<li><a href="#org5a1e3bb">1.3.2. Choses</a></li>
+</ul>
+</li>
+<li><a href="#org2d7d521">1.4. La mécanique du jeu</a>
+<ul>
+<li><a href="#orged9df15">1.4.1. Combat</a></li>
+<li><a href="#org0ec021c">1.4.2. Magie</a></li>
+<li><a href="#org87abeb4">1.4.3. Furtivité</a></li>
+</ul>
+</li>
+<li><a href="#org643fe4e">1.5. Equipement</a>
+<ul>
+<li><a href="#org468a4c4">1.5.1. Bagarre</a></li>
+<li><a href="#orga6fd1fc">1.5.2. Armes de mélée</a></li>
+<li><a href="#orga4cb935">1.5.3. Armes de jet</a></li>
+<li><a href="#org126872d">1.5.4. Armures</a></li>
+<li><a href="#org4fb92aa">1.5.5. Autres matériels</a></li>
+<li><a href="#org31cdb2d">1.5.6. Limitation</a></li>
+<li><a href="#orgce8a995">1.5.7. Autres équipements</a></li>
+</ul>
+</li>
+<li><a href="#orgd138fa8">1.6. Magie</a></li>
+<li><a href="#orga94b77f">1.7. Trésors et expérience</a>
+<ul>
+<li><a href="#orga686788">1.7.1. Trésors</a></li>
+<li><a href="#org53cc0df">1.7.2. Expérience</a></li>
+</ul>
+</li>
+<li><a href="#org08a81c2">1.8. Monstres</a>
+<ul>
+<li><a href="#org7faa55b">1.8.1. Vermines</a></li>
+<li><a href="#orgbce131a">1.8.2. Monstres faibles</a></li>
+<li><a href="#orgd3fa46e">1.8.3. Monstres moyens</a></li>
+<li><a href="#org06178d1">1.8.4. Monstres difficiles</a></li>
+<li><a href="#orgd83e91c">1.8.5. Sauve qui peut !</a></li>
+</ul>
+</li>
+<li><a href="#orga10c9b3">1.9. Listes d'équipement</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="figure">
+<p><img src="logo.png" alt="logo.png" />
+</p>
+</div>
+
+<div id="outline-container-org209996c" class="outline-2">
+<h2 id="org209996c"><span class="section-number-2">1</span> Dungeon Squad - Version Française</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org2604e37" class="outline-3">
+<h3 id="org2604e37"><span class="section-number-3">1.1</span> Introduction</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Concepteur</td>
+<td class="org-left">Jason Morningstar</td>
+</tr>
+
+<tr>
+<td class="org-left">Version traduite</td>
+<td class="org-left">2005</td>
+</tr>
+
+<tr>
+<td class="org-left">PDF original</td>
+<td class="org-left"><a href="dungeon_squad.pdf">dungeon_squad.pdf</a></td>
+</tr>
+
+<tr>
+<td class="org-left">Traduction</td>
+<td class="org-left">O. Rey Avril 2021</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org3430722" class="outline-3">
+<h3 id="org3430722"><span class="section-number-3">1.2</span> Ce dont vous avez besoin pour jouer</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Chaque joueur doit avoir accès à :
+</p>
+<ul class="org-ul">
+<li>Un crayon et du papier,</li>
+<li>Un ensemble de dés polyhédriques par personne : D4, D6, D8, D10 et D12 ;</li>
+<li>Des choses à picorer et des boissons.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge6f0ed7" class="outline-3">
+<h3 id="orge6f0ed7"><span class="section-number-3">1.3</span> Création des personnages</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-orgb0cd7a5" class="outline-4">
+<h4 id="orgb0cd7a5"><span class="section-number-4">1.3.1</span> Caractéristiques</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+Chaque personnage possèdes trois caractéristiques : <b>Magicien</b>, <b>Guerrier</b> et <b>Explorateur</b> (respectivement <b>Magicienne</b>, <b>Guerrière</b> et <b>Explorateur</b>). Chaque joueur possède 3 dés, un D4, un D8 et un D12, chaque dé devant être assigné à une des trois caractéristiques. 
+</p>
+
+<p>
+<i>Exemple : je veux créer un magicien voleur. Je choisis :</i>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Magicien</td>
+<td class="org-left">D12</td>
+</tr>
+
+<tr>
+<td class="org-left">Explorateur</td>
+<td class="org-left">D8</td>
+</tr>
+
+<tr>
+<td class="org-left">Guerrier</td>
+<td class="org-left">D4</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+<i>Espérons que j'aurai quelqu'un près de moi pour me protéger durant les combats !</i>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5a1e3bb" class="outline-4">
+<h4 id="org5a1e3bb"><span class="section-number-4">1.3.2</span> Choses</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<p>
+Chaque personnage possède un D6 et un D10 pour décrire des choses :
+</p>
+<ul class="org-ul">
+<li>Une arme ;</li>
+<li>Une armure ;</li>
+<li>Un sort.</li>
+</ul>
+
+<p>
+<i>Exemple : pour mon magicien voleur, je choisis les sorts suivantes :</i>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Sort</td>
+<td class="org-left">Sommeil</td>
+<td class="org-left">D10</td>
+</tr>
+
+<tr>
+<td class="org-left">Sort</td>
+<td class="org-left">Eclair</td>
+<td class="org-left">D6</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+Tous les personnages ont 15 points de vie (PV). Les dommages réduisent directement les PV.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2d7d521" class="outline-3">
+<h3 id="org2d7d521"><span class="section-number-3">1.4</span> La mécanique du jeu</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Tous les personnages peuvent se battre, lancer des sorts et fureter. La difficulté de l'action est déterminée par un nombre, typiquement 2, 4 ou 6. Plus le nombre est grand, plus la tâche est difficile.
+</p>
+</div>
+
+<div id="outline-container-orged9df15" class="outline-4">
+<h4 id="orged9df15"><span class="section-number-4">1.4.1</span> Combat</h4>
+<div class="outline-text-4" id="text-1-4-1">
+<p>
+Dans un combat, lancez votre dé de <b>Guerrier</b> :
+</p>
+<ul class="org-ul">
+<li>Un 2 ou plus est requis pour toucher un faible ennemi ;</li>
+<li>Un 4 ou plus est requis pour un ennemi de force moyenne ;</li>
+<li>Un 6 ou plus est requis pour toucher un ennemi de grande force.</li>
+</ul>
+
+<p>
+Bien entendu, si vous avez assigné le D4 au <b>Guerrier</b>, le combat risque de s'avérer difficile, voire impossible.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0ec021c" class="outline-4">
+<h4 id="org0ec021c"><span class="section-number-4">1.4.2</span> Magie</h4>
+<div class="outline-text-4" id="text-1-4-2">
+<p>
+Pour lancer un sort, jetez votre dé de <b>Magicien</b> :
+</p>
+<ul class="org-ul">
+<li>Un 6 ou plus est requis pour que le sort réussisse si le personnage est dans un combat ;</li>
+<li>Un 2 ou plus est requis pour que le sort réussisse à condition que le jeteur de sorts ne soit pas dans une position dangereuse.</li>
+</ul>
+
+<p>
+Une option sécurisante est d'assigner le D4 au <b>Magicien</b> et de prendre le sort <b>Guérison</b>, en ne le lançant qu'entre les combats.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org87abeb4" class="outline-4">
+<h4 id="org87abeb4"><span class="section-number-4">1.4.3</span> Furtivité</h4>
+<div class="outline-text-4" id="text-1-4-3">
+<p>
+Pour être furtif comme un voleur, jetez votre dé de <b>Explorateur</b> :
+</p>
+<ul class="org-ul">
+<li>Vous avez besoin d'un 2 ou de plus pour vous déplacer silencieusement ;</li>
+<li>D'un 4 ou plus pour crocheter une serrure ou escalader un mur ;</li>
+<li>D'un 6 ou plus pour désamorcer un piège ou sauter au dessus d'un fossé.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org643fe4e" class="outline-3">
+<h3 id="org643fe4e"><span class="section-number-3">1.5</span> Equipement</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Tout équipement ou sort se voit assigner un dé de "choses".
+</p>
+</div>
+
+<div id="outline-container-org468a4c4" class="outline-4">
+<h4 id="org468a4c4"><span class="section-number-4">1.5.1</span> Bagarre</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<p>
+Tous les personnages peuvent frapper avec leurs points ou avec une dague et infliger D4 dommages.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga6fd1fc" class="outline-4">
+<h4 id="orga6fd1fc"><span class="section-number-4">1.5.2</span> Armes de mélée</h4>
+<div class="outline-text-4" id="text-1-5-2">
+<p>
+Les dommages causés par les armes (épée, hache ou autre) correspondent au dé qui leur est assigné, soit D6 ou D10.
+</p>
+
+<p>
+D'autres armes peuvent être trouvées dans les trésors avec des dés pouvant aller du D4 au D12.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga4cb935" class="outline-4">
+<h4 id="orga4cb935"><span class="section-number-4">1.5.3</span> Armes de jet</h4>
+<div class="outline-text-4" id="text-1-5-3">
+<p>
+Les commages causés par les armes de jet (arc, couteau lancé, arbalette, etc.) corresponde tau dé qui leur a été affecté, mais seulement si le résultat du jet est pair ! S'il est impair, il ne se passe rien.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org126872d" class="outline-4">
+<h4 id="org126872d"><span class="section-number-4">1.5.4</span> Armures</h4>
+<div class="outline-text-4" id="text-1-5-4">
+<p>
+Les armures réduisent les dommages encaissés de la valeur de leur dé assigné.
+</p>
+
+<p>
+<i>Par exemple, dans un combat, si vous prenez 7 points de dommages, que vous avez un armure D6, et que vous faites 4 à votre jet, vous prendrez seulement 3 points de dommages.</i>
+</p>
+
+<p>
+D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant aller du D4 au D12.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org4fb92aa" class="outline-4">
+<h4 id="org4fb92aa"><span class="section-number-4">1.5.5</span> Autres matériels</h4>
+<div class="outline-text-4" id="text-1-5-5">
+<p>
+Certains matériels spécifiques vous donnent un bonus de +1 pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Bonus</th>
+<th scope="col" class="org-left">Dé de départ</th>
+<th scope="col" class="org-left">Dé à utiliser</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">+1</td>
+<td class="org-left">D4</td>
+<td class="org-left">D6</td>
+</tr>
+
+<tr>
+<td class="org-right">+1</td>
+<td class="org-left">D6</td>
+<td class="org-left">D8</td>
+</tr>
+
+<tr>
+<td class="org-right">+1</td>
+<td class="org-left">D8</td>
+<td class="org-left">D12</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+<i>Par exemple, si vous utilisez des bottes elfiques, vous pouvez passer de <b>Explorateur</b> D4 à <b>Explorateur</b> D6 quand vous furetez pour chercher des choses.</i>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org31cdb2d" class="outline-4">
+<h4 id="org31cdb2d"><span class="section-number-4">1.5.6</span> Limitation</h4>
+<div class="outline-text-4" id="text-1-5-6">
+<p>
+Un personne peut porter au maximum 4 choses avec leurs dés associés, en comptant les sorts, les armes et les armures.
+</p>
+
+<p>
+<i>Par exemple, si le personnage trouve un trésor avec quelque chose de cool à l'intérieur (comme un parchemin de <b>Boule de feu</b> par exemple), il l'inscrit sur sa feuille en plus des deux autres choses qu'il a choisies à la création de son personnage. Le personnage peut choisir de prendre ou de laisser des choses, mais il ne peut pas en avoir plus de 4 avec lui.</i>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgce8a995" class="outline-4">
+<h4 id="orgce8a995"><span class="section-number-4">1.5.7</span> Autres équipements</h4>
+<div class="outline-text-4" id="text-1-5-7">
+<p>
+Les cordes, crochets pour serrure, pelles, etc. peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgd138fa8" class="outline-3">
+<h3 id="orgd138fa8"><span class="section-number-3">1.6</span> Magie</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de choses à deux sorts différents.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Sort</th>
+<th scope="col" class="org-left">Description</th>
+<th scope="col" class="org-left">Fréquence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Eblouissement</td>
+<td class="org-left">Désoriente un ennemi de la taille d'un humain par 2 points de jet, 4 pour les grosses créatures et 1 pour les petites. Les victimes ne peuvent pas agir pendant un tour.</td>
+<td class="org-left">1 fois par combat</td>
+</tr>
+
+<tr>
+<td class="org-left">Boule de feu</td>
+<td class="org-left">Les dommages sont le triple du dé assigné. Tous ceux qui sont proches de la cible prennent le dé de dommages (sans multiplicateur).</td>
+<td class="org-left">1 fois par aventure</td>
+</tr>
+
+<tr>
+<td class="org-left">Soins</td>
+<td class="org-left">Fournit le dés du sort en PV à la personne guérie. Ne s'applique qu'à une seule personne.</td>
+<td class="org-left">1 fois par combat</td>
+</tr>
+
+<tr>
+<td class="org-left">Eclair</td>
+<td class="org-left">Les dommages sont ceux du dé assigné. Le magicien peut diviser les dommages sur plusieurs cibles.</td>
+<td class="org-left">Chaque tour</td>
+</tr>
+
+<tr>
+<td class="org-left">Chance</td>
+<td class="org-left">Permet d'ajouter le dé du sort au jet d'une autre personne. Permet aussi de retrancher le dé du sort au jet d'un attaquant. Ce jet doit être fait avant l'action.</td>
+<td class="org-left">Chaque tour</td>
+</tr>
+
+<tr>
+<td class="org-left">Bouclier magique</td>
+<td class="org-left">Protège une seule personne au choix du magicien (incluant lui-même s'il le souhaite). Absorbe les dommages du dé de sort puis disparaît.</td>
+<td class="org-left">1 fois par combat</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orga94b77f" class="outline-3">
+<h3 id="orga94b77f"><span class="section-number-3">1.7</span> Trésors et expérience</h3>
+<div class="outline-text-3" id="text-1-7">
+</div>
+<div id="outline-container-orga686788" class="outline-4">
+<h4 id="orga686788"><span class="section-number-4">1.7.1</span> Trésors</h4>
+<div class="outline-text-4" id="text-1-7-1">
+<p>
+Au cours des aventures, il est possible de trouver des trésors :
+</p>
+<ul class="org-ul">
+<li>Epée normale D6,</li>
+<li>Epée magique D8,</li>
+<li>Baguette magique : +1 pour lancer les sorts,</li>
+<li>Bottes elfiques : +1 pour se déplacer en silence,</li>
+<li>Potions contenant des sorts ne fonctionnant qu'une seule fois,</li>
+<li>Des pièces d'or permettant d'acheter des équipements (cordes, crochets pour serrure, lanternes, bâtons, etc.).</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org53cc0df" class="outline-4">
+<h4 id="org53cc0df"><span class="section-number-4">1.7.2</span> Expérience</h4>
+<div class="outline-text-4" id="text-1-7-2">
+<p>
+Les pièces d'or permettent aussi d'augmenter un dé de façon permanente après chaque aventure et cela jusqu'au D12.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Nombre de pièces d'or</th>
+<th scope="col" class="org-left">Expérience</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">100</td>
+<td class="org-left">+1 pour un dé</td>
+</tr>
+
+<tr>
+<td class="org-right">20</td>
+<td class="org-left">+1 PV</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org08a81c2" class="outline-3">
+<h3 id="org08a81c2"><span class="section-number-3">1.8</span> Monstres</h3>
+<div class="outline-text-3" id="text-1-8">
+</div>
+<div id="outline-container-org7faa55b" class="outline-4">
+<h4 id="org7faa55b"><span class="section-number-4">1.8.1</span> Vermines</h4>
+<div class="outline-text-4" id="text-1-8-1">
+<p>
+Tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages. Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Monstre</th>
+<th scope="col" class="org-left">Attaque</th>
+<th scope="col" class="org-left">Dommages</th>
+<th scope="col" class="org-right">PV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Rat/Araignée</td>
+<td class="org-left">D4</td>
+<td class="org-left">Morsure 1 PV</td>
+<td class="org-right">1</td>
+</tr>
+
+<tr>
+<td class="org-left">Chauve souris vampire géante</td>
+<td class="org-left">D4</td>
+<td class="org-left">Morsure 2 PV</td>
+<td class="org-right">2</td>
+</tr>
+
+<tr>
+<td class="org-left">Moisissure gluante et puante</td>
+<td class="org-left">D4</td>
+<td class="org-left">Erode le métal, détruit les armures et les épées</td>
+<td class="org-right">25</td>
+</tr>
+
+<tr>
+<td class="org-left">Eponge moisie magique</td>
+<td class="org-left">D4</td>
+<td class="org-left">Les points de magie utilisés contre elle accroissent ses points de vie d'autant</td>
+<td class="org-right">25</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgbce131a" class="outline-4">
+<h4 id="orgbce131a"><span class="section-number-4">1.8.2</span> Monstres faibles</h4>
+<div class="outline-text-4" id="text-1-8-2">
+<p>
+Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou plus pour les toucher.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Monstre</th>
+<th scope="col" class="org-left">Attaque</th>
+<th scope="col" class="org-left">Dommages</th>
+<th scope="col" class="org-right">PV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Rat géant</td>
+<td class="org-left">D6</td>
+<td class="org-left">Morsure D4</td>
+<td class="org-right">4</td>
+</tr>
+
+<tr>
+<td class="org-left">Loup</td>
+<td class="org-left">D6</td>
+<td class="org-left">Morsure D6</td>
+<td class="org-right">6</td>
+</tr>
+
+<tr>
+<td class="org-left">Goblin/Bandit de grand chemin</td>
+<td class="org-left">D6</td>
+<td class="org-left">Hache D8</td>
+<td class="org-right">8</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgd3fa46e" class="outline-4">
+<h4 id="orgd3fa46e"><span class="section-number-4">1.8.3</span> Monstres moyens</h4>
+<div class="outline-text-4" id="text-1-8-3">
+<p>
+Les personnages ont desoin d'un 4 ou plus pour les toucher.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Monstre</th>
+<th scope="col" class="org-left">Attaque</th>
+<th scope="col" class="org-left">Dommages</th>
+<th scope="col" class="org-right">PV</th>
+<th scope="col" class="org-left">Armure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Orc/Soldat</td>
+<td class="org-left">D8</td>
+<td class="org-left">Epée D6</td>
+<td class="org-right">10</td>
+<td class="org-left">Bouclier D6</td>
+</tr>
+
+<tr>
+<td class="org-left">Skelette guerrier</td>
+<td class="org-left">D8</td>
+<td class="org-left">Hache D8</td>
+<td class="org-right">4</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Araignée géante</td>
+<td class="org-left">D8</td>
+<td class="org-left">Poison D4 par tour pendant 4 tours</td>
+<td class="org-right">12</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org06178d1" class="outline-4">
+<h4 id="org06178d1"><span class="section-number-4">1.8.4</span> Monstres difficiles</h4>
+<div class="outline-text-4" id="text-1-8-4">
+<p>
+Les personnages ont desoin d'un 6 ou plus pour les toucher.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Monstre</th>
+<th scope="col" class="org-left">Attaque</th>
+<th scope="col" class="org-left">Dommages</th>
+<th scope="col" class="org-right">PV</th>
+<th scope="col" class="org-left">Armure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Géant</td>
+<td class="org-left">D10</td>
+<td class="org-left">Gourdin D10</td>
+<td class="org-right">20</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Troll</td>
+<td class="org-left">D10</td>
+<td class="org-left">Mains D10</td>
+<td class="org-right">12</td>
+<td class="org-left">Armure naturelle D10</td>
+</tr>
+
+<tr>
+<td class="org-left">Petit dragon</td>
+<td class="org-left">D10</td>
+<td class="org-left">Pinces d6, morsure D8, souffle de feu D12</td>
+<td class="org-right">40</td>
+<td class="org-left">Armure naturelle D6</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgd83e91c" class="outline-4">
+<h4 id="orgd83e91c"><span class="section-number-4">1.8.5</span> Sauve qui peut !</h4>
+<div class="outline-text-4" id="text-1-8-5">
+<p>
+Les personnages ont desoin d'un 8 ou plus pour les toucher.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="all" frame="border">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Monstre</th>
+<th scope="col" class="org-left">Attaque</th>
+<th scope="col" class="org-left">Dommages</th>
+<th scope="col" class="org-right">PV</th>
+<th scope="col" class="org-left">Armure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Grand dragon</td>
+<td class="org-left">D12</td>
+<td class="org-left">Pinces D10, souffle de feu D12</td>
+<td class="org-right">60</td>
+<td class="org-left">Armure naturelle D10</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga10c9b3" class="outline-3">
+<h3 id="orga10c9b3"><span class="section-number-3">1.9</span> Listes d'équipement</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+<b>1 pièce d'or</b> :
+</p>
+<ul class="org-ul">
+<li>Bougie</li>
+<li>Sac de couchage</li>
+<li>Gourde</li>
+<li>Sifflet</li>
+<li>Torche</li>
+<li>Sac à butin</li>
+</ul>
+
+<p>
+<b>5 pièces d'or</b> :
+</p>
+<ul class="org-ul">
+<li>Repas pour une semaine</li>
+<li>Valise waterproof</li>
+<li>Corde de 3 mètres</li>
+<li>Briquet silex</li>
+<li>Sac à dos</li>
+<li>Pelle à creuser (+1 pour creuser)</li>
+<li>Bandages (soigne D4 une fois)</li>
+</ul>
+
+<p>
+<b>10 pièces d'or</b> :
+</p>
+<ul class="org-ul">
+<li>Kit de l'aventurier (sac à dos, briquet silex, sac de couchage, gourde, sac à butin)</li>
+<li>Lanterne</li>
+<li>Carte locale</li>
+<li>Corde</li>
+<li>Chrochet escalade (+1 en escalmade si utilisé avec la corde)</li>
+<li>Matreau et piquets</li>
+<li>Parchemin, encre et plume</li>
+<li>Instrument de musique</li>
+<li>Baume soignant (soigne D6 une fois)</li>
+</ul>
+
+<p>
+<b>20 pièces d'or</b> :
+</p>
+<ul class="org-ul">
+<li>Augmente les PV de 1</li>
+<li>Tente pour 4 personnes</li>
+<li>Beaux habits</li>
+<li>Animal de compagnie: chat, belette, hibou, faucon, etc.</li>
+<li>Cape (+1 pour se cacher)</li>
+<li>Gants pour escalader (+1 escalade)</li>
+<li>Bottes elfiques (+1 se déplacer en silence)</li>
+<li>Potion de soins (soigne D12 une fois)</li>
+</ul>
+
+<p>
+<b>50 pièces d'or</b> :
+</p>
+<ul class="org-ul">
+<li>Cheval harnaché</li>
+<li>Piège à ours</li>
+<li>Longue-vue</li>
+<li>Mirroir</li>
+<li>Crocket pour serrure (+1 crochetage)</li>
+<li>Parchemin de sort (contenant un sort à usage unique)</li>
+</ul>
+
+<p>
+<b>100 pièces d'or</b> :
+</p>
+<ul class="org-ul">
+<li>Augmenter une caractéristique (Magicien, Guerrier ou Explorateur) d'un dé</li>
+<li>Chien de garde (Attaque D8 , Dommages : morsure D6, 6 PV, loyal)</li>
+<li>Epée magique (+1 combat)</li>
+<li>Baguette magique (+1 pour lancer des sorts)</li>
+<li>Etalon de guerrier (Attaque par piétinement D6, 12 PV, féroce)</li>
+<li>Laboratoire portable de magicien (pour inventer de nouveaux sorts)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Olivier</p>
+<p class="date">Created: 2021-04-10 Sat 11:56</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

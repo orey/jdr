@@ -9,6 +9,7 @@ Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des p
 | Concepteur       | Jason Morningstar      |
 | Version traduite | 2005                   |
 | PDF original     | [[file:dungeon_squad.pdf]] |
+| Traduction       | O. Rey Avril 2021      |
 
 ** Ce dont vous avez besoin pour jouer
 
@@ -261,4 +262,9 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Baguette magique (+1 pour lancer des sorts)
 - Etalon de guerrier (Attaque par piétinement D6, 12 PV, féroce)
 - Laboratoire portable de magicien (pour inventer de nouveaux sorts)
+
+** Feuille de personnage
+
+- Version PDF : [[DungeonSquadFr-FeuillePerso.pdf]]
+- Version ODP : [[DungeonSquadFr-FeuillePerso.odp]]
 

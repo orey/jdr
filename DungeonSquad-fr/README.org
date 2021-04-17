@@ -313,6 +313,39 @@ Lancez 1D12.
 |     11 | Kit de crochetage magique, marche 1D8 fois   |
 |     12 | Torche éternelle, marche pour une aventure   |
 
+** Difficultés et pièges
+
+Lancez 1D10.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Description                                        |                    Dommages | Désamorcer                                              |
+|--------+----------------------------------------------------+-----------------------------+---------------------------------------------------------|
+|      1 | Le sol tremble et la pièce s'effondre              |                         1D6 | Explorateur 4                                           |
+|      2 | Le plafond tremble et s'écroule                    |                         1D6 | Explorateur 4                                           |
+|      3 | Flèches qui partent des murs                       |                         1D4 | Explorateur 6                                           |
+|      6 | Boule de feu venant d'un coin de la pièce          |                         1D6 | Explorateur 6                                           |
+|      7 | Trappe qui s'ouvre, besoin d'une corde pour sortir |                         1D4 | Explorateur 6                                           |
+|      8 | Boule de pierre géante qui surgit d'un mur         |                         1D6 | Explorateur 4                                           |
+|      9 | Rayont paralysant                                  | Paralysé pendant 1D6 heures | Sort de soins                                           |
+|     10 | Cage emprisonnante                                 |                  Prisonnier | Explorateur 6 pour éviter, explorateur 4 pour crocheter |
+
+** Situations étranges
+
+Lancez 1D8.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Description                              |
+|--------+------------------------------------------|
+|      1 | Statue qui parle                         |
+|      2 | Nid de paille puant avec cafards         |
+|      3 | Squelettes humains avec armes et épées   |
+|      4 | Fontaine avec octogone                   |
+|      5 | Dortoir vide                             |
+|      6 | Chapelle du chaos avec autel             |
+|      7 | Pièce avec cage et squellette non humain |
+|      8 | Pièce avec vieux habits pourris          |
+
+
 ** Feuille de personnage
 
 - Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]

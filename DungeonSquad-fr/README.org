@@ -276,6 +276,6 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
 ** Feuille de personnage
 
-- Version PDF : [[Feuille de perso PDF][https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf]]
-- Version ODP : [[Feuille de perso ODP][https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.odp]]
+- Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]
+- Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.odp][Feuille de perso ODP]]
 

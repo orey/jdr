@@ -147,8 +147,8 @@ Les cordes, crochets pour serrure, pelles, etc. peuvent être achetés, mais ils
 Au cours des aventures, il est possible de trouver des trésors :
 - Epée normale D6,
 - Epée magique D8,
-- Baguette magique : +1 pour lancer les sorts,
-- Bottes elfiques : +1 pour se déplacer en silence,
+- Baguette magique : +D pour lancer les sorts,
+- Bottes elfiques : +D pour se déplacer en silence,
 - Potions contenant des sorts ne fonctionnant qu'une seule fois,
 - Des pièces d'or permettant d'acheter des équipements (cordes, crochets pour serrure, lanternes, bâtons, etc.).
 
@@ -159,7 +159,7 @@ Les pièces d'or permettent aussi d'augmenter un dé de façon permanente après
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Nombre de pièces d'or | Expérience    |
 |-----------------------+---------------|
-|                   100 | +1 pour un dé |
+|                   100 | +D pour un dé |
 |                    20 | +1 PV         |
 
 ** Monstres
@@ -276,6 +276,6 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
 ** Feuille de personnage
 
-- Version PDF : [[DungeonSquadFr-FeuillePerso.pdf]]
-- Version ODP : [[DungeonSquadFr-FeuillePerso.odp]]
+- Version PDF : [[Feuille de perso PDF][https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf]]
+- Version ODP : [[Feuille de perso ODP][https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.odp]]
 

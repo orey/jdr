@@ -192,11 +192,12 @@ Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou pl
 Les personnages ont desoin d'un 4 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre           | Attaque | Dommages                           | PV | Armure      |
-|-------------------+---------+------------------------------------+----+-------------|
-| Orc/Soldat        | D8      | Epée D6                            | 10 | Bouclier D6 |
-| Skelette guerrier | D8      | Hache D8                           |  4 |             |
-| Araignée géante   | D8      | Poison D4 par tour pendant 4 tours | 12 |             |
+| Monstre            | Attaque | Dommages                                | PV | Armure      |
+|--------------------+---------+-----------------------------------------+----+-------------|
+| Orc/Soldat         | D8      | Epée D6                                 | 10 | Bouclier D6 |
+| Squelette guerrier | D8      | Hache D8                                |  4 |             |
+| Araignée géante    | D8      | Poison D4 par tour pendant 4 tours      | 12 |             |
+| Zombie             | D8      | Morsure D6 (guérie par le sort "soins") |  8 |             |
 
 *** Monstres difficiles
 
@@ -234,29 +235,29 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Corde de 3 mètres
 - Briquet silex
 - Sac à dos
-- Pelle à creuser (+1 pour creuser)
-- Bandages (soigne D4 une fois)
+- Pelle à creuser (+D pour creuser)
+- Bandages (soigne 1D4 une fois)
 
 *10 pièces d'or* :
 - Kit de l'aventurier (sac à dos, briquet silex, sac de couchage, gourde, sac à butin)
 - Lanterne
 - Carte locale
 - Corde
-- Chrochet escalade (+1 en escalmade si utilisé avec la corde)
+- Chrochet escalade (+D en escalade si utilisé avec la corde)
 - Matreau et piquets
 - Parchemin, encre et plume
 - Instrument de musique
--  Baume soignant (soigne D6 une fois)
+- Baume soignant (soigne 1D6 une fois)
 
 *20 pièces d'or* :
 - Augmente les PV de 1
 - Tente pour 4 personnes
 - Beaux habits
 - Animal de compagnie: chat, belette, hibou, faucon, etc.
-- Cape (+1 pour se cacher)
-- Gants pour escalader (+1 escalade)
-- Bottes elfiques (+1 se déplacer en silence)
-- Potion de soins (soigne D12 une fois)
+- Cape (+D pour se cacher)
+- Gants pour escalader (+D escalade)
+- Bottes elfiques (+D se déplacer en silence)
+- Potion de soins (soigne 1D12 une fois)
 
 *50 pièces d'or* :
 - Cheval harnaché
@@ -273,6 +274,44 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Baguette magique (+1 pour lancer des sorts)
 - Etalon de guerrier (Attaque par piétinement D6, 12 PV, féroce)
 - Laboratoire portable de magicien (pour inventer de nouveaux sorts)
+
+** Générateur de rencontres
+
+*** Premier niveau
+
+Lancez un D12.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Monstre                | Nombre |
+|--------+------------------------+--------|
+|      1 | Araignée géante        |      1 |
+|      2 | Orc                    |      1 |
+|      3 | Goblin                 |      1 |
+|      4 | Squelette guerrier     |      1 |
+|      5 | Rat géant              |      1 |
+|    6-7 | Rats                   |    1D4 |
+|    8-9 | Chauves souris géantes |    1D4 |
+|     10 | Moisissure gluante     |      1 |
+|     11 | Eponge moisie          |      1 |
+|     12 | Zombie                 |      1 |
+
+** Trésors
+
+Lancez 1D12.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Trésor                                       |
+|--------+----------------------------------------------|
+|    1-2 | 1D6 PO                                       |
+|    3-4 | 1D8 PO                                       |
+|      5 | Des bijoux pour une valeur de 1D10 PO        |
+|      6 | Potion de soins valable 1D6 fois             |
+|      7 | Epée magique D8                              |
+|      8 | Baguette magique +D en sorts                 |
+|      9 | Parchemin bouclier magique                   |
+|     10 | Potion d'invisibilité, ne marche qu'une fois |
+|     11 | Kit de crochetage magique, marche 1D8 fois   |
+|     12 | Torche éternelle, marche pour une aventure   |
 
 ** Feuille de personnage
 

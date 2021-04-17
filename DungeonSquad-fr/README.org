@@ -93,7 +93,7 @@ D'autres armes peuvent être trouvées dans les trésors avec des dés pouvant a
 
 *** Armes de jet
 
-Les commages causés par les armes de jet (arc, couteau lancé, arbalette, etc.) corresponde tau dé qui leur a été affecté, mais seulement si le résultat du jet est pair ! S'il est impair, il ne se passe rien.
+Les commages causés par les armes de jet (arc, couteau lancé, arbalette, etc.) correspondent au dé qui leur a été affecté, mais seulement si le résultat du jet est pair ! S'il est impair, il ne se passe rien.
 
 *** Armures
 
@@ -105,14 +105,14 @@ D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant
 
 *** Autres matériels
 
-Certains matériels spécifiques vous donnent un bonus de +1 pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
+Certains matériels spécifiques vous donnent un bonus de +D (dé supérieur) pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Bonus | Dé de départ | Dé à utiliser |
 |-------+--------------+---------------|
-|    +1 | D4           | D6            |
-|    +1 | D6           | D8            |
-|    +1 | D8           | D12           |
+|    +D | D4           | D6            |
+|    +D | D6           | D8            |
+|    +D | D8           | D12           |
 
 /Par exemple, si vous utilisez des bottes elfiques, vous pouvez passer de *Explorateur* D4 à *Explorateur* D6 quand vous furetez pour chercher des choses./
 

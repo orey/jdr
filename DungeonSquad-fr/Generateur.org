@@ -1,0 +1,78 @@
+#+TITLE: Générateur de rencontres pour Dungeon Squad! - Version Française
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-04-18
+#+STARTUP: overview
+
+[[file:logo.png]]
+
+* Générateur de rencontres pour Dungeon Squad! - Version Française
+
+** Générateur de rencontres
+
+*** Premier niveau
+
+Lancez un D12.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Monstre                | Nombre |
+|--------+------------------------+--------|
+|      1 | Araignée géante        |      1 |
+|      2 | Orc                    |      1 |
+|      3 | Goblin                 |      1 |
+|      4 | Squelette guerrier     |      1 |
+|      5 | Rat géant              |      1 |
+|    6-7 | Rats                   |    1D4 |
+|    8-9 | Chauves souris géantes |    1D4 |
+|     10 | Moisissure gluante     |      1 |
+|     11 | Eponge moisie          |      1 |
+|     12 | Zombie                 |      1 |
+
+** Trésors
+
+Lancez 1D12.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Trésor                                       |
+|--------+----------------------------------------------|
+|    1-2 | 1D6 PO                                       |
+|    3-4 | 1D8 PO                                       |
+|      5 | Des bijoux pour une valeur de 1D10 PO        |
+|      6 | Potion de soins valable 1D6 fois             |
+|      7 | Epée magique D8                              |
+|      8 | Baguette magique +D en sorts                 |
+|      9 | Parchemin bouclier magique                   |
+|     10 | Potion d'invisibilité, ne marche qu'une fois |
+|     11 | Kit de crochetage magique, marche 1D8 fois   |
+|     12 | Torche éternelle, marche pour une aventure   |
+
+** Difficultés et pièges
+
+Lancez 1D10.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Description                                        |                    Dommages | Désamorcer                                              |
+|--------+----------------------------------------------------+-----------------------------+---------------------------------------------------------|
+|      1 | Le sol tremble et la pièce s'effondre              |                         1D6 | Explorateur 4                                           |
+|      2 | Le plafond tremble et s'écroule                    |                         1D6 | Explorateur 4                                           |
+|      3 | Flèches qui partent des murs                       |                         1D4 | Explorateur 6                                           |
+|      6 | Boule de feu venant d'un coin de la pièce          |                         1D6 | Explorateur 6                                           |
+|      7 | Trappe qui s'ouvre, besoin d'une corde pour sortir |                         1D4 | Explorateur 6                                           |
+|      8 | Boule de pierre géante qui surgit d'un mur         |                         1D6 | Explorateur 4                                           |
+|      9 | Rayont paralysant                                  | Paralysé pendant 1D6 heures | Sort de soins                                           |
+|     10 | Cage emprisonnante                                 |                  Prisonnier | Explorateur 6 pour éviter, explorateur 4 pour crocheter |
+
+** Situations étranges
+
+Lancez 1D8.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Description                              |
+|--------+------------------------------------------|
+|      1 | Statue qui parle                         |
+|      2 | Nid de paille puant avec cafards         |
+|      3 | Squelettes humains avec armes et épées   |
+|      4 | Fontaine avec octogone                   |
+|      5 | Dortoir vide                             |
+|      6 | Chapelle du chaos avec autel             |
+|      7 | Pièce avec cage et squellette non humain |
+|      8 | Pièce avec vieux habits pourris          |

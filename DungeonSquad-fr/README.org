@@ -1,16 +1,22 @@
+#+TITLE: Dungeon Squad! - Version Française
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-04-10
+#+STARTUP: overview
+
 [[file:logo.png]]
 
-* Dungeon Squad - Version Française
+* Dungeon Squad! - Version Française
 
 ** Introduction
 
 Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Concepteur       | Jason Morningstar      |
-| Version traduite | 2005                   |
-| PDF original     | [[file:dungeon_squad.pdf]] |
-| Traduction       | O. Rey Avril 2021      |
+| Concepteur          | Jason Morningstar                                              |
+| Version traduite    | 2005                                                           |
+| PDF original        | [[file:dungeon_squad.pdf]]                                         |
+| Traduction          | O. Rey Avril 2021                                              |
+| Notes de traduction | Le jeu a été remanié dans sa présentation pour être plus clair |
 
 ** Ce dont vous avez besoin pour jouer
 
@@ -20,82 +26,103 @@ Chaque joueur doit avoir accès à :
 - Des choses à picorer et des boissons.
 
 ** Création des personnages
-
 *** Caractéristiques
 
-Chaque personnage possèdes trois caractéristiques : *Magicien*, *Guerrier* et *Explorateur* (respectivement *Magicienne*, *Guerrière* et *Explorateur*). Chaque joueur possède 3 dés, un D4, un D8 et un D12, chaque dé devant être assigné à une des trois caractéristiques. 
+Chaque personnage possèdes trois caractéristiques : *Magicien*, *Guerrier* et *Voleur* (respectivement *Magicienne*, *Guerrière* et *Voleuse*). Chaque joueur possède 3 dés, un D4, un D8 et un D12, chaque dé devant être assigné à une des trois caractéristiques. 
 
-/Exemple : je veux créer un magicien voleur. Je choisis :/
+/Exemple 1 : Luna de Balor est une magiciene voleuse. Sa joueuse a choisi :/
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Magicien    | D12 |
-| Explorateur | D8  |
-| Guerrier    | D4  |
+| Magicienne | D12 |
+| Voleuse    | D8  |
+| Guerrière  | D4  |
 
 /Espérons que j'aurai quelqu'un près de moi pour me protéger durant les combats !/
 
-*** Choses
+/Exemple 2 : Grognard le Turbulent est un guerrier. Son joueur a choisi la configuration suivante :/
 
-Chaque personnage possède un D6 et un D10 pour décrire des choses :
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Guerrier | D12 |
+| Voleur   | D8  |
+| Magicien | D4  |
+
+*** Compétences
+**** Compétences à la création du personnage
+
+Chaque personnage possède un D6 et un D10 pour décrire des compétences.
+
+Les compétences peuvent être :
 - Une arme ;
 - Une armure ;
 - Un sort.
 
-/Exemple : pour mon magicien voleur, je choisis les sorts suivantes :/
+Au début du jeu, les personnages ont seulement *2* compétences. Ils affectent à chacune d'elles un des deux dés (D6 et D10).
+
+/Exemple : la joueuse de Luna de Balor a choisi les compétences suivantes :/
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Sort | Sommeil | D10 |
-| Sort | Eclair  | D6  |
+| Sort | Eclair | D10 |
+| Sort | Soins  | D6  |
+
+/Exemple : Grognard le Turbulent a les compétences suivantes :/
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Sort | Epée à deux mains | D10 |
+| Sort | Cotte de mailles  | D6  |
+
+**** Limitation à 4 du nombre de compétences
+
+Dans le cours du jeu, les joueurs pourront acquérir d'autres compétences en trouvant, par exemple, des objets magiques ou des armes. Pour autant, ils ne pourront *jamais avoir plus de 4* compétences (en comptant les armes, les armures et les sorts).
+
+/Par exemple, si le personnage trouve un trésor avec quelque chose d'intéressant à l'intérieur (comme un parchemin de *Boule de feu* par exemple), il l'inscrit sur sa feuille en plus des deux autres choses qu'il a choisies à la création de son personnage. Le personnage peut choisir de prendre ou de laisser des choses, mais il ne peut pas en avoir plus de 4 avec lui./
+
+*** Points de vie
 
 Tous les personnages ont 15 points de vie (PV). Les dommages réduisent directement les PV.
+
+*** Pièces d'or
+
+Chaque personnage démarre dans la vie avec 30 PO (pièce d'or). Il peut s'acheter un équipement avec cette somme (voir la partie équipement).
 
 ** La mécanique du jeu
 
 Tous les personnages peuvent se battre, lancer des sorts et fureter. La difficulté de l'action est déterminée par un nombre, typiquement 2, 4 ou 6. Plus le nombre est grand, plus la tâche est difficile.
 
 *** Combat
+**** Toucher
 
-Dans un combat, lancez votre dé de *Guerrier* :
-- Un 2 ou plus est requis pour toucher un faible ennemi ;
-- Un 4 ou plus est requis pour un ennemi de force moyenne ;
-- Un 6 ou plus est requis pour toucher un ennemi de grande force.
+Les monstres sont caractérisés par un niveau : faible, moyen ou fort.
 
-Bien entendu, si vous avez assigné le D4 au *Guerrier*, le combat risque de s'avérer difficile, voire impossible.
+Dans un combat, lancez votre dé de *Guerrier* et consultez la table ci-dessous :
 
-*** Magie
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Catégorie de monstre | Dé       | Nombre à dépasser pour toucher | Restriction armes de jet           |
+|----------------------+----------+--------------------------------+------------------------------------|
+| Faible               | Guerrier |                              2 | Toucher pour nombre pair seulement |
+| Moyen                | Guerrier |                              4 | Toucher pour nombre pair seulement |
+| Fort                 | Guerrier |                              6 | Toucher pour nombre pair seulement |
 
-Pour lancer un sort, jetez votre dé de *Magicien* :
-- Un 6 ou plus est requis pour que le sort réussisse si le personnage est dans un combat ;
-- Un 2 ou plus est requis pour que le sort réussisse à condition que le jeteur de sorts ne soit pas dans une position dangereuse.
+Dans le cas d'un combat au corps à corps, il n'y a pas de restriction. Dans le cas de l'utilisation d'une arme de jet, il faut à la fois faire plus que le nombre à dépasser mais encore tirer un nombre pair pour toucher. 
 
-Une option sécurisante est d'assigner le D4 au *Magicien* et de prendre le sort *Guérison*, en ne le lançant qu'entre les combats.
+Bien entendu, si vous avez assigné le D4 au *Guerrier*, le combat risque de s'avérer difficile, voire impossible dans certains cas (cas des monstres forts).
 
-*** Furtivité
+**** Dommages
 
-Pour être furtif comme un voleur, jetez votre dé de *Explorateur* :
-- Vous avez besoin d'un 2 ou de plus pour vous déplacer silencieusement ;
-- D'un 4 ou plus pour crocheter une serrure ou escalader un mur ;
-- D'un 6 ou plus pour désamorcer un piège ou sauter au dessus d'un fossé.
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Type d'arme                   |         Dommages |
+|-------------------------------+------------------|
+| Arme choisie comme compétence | Dé de compétence |
+|-------------------------------+------------------|
+| Poings                        |              1d4 |
+| Dague                         |              1d4 |
+| Epée                          |              1d6 |
+| Epée magique                  |              1d8 |
+| Hache                         |              1d8 |
+| Arc                           |              1d6 |
+| Arbalète                      |              1d8 |
+| Lance                         |              1d8 |
 
-** Equipement
-
-Tout équipement ou sort se voit assigner un dé de "choses".
-
-*** Bagarre
-
-Tous les personnages peuvent frapper avec leurs points ou avec une dague et infliger D4 dommages.
-
-*** Armes de mélée
-
-Les dommages causés par les armes (épée, hache ou autre) correspondent au dé qui leur est assigné, soit D6 ou D10.
-
-D'autres armes peuvent être trouvées dans les trésors avec des dés pouvant aller du D4 au D12.
-
-*** Armes de jet
-
-Les commages causés par les armes de jet (arc, couteau lancé, arbalette, etc.) correspondent au dé qui leur a été affecté, mais seulement si le résultat du jet est pair ! S'il est impair, il ne se passe rien.
-
-*** Armures
+**** Armures
 
 Les armures réduisent les dommages encaissés de la valeur de leur dé assigné.
 
@@ -103,30 +130,30 @@ Les armures réduisent les dommages encaissés de la valeur de leur dé assigné
 
 D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant aller du D4 au D12.
 
-*** Autres matériels
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Type d'armure                   |       Protection |
+|---------------------------------+------------------|
+| Armure choisie comme compétence | Dé de compétence |
+|---------------------------------+------------------|
+| Armure de cuir                  |              1d4 |
+| Armure de cuir renforcé         |              1d6 |
+| Cotte de mailles                |              1d8 |
+| Armure à plaques                |             1d10 |
 
-Certains matériels spécifiques vous donnent un bonus de +D (dé supérieur) pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
+*** Magie
+**** Lancer un sort
+
+Pour lancer un sort, jetez votre dé de *Magicien* :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Bonus | Dé de départ | Dé à utiliser |
-|-------+--------------+---------------|
-|    +D | D4           | D6            |
-|    +D | D6           | D8            |
-|    +D | D8           | D12           |
+| Situation du magicien | Seuil à dépasser |
+|-----------------------+------------------|
+| Dans un combat        |                6 |
+| Hors d'un combat      |                2 |
 
-/Par exemple, si vous utilisez des bottes elfiques, vous pouvez passer de *Explorateur* D4 à *Explorateur* D6 quand vous furetez pour chercher des choses./
+Une option sécurisante est d'assigner le D4 au *Magicien* et de prendre le sort *Guérison*, en ne le lançant qu'entre les combats.
 
-*** Limitation
-
-Un personne peut porter au maximum 4 choses avec leurs dés associés, en comptant les sorts, les armes et les armures.
-
-/Par exemple, si le personnage trouve un trésor avec quelque chose de cool à l'intérieur (comme un parchemin de *Boule de feu* par exemple), il l'inscrit sur sa feuille en plus des deux autres choses qu'il a choisies à la création de son personnage. Le personnage peut choisir de prendre ou de laisser des choses, mais il ne peut pas en avoir plus de 4 avec lui./
-
-*** Autres équipements
-
-Les cordes, crochets pour serrure, pelles, etc. peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
-
-** Magie
+**** Liste de sorts
 
 6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de choses à deux sorts différents.
 
@@ -140,88 +167,135 @@ Les cordes, crochets pour serrure, pelles, etc. peuvent être achetés, mais ils
 | Chance           | Permet d'ajouter le dé du sort au jet d'une autre personne. Permet aussi de retrancher le dé du sort au jet d'un attaquant. Ce jet doit être fait avant l'action.        | Chaque tour         |
 | Bouclier magique | Protège une seule personne au choix du magicien (incluant lui-même s'il le souhaite). Absorbe les dommages du dé de sort puis disparaît.                                 | 1 fois par combat   |
 
-** Trésors et expérience
+Sommeil
 
+*** Furtivité et autres compétences de voleur
+
+Pour être furtif ou exercer d'autres talents du voleur, jetez votre dé de *Voleur* et consultez la table ci-dessous :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Compétences de voleur        | Seuil à dépasser |
+|------------------------------+------------------|
+| Se déplacer silencieusement  |                2 |
+| Crocheter une serrure        |                4 |
+| Escalader un mur             |                4 |
+| Désamorcer un piège          |                6 |
+| Sauter au dessus d'une fosse |                6 |
+
+*** Influence de l'équipement
+**** Bonus dus à certains équipements
+
+Certains matériels spécifiques vous donnent un bonus de "+D" (passage au dé supérieur) pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette spécifique action.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Bonus | Dé de départ | Dé à utiliser |
+|-------+--------------+---------------|
+| +D    | D4           | D6            |
+| +D    | D6           | D8            |
+| +D    | D8           | D10           |
+| +D    | D10          | D12           |
+
+/Par exemple, si vous utilisez des bottes elfiques, vous pouvez passer de *Voleur* D4 à *Voleur* D6 quand vous furetez pour chercher des choses./
+
+**** Autres équipements
+
+Les cordes, crochets pour serrure, pelles, etc. peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
+
+** Trésors et expérience
 *** Trésors
 
 Au cours des aventures, il est possible de trouver des trésors :
-- Epée normale D6,
-- Epée magique D8,
-- Baguette magique : +D pour lancer les sorts,
-- Bottes elfiques : +D pour se déplacer en silence,
-- Potions contenant des sorts ne fonctionnant qu'une seule fois,
-- Des pièces d'or permettant d'acheter des équipements (cordes, crochets pour serrure, lanternes, bâtons, etc.).
-
-*** Expérience
- 
-Les pièces d'or permettent aussi d'augmenter un dé de façon permanente après chaque aventure et cela jusqu'au D12.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Nombre de pièces d'or | Expérience    |
-|-----------------------+---------------|
-|                   100 | +D pour un dé |
-|                    20 | +1 PV         |
+| Trésor           | Caractéristique                                            |
+|------------------+------------------------------------------------------------|
+| Epée normale     | Dommages : 1D6                                             |
+| Epée magique     | Dommages : 1D8                                             |
+| Baguette magique | +D pour lancer les sorts                                   |
+| Bottes elfiques  | +D pour se déplacer en silence                             |
+| Potion           | Contenant un sort ne fonctionnant qu'une seule fois        |
+| Pièces d'or (PO) | Permettent d'acheter des choses ou de gagner en expérience |
+
+*** Expérience
+
+Tuer des monstres rapporte des points d'expérience (notés "Exp" dans les tableaux de monstres). Ils définissent un compte de "Points d'Expérience", notés PE, et déterminés en fin d'aventure avec le maître de jeu. Ces points peuvent être consommés pour faire avancer le personnage (voir table ci_dessous).
+ 
+Les pièces d'or (PO) peuvent servir à acheter des chose, mais aussi à l'avancement du personnage.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Expérience | Gain                      |
+|------------+---------------------------|
+| 100 PO     | +D pour un dé (max : D12) |
+| 20 PO      | +1 PV                     |
+| 500 PE     | +D pour un dé (max : D12) |
+| 100 PE     | +1 PV                     |
 
 ** Monstres
 
+Principe : tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages.
+
 *** Vermines
 
-Tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages. Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
+Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre                      | Attaque | Dommages                                                                        | PV |
-|------------------------------+---------+---------------------------------------------------------------------------------+----|
-| Rat/Araignée                 | D4      | Morsure 1 PV                                                                    |  1 |
-| Chauve souris vampire géante | D4      | Morsure 2 PV                                                                    |  2 |
-| Moisissure gluante et puante | D4      | Erode le métal, détruit les armures et les épées                                | 25 |
-| Eponge moisie magique        | D4      | Les points de magie utilisés contre elle accroissent ses points de vie d'autant | 25 |
+| Monstre                      | Attaque | Dommages                                                                        | PV | Armure | Exp |
+|------------------------------+---------+---------------------------------------------------------------------------------+----+--------+-----|
+| Rat                          | D4      | Morsure 1 PV                                                                    |  1 | -      |   1 |
+| Araignée                     | D4      | Piqûre 1 PV                                                                     |  1 | -      |   1 |
+| Chauve souris vampire géante | D4      | Morsure 2 PV                                                                    |  2 | -      |   2 |
+| Moisissure gluante et puante | D4      | Erode le métal, détruit les armures et les épées                                | 25 | -      |  25 |
+| Eponge moisie magique        | D4      | Les points de magie utilisés contre elle accroissent ses points de vie d'autant | 25 | -      |  25 |
 
 *** Monstres faibles
 
 Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre                       | Attaque | Dommages   | PV |
-|-------------------------------+---------+------------+----|
-| Rat géant                     | D6      | Morsure D4 |  4 |
-| Loup                          | D6      | Morsure D6 |  6 |
-| Goblin/Bandit de grand chemin | D6      | Hache D8   |  8 |
+| Monstre                | Attaque | Dommages   | PV | Armure | Exp |
+|------------------------+---------+------------+----+--------+-----|
+| Rat géant              | D6      | Morsure D4 |  4 | -      |   4 |
+| Loup                   | D6      | Morsure D6 |  6 | -      |   6 |
+| Goblin                 | D6      | Hache D8   |  8 | -      |   8 |
+| Bandit de grand chemin | D6      | Epée D6    |  8 | 1d4    |   8 |
 
 *** Monstres moyens
 
 Les personnages ont desoin d'un 4 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre            | Attaque | Dommages                                | PV | Armure      |
-|--------------------+---------+-----------------------------------------+----+-------------|
-| Orc/Soldat         | D8      | Epée D6                                 | 10 | Bouclier D6 |
-| Squelette guerrier | D8      | Hache D8                                |  4 |             |
-| Araignée géante    | D8      | Poison D4 par tour pendant 4 tours      | 12 |             |
-| Zombie             | D8      | Morsure D6 (guérie par le sort "soins") |  8 |             |
+| Monstre            | Attaque | Dommages                                | PV | Armure      | Exp |
+|--------------------+---------+-----------------------------------------+----+-------------+-----|
+| Orc                | D8      | Epée D6                                 | 10 | Bouclier D6 |  10 |
+| Soldat             | D8      | Epée D6                                 | 10 | 1d8         |  10 |
+| Squelette guerrier | D8      | Hache D8                                |  4 | -           |   4 |
+| Araignée géante    | D8      | Poison D4 par tour pendant 4 tours      | 12 | -           |  12 |
+| Zombie             | D8      | Morsure D6 (guérie par le sort "soins") |  8 | -           |   8 |
 
-*** Monstres difficiles
+*** Monstres forts
 
 Les personnages ont desoin d'un 6 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre      | Attaque | Dommages                                  | PV | Armure               |
-|--------------+---------+-------------------------------------------+----+----------------------|
-| Géant        | D10     | Gourdin D10                               | 20 |                      |
-| Troll        | D10     | Mains D10                                 | 12 | Armure naturelle D10 |
-| Petit dragon | D10     | Pinces d6, morsure D8, souffle de feu D12 | 40 | Armure naturelle D6  |
+| Monstre      | Attaque | Dommages                                  | PV | Armure               | Exp |
+|--------------+---------+-------------------------------------------+----+----------------------+-----|
+| Géant        | D10     | Gourdin D10                               | 20 | -                    |  20 |
+| Troll        | D10     | Mains D10                                 | 12 | Armure naturelle D10 |  12 |
+| Petit dragon | D10     | Pinces d6, morsure D8, souffle de feu D12 | 40 | Armure naturelle D6  |  40 |
 
 *** Sauve qui peut !
 
 Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre      | Attaque | Dommages                       | PV | Armure               |
-|--------------+---------+--------------------------------+----+----------------------|
-| Grand dragon | D12     | Pinces D10, souffle de feu D12 | 60 | Armure naturelle D10 |
+| Monstre      | Attaque | Dommages                       | PV | Armure               | Exp |
+|--------------+---------+--------------------------------+----+----------------------+-----|
+| Grand dragon | D12     | Pinces D10, souffle de feu D12 | 60 | Armure naturelle D10 | 60  |
 
 ** Listes d'équipement
 
-*1 pièce d'or* :
+*** Coût : 1 pièce d'or
+
 - Bougie
 - Sac de couchage
 - Gourde
@@ -229,7 +303,8 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Torche
 - Sac à butin
 
-*5 pièces d'or* :
+*** Coût : 5 pièces d'or
+
 - Repas pour une semaine
 - Valise waterproof
 - Corde de 3 mètres
@@ -238,7 +313,8 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Pelle à creuser (+D pour creuser)
 - Bandages (soigne 1D4 une fois)
 
-*10 pièces d'or* :
+*** Coût : 10 pièces d'or
+
 - Kit de l'aventurier (sac à dos, briquet silex, sac de couchage, gourde, sac à butin)
 - Lanterne
 - Carte locale
@@ -249,7 +325,8 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Instrument de musique
 - Baume soignant (soigne 1D6 une fois)
 
-*20 pièces d'or* :
+*** Coût : 20 pièces d'or
+
 - Augmente les PV de 1
 - Tente pour 4 personnes
 - Beaux habits
@@ -259,7 +336,8 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Bottes elfiques (+D se déplacer en silence)
 - Potion de soins (soigne 1D12 une fois)
 
-*50 pièces d'or* :
+*** Coût : 50 pièces d'or
+
 - Cheval harnaché
 - Piège à ours
 - Longue-vue
@@ -267,87 +345,21 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Crocket pour serrure (+1 crochetage)
 - Parchemin de sort (contenant un sort à usage unique)
 
-*100 pièces d'or* :
-- Augmenter une caractéristique (Magicien, Guerrier ou Explorateur) d'un dé
+*** Coût : 100 pièces d'or
+
+- Augmenter une caractéristique (Magicien, Guerrier ou Voleur) d'un dé
 - Chien de garde (Attaque D8 , Dommages : morsure D6, 6 PV, loyal)
 - Epée magique (+1 combat)
 - Baguette magique (+1 pour lancer des sorts)
 - Etalon de guerrier (Attaque par piétinement D6, 12 PV, féroce)
 - Laboratoire portable de magicien (pour inventer de nouveaux sorts)
 
-** Générateur de rencontres
-
-*** Premier niveau
-
-Lancez un D12.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Valeur | Monstre                | Nombre |
-|--------+------------------------+--------|
-|      1 | Araignée géante        |      1 |
-|      2 | Orc                    |      1 |
-|      3 | Goblin                 |      1 |
-|      4 | Squelette guerrier     |      1 |
-|      5 | Rat géant              |      1 |
-|    6-7 | Rats                   |    1D4 |
-|    8-9 | Chauves souris géantes |    1D4 |
-|     10 | Moisissure gluante     |      1 |
-|     11 | Eponge moisie          |      1 |
-|     12 | Zombie                 |      1 |
-
-** Trésors
-
-Lancez 1D12.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Valeur | Trésor                                       |
-|--------+----------------------------------------------|
-|    1-2 | 1D6 PO                                       |
-|    3-4 | 1D8 PO                                       |
-|      5 | Des bijoux pour une valeur de 1D10 PO        |
-|      6 | Potion de soins valable 1D6 fois             |
-|      7 | Epée magique D8                              |
-|      8 | Baguette magique +D en sorts                 |
-|      9 | Parchemin bouclier magique                   |
-|     10 | Potion d'invisibilité, ne marche qu'une fois |
-|     11 | Kit de crochetage magique, marche 1D8 fois   |
-|     12 | Torche éternelle, marche pour une aventure   |
-
-** Difficultés et pièges
-
-Lancez 1D10.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Valeur | Description                                        |                    Dommages | Désamorcer                                              |
-|--------+----------------------------------------------------+-----------------------------+---------------------------------------------------------|
-|      1 | Le sol tremble et la pièce s'effondre              |                         1D6 | Explorateur 4                                           |
-|      2 | Le plafond tremble et s'écroule                    |                         1D6 | Explorateur 4                                           |
-|      3 | Flèches qui partent des murs                       |                         1D4 | Explorateur 6                                           |
-|      6 | Boule de feu venant d'un coin de la pièce          |                         1D6 | Explorateur 6                                           |
-|      7 | Trappe qui s'ouvre, besoin d'une corde pour sortir |                         1D4 | Explorateur 6                                           |
-|      8 | Boule de pierre géante qui surgit d'un mur         |                         1D6 | Explorateur 4                                           |
-|      9 | Rayont paralysant                                  | Paralysé pendant 1D6 heures | Sort de soins                                           |
-|     10 | Cage emprisonnante                                 |                  Prisonnier | Explorateur 6 pour éviter, explorateur 4 pour crocheter |
-
-** Situations étranges
-
-Lancez 1D8.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Valeur | Description                              |
-|--------+------------------------------------------|
-|      1 | Statue qui parle                         |
-|      2 | Nid de paille puant avec cafards         |
-|      3 | Squelettes humains avec armes et épées   |
-|      4 | Fontaine avec octogone                   |
-|      5 | Dortoir vide                             |
-|      6 | Chapelle du chaos avec autel             |
-|      7 | Pièce avec cage et squellette non humain |
-|      8 | Pièce avec vieux habits pourris          |
-
-
 ** Feuille de personnage
 
 - Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]
 - Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.odp][Feuille de perso ODP]]
+
+** Générateur de rencontres
+
+Voir [[
 

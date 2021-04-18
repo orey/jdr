@@ -387,6 +387,11 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 - Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]
 - Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.odp][Feuille de perso ODP]]
 
+* Ecran
+
+- Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf][Ecran PDF]]
+- Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.odp][Ecran ODP]]
+
 * Générateur de rencontres
 
 Voir [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/Generateur.org][générateur de rencontres]].

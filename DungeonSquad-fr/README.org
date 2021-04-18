@@ -359,5 +359,5 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
 * Générateur de rencontres
 
-Voir file:Generateur.org
+Voir [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/Generateur.org][générateur de rencontres]]
 

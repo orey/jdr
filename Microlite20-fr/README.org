@@ -1,0 +1,179 @@
+#+TITLE: Microlite20 - Version Française
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-04-23
+#+STARTUP: overview
+
+[[file:logo.png]]
+
+* Microlite20 - Version Française
+
+Ce jeu est une version miniature abrégée des règles SRD (System Reference Document) de D&D édition 3.5 (voir file:LICENSE.org). Il a été conçu pour être rapide et facile à jouer. Le but était de créer un jeu plus simple dans lequel toutes les ressources compatibles SRD (monstres, sorts, aventures et équipements) pouvaient être utilisées sans conversion.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Concepteur               | Robin V. Stacey                                                                                                |
+| Version traduite         | Version originale 2006                                                                                         |
+| PDF original             | [[https://github.com/orey/jdr/blob/master/Microlite20-fr/B01-Microlite20.pdf][B01-Microlite20.pdf]]                                                                                            |
+| Website                  | https://microlite20.org/                                                                                       |
+| Traduction et adaptation | O. Rey Avril 2021                                                                                              |
+|                          | Le jeu a été remanié dans sa présentation pour être plus clair.                                                |
+|                          | La traduction garde certains noms anglais pour permettre une exploitation plus simple des matériels en anglais |
+
+* Caractéristiques (STAT)
+
+Chaque personnage possède 3 caractéristiques :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Caractéristique | Nom anglais | Abréviation |
+|-----------------+-------------+-------------|
+| Force           | Strength    | STR         |
+| Dextérité       | Dexterity   | DEX         |
+| Esprit          | Mind        | MIND        |
+
+Lancer 4D6 et garder les 3 dés les plus hauts. Faites le total et l'assigner à une des caractéristiques. Faites cela pour les deux autres caractéristiques.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Bonus de caractéristique | (STAT-10)/2 arrondi au chiffre inférieur |
+
+De manière plus explicite :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Valeur | Bonus |
+|--------+-------|
+|   3-11 |     0 |
+|  12-13 |    +1 |
+|  14-15 |    +2 |
+|  16-17 |    +3 |
+|     18 |    +4 |
+
+* Races
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Humains | +1 à tous les jets de compétences |
+| Elfes   | +2 en MIND                        |
+| Nains   | +2 en STR                         |
+| Hobbits | +2 en DEX                         |
+
+* Classes
+
+Les classes sont : 
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Classe   | Nom anglais |
+|----------+-------------|
+| Guerrier | Fighter     |
+| Voleur   | Rogue       |
+| Magicien | Mage        |
+| Clerc    | Cleric      |
+
+Tous les personnages démarrent au niveau 1.
+
+** Guerrier
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                                                          |
+|-------------+-----------------------------------------------------------------|
+| Armure      | Portent n'importe quel type d'armure et utilisent des boucliers |
+| Compétences | +3 en Phy                                                       |
+| Attaque     | +1 pour toutes les attaques                                     |
+| Dommages    | +1 aux dommages                                                 |
+
+** Voleurs
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                                                                                                                          |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------|
+| Armure      | Peuvent porter des armures légères                                                                                              |
+| Compétences | +3 en Sub                                                                                                                       |
+| Dommages    | "+rang de compétence Subterfuge" si utilisation de la compétence "se faufiler" (usuellement DEX+Sub) pour leur première attaque |
+
+** Magiciens
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                        |
+|-------------+-------------------------------|
+| Armure      | Ne portent pas d'armure       |
+| Compétences | +3 en Know                    |
+| Magie       | Lancent des sorts ésotériques |
+
+** Clercs
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                                                                                                         |
+|-------------+----------------------------------------------------------------------------------------------------------------|
+| Armure      | Peuven porter des armures légères ou moyennes                                                                  |
+| Compétences | +3 en Com                                                                                                      |
+| Magie       | Lancent des sorts divins                                                                                       |
+|             | Un clerc peut "retourner les morts vivants" avec un jet réussi de magie, dont la DC est les HP du mort vivant. |
+|             | Si le scope est supérier de 10 à la DC, le mort vivant est détruit.                                            |
+|             | Cette faculté peut être utilisée seulement (2 + Niveau + Bonus MIND) par jour                                  |
+
+_Note_: "Retourner les morts vivants".
+
+Extrait du [[https://www.d20srd.org/srd/combat/specialAttacks.htm][SRD 3.5]] (traduit en français) :
+
+/Les clercs [...] bons et neutres peuvent canaliser l'énergie positive, ce qui peut arrêter, éloigner ou détruire les morts-vivants. Les clercs mauvais et neutres peuvent canaliser l'énergie négative ce qui peut arrêter, calmer, contrôler ou encourager les morts-vivants. Quelque soit l'effet, le terme générale est "retourner". Quand ils tentent d'exercer leur contrôle divin sur ces créatures, les personnages font des jets de "retourner les morts vivants". /
+
+* Compétences
+** Compétences
+
+Il y a seulement 4 compétences :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Compétences   | Nom anglais   | Abréviation |
+|---------------+---------------+-------------|
+| Physique      | Physical      | Phy         |
+| Subterfure    | Subterfuge    | Sub         |
+| Savoir        | Knowledge     | Kno         |
+| Communication | Communication | Com         |
+
+** Classes de difficulté
+
+Extrait du [[https://www.d20srd.org/srd/skills/usingSkills.htm][SRD 3.5]] (traduit en français) :
+
+/Certains jets sont réalisés contre une classe de difficulté, notée DC (Difficulty Class). La DC est un nombre que vous devez égaler ou dépasser avec un jet de compétences./
+
+Exemples tirés du SRD 3.5 :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Difficulté            | DC | Exemple                                                     | Compétence utilisée |
+|-----------------------+----+-------------------------------------------------------------+---------------------|
+| Très facile           |  0 | Remarquer quelque chose de gros devant soi                  | Chercher            |
+| Facile                |  5 | Monter sur une corde à noeuds                               | Escalader           |
+| Moyen                 | 10 | Entendre un garde approcher                                 | Écouter             |
+| Difficile             | 15 | Saboter une roue de wagon pour qu'elle se détache           | Saboter             |
+| Très difficile        | 20 | Nager pendant un orage                                      | Nager               |
+| Extrêmement difficile | 25 | Crocheter une serrure                                       | Crocheter           |
+| Héroïque              | 30 | Sauter au dessus d'un gouffre de 10 mètres de large         | Sauter              |
+| Presqu'impossible     | 35 | Pister une troupe d'orcs sur terrain sec après 24h de pluie | Pister              |
+
+** Jets de compétences
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Terme              | Définition                                                                       |
+|--------------------+----------------------------------------------------------------------------------|
+| Rang de compétence | Niveau + bonus applicable de race ou bonus applicable de classe                  |
+| Jet de compétence  | D20 + rang de compétence + bonus le plus applicable + modificateurs de situation |
+
+Par exemple : 
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Exemple de jet               | Utiliser            |
+|------------------------------+---------------------|
+| Escalade                     | Phy + bonus de STR  |
+| Esquiver un rocher qui tombe | Phy + bonus de DEX  |
+| Trouver un piège             | Sub + bonus de MIND |
+| Désamorcer un piège          | Sub + bonus de DEX  |
+
+** Jets de sauvegarde
+
+Il n'y a pas de "jets de sauvegarde" dans ce jeu. Les jets utilisés sont les suivants :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Exemple de jet        | Anglais   | Utiliser               |
+|-----------------------+-----------+------------------------|
+| Résistance physique   | Fortitude | Phy + bonus de STR     |
+| Réflexe               | Reflex    | Phy + bonus de DEX     |
+| Résistance à la magie | Will save | Bonus de MIND + niveau |
+
+* Magie
+
+  Les magiciens peuvent lancer n'importe quel sort ésotérique et les clercs n'importe quel sort divin

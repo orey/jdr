@@ -3,7 +3,7 @@
 #+DATE: 2021-04-23
 #+STARTUP: overview
 
-file:logo.jepg
+[[file:logo.jepg]]
 
 * Microlite20 - Version Française
 

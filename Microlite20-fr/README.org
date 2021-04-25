@@ -5,8 +5,6 @@
 
 [[file:logo.jpeg]]
 
-* Microlite20 - Version Française
-
 Ce jeu est une version miniature abrégée des règles SRD (System Reference Document) de D&D édition 3.5 (voir file:LICENSE.org). Il a été conçu pour être rapide et facile à jouer. Le but était de créer un jeu plus simple dans lequel toutes les ressources compatibles SRD (monstres, sorts, aventures et équipements) pouvaient être utilisées sans conversion.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -20,6 +18,8 @@ Ce jeu est une version miniature abrégée des règles SRD (System Reference Doc
 
 * Caractéristiques (STAT)
 
+** Caractéristiques
+
 Chaque personnage possède 3 caractéristiques :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -30,6 +30,8 @@ Chaque personnage possède 3 caractéristiques :
 | Esprit          | Mind        | MIND        |
 
 Lancer 4D6 et garder les 3 dés les plus hauts. Faites le total et l'assigner à une des caractéristiques. Faites cela pour les deux autres caractéristiques.
+
+** Bonus aux caractéristiques
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Bonus de caractéristique | (STAT-10)/2 arrondi au chiffre inférieur |
@@ -44,6 +46,13 @@ De manière plus explicite :
 |  14-15 |    +2 |
 |  16-17 |    +3 |
 |     18 |    +4 |
+
+** Points de vie (Hit Points, HP)
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Points de vie (Hit points, HP) | STR + 1D6 par niveau |
+
+Si les HP atteignent 0, le personnage est inconscient et proche de la mort. Les dommages supplémentaires affectent la STR. Si cette dernière atteint 0, le personnage est mort.
 
 * Races
 
@@ -175,5 +184,89 @@ Il n'y a pas de "jets de sauvegarde" dans ce jeu. Les jets utilisés sont les su
 | Résistance à la magie | Will save | Bonus de MIND + niveau |
 
 * Magie
+** Niveau des sorts pouvant être jetés
 
-  Les magiciens peuvent lancer n'importe quel sort ésotérique et les clercs n'importe quel sort divin
+Les sorts, comme les personnages, ont des niveaux.
+
+Les magiciens peuvent lancer n'importe quel sort ésotérique et les clercs n'importe quel sort divin dont le niveau est donné par la table suivante.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Type de magicien | Sorts pouvants être lancés | Niveau du sort                           |
+|------------------+----------------------------+------------------------------------------|
+| Magicien         | Sorts ésotériques (Arcane) | (Niveau /2) arrondi au chiffre supérieur |
+| Clerc            | Sorts divins               | (Niveau /2) arrondi au chiffre supérieur |
+
+Jeter un sort coûte des points de vie (Hit Points, HP). Le coût est (1 + (2 x niveau du sort)).
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Niveau du sort | 0 | 1 | 2 | 3 | 4 |  5 |  6 |  7 |  8 |  9 |
+| Coût en HP     | 1 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 | 19 |
+
+Cette perte *ne peut pas* être soignée normalement mais est récupérée après 8 heures de repos. Il n'est pas besoin de mémoriser les sorts à l'avance.
+
+Ce n'est pas parce qu'un personnage peut jeter n'importe quel sort qu'il le doit. Choisissez des sorts qui vont avec le personnage. Sélectionnez un sort spécial, dit "signature", par niveau de sort, comme le sort préféré parmi tous les autres. Ces sorts sont plus faciles à jeter en raison de leur aspect connu, coûtant ainsi 1 HP de moins à utiliser.
+
+** Classe de difficulté pour jeter les sorts
+
+La classe de difficulté (Difficulty Class, DC) pour tous les sorts est donné par la formule suivante :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| DC pour les sorts | 10 + niveau du jeteur de sort + bonus de MIND |
+
+* Combat
+
+** Initiative
+
+Procédure :
+- Lancer 1D20 + bonus de DEX.
+- Tous les personnages peuvent faire une chose par tour: bouger, attaquer, jeter un sort, etc.
+
+** Bonus à l'attaque
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Bonus à l'attaque | Formule                                                                                     |
+|-------------------+---------------------------------------------------------------------------------------------|
+| Armes de mêlée    | Bonus de STR + niveau                                                                       |
+|                   | Alternative : Bonus de DEX + niveau pour Guerrier et Voleur s'ils utilisent une arme légère |
+| Armes de jet      | Bonus de DEX + niveau                                                                       |
+| Magie             | Bonus de MIND + niveau                                                                      |
+
+** Jet d'attaque
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Jet d'attaque  | 1D20 + bonus à l'attaque |
+
+Si le jet d'attaque est supérieur à la classe d'armure du défenseur (Armor Class, AC), vous avez touché. Avec un 20, vous obtenez une réussite critique automatique et faites le maximum de dommages.
+
+** Double attaque
+
+Les guerriers et les voleurs peuvent attaquer avec deux armes légères dans le même tour avec un malus à l'attaque de -2 sur les deux attaques.
+
+Une rapière est considérée comme une arme légère mais vous ne pouvez pas utiliser la double attaque avec deux rapières.
+
+Quand le bonus à l'attaque est très élevé il est possible de faire plusieurs attaques avec un malus sur les attaques supplémentaires.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Bonus à l'attaque | Nombre d'attaques supplémentaires | Malus |
+|-------------------+-----------------------------------+-------|
+| +6 ou plus        |                                +1 |    -5 |
+| +11 ou plus       |                                +2 |   -10 |
+
+Par exemple, si votre bonus à l'attaque est de +12, vous pouvez faire 3 attaques par tour avec des bonus suivants : +12/+7/+2.
+
+** Dommages
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Dommages | Bonus de STR + bonus à l'attaque armes de mêlée pour les armes simples            |
+|          | (Bonus de STR + bonus à l'attaque armes de mêlée) x 2 pour les armes à deux mains |
+
+
+
+
+
+
+
+
+
+
+

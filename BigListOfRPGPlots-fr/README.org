@@ -1,0 +1,23 @@
+#+TITLE: La grande liste des intrigues des JDR
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-04-25
+#+STARTUP: overview
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Concepteur               | John Ross                                          |
+| Version traduite         | Version originale 2002                             |
+| PDF original             | [[file:The_Big_List_of_RPG_Plots_by_S._John_Ross.pdf]] |
+| Traduction et adaptation | O. Rey Avril 2021                                  |
+
+
+* Une aide aux MJ, par John Ross, Version 2
+
+Ce qui suit est un ensemble de sujets divers... ma collection d'intrigues de JDR, dans une forme abstraite. J'ai construit cela en examinant les démarrages de centaines d'aventures publiées pour toues les systèmes de jeu (en incluant les systèmes chers à mon coeur n'étant plus imprimés), en tentant de les réduire à des dénominateurs communs. Les résultats sont publiés ici : arbitraires et parfois redondants. Néanmoins, je me retourne vers cette liste quand je sèche sur un nouveau démarrage pour la prochaine session hebdomadaire de ma campagne, quelque soit la campagne. Cela m'aide à ne pas tomber dans les ornières thématiques (ce que je préfère le moins). Avec un peu de chance, cela remplira la même fonction pour vous.
+
+/Note/ : Les intrigues sont arrangées par titre et par ordre alphabétique. Comme les titres sont arbitraires, l'ordre n'a pas d'importance particulière. Et si vous voulez du blabla shakespearien en cinq actes, des intrigues complexes, l'Homme contre Lui-Même ou d'autres stupidités littéraires, essayez le Writer's Digest. On n'est pas à Oxford, mec.
+
+* Tout vieux port dans une tempête
+
+Les PJ cherchent un abri contre les éléments  ou contre une autre menace, et trouve un endroit pour se terrer. Ils s'aperçoivent qu'ils sont tombés sur quelque chose de dangereux, de secret, ou de surnaturel, et donc doivent y faire face afin de trouver un peu de repos.
+
+

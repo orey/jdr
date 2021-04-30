@@ -4,7 +4,7 @@ clear
 if [ $# -eq 0 ]
 then
     echo "Git publish script version 1"
-    echo "Usage : publish.sh [comment_between_quotes]"
+    echo "Usage : publish.sh [comments without quotes]"
     exit 0
 fi
 

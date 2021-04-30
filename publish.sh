@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 clear
 
-if [ $# != 1 ]
+if [ $# == 0 ]
 then
     echo "Git publish script version 1"
     echo "Usage : publish.sh [comment_between_quotes]"
@@ -9,7 +9,8 @@ then
 fi
 
 git add *
-git commit -a -m "$1"
+echo "$@"
+git commit -a -m "$@"
 git push origin master
 
 echo "Done"

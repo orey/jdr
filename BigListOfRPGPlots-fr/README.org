@@ -37,7 +37,30 @@ Des méchants sont arrivés et ils ont fait des trucs de méchants. Les PJ n'ont
 
 * Chantage
 
-Habituellement, 
+Habituellement, en usant de tricherie (et parfois en fouillant dans le passé des PJ), un adversaire possède quelque chose qui est susceptible de faire obéir les PJ. La menace peut être de n'importe quel type depuis une menace physique jusqu'à une menace sociale, mais l'intrigue dépend du fait que le méchant possède quelque chose - même si ce n'est une information - que ne possède pas les autres. Avec cela, il contrôle les PJ en leur disant de faire des choses qu'ils ne veulent pas faire. Les PJ doivent briser le cercle du chantage, priver le méchant de son avantage et le rendre temporairement satisfait tandis qu'ils le font.
+
+/Thèmes et rebondissements courants/ :
+- L'accroche de l'aventure implique que les personnages doivent d'abord aider le méchant, ce qui permet à ce dernier de les faire chanter (situation cynique).
+- Pour réussir à se sortir du chantage, les PJ doivent contacter d'autres victimes.
+- Les PJ ne sont pas les victimes mais la victime est quelqu'un qu'ils apprécient ou qu'ils sont chargés de protéger.
+
+* Cambriolage
+
+Objectif de la mission : pénétrer dans un endroit dangereux, et rapporter quelque chose  vital ou ramener une personne. Surmonter toutes les difficultés de l'endroit pour y parvenir.
+
+/Thèmes et rebondissements courants/ :
+- L'objectif n'est pas de rapporter quelque chose, mais de détruire quelque chose, ou d'interférer dans un processus en cours :
+  + Détruire le générateur de champ de force,
+  + Tuer le méchant roi,
+  + Interrompre le sort avant qu'il ne soit lancé,
+  + Ruiner les plans d'invasion,
+  + Fermer un portail,
+  + Etc.
+- L'objectif a changé de place.
+- L'objectif est une information qui doit être diffusée ou publiée dans le secteur dès qu'elle a été trouvée.
+- Le travail doit être fait dans la plus grande discrétion.
+- Les PJ ne savent pas que l'endroit est dangereux.
+- Les PJ doivent remplacer une chose par une autre chose.
 
 
 

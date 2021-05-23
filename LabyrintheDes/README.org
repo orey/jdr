@@ -57,14 +57,14 @@ Le dé de position peut aussi être utilisé sous contrainte. Par exemple, si le
 
 ** Dé numéro 2 : dé des événements
 
-| Face | Symbole             | Commentaire                         |
-|------+---------------------+-------------------------------------|
-|    1 | Escalier montant    | Ou sortie                           |
-|    2 | Escalier descendant | Ou sortie                           |
-|    3 | Trappe              |                                     |
-|    4 | Impasse             | Rejouer si cela n'a pas de sens     |
+| Face | Symbole             | Commentaire                          |
+|------+---------------------+--------------------------------------|
+|    1 | Escalier montant    | Ou sortie                            |
+|    2 | Escalier descendant | Ou sortie                            |
+|    3 | Trappe              |                                      |
+|    4 | Impasse             | Rejouer si cela n'a pas de sens      |
 |    5 | Puits               | Lancer 1D#50 pour montant/descendant |
-|    6 | Piège               |                                     |
+|    6 | Piège               |                                      |
 
 ** Dé numéro 3 : Type de salles - D#3
 

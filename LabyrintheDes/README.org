@@ -1,0 +1,63 @@
+* Générateur de labyrinthes avec des dés customisés
+
+** Jeu de dés en bois vierge
+
+Se procurer un jeu de dés vierges à 6 faces comme celui montré ci-dessous. Marquez les dés comme indiqué ci-dessous.
+
+[[des.jpeg]]
+
+** Dé utilitaire 1 : le dé des dés - D#D
+
+| Face | Symbole | Commentaire       |
+|------+---------+-------------------|
+|    1 | D4      | Représente un D4  |
+|    2 | D6      | Représente un D6  |
+|    3 | D8      | Représente un D8  |
+|    4 | D10     | Représente un D10 |
+|    5 | D12     | Représente un D12 |
+|    6 | D20     | Représente un D20 |
+
+Lancer 1D#D revient à faire deux lancers :
+- Un premier lancer qui est un D#D,
+- Un second lancer qui est le dé indiqué sur le premier lancer.
+
+** Dé utilitaire 2 : le dé de position - D#P
+
+| Face | Symbole | Commentaire |
+|------+---------+-------------|
+|  1-2 | F       | En face     |
+|  3-4 | G       | A gauche    |
+|  5-6 | D       | A droite    |
+
+Le dé de position peut aussi être utilisé sous contrainte. Par exemple, si le D#1 montre un coude, ce dernier ne peut aller qu'à gauche ou à droite. Lancez le D#P jusqu'à tomber sur G ou D.
+
+** Dé numéro 1 : le dé principal - D#1
+
+| Face | Symbole       | Commentaire                                                                    |
+|------+---------------+--------------------------------------------------------------------------------|
+|    1 | Couloir droit | Pendant 1D6 cases ou pendant 1D#D cases (si votre papier est large)            |
+|    2 | Coude         | Le couloir fait un coude à D#P. Rejouez jusqu'à tomber sur G ou D              |
+|    3 | Couloir en T  | Lancer un D#P. F : couloirs à G et à D. G : couloirs F et G. D couloirs F et D |
+|    4 | Croisement    | Couloirs en F, à G et à D                                                      |
+|    5 | Evénement     | Lancer un D#2                                                                  |
+|    6 | Salle         | Lancer un D#3                                                                  |
+
+** Dé numéro 2 : dé des événements
+
+| Face | Symbole             | Commentaire                              |
+|------+---------------------+------------------------------------------|
+|    1 | Escalier montant    | Ou sortie                                |
+|    2 | Escalier descendant | Ou sortie                                |
+|    3 | Trappe              |                                          |
+|    4 | Impasse             | Rejouer si cela n'a pas de sens          |
+|    5 | Puits               | Lancer 1D6 : 1-3 montant, 4-6 descendant |
+|    6 | Piège               |                                          |
+
+** Dé numéro 3 : Type de salles - D#3
+
+| Face | Symbole   | Commentaire                   |
+|------+-----------+-------------------------------|
+|  1-2 | Carré     | Côté de la salle 1 D#D        |
+|  3-4 | Rectangle | Salle de taille 1 D#D x 1 D#D |
+|    5 | Ellipse   | Salle de taille 1 D#D x 1 D#D |
+|    6 | Octogone  | Diamètre 1 D#D                |

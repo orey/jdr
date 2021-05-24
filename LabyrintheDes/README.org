@@ -84,7 +84,7 @@ Le dé de position peut aussi être utilisé sous contrainte. Par exemple, si le
 |    5 | 3S      | 3 sorties     |
 |    6 | 0S      | Aucune sortie |
 
-** D#5 - Dé numéro 5 : contenue de la salle
+** D#5 - Dé numéro 5 : contenu de la salle
 
 | Face | Symbole | Commentaire     |
 |------+---------+-----------------|

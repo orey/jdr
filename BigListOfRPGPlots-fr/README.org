@@ -154,3 +154,5 @@ Les PJs, pendant qu'ils voyagent ou explorent, tombent sur un nid de méchants q
 /Thèmes et rebondissements courants/ :
 Les PJs doivent comprendre comment utiliser des ressources locales dans le but de se défendre, ou avoir une chance contre les habitants.
 
+
+

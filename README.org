@@ -101,7 +101,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 |-------------------------------------------------------------------------------------------+------------------|
 | https://podcasts.apple.com/us/podcast/drink-spin-run-the-rpg-talkshow-podcast/id929736757 | Drink, spin, run |
 | https://wanderingdms.com                                                                  | Wandering DMs    |
-|                                                                                           |                  |
+| https://drinkspinrun.blogspot.com/?m=1            |   Drink, spin, run               |
 
 
 ** Sites de jeux en français

@@ -16,7 +16,7 @@ Ce qui suit est un ensemble de sujets divers... ma collection d'intrigues de JDR
 
 /Note/ : Les intrigues sont arrangées par titre et par ordre alphabétique. Comme les titres sont arbitraires, l'ordre n'a pas d'importance particulière. Et si vous voulez du blabla shakespearien en cinq actes, des intrigues complexes, l'Homme contre Lui-Même ou d'autres stupidités littéraires, essayez le [[https://www.writersdigest.com/][Writer's Digest]]. On n'est pas à Oxford, mec.
 
-* Tout vieux port dans une tempête
+* 1. Tout vieux port dans une tempête
 
 Les PJ cherchent un abri contre les éléments ou contre une autre menace, et trouvent un endroit pour se terrer. Ils s'aperçoivent qu'ils sont tombés sur quelque chose de dangereux, de secret, ou de surnaturel, et donc doivent y faire face afin de trouver un peu de repos.
 
@@ -26,7 +26,7 @@ Les PJ cherchent un abri contre les éléments ou contre une autre menace, et tr
 - Les PJ ne doivent pas seulement se battre pour un abri, mais ils doivent se battre pour survivre.
 - L'endroit est un véritable abri d'un certain genre, mais les PJ ne sont pas les bienvenus et ils doivent gagner les coeurs ou les intellects pour gagner leur lit pour la nuit.
 
-* Mieux vaut tard que jamais
+* 2. Mieux vaut tard que jamais
 
 Des méchants sont arrivés et ils ont fait des trucs de méchants. Les PJ n'ont rien compris au film. Les méchants ont décidé de se faire la malle, et les PJ en ont entendu parler à temps pour se lancer à leur poursuite avant qu'ils ne rejoignent leur repaire, leur pays, leurs lignes ennemies, etc.
 
@@ -35,7 +35,7 @@ Des méchants sont arrivés et ils ont fait des trucs de méchants. Les PJ n'ont
 - Les méchants empruntent une voie détournée (métaphoriquement ou réellement), tentant de se cacher ou de se fondre dans l'environnement (souvent hostile aux PJ).
 - Si les méchants passent la "ligne d'arrivée" de l'aventure (passer la frontière, passer en vitesse lumière, etc.), il n'est plus possible de les poursuivre au delà.
 
-* Chantage
+* 3. Chantage
 
 Habituellement, en usant de tricherie (et parfois en fouillant dans le passé des PJ), un adversaire possède quelque chose qui est susceptible de faire obéir les PJ. La menace peut être de n'importe quel type depuis une menace physique jusqu'à une menace sociale, mais l'intrigue dépend du fait que le méchant possède quelque chose - même si ce n'est une information - que ne possède pas les autres. Avec cela, il contrôle les PJ en leur disant de faire des choses qu'ils ne veulent pas faire. Les PJ doivent briser le cercle du chantage, priver le méchant de son avantage et le rendre temporairement satisfait tandis qu'ils le font.
 
@@ -44,7 +44,7 @@ Habituellement, en usant de tricherie (et parfois en fouillant dans le passé de
 - Pour réussir à se sortir du chantage, les PJ doivent contacter d'autres victimes.
 - Les PJ ne sont pas les victimes mais la victime est quelqu'un qu'ils apprécient ou qu'ils sont chargés de protéger.
 
-* Cambriolage
+* 4. Cambriolage
 
 Objectif de la mission : pénétrer dans un endroit dangereux, et rapporter quelque chose  vital ou ramener une personne. Surmonter toutes les difficultés de l'endroit pour y parvenir.
 
@@ -62,7 +62,7 @@ Objectif de la mission : pénétrer dans un endroit dangereux, et rapporter quel
 - Les PJ ne savent pas que l'endroit est dangereux.
 - Les PJ doivent remplacer une chose par une autre chose.
 
-* Conquérir le drapeau
+* 5. Conquérir le drapeau
 
 Les PJ doivent sécuriser une cible militaire pour le compte des gentils. Des méchants sont là qui préfèrent ne pas être sécurisés. C'est le scénario tactique par excellence.
 
@@ -74,7 +74,7 @@ Les PJ doivent sécuriser une cible militaire pour le compte des gentils. Des m�
   + Une population de gens fragiles ne devant pas être blessés dans la bataille ;
   + Des biens fragiles ou d'autres choses précieuses qui ne doivent pas être endommagés dans les tirs croisés.
 
-* Nettoyer la malédiction
+* 6. Nettoyer la malédiction
 
 Il existe un endroit où des choses mauvaises vivent. Les PJ doivent sécuriser la zone pour le compte de personnes gentilles, et éradiquer systématiquement tout danger.
 
@@ -85,7 +85,7 @@ Il existe un endroit où des choses mauvaises vivent. Les PJ doivent sécuriser 
 - La zone est infestée d'extraterrestres.
 - La forêt sauvage.
 
-* Le régal du chercheur de trésors
+* 7. Le régal du chercheur de trésors
 
 Les PJ sont des chasseurs de trésors qui ont eu vent de l'existence d'une ruine chargée de trésors. Ils vont l'explorer, et ils doivent faire face à ses habitants surnaturels pour gagner leurs trésors et en sortir vivants.
 
@@ -95,7 +95,7 @@ Les PJ sont des chasseurs de trésors qui ont eu vent de l'existence d'une ruine
 - Le trésor est la propriété légitime de quelqu'un d'autre.
 - Le trésor a une volonté propre.
 
-* Ne mangez pas les violets (survie)
+* 8. Ne mangez pas les violets (survie)
 
 Les PJ échouent dans un endroit étrange, et doivent survivre en trouvant de la nourriture et un abri. Ils doivent ensuite s'inquiéter de comment rentrer chez eux.
 
@@ -104,7 +104,7 @@ Les PJ échouent dans un endroit étrange, et doivent survivre en trouvant de la
   + L'aide arrive,
   + Le navire et/ou la radio ou autre chose soi(en)t réparé(s). Dans les scénarios de "réparation", les PJ doivent parfois découvrir certains faits relatifs à l'environnement qui vont leur permettre de faire les réparations nécessaires.
 
-* Élémentaire, mon cher Watson
+* 9. Élémentaire, mon cher Watson
 
 Un crime ou une atrocité a été commis(e) ; les PJ doivent le résoudre. Ils doivent interroger les témoins (et s'assurer qu'ils ne font pas tuer), rassembler des indices (et s'assurer qu'elles ne seront pas volées ou détruites). Ils doivent alors assembler des preuves à livrer aux autorités, ou faire la justice eux-mêmes.
 
@@ -115,7 +115,7 @@ Un crime ou une atrocité a été commis(e) ; les PJ doivent le résoudre. Ils d
 - Le point culminant de l'histoire se passe dans un tribunal ou dans un autre endroit où l'on rend les jugements.
 - L'échelle de ce genre d'aventures est variable, depuis un meurtre dans une petite ville jusqu'au scandale d'une pollution planétaire.
 
-* Service d'escorte
+* 10. Service d'escorte
 
 Les PJ disposent d'un objet de valeur ou sont en charge d'une personne importante. Ils doivent rapporter cet objet à son propriétaire légitime, ramener la personne dans un lieu protégé, etc. Ils doivent entreprendre un voyage dangereux dans lequel une ou plusieurs factions (et la chance et la malchance) vont tenter de leur soustraire la personne sous leur protection ou la chose en leur possession.
 
@@ -126,7 +126,7 @@ Les PJ disposent d'un objet de valeur ou sont en charge d'une personne important
 - L'arrivée à la destination n'arrête pas l'histoire ; les PJ doivent alors négocier la personne ou la chose comme une marchandise (échange d'argent contre un otage par exemple).
 - Les PJ doivent protéger leur cible sans que le cible ne soit au courant.
 
-* Une maison en ordre
+* 11. Une maison en ordre
 
 Les PJ sont placés à la tête d'une grande opération (une compagnie commerciale, une baronnie féodale, la CIA, etc.) et doivent, malgré leur manque d'expérience dans ce domaine, la faire fonctionner et prospérer.
 
@@ -134,7 +134,7 @@ Les PJ sont placés à la tête d'une grande opération (une compagnie commercia
 - Les PJ sont embarqués dans cette histoire parce que quelque chose d'important se prépare et l'ancienne garde se ménage une change de d'enfuir.
 - Les paysans, voisins, employés, etc., en veulent aux PJ parce qu'ils n'apprécient pas leurs méthodes et que tout le monde aimait l'ancien patron.
 
-* La cavalerie arrive
+* 12. La cavalerie arrive
 
 Une personne, ou un groupe religieux, une nation, une galaxie, etc., est dans une situation périlleuse, si bien qu'ils ne peuvent survivre sans secours. C'est le boulot des PJ de les secourir. Dans certains scénarios, l'hameçon est aussi simple qu'un cri lointain ou un signal de détresse grésillant.
 
@@ -145,14 +145,15 @@ Une personne, ou un groupe religieux, une nation, une galaxie, etc., est dans un
 - La "victime" ne réalise pas qu'elle a besoin d'être secourue ; elle pense qu'elle fait quelque chose de raisonnable ou de sûr.
 - La menace n'est pas le fait d'un méchant ; c'est un désastre naturel, un accident nucléaire, ou une épidémie.
 - Les victimes ne peuvent pas partir ; quelque chose d'immobile et de vital doit être pris en charge sur le lieu de l'aventure.
-- Les PJ démarrent comme faisant partie des victimes, doivent s'échapper, rassembler des forces ou des ressources afin de revenir et de procéder comme indiqué ci-dessus.
+- Les PJ démarrent comme faisant partie des victimes, doivent s'échapper, rassembler des forces ou des ressources afin de procéder comme indiqué ci-dessus.
 
-* La base cachée
+* 13. La base cachée
 
-Les PJs, pendant qu'ils voyagent ou explorent, tombent sur un nid de méchants qui préparent la Grande Méchanceté.Ils doivent trouver un moyen de passer un message au gentils, ou s'y faufiler pour netraliser l'endroit par eux-mêmes, ou une combinaison des deux.
+Les PJ, durant leur voyage ou leur exploration, tombent sur un nid de méchants préparant la Grande Méchanceté. Ils doivent trouver le moyen d'avertir les gentils, ou entrer discrètement et neutraliser l'endroit, ou une combinaison des deux.
 
 /Thèmes et rebondissements courants/ :
-Les PJs doivent comprendre comment utiliser des ressources locales dans le but de se défendre, ou avoir une chance contre les habitants.
+- Les PJ doivent comprendre comment utiliser les ressources locales pour se défendre ou avoir une chance contre les habitants.
+
 
 
 

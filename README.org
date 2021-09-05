@@ -94,12 +94,12 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 ** Tools
 
-| Site                             | Comment                                      |
-|----------------------------------+----------------------------------------------|
-| https://worldographer.com        | Worldographer                                |
-| http://donjon.bin.sh/d20/dungeon | d20 Random Dungeon Generator and other tools |
-| https://purplesorcerer.com/      | Purple Sorcerer, tools for DCC               |
-|                                  |                                              |
+| Site                                              | Comment                                      |
+|---------------------------------------------------+----------------------------------------------|
+| https://worldographer.com                         | Worldographer                                |
+| http://donjon.bin.sh/d20/dungeon                  | d20 Random Dungeon Generator and other tools |
+| https://purplesorcerer.com/                       | Purple Sorcerer, tools for DCC               |
+| https://site.pelgranepress.com/index.php/gumshoe/ | Gumshoe                                      |
 
 
 ** Podcast and videos

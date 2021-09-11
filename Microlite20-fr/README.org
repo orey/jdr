@@ -302,9 +302,7 @@ Par exemple, si votre bonus à l'attaque est de +12, vous pouvez faire 3 attaque
 ** Table des monstres
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre                                   | Dés de vie (DV) | CA | Attaque 1             |             Dommages 1 | Attaque 2                       |    Dommages 2 |
-|-------------------------------------------+-----------------+----+-----------------------+------------------------+---------------------------------+---------------|
-|                                           | Moyenne (PV)    |    |                       |                        |                                 |               |
+| Monstre                                   | Dés de vie (DV) - Moyenne | CA | Attaque 1             |             Dommages 1 | Attaque 2                       |    Dommages 2 |
 |-------------------------------------------+-----------------+----+-----------------------+------------------------+---------------------------------+---------------|
 | Zombie                                    | 2D12+3 - 16     | 11 | Claquement +2         |                  1D6+1 | Gourdin +2                      |         1D6+1 |
 | Roturier (humain)                         | 1D8+1 - 5       | 12 | Dague +1              |                  1D6+1 | Fronde +1                       |           1D4 |

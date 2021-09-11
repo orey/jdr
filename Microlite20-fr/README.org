@@ -18,18 +18,22 @@ Ce jeu est une version miniature abrégée des règles SRD (System Reference Doc
 
 Note du traducteur : certaines notions du jeu ne sont pas expliquées dans le jeu original et font directement référence à des notions de D&D (voir [[file:LICENSE.org]] pour le copyright). Nous tentons, dans cette traduction, d'apporter les éléments complémentaires manquant à la compréhension des débutants.
 
-* Caractéristiques (STAT)
+* 1. Caractéristiques (STAT)
+
+** Niveau
+
+Tous les personnages démarrent au niveau 1.
 
 ** Caractéristiques
 
 Chaque personnage possède 3 caractéristiques :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Caractéristique | Nom anglais | Abréviation |
-|-----------------+-------------+-------------|
-| Force           | Strength    | STR         |
-| Dextérité       | Dexterity   | DEX         |
-| Esprit          | Mind        | MIND        |
+| Caractéristique | Abbréviation FR | Nom anglais | Abréviation EN |
+|-----------------+-----------------+-------------+----------------|
+| Force           | **FOR**         | Strength    | STR            |
+| Dextérité       | **DEX**         | Dexterity   | DEX            |
+| Esprit          | **ESP**         | Mind        | MIND           |
 
 Lancer 4D6 et garder les 3 dés les plus hauts. Faites le total et l'assigner à une des caractéristiques. Faites cela pour les deux autres caractéristiques.
 
@@ -49,98 +53,69 @@ De manière plus explicite :
 |  16-17 |    +3 |
 |     18 |    +4 |
 
-** Points de vie (Hit Points, HP)
+** Points de vie (PV)
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Points de vie (Hit points, HP) | STR + 1D6 par niveau |
+| Points de vie **PV** (Hit points, HP) | FOR + 1D6 par niveau |
 
 Si les HP atteignent 0, le personnage est inconscient et proche de la mort. Les dommages supplémentaires affectent la STR. Si cette dernière atteint 0, le personnage est mort.
 
-* Races
+* 2. Races
+
+Choisissez votre race :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Humains | +1 à tous les jets de compétences |
-| Elfes   | +2 en MIND                        |
-| Nains   | +2 en STR                         |
-| Hobbits | +2 en DEX                         |
+| Humains | +1 à tous les jets de compétences (voir partie 3) |
+| Elfes   | +2 en ESP                                         |
+| Nains   | +2 en FOR                                         |
+| Hobbits | +2 en DEX                                         |
 
-* Classes
-
-Les classes sont : 
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Classe   | Nom anglais |
-|----------+-------------|
-| Guerrier | Fighter     |
-| Voleur   | Rogue       |
-| Magicien | Mage        |
-| Clerc    | Cleric      |
-
-Tous les personnages démarrent au niveau 1.
-
-** Guerrier
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Trait       | Détail                                                          |
-|-------------+-----------------------------------------------------------------|
-| Armure      | Portent n'importe quel type d'armure et utilisent des boucliers |
-| Compétences | +3 en Phy                                                       |
-| Attaque     | +1 pour toutes les attaques                                     |
-| Dommages    | +1 aux dommages                                                 |
-
-** Voleurs
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Trait       | Détail                                                                                                                          |
-|-------------+---------------------------------------------------------------------------------------------------------------------------------|
-| Armure      | Peuvent porter des armures légères                                                                                              |
-| Compétences | +3 en Sub                                                                                                                       |
-| Dommages    | "+rang de compétence Subterfuge" si utilisation de la compétence "se faufiler" (usuellement DEX+Sub) pour leur première attaque |
-
-** Magiciens
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Trait       | Détail                        |
-|-------------+-------------------------------|
-| Armure      | Ne portent pas d'armure       |
-| Compétences | +3 en Know                    |
-| Magie       | Lancent des sorts ésotériques |
-
-** Clercs
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Trait       | Détail                                                                                                         |
-|-------------+----------------------------------------------------------------------------------------------------------------|
-| Armure      | Peuven porter des armures légères ou moyennes                                                                  |
-| Compétences | +3 en Com                                                                                                      |
-| Magie       | Lancent des sorts divins                                                                                       |
-|             | Un clerc peut "retourner les morts vivants" avec un jet réussi de magie, dont la DC est les HP du mort vivant. |
-|             | Si le scope est supérier de 10 à la DC, le mort vivant est détruit.                                            |
-|             | Cette faculté peut être utilisée seulement (2 + Niveau + Bonus MIND) par jour                                  |
-
-_Note_: "Retourner les morts vivants".
-
-Extrait du [[https://www.d20srd.org/srd/combat/specialAttacks.htm][SRD 3.5]] (traduit en français) :
-
-/Les clercs [...] bons et neutres peuvent canaliser l'énergie positive, ce qui peut arrêter, éloigner ou détruire les morts-vivants. Les clercs mauvais et neutres peuvent canaliser l'énergie négative ce qui peut arrêter, calmer, contrôler ou encourager les morts-vivants. Quelque soit l'effet, le terme générale est "retourner". Quand ils tentent d'exercer leur contrôle divin sur ces créatures, les personnages font des jets de "retourner les morts vivants". /
-
-* Compétences
+* 3. Compétences
 ** Compétences
 
-Il y a seulement 4 compétences :
+Il n'y a que 4 compétences dans Microlite20 :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Compétences   | Nom anglais   | Abréviation |
-|---------------+---------------+-------------|
-| Physique      | Physical      | Phy         |
-| Subterfure    | Subterfuge    | Sub         |
-| Savoir        | Knowledge     | Kno         |
-| Communication | Communication | Com         |
+| Compétences   | Abbréviation FR | Nom anglais   | Abréviation en |
+|---------------+-----------------+---------------+----------------|
+| Physique      | **PHY**         | Physical      | Phy            |
+| Subterfure    | **SUB**         | Subterfuge    | Sub            |
+| Savoir        | **SAV**         | Knowledge     | Kno            |
+| Communication | **COM**         | Communication | Com            |
 
-** Classes de difficulté
+Le rang de compétence est déterminé par la formule suivante :
 
-Extrait du [[https://www.d20srd.org/srd/skills/usingSkills.htm][SRD 3.5]] (traduit en français) :
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Terme              | Définition                                                    |
+|--------------------+---------------------------------------------------------------|
+| Rang de compétence | Niveau du personnage + bonus applicable de race ou  de classe |
 
-/Certains jets sont réalisés contre une classe de difficulté, notée DC (Difficulty Class). La DC est un nombre que vous devez égaler ou dépasser avec un jet de compétences./
+** Jets de compétences
+
+Pour faire un jet de compétences, appliquez la formule suivante :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Terme              | Définition                                                                       |
+|--------------------+----------------------------------------------------------------------------------|
+| Jet de compétence  | D20 + (rang de compétence + bonus le plus applicable) + modificateurs de situation |
+
+Exemples de (rang de compétence + bonus le plus applicable) :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Exemple de jet               | Utiliser            |
+|------------------------------+---------------------|
+| Escalade                     | PHY + bonus de FOR  |
+| Esquiver un rocher qui tombe | PHY + bonus de DEX  |
+| Trouver un piège             | SUB + bonus de ESP  |
+| Désamorcer un piège          | SUB + bonus de DEX  |
+
+** Classe de difficulté (CD)
+
+_Note_ : les jets de compétences sont réalisés contre une classe de difficulté CD (en anglais DC pour "difficulty class"). L'objectif est de faire un jet de compétences supérieur ou égal à la CD de l'action pour réussir.
+
+Explications complémentaires de la classe de difficulté extraites du [[https://www.d20srd.org/srd/skills/usingSkills.htm][SRD 3.5]] de D&D (traduit en français) :
+
+/Certains jets sont réalisés contre une classe de difficulté, notée CD (classe de Difficulté). La CD est un nombre que vous devez égaler ou dépasser avec un jet de compétences./
 
 Exemples tirés du SRD 3.5 :
 
@@ -156,36 +131,75 @@ Exemples tirés du SRD 3.5 :
 | Héroïque              | 30 | Sauter au dessus d'un gouffre de 10 mètres de large         | Sauter              |
 | Presqu'impossible     | 35 | Pister une troupe d'orcs sur terrain sec après 24h de pluie | Pister              |
 
-** Jets de compétences
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Terme              | Définition                                                                       |
-|--------------------+----------------------------------------------------------------------------------|
-| Rang de compétence | Niveau + bonus applicable de race ou bonus applicable de classe                  |
-| Jet de compétence  | D20 + rang de compétence + bonus le plus applicable + modificateurs de situation |
-
-Par exemple : 
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Exemple de jet               | Utiliser            |
-|------------------------------+---------------------|
-| Escalade                     | Phy + bonus de STR  |
-| Esquiver un rocher qui tombe | Phy + bonus de DEX  |
-| Trouver un piège             | Sub + bonus de MIND |
-| Désamorcer un piège          | Sub + bonus de DEX  |
-
 ** Jets de sauvegarde
 
 Il n'y a pas de "jets de sauvegarde" dans ce jeu. Les jets utilisés sont les suivants :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Exemple de jet        | Anglais   | Utiliser               |
-|-----------------------+-----------+------------------------|
-| Résistance physique   | Fortitude | Phy + bonus de STR     |
-| Réflexe               | Reflex    | Phy + bonus de DEX     |
-| Résistance à la magie | Will save | Bonus de MIND + niveau |
+| Exemple de jet        | Anglais   | Utiliser              |
+|-----------------------+-----------+-----------------------|
+| Résistance physique   | Fortitude | PHY + bonus de FOR    |
+| Réflexe               | Reflex    | PHY + bonus de DEX    |
+| Résistance à la magie | Will save | Niveau + bonus de ESP |
 
-* Magie
+* 4. Classes
+
+Les classes sont : 
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Classe   | Nom anglais |
+|----------+-------------|
+| Guerrier | Fighter     |
+| Voleur   | Rogue       |
+| Mage     | Mage        |
+| Clerc    | Cleric      |
+
+** Guerrier
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                                                          |
+|-------------+-----------------------------------------------------------------|
+| Armure      | Portent n'importe quel type d'armure et utilisent des boucliers |
+| Compétences | +3 en PHY                                                       |
+| Attaque     | +1 pour toutes les attaques                                     |
+| Dommages    | +1 aux dommages                                                 |
+
+** Voleurs
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                                                                                                                          |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------|
+| Armure      | Peuvent porter des armures légères                                                                                              |
+| Compétences | +3 en SUB                                                                                                                       |
+| Dommages    | "+rang de compétence Subterfuge" si utilisation de la compétence "se faufiler" (usuellement DEX+Sub) pour leur première attaque |
+
+** Magiciens
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                        |
+|-------------+-------------------------------|
+| Armure      | Ne portent pas d'armure       |
+| Compétences | +3 en SAV                     |
+| Magie       | Lancent des sorts ésotériques |
+
+** Clercs
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Trait       | Détail                                                                                                    |
+|-------------+-----------------------------------------------------------------------------------------------------------|
+| Armure      | Peuven porter des armures légères ou moyennes                                                             |
+| Compétences | +3 en COM                                                                                                 |
+| Magie       | Lancent des sorts divins                                                                                  |
+|             | Un clerc peut "retourner les morts vivants" avec un jet réussi de magie, pour une CD = PV du mort vivant. |
+|             | Si le score est supérieur de 10 à la CD, le mort vivant est détruit.                                      |
+|             | Cette faculté peut être utilisée seulement (2 + Niveau + Bonus ESP) par jour                              |
+
+_Note_: "Retourner les morts vivants".
+
+Extrait du [[https://www.d20srd.org/srd/combat/specialAttacks.htm][SRD 3.5]] (traduit en français) :
+
+//Les clercs [...] bons et neutres peuvent canaliser l'énergie positive, ce qui peut arrêter, éloigner ou détruire les morts-vivants. Les clercs mauvais et neutres peuvent canaliser l'énergie négative ce qui peut arrêter, calmer, contrôler ou encourager les morts-vivants. Quelque soit l'effet, le terme générale est "retourner". Quand ils tentent d'exercer leur contrôle divin sur ces créatures, les personnages font des jets de "retourner les morts vivants". //
+
+* 5. Magie
 ** Niveau des sorts pouvant être jetés
 
 Les sorts, comme les personnages, ont des niveaux.
@@ -198,42 +212,51 @@ Les magiciens peuvent lancer n'importe quel sort ésotérique et les clercs n'im
 | Magicien         | Sorts ésotériques (Arcane) | (Niveau /2) arrondi au chiffre supérieur |
 | Clerc            | Sorts divins               | (Niveau /2) arrondi au chiffre supérieur |
 
-Jeter un sort coûte des points de vie (Hit Points, HP). Le coût est (1 + (2 x niveau du sort)).
+Jeter un sort coûte des points de vie PV. Le coût est (1 + (2 x niveau du sort)).
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Niveau du sort | 0 | 1 | 2 | 3 | 4 |  5 |  6 |  7 |  8 |  9 |
-| Coût en HP     | 1 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 | 19 |
+| Coût en PV     | 1 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 | 19 |
 
 Cette perte *ne peut pas* être soignée normalement mais est récupérée après 8 heures de repos. Il n'est pas besoin de mémoriser les sorts à l'avance.
 
-Ce n'est pas parce qu'un personnage peut jeter n'importe quel sort qu'il le doit. Choisissez des sorts qui vont avec le personnage. Sélectionnez un sort spécial, dit "signature", par niveau de sort, comme le sort préféré parmi tous les autres. Ces sorts sont plus faciles à jeter en raison de leur aspect connu, coûtant ainsi 1 HP de moins à utiliser.
+Ce n'est pas parce qu'un personnage peut jeter n'importe quel sort qu'il le doit. Choisissez des sorts qui vont avec le personnage. Sélectionnez un sort spécial, dit "signature", par niveau de sort, comme le sort préféré parmi tous les autres. Ces sorts sont plus faciles à jeter en raison de leur aspect connu, coûtant ainsi 1 PV de moins à utiliser.
 
-** Classe de difficulté pour jeter les sorts
+** Classe de difficulté pour résister aux sorts
 
-La classe de difficulté (Difficulty Class, DC) pour tous les sorts est donné par la formule suivante :
+La classe de difficulté CD pour résister à un sort est donnée par la formule suivante :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| DC pour les sorts | 10 + niveau du jeteur de sort + bonus de MIND |
+| CD pour résister à un sort | 10 + niveau du jeteur de sort + bonus de ESP |
 
-* Combat
+* 6. Combat
 
 ** Initiative
 
 Procédure :
-- Lancer 1D20 + bonus de DEX.
+- Lancer 1D20 + bonus de DEX pour déterminer l'initiative. Le plus haut commence.
 - Tous les personnages peuvent faire une chose par tour: bouger, attaquer, jeter un sort, etc.
 
-** Bonus à l'attaque
+** Classe d'armure (CA)
+
+La classe d'armure est calculée via la formule suivante :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Classe d'armure (CA) | 10 + bonus de DEX + bonus d'armure |
+
+** Attaque
+
+Pour chaque attaque, il faut d'abord calculer un potentiel bonus à l'attaque :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Bonus à l'attaque | Formule                                                                                     |
 |-------------------+---------------------------------------------------------------------------------------------|
-| Armes de mêlée    | Bonus de STR + niveau                                                                       |
+| Armes de mêlée    | Bonus de FOR + niveau                                                                    |
 |                   | Alternative : Bonus de DEX + niveau pour Guerrier et Voleur s'ils utilisent une arme légère |
 | Armes de jet      | Bonus de DEX + niveau                                                                       |
-| Magie             | Bonus de MIND + niveau                                                                      |
+| Magie             | Bonus de ESP + niveau                                                                       |
 
-** Jet d'attaque
+Puis faire le jet d'attaque avec ce bonus.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Jet d'attaque  | 1D20 + bonus à l'attaque |
@@ -259,83 +282,135 @@ Par exemple, si votre bonus à l'attaque est de +12, vous pouvez faire 3 attaque
 ** Dommages
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Dommages | Bonus de STR + bonus à l'attaque armes de mêlée pour les armes simples            |
-|          | (Bonus de STR + bonus à l'attaque armes de mêlée) x 2 pour les armes à deux mains |
+| Dommages | Bonus de FOR + bonus à l'attaque armes de mêlée pour les armes simples         |
+|          | (Bonus de FOR + bonus à l'attaque armes de mêlée) x 2 pour les armes à deux mains |
 
-** Classe d'armure (Armor Class, AC)
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Classe d'armure (AC) | 10 + bonus de DEX + bonus d'armure |
-
-* Autres dangers
+* 7. Autres dangers
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Danger                   | Effet                                                                                                                   |
 |--------------------------+-------------------------------------------------------------------------------------------------------------------------|
 | Chute                    | Dommages : 1D6 par 3 mètres                                                                                             |
-|                          | La moitié seulement si jet de sauvegarde sur (Phy + Bonus de DEX) réussi avec DC = (hauteur de la chute en mètres x 3)  |
+|                          | La moitié seulement si jet de sauvegarde sur (PHY + Bonus de DEX) réussi avec CD = (hauteur de la chute en mètres x 3)  |
 | Piques                   | Ajouter +1 point de dommages par 3 mètres, maximum : +10                                                                |
-| Poison                   | Jet de sauvegarde (Phy + bonus de STR) pour éviter des dommages ou les diviser par deux (dépend du poison)              |
-| Extrême chaleur et froid | Sans protection adéquate, jet de sauvegarde (Phy + bonus de STR) toutes les 10 minutes (DC 15, +1 par jet déjà effectué |
-|                          | 1D6 dommages par échec                                                                                                  |
+| Poison                   | Jet de sauvegarde (PHY + bonus de FOR) pour éviter des dommages ou les diviser par deux (dépend du poison)              |
+| Extrême chaleur et froid | Sans protection adéquate, jet de sauvegarde (PHY + bonus de FOR) toutes les 10 minutes (CD 15, +1 par jet déjà effectué, |
+|                          | 1D6 dommages par échec)                                                                                                 |
 
-* Monstres
+* 8. Monstres
+
+** Table des monstres
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Monstre                                   | Dés de vie (HD)    | Classe d'armure (AC) | Attaque            |             Dommages |
-|-------------------------------------------+--------------------+----------------------+--------------------+----------------------|
-| Animal (petit), type blaireau             | HD 1D8+2 (6 HP)    | AC 15                | Griffes +4         |                1D2-1 |
-| Ankheg (genre de mante religieuse géante) | HD 3D10+12 (28 HP) | AC 18                | Morsure +7         | 2D6+7 plus acide 1D4 |
-| Croque-mitaines (Bugbear)                 | HD 3d10+12 (28 hp) | AC 17                | Masse à pointes +5 |                1D8+2 |
-|                                           |                    |                      | Javelot +3         |                1D6+2 |
-|                                           |                    |                      |                    |                      |
+| Monstre                                   | Dés de vie (DV) | CA | Attaque 1             |             Dommages 1 | Attaque 2                       |    Dommages 2 |
+|                                           | Moyenne (PV)    |    |                       |                        |                                 |               |
+|-------------------------------------------+-----------------+----+-----------------------+------------------------+---------------------------------+---------------|
+| Zombie                                    | 2D12+3 - 16     | 11 | Claquement +2         |                  1D6+1 | Gourdin +2                      |         1D6+1 |
+| Roturier (humain)                         | 1D8+1 - 5       | 12 | Dague +1              |                  1D6+1 | Fronde +1                       |           1D4 |
+| Orc                                       | 1D8+1 - 5       | 13 | Fauchon (épée) +4     |                  2D4+4 | Javelot +1                      |         1D6+3 |
+| Ombre                                     | 3D12 - 19       | 13 | Toucher incorporel +3 |                1D6 FOR |                                 |               |
+| Petit insecte (type araignée)             | 1D8 - 4         | 14 | Morsure +4            |      1D4-2 plus poison |                                 |               |
+| Loup                                      | 2D8+4 - 13      | 14 | Morsure +3            |                  1D6+1 |                                 |               |
+| Animal (petit), type blaireau             | 1D8+2 - 6       | 15 | Griffes +4            |                  1D2-1 |                                 |               |
+| Rat méchant                               | 1D8+1 - 5       | 15 | Morsure +4            |       1D4 plus maladie |                                 |               |
+| Squelette combattant                      | 1D12 - 6        | 15 | Cimeterre +1          |                  1D6-1 | Griffes +1 (mélée)              |         1D4+1 |
+| Esprit                                    | 4D12 - 26       | 15 | Claquement +3         | 1D4+1 + suce l'énergie |                                 |               |
+| Elfe                                      | 1D8 - 4         | 15 | Epée longue +2        |                  1D8+1 | Arc long +3                     |           1D8 |
+| Hibours (Owlbear)                         | 510+25 - 52     | 15 | Griffes +9            |                  1D6+5 |                                 |               |
+| Kobold                                    | 1D8 - 4         | 15 | Lance +1              |                  1D6-1 | Fronde +3                       |           1D3 |
+| Gobelin                                   | 1D8+1 - 5       | 15 | Masse à pointes +2    |                    1D6 | Javelot +3                      |           1D4 |
+| Hobgobelin                                | 1D8+2 - 6       | 15 | Epée longue +2        |                  1D8+1 | Javelot +2                      |         1D6+1 |
+| Deinonychous (Raptor)                     | 4D8+16 - 34     | 16 | Serres +6             |                  2D6+4 |                                 |               |
+| Nain                                      | 1D8+2 - 6       | 16 | Hache de guerre +3    |                 1D10+1 | Arc court +1                    |           1D6 |
+| Ogre                                      | 4D8+11 - 29     | 16 | Gourdin géant +8      |                  2D8+7 | Javelot +1                      |         1D8+5 |
+| Stirge                                    | 1D10 - 5        | 16 | Toucher +7            |            Attachement |                                 |               |
+| Troll                                     | 6D8+36 - 63     | 16 | Griffes +9            |                  1D6+6 |                                 |               |
+| Loup-garou                                | 3D8+7 - 20      | 16 | Griffes +4            |                  1D4+2 |                                 |               |
+| Gargouille                                | 4D8+19 - 37     | 16 | Griffes +6            |                  1D4+2 |                                 |               |
+| Hobbit                                    | 1D8+1 - 5       | 16 | Arc court +3          |                    1D6 | Petite arbalète +3              |           1D6 |
+| Cerbère                                   | 4D8+4 - 22      | 16 | Morsure +5            |     1D8+1 + 1D6 de feu |                                 |               |
+| Croque-mitaines (Bugbear)                 | 3D8+3 - 16      | 17 | Masse à pointes +5    |                  1D8+2 | Javelot +3                      |         1D6+2 |
+| Etrangleur (Choker)                       | 3D8+3 - 16      | 17 | Tentacule +6          |                  1D3+3 |                                 |               |
+| Griffon                                   | 7D10+21 - 59    | 17 | Morsure +11           |                  2D6+4 |                                 |               |
+| Monstre de rouille                        | 5D8+5 - 27      | 18 | Antennes (toucher) +3 |                Rouille |                                 |               |
+| Vouivre                                   | 7D12+14 - 59    | 18 | Dard +10              |      1D6+4 plus poison | Serres +10 / Morsure +10        | 2D6+4 / 2D8+4 |
+| Ankheg (genre de mante religieuse géante) | 3D10+12 - 28    | 18 | Morsure +7            |   2D6+7 plus acide 1D4 |                                 |               |
+| Grand élémental de terre                  | 8D8+32 - 68     | 18 | Claquement +12        |                  2D8+7 |                                 |               |
+| Géant des collines                        | 12D8+48 - 102   | 20 | Gourdin géant +16     |                 2D8+10 | Rocher +8                       |         2D6+7 |
+| Dragon (jeune Rouge)                      | 13D12+39 - 123  | 21 | Morsure +20           |                  2D6+7 | Souffle / Esquive CD 24 PHY+DEX |  10D10 / 5D10 |
+| Golem de pierre                           | 14D10+30 - 107  | 26 | Claquement +18        |                 2D10+9 |                                 |               |
 
+** Compétences
 
-Choker HD 3d8+3 (16 hp) AC 17 Tentacle +6 (1d3+3)
-Deinonychous (Raptor) HD 4d8+16 (34 hp) AC 16 Talons +6 (2d6+4)
-Dire Rat HD 1d8+1 (5 hp) AC 15 Bite +4 (1d4 plus disease)
-Dragon (young Red) HD 13d12+39 (123 hp) AC 21 Bite +20 (2d6+7) or breath 10d10 DC24 phys+DEX to
-dodge for half
-Dwarf HD 1d8+2 (6 hp) AC 16 Waraxe +3 (1d10+1) or shortbow +1 (1d6)
-Earth Elemental (large) HD 8d8+32 (68 hp) AC 18 Slam +12 (2d8+7)
-Elf HD 1d8 (4 hp) AC 15 Longsword +2 (1d8+1) or longbow +3 (1d8)
-Gargoyle HD 4d8+19 (37 hp) AC 16 Claw +6 (1d4+2)
-Goblin HD 1d8+1 (5 hp) AC 15 Morningstar +2 (1d6) or javelin +3 (1d4)
-Griffon HD 7d10+21 (59 hp) AC 17 Bite +11 (2d6+4)
-Halfling HD 1d8+1 (5 hp) AC 16 Shortsword +3 (1d6) or light crossbow +3 (1d6)
-Hellhound HD 4d8+4 (22 hp) AC 16 Bite +5 (1d8+1 plus 1d6 fire)
-Hill Giant HD 12d8+48 (102 hp) AC 20 Greatclub +16 (2d8+10) or rock +8 (2d6+7)
-Hobgoblin HD 1d8+2 (6 hp) AC 15 Longsword +2 (1d8+1) or javelin +2 (1d6+1)
-Human Commoner HD 1d8+1 (5 hp) AC 12 Dagger +1 (1d6+1) or sling +1 (1d4)
-Insect (small) eg Spider HD 1d8 (4 hp) AC 14 Bite +4 (1d4-2 plus poison)
-Kobold HD 1d8 (4 hp) AC 15 Spear +1 (1d6-1) or sling +3 (1d3)
-Ogre HD 4d8+11 (29 hp) AC 16 Greatclub +8 (2d8+7) or javelin +1 (1d8+5)
-Orc HD 1d8+1 (5 hp) AC 13 Falchion +4 (2d4+4) or javelin +1 (1d6+3)
-Owlbear HD 5d10+25 (52 hp) AC 15 Claw +9 (1d6+5)
-Rust Monster HD 5d8+5 (27 hp) AC 18 Antennae touch +3 (rust)
-Shadow HD 3d12 (19 hp) AC 13 Incorporeal touch +3 (1d6 Str)
-Skeleton Warrior HD 1d12 (6 hp) AC 15 Scimitar +1 (1d6+1) or claw +1 melee (1d4+1)
-Stirge HD 1d10 (5 hp) AC 16 Touch +7 (attach)
-Stone Golem HD 14d10+30 (107 hp) AC 26 Slam +18 (2d10+9)
-Troll HD 6d8+36 (63 hp) AC 16 Claw +9 (1d6+6)
-Werewolf (hybrid form) HD 3d8+7 (20 hp) AC 16 Claw +4 (1d4+2)
-Wight HD 4d12 (26 hp) AC 15 Slam +3 (1d4+1 plus energy drain)
-Wolf HD 2d8+4 (13 hp) AC 14 Bite +3 (1d6+1)
-Wyvern HD 7d12+14 (59 hp) AC 18 Sting +10 (1d6+4 plus poison) or Talon +10 (2d6+4) or
-Bite +10 (2d8+4)
-Zombie HD 2d12+3 (16 hp) AC 11 Slam +2 (1d6+1) or club +2 (1d6+1)
+Toutes les créatures ont un bonus, applicable sur toutes les compétences, égal à leur nombre de dés de vie. Par exemple, un Hibours aura un bonus de +5.
 
+Si une créature est intelligente, ajoutez +3 à une compétence. Ajoutez des bonus aux caractéristiques quand la logique l'exige. Ce point est volontairement laissé ouvert dans le jeu.
 
+Par exemple, si vous avez besoin d'un Croque-Mitaine discret, assignez le +3 à la compétence SUB. Si c'est un guerrier, ajoutez +3 à PHY. Pour un jeteur de sorts, assignez +3 à SAV ou à COM et donnez les niveaux correspondants.
 
-* Expérience
+** Expérience des monstres
 
-Niveau de la rencontre = 
+Pour créer un monstre plus fort, ajoutez plus de dés de vie ; chaque dé de vie rajouté leur donne +1 à leur compétence et à leur bonus de combat.
 
+Pour chaque doublement des dés de vie, augmentez la taille du dé d'attaque (D4 -> D6, D6 -> d8, etc.).
 
+De manière alternative, vous pouvez ajouter des niveaux de classes aux monstres intelligents. Commencez par des dés de vie de base et ajoutez les niveaux de guerrier, voleur, clerc ou mage comme requis.
 
+** Créez vos propres monstres
 
+Assignez des dés de vie : D8 pour la plupart des choses, et D12 pour les dragons et les morts-vivants). Le niveau d'attaque et le niveau de compétences est égal au nombre de dés de vie. Si c'est une créature intelligente, faites +3 à une compétence. Ajoutez des bonus aux caractéristiques comme il vous plaira.
 
+* 9. Expérience des PJ
 
+** Changement de niveau
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Niveau de la rencontre (NR) | DV des monstres vaincus                              |
+|                             | Ou niveau de rencontre des pièges ou de la situation |
+|                             | +1 pour chaque double du nombre d'ennemis            |
+|                             | (1 kobold = NR1, 2 kobolds = NR2, 4 kobolds= NR3     |
+
+Procédure :
+1. Ajouter tous les NR des rencontres auxquelles vous avez participé.
+2. Quand le total = 10 x niveau courant, vous avancez d'un niveau.
+3. Remettez les compteurs à zéro après avancement.
+
+** Gains
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gain par niveau          | +1D6 PV                                                   |
+|                          | +1 à tous les jets d'attaque                              |
+|                          | +1 à toutes les compétences                               |
+| Niveau 3, 6, 9, etc.     | +1 FOR ou +1 DEX ou +1 ESP                                |
+| Niveau 5, 10, 15, etc.   | Guerriers +1 Attaque et +1 aux dommages                   |
+| Niveaux 3, 5, 7, 9, etc. | Les clercs et les magiciens ont droit à de nouveaux sorts |
+
+Exemple : Des aventuriers de niveau 1 viennent juste de terminer une aventure. Ils ont vaincu 5 NR1, un pièce NR2 et un leader NR3. Cela fait un total de 10, ce qui fait qu'ils passent  tous au niveau 2. Ils ont besoin d'encore 20 NR pour atteindre le niveau 3.
+
+* 10. Exemples de personnages
+
+** Morris, humain, voleur
+
+| FOR 12 (+1) | DEX 15 (+2)         | ESP 12 (+1)              |        |
+| PV 13       | CA 15 (cuir clouté) | Deux épées courtes +0/+0 |  1D6+1 |
+| PHY +2      | SUB +5              | SAV +2                   | COM +2 |
+
+** Kendrick, nain, guerrier
+
+| FOR 16 (+3) | DEX 13 (+1)                        | ESP 11 (+0)    |        |
+| PV 17       | CA 17 (cote de mailles + bouclier) | Epée longue +5 |  1D8+4 |
+| PHY +4      | SUB +2                             | SAV +2         | COM +2 |
+
+** Chrolmer, elfe, mage
+
+| FOR 12 (+1) | DEX 13 (+1)  | ESP 16 (+3)        |        |
+| PV 13       | CA 11 (robe) | Bâton de combat +2 |  1D6+1 |
+| PHY +1      | SUB +1       | SAV +4             | COM +1 |
+
+** Barnabas, hobbit, clerc
+
+| FOR 10 (+0) | DEX 16 (+3)              | ESP 13 (+1)        |        |
+| PV 11       | CA 18 (cotte de mailles) | Masse à pointes +1 |    1D8 |
+| PHY +1      | SUB +1                   | SAV +1             | COM +4 |
 
 
 

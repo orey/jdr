@@ -9,6 +9,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 ** RPG sites and forums
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                     | Title                             | OSR |
 |----------------------------------------------------------+-----------------------------------+-----|
 | https://www.rpg.net                                      | RPG.net                           | N   |
@@ -28,6 +29,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 ** Games in English
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                          | Game                                    | OSR |
 |---------------------------------------------------------------+-----------------------------------------+-----|
 | https://www.knights-n-knaves.com                              | Osric RPG                               | Y   |
@@ -49,6 +51,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 ** Gaming blogs in English
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                        | Comment                             | OSR |
 |---------------------------------------------+-------------------------------------+-----|
 | https://9and30kingdoms.blogspot.com         | The Nine and Thirty Kingdoms        |     |
@@ -91,6 +94,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 ** Tools
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                              | Comment                                      |
 |---------------------------------------------------+----------------------------------------------|
 | https://worldographer.com                         | Worldographer                                |
@@ -101,6 +105,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 ** Podcast and videos
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                                      | Comment                        |
 |-------------------------------------------------------------------------------------------+--------------------------------|
 | https://podcasts.apple.com/us/podcast/drink-spin-run-the-rpg-talkshow-podcast/id929736757 | Drink, spin, run, the podcasts |
@@ -111,6 +116,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 ** Sites de jeux en français
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                   | Comment                                    | OSR |
 |------------------------------------------------------------------------+--------------------------------------------+-----|
 | https://www.geek-it.org/harry-potter-jdr                               | Harry Potter JDR                           | N   |
@@ -141,6 +147,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 * Exporation récente (chronologiquement)
 
 
+#+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Jeu                          | Type             | Commentaire                                           | Note | OGL | En cours |
 |------+------------------------------+------------------+-------------------------------------------------------+------+-----+----------|
 | 2021 | Metamorphosis Alpha          | RPG              | Cool stuff                                            | 5/5  | -   | **Oui**  |

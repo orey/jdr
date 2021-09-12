@@ -414,3 +414,7 @@ Exemple : Des aventuriers de niveau 1 viennent juste de terminer une aventure. I
 
 
 
+* 11. Autres modules
+
+Il manque diverses choses à ce JDR pour être jouable, notamment quelques sorts par niveau.
+

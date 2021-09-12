@@ -1,0 +1,21 @@
+#+TITLE: Gumshoe SRD - Version Française Simplifiée
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-09-12
+#+STARTUP: overview
+
+[[file:logo.png]]
+
+[[file:CC3UL.png]]
+
+Cette page est une tentative de compression du SRD 3.0 de Gumshoe pour jouer des avenrures de type détective avec des rôlistes plus ou moins expérimentés.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Concepteur               | Robin Laws                                                                         |
+| Version traduite         | Version originale 2007, version pour cette page v3.0 Copyright 2017 Pelgrane Press |
+| PDF original             | [[https://github.com/orey/jdr/blob/master/Gumshoe-fr/GUMSHOE_SRD_CC_3.pdf][GUMSHOE_SRD_CC_3.pdf]]                                                               |
+| Website                  | [[http://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/][http://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/]]     |
+| Traduction et adaptation | O. Rey Sepembre 2021                                                               |
+| Licence                  | Creative Commons Attribution 3.0 Unported License                                  |
+| URL Licence              | http://creativecommons.org/licenses/by/3.0/                                        |
+
+

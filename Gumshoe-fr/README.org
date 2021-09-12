@@ -18,4 +18,101 @@ Cette page est une tentative de compression du SRD 3.0 de Gumshoe pour jouer des
 | Licence                  | Creative Commons Attribution 3.0 Unported License                                  |
 | URL Licence              | http://creativecommons.org/licenses/by/3.0/                                        |
 
+Cette page est plutôt destinée aux MJ qui veulent construire leur propre univers sur le système Gumshoe SRD 3.0. Comme le document est une synthèse très compacte, n'hésitez pas à vous référer au document original en anglais pour plus d'informations. La structure de la page a gardé la structure du document original.
+
+
+* 1. Votre personnage
+
+Les PJ sont déterminés par :
+- Le **concept** des personnages,
+- Les **capacités d'investigation**,
+- Les **capacités générales**.
+
+** Score (rating) et réserve (pool)
+
+Chaque capacité a une certaine valeur appelée **score**. Même si cette capacité peut augmenter avec le temps, durant la partie, elle reste fixe.
+
+Chaque capacité a aussi une **réserve** de points, réserve qui, elle, fluctue pendant la partie. Au démarrage de chaque enquête ou de chaque scénario, la réserve a un nombre de points égal à la capacité. Vous pouvez utiliser les points de cette réserve dès le début de l'aventure et durant l'aventure. A certains moments votre réserve peut être **rafraîchie** ou **réinitialisée** à la valeur du score de sa capacité.
+
+A la création du personnage, un joueur disposera :
+- D'un certain nombre de points à répartir pour les capacités d'investigation - dits **points d'investigations**,
+- D'un certain nombre de points à répartir pour les capacités générales - dits **points généraux**,
+
+** Concept des personnages
+
+Décrire le genre d'enquêtes que les personnages devront résoudre dans votre univers de jeu et quelles sont les décisions que les joueurs doivent prendre quant à leur PJ avant de démarrer le jeu.
+
+Par exemple, vous pouvez choisir de créer :
+- Des **stéréotypes** de personnages adapté au genre d'univers dans lequel vous jouez ;
+- Des **packages** avec un ensemble de valeurs par défaut pour certaines capacités.
+
+Exemple de package extrait du jeu [[https://site.pelgranepress.com/index.php/ashen-stars/][Ashen Stars]] :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Investigation         | Général                          |
+|-----------------------+----------------------------------|
+| Linguistique 1        | Intercepter des communications 6 |
+| Flatter 1             | Sentir les ennuis 4              |
+| Réconforter 1         |                                  |
+| Décrypter 1           |                                  |
+| Trouver des données 1 |                                  |
+
+Vous pouvez aussi choisir des **professions** qui définissent des capacités qui coûtent la moitié des points d'investigation du personnage. Par exemple, pour 6 points d'investigation, vous pouvez attribuer 12 points dans certaines capacités liées à la profession.
+
+Parfois, certaines capacités pour certaines professions donnent des **mécanismes spéciaux**, par exemple dépenser des points de la réserve /après/ un jet (2 points consommés pour un +1 au jet si l'action s'est déroulée sans témoin).
+
+Ces deux dernières options sont disponibles dans [[http://site.pelgranepress.com/index.php/category/products/trail-of-cthulhu/][Trail of Cthulhu]].
+
+Certains jeux proposent aussi des espèces alternatives, comme dans [[http://site.pelgranepress.com/index.php/category/products/timewatch/][TimeWatch]].
+
+** Choisir les capacités d'investigation et leur scores
+
+Les capacités d'investigation sont au centre des personnages Gumshoe. Elles permettent de récupérer des indices et de faire avancer l'intrigue.
+
+Dans votre univers, vous allez sélectionner un certain nombre de capacités. Nous noterons **X** ce nombre.
+
+Le nombre de points que chaque joueur peut dépenser dans les capacités d'investigation dépend du nombre de joueurs réguliers, comme indiqué dans la table suivante.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Nb de joueurs permanents | Nombre de points d'investigation |
+|--------------------------+----------------------------------|
+|                        2 | 80% de X                         |
+|                        3 | 60% de X                         |
+|                        4 | RR% de X                         |
+|                       5+ | 50% de X                         |
+
+Les joueurs qui participent occasionnellement au jeu auront le même nombre de points que les autres, mais ne seront pas comptés dans le nombre de joueurs permanents.
+
+Dans certaines aventures, par exemple si tous vos PJ sont des policiers, il est possible d'avoir un **score gratuit** pour tous, par exemple "Langage de Flic".
+
+Il est important de comprendre comment fonctionnent les capacités d'investigation. Un score de 1 dans n'importe quelle capacité indique un haut degré de professionnalisme ou un talent naturel impressionnant. Si une tâche est dans le girer d'une capacité d'investigation, cette dernière est automatiquement réussie de sorte que les indices sont trouvés pour faire progresser l'intrigue.
+
+A certains moments de l'enquête, vous pourrez être amenés à dépenser des points de votre réserve pour gagner des **bénéfices spéciaux**, soit à votre initiative ou à celle du MJ. Attention à utiliser ces points avec sagesse car la réserve ne se rafraîchit qu'à la fin de l'aventure.
+
+Il est possible, à la création du personnage, de garder de côté des points d'investigation sans les affecter à des capacités d'investigation. Durant le jeu, vous pourrez alors les affecter comme bon vous semblera, en les affectant à une nouvelle capacité ou en renforçant une capacité existante. D'un point de vue de l'histoire, ces capacités n'apparaissent pas soudainement, elles sont juste révélées au grand jour lorsque vous les utilisez.
+
+Lors de la création du personnage, il est utile d'avoir un score de 1 pour plusieurs capacités d'investigation. Il n'est, en effet, pas très utile de dépasser 3 ou 4 dans une capacité d'investigation sachant qu'un score de 1 permet d'obtenir des informations utiles.
+
+** Choisir les capacités générales et leur score
+
+Tous les joueurs ont **60 points généraux** à répartir dans les capacités générales (sauf [[http://site.pelgranepress.com/index.php/category/products/timewatch/][TimeWatch]] où les joueurs n'en ont que 50). Les capacités générales fonctionnent différemment des capacités d'investigation, car il est possible d'échouer. Il est donc conseiller de concentrer les points sur quelques capacités et donc d'avoir des scores sensiblement plus élevés que les capacités d'investigation.
+
+Par exemple, les 60 points donnent la possibilité de répartir dans 12 capacités générales un score de 5.
+
+Certains jeux proposent, en plus des capacités générales, des capacités générales spécialisées. Il est possible dans ce cas de créer un autre stock de points à répartir spécifiquement dans ces capacités.
+
+Vous démarrez le jeu avec 1 point dans **Santé** et dans toute autre capacité par défaut dépendant de l'univers du jeu. Par exemple, la plupart des jeux Gumshoe étant des jeux d'horreur, ils proposent **Equilibre mental** comme capacité par défaut.
+
+Seule règle à propos des capacités générale : le score de la deuxième plus haute des capacités doit être au moins la moitié du score de la plus haute capacité.
+
+Les capacités générales sont très importantes dans le système de jeu Gumshoe car elles introduisent une certaine incertitude et sont utilisées dans des moments clef. Le système Gumshoe ne s'intéresse pas aux traits de caractère des personnages mais à ce qu'ils peuvent faire dans le cours d'une histoire. Vos personnages sont forts, rapides, bien habillés, etc., comme vous les voulez.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Score capacité générale | Interprétation du score                                   |
+|-------------------------+-----------------------------------------------------------|
+|                       0 | Pas de possibilité de faire un test de capacité           |
+|                     1-3 | Capacité secondaire                                       |
+|                     4-7 | Capacité solide mais pas exceptionnelle                   |
+|                      8+ | Capacité exceptionnelle immédiatement visible aux témoins |
+
 

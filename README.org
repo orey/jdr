@@ -96,7 +96,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                         | Comment                       | OSR |
 |----------------------------------------------+-------------------------------+-----|
-| http://www.fightingfantazine.co.uk/page/     | Fighting fantasy zine         | N   |
+| http://www.fightingfantazine.co.uk/page/     | Fighting fantasy zine         | Y   |
 | https://noonetoplay.blogspot.com/            | Blog centered around solo RPG | N   |
 | https://www.dieheart.net/solo-rpg-resources/ | Solo RPG resources            | N   |
 | http://solorpggamer.blogspot.com/            | Solo RPG Gamer                | N   |
@@ -156,42 +156,44 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 * Exporation récente (chronologiquement)
 
-
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Date | Jeu                          | Type             | Commentaire                                           | Note | OGL | En cours |
-|------+------------------------------+------------------+-------------------------------------------------------+------+-----+----------|
-| 2021 | Metamorphosis Alpha          | RPG              | Cool stuff                                            | 5/5  | -   | **Oui**  |
-| 2021 | Ironsworn                    | RPG              | A very interesting game                               | 5/5  | N   | **Oui**  |
-| 2021 | Gumshoe system               | Generic system   |                                                       | 5/5  | N   | **Oui**  |
-| 2021 | DCC                          | RPG              | A whole universe                                      | 5/5  | Y   | **Oui**  |
-| 2021 | Légendes                     | JDR              |                                                       | 5/5  | N   | Revenir  |
-| 2021 | Tékumel                      | RPG              |                                                       | 3/5  | N   | N        |
-| 2021 | **Microlite**                | Generic system   | Traduction en cours                                   | 5/5  | N   | **Oui**  |
-| 2021 | Fortunes Wheel               | RPG              | With tarot cards                                      |      | N   | Revenir  |
-| 2021 | Maléfices                    | JDR              | Un des meilleurs JDR français                         | 5/5  | N   | + tard   |
-| 2021 | GURPS                        | RPG              |                                                       | 4/5  | N   | N        |
-| 2021 | Traveller 1e                 | RPG              |                                                       | 5/5  | N   | Revenir  |
-| 2020 | D&D 5e basic rules           | RPG              |                                                       | 3/5  | -   | N        |
-| 2020 | Covetous                     | GM emulator      | Bon produit avec plein de tables                      | 5/5  | N   | Revenir  |
-| 2020 | Conspiracy X                 | RPG              |                                                       | 3/5  | N   | N        |
-| 2020 | D&D SRD 3.5                  | RPG              | [[https://github.com/orey/srd-3.5][Repo spécial]] avec diverses versions                   | 4/5  | -   | N        |
-| 2020 | Solo games and random tools  | RPG              | Various stuff                                         | 3/5  | N   | Revenir  |
-| 2020 | Méga                         | JDR              |                                                       | 4/5  | N   | Revenir  |
-| 2020 | Empire galactique            | JDR              |                                                       | 3/5  | N   | N        |
-| 2020 | L'appel de Cthulhu           | JDR              |                                                       | 5/5  | N   | + tard   |
-| 2020 | Warhammer FR 1e              | JDR              |                                                       | 5/5  | N   | + tard   |
-| 2020 | Hero kids                    | RPG for kids     |                                                       | 3/5  | N   | N        |
-| 2020 | Pokethulhu                   | RPG              | Il faut aimer le thème                                | 3/5  | N   | N        |
-| 2020 | CRGE                         | GM emulator      | Basé sur le "Yes but.../No but..."                    | 3/5  | N   | N        |
-| 2020 | **Mythic**                   | GM emulator      | Des [[https://github.com/orey/jdr/tree/master/Mythic-fr][ressources en français]] (écran !)                  | 5/5  | N   | Revenir  |
-| 2020 | PIP system                   | Generic system   |                                                       | 3/5  | N   | N        |
-| 2020 | QAGS - Quick Ass Game System | Generic system   | Système simple et dynamique assez marrant             | 4/5  | N   | Revenir  |
-| 2020 | Gateway                      | Heroic fantasy   | JDR simple basé sur D&D                               | 3/5  | Y   | N        |
-| 2020 | FU - Freeform Universal      | Generic system   | JDR basé sur le "Yes but.../No but..."                | 4/5  | N   | Revenir  |
-| 2020 | **Risus**                    | Generic system   | [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart                  | 4/5  | N   | Revenir  |
-| 2020 | **PremièreFable**            | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]] | 4/5  | N   | N        |
-| 2020 | MiniSix                      | Generic system   |                                                       | 4/5  | N   | Revenir  |
-| 2020 | Dagger                       | RPG for kids     |                                                       | 3/5  | Y   | N        |
+| Date | Game                         | Type             | Comment                                                 | Note | OSR | Ongoing |
+|------+------------------------------+------------------+---------------------------------------------------------+------+-----+---------|
+| 2021 | Fighting Fantasy             | Generic System   | From Steve Jackson & Ian Livingstone                    | -    | Y   | Y       |
+| 2021 | Bloodlust                    | Heroic Fantasy   | French game by Croc                                     | 3/5  | N   | N       |
+| 2021 | Fudge                        | Generic System   | Ongoing                                                 | -    | N   | Y       |
+| 2021 | Metamorphosis Alpha          | Sci-Fi           | Interesting game                                        | 3/5  | -   | N       |
+| 2021 | Ironsworn                    | Heroic Fantasy   | Interesting game but too random (action dice vs 2D10)   | 3/5  | N   | N       |
+| 2021 | Gumshoe system               | Generic system   | Investigation oriented: That one is for me :)           | 5/5  | N   | Y       |
+| 2021 | DCC                          | Heroic Fantasy   | A whole universe                                        | 4/5  | Y   | N       |
+| 2021 | Légendes                     | Historic Fantasy | Great game for the universes. Hyper complex game system | 5/5  | N   | Later   |
+| 2021 | Tékumel                      | Heroic Fantasy   | Author's world                                          | 3/5  | N   | N       |
+| 2021 | Microlite                    | Generic System   | [[https://github.com/orey/jdr/tree/master/Microlite20-fr][French translation]] done. Not playable as-is.            | 3/5  | N   | N       |
+| 2021 | Fortunes Wheel               | -                | Very interesting with tarot cards                       | -    | N   | Later   |
+| 2021 | Maléfices                    | French Steampunk | Un des meilleurs JDR français                           | 5/5  | N   | Later   |
+| 2021 | GURPS                        | Generic System   | To investigate                                          | -    | N   | Later   |
+| 2021 | Traveller 1e                 | Sci-Fi           | Seducing                                                | -    | N   | Later   |
+| 2020 | D&D 5e basic rules           | Heroic Fantasy   |                                                         | 3/5  | -   | N       |
+| 2020 | Covetous                     | GM Emulator      | Bon produit avec plein de tables                        | -    | N   | Later   |
+| 2020 | Conspiracy X                 | Modern           |                                                         | -    | N   | Later   |
+| 2020 | D&D SRD 3.5                  | Heroic Fantasy   | [[https://github.com/orey/srd-3.5][Repo spécial]] avec diverses versions.                    | 4/5  | -   | N       |
+| 2020 | Méga                         | Sci-Fi           | A French success                                        | -    | N   | Later   |
+| 2020 | Empire galactique            | Sci-Fi           | One of the first french RPG                             | 3/5  | N   | N       |
+| 2020 | L'appel de Cthulhu           | Horror           | The best                                                | 5/5  | N   | Later   |
+| 2020 | Warhammer FR 1e              | Heroic Fantasy   | A very good game                                        | 5/5  | N   | Later   |
+| 2020 | Hero kids                    | RPG for kids     | Bof, better play a simple adult game, or Bubblegumshoe  | 2/5  | N   | N       |
+| 2020 | Pokethulhu                   | Fun              | You need to like the comics                             | 2/5  | N   | N       |
+| 2020 | CRGE                         | GM Emulator      | Based on the "Yes but.../No but..."                     | 2/5  | N   | N       |
+| 2020 | Mythic                       | GM Emulator      | Great! [[https://github.com/orey/jdr/tree/master/Mythic-fr][Resources in French]] (un écran !)                 | 5/5  | N   | Later   |
+| 2020 | PIP system                   | Generic system   |                                                         | -    | N   | Later   |
+| 2020 | QAGS - Quick Ass Game System | Generic system   | Simple and funny dynamic system                         | 4/5  | N   | Later   |
+| 2020 | Gateway                      | Heroic fantasy   | Based on D&D                                            | 3/5  | Y   | N       |
+| 2020 | FU - Freeform Universal      | Generic system   | JDR basé sur le "Yes but.../No but..."                  | -    | N   | Later   |
+| 2020 | Risus                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart        | 4/5  | N   | Later   |
+| 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].  | 4/5  | N   | N       |
+| 2020 | MiniSix                      | Generic system   |                                                         | -    | N   | Later   |
+| 2020 | Dagger                       | RPG for kids     | Bof                                                     | 3/5  | Y   | N       |
+|      |                              |                  |                                                         |      |     |         |
 
 
 

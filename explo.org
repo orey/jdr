@@ -3,7 +3,6 @@
 #+DATE: 2021-09-18
 #+STARTUP: overview
 
-* Exporation récente
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                 | Note | OSR | Ongoing |
@@ -44,7 +43,7 @@
 | 2020 | Dagger                       | RPG for kids     | Bof                                                     | 3/5  | Y   | N       |
 |      |                              |                  |                                                         |      |     |         |
 
-* Mécaniques de intéressantes
+* Mécaniques de jeux intéressantes
 
 ** Bloodlust, jeu de Croc
 

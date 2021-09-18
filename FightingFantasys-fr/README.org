@@ -1,0 +1,29 @@
+#+TITLE: Fighting Fantasy - Règles en français
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-09-18
+#+STARTUP: overview
+
+[[file:FF2018.ebp]]
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Concepteur               | Steve Jackson                                    |
+| Version originale        | Version originale 1984 - Copyright Steve Jackson |
+| Website                  | [[https://www.fightingfantasy.com/][https://www.fightingfantasy.com/]]                 |
+| Traduction et adaptation | O. Rey Sepembre 2021                             |
+| Licence                  | Copyright Steve Jackson                          |
+
+* Création du personnage
+
+Un personnage a trois caractéristiques :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Caractéristiques | Création |
+|------------------+----------|
+| Compétences      |    1D6+6 |
+| Constitution     |   1D6+12 |
+| Chance           |     1D+6 |
+
+
+
+
+

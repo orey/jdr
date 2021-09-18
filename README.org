@@ -154,7 +154,9 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 
 
-* Exporation récente (chronologiquement)
+* Exporations récente
+
+Voir [[file:explo.org][Explorations récentes]]
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                 | Note | OSR | Ongoing |

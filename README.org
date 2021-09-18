@@ -94,11 +94,12 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 ** Solo RPG links
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                         | Comment                             | OSR |
-|----------------------------------------------+-------------------------------------+-----|
-| https://noonetoplay.blogspot.com/            | Blog centered around solo RPG       | N   |
-| https://www.dieheart.net/solo-rpg-resources/ | Solo RPG resources                  | N   |
-| http://solorpggamer.blogspot.com/            | Solo RPG Gamer                      | N   |
+| Site                                         | Comment                       | OSR |
+|----------------------------------------------+-------------------------------+-----|
+| http://www.fightingfantazine.co.uk/page/     | Fighting fantasy zine         | N   |
+| https://noonetoplay.blogspot.com/            | Blog centered around solo RPG | N   |
+| https://www.dieheart.net/solo-rpg-resources/ | Solo RPG resources            | N   |
+| http://solorpggamer.blogspot.com/            | Solo RPG Gamer                | N   |
 
 
 ** Tools

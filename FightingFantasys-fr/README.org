@@ -14,14 +14,94 @@
 
 * Création du personnage
 
-Un personnage a trois caractéristiques :
+** Caractéristiques
+
+Un personnage a trois caractéristiques : *compétence*, *constitution* et *chance*.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Caractéristiques | Création |
-|------------------+----------|
-| Compétences      |    1D6+6 |
-| Constitution     |   1D6+12 |
-| Chance           |     1D+6 |
+| Caractéristiques | Création | Commentaires                                               | Acronyme |
+|------------------+----------+------------------------------------------------------------+----------|
+| Compétence       |    1D6+6 | Test de compétence réussi : 2D6 inférieur ou égal au score | COMP     |
+| Points de vie    |   2D6+12 | Représente les points de vie. A 0, le PJ est mort          | PV       |
+| Chance           |     1D+6 | Test de chance réussi : 2D6 inférieur ou égal au score     | CHA      |
+
+** Equipement
+
+Tous les personnages démarrent avec :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Objet          | Points/Doses  | Commentaires                                                    |
+|----------------+---------------+-----------------------------------------------------------------|
+| Une épée       | -             | -                                                               |
+| un sac à dos   | -             | Pour mettre les trésors                                         |
+| Une lanterne   | -             | Une lanterne et son combustible suffisent pour une aventure     |
+| Des provisions | 2 à 10 points | Les provisions restorent les points de vie d'autant de points   |
+|                |               | On ne peut pas consommer les provisions pendant un combat       |
+| Une potion     | 2 doses       | Une potion de compétence, de vie ou de chance (choix du joueur) |
+|                |               | Une potion restore le score concerné à son niveau original      |
+
+
+* Monstres
+
+Les montres ont aussi ont des caractéristiques Compétence et Constitution.
+
+Ils ont une autre caractéristique : *Attaques* qui représente le nombre de joueurs que les monstres peuvent attaquer /en même temps/.
+
+* Combats
+
+** Combat simple
+
+Un round de combat se passe comme suit :
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| N° | Action                             | Effet                 | Chance (optionnel)        |
+|----+------------------------------------+-----------------------+---------------------------|
+|  1 | Attaque monstre = 2D6 + COMP       | -                     | -                         |
+|    | Attaque PJ = 2D6 + COMP            | -                     | -                         |
+|  2 | Si Attaque monstre > attaque PJ    | -2 PV pour le PJ      | Voir table suivante cas 1 |
+|    | Si Attaque PJ > attaque monstre    | -2 PV pour le monstre | Voir table suivante cas 2 |
+|    | Si Attaque PJ = attaque monstre    | Aucun effet           | -                         |
+
+Le combat s'arrête quand l'un des deux adversaire est mort (PV = 0).
+
+Si un PJ s'enfuit, il perd automatiquement 2 PV (dernière blessure infligée par le monstre). La chance peut être utilisée pour réduire les dommages.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Cas | Jet de chance | Effet                                  |
+|-----+---------------+----------------------------------------|
+|   1 | Réussi        | -1 PV au lieu de -2 PV pour le PJ      |
+|   1 | Raté          | -3 PV au lieu de -2 PV pour le PJ      |
+|   2 | Réussi        | -4 PV au lieu de -2 PV pour le monstre |
+|   2 | Raté          | -1 PV au lieu de -2 PV pour le monstre |
+
+** Combat multiple
+
+*** Un monstre à une attaque contre trois PJ (A, B et C)
+
+1. Le MJ tire au sort le PJ qui sera attaqué (ou le choisit) : C.
+2. Résolution du combats simple entre le monstre et C.
+  - Le MJ enregistre le score d'attaque du monstre.
+3. Les autres PJ, A et B, font une attaque :
+  - Si elle est inférieure à l'attaque du montre, le monstre n'a rien,
+  - Si elle est supérieure, il prend les dommages normaux,
+  - A et B ne prennent aucun dommage.
+
+On appelle les attaques de A et B, des *attaques protégées*, car ils ne peuvent pas prendre de dommages.
+
+Au round suivant, le processus recommence.
+
+*** Un monstre à 8 attaques contre quatre PJ (A, B, C et D)
+
+_Note_: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela ne signifie pas que le monstre a des attaques gratuites. Le nombre d'attaques correspond au nombre maximum de PJ que le monstre peut attaquer.
+
+1. Le MJ calcule l'attaque du monstre (2D6 + COMP): celle-ci est valable pour tous les joueurs ;
+2. Chaque combat est résolu normalement.
+
+*** Deux PJ (A et B) contre deux monstres (X, 2 attaques et Y, 1 attaque)
+
+1. Le MJ demande aux joueurs quels monstres ils veulent attaquer. Les monstres répondront aux attaques. Tout monstre supplémentaire attaquera de manière aléatoire l'un des deux PJ. Les combats doivent donc se dérouler A-X et B-Y.
+2. Résoudre les combats A-X et B-Y.
+2. X a une seconde attaque, il peut donc attaquer B en mode attaque protégée.
 
 
 

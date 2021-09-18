@@ -3,7 +3,7 @@
 #+DATE: 2021-09-18
 #+STARTUP: overview
 
-[[file:FF2018.ebp]]
+[[file:FF2018.webp]]
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Concepteur               | Steve Jackson                                    |

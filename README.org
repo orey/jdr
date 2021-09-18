@@ -54,6 +54,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                        | Comment                             | OSR |
 |---------------------------------------------+-------------------------------------+-----|
+| https://noonetoplay.blogspot.com/           | Blog centered around solo RPG       | N   |
 | https://9and30kingdoms.blogspot.com         | The Nine and Thirty Kingdoms        |     |
 | https://akraticwizardry.blogspot.com        | AKRATIC WIZARDRY                    |     |
 | https://apaladinincitadel.blogspot.com      | A Paladin In Citadel                |     |

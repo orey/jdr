@@ -54,6 +54,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                        | Comment                             | OSR |
 |---------------------------------------------+-------------------------------------+-----|
+| https://gurps.fandom.com/wiki/Main_Page     | GURPS Wiki                          | N   |
 | https://worldoffightingfantasy.blogspot.com | The world of Fighting Fantasy       | N   |
 | https://9and30kingdoms.blogspot.com         | The Nine and Thirty Kingdoms        |     |
 | https://akraticwizardry.blogspot.com        | AKRATIC WIZARDRY                    |     |

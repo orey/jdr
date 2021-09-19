@@ -52,44 +52,45 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 ** Gaming blogs in English
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                         | Comment                             | OSR |
-|----------------------------------------------+-------------------------------------+-----|
-| https://9and30kingdoms.blogspot.com          | The Nine and Thirty Kingdoms        |     |
-| https://akraticwizardry.blogspot.com         | AKRATIC WIZARDRY                    |     |
-| https://apaladinincitadel.blogspot.com       | A Paladin In Citadel                |     |
-| https://backtothedungeon.blogspot.com        | BACK TO THE DUNGEON!                |     |
-| https://batintheattic.blogspot.com           | Bat in the Attic                    |     |
-| https://beyondtheblackgate.blogspot.com      | Beyond the Black Gate               |     |
-| https://bxblackrazor.blogspot.com            | B/X Black Razor                     |     |
-| https://carjackedseraphim.blogspot.com       | Carjacked Seraphim                  |     |
-| http://crawlfanzine.blogspot.com/            | Crawl!                              | Y   |
-| https://curmudgeonsdragons.blogspot.com      | Curmudgeons and Dragons             |     |
-| https://cyclopeatron.blogspot.com            | Cyclopeatron                        |     |
-| https://deltasdnd.blogspot.com               | Delta's D&D Hotspot                 |     |
-| https://dreamsofmythicfantasy.blogspot.com   | Dreams of Mythic Fantasy            |     |
-| https://dungeonsndigressions.blogspot.com    | Dungeons and Digressions            |     |
-| http://www.greyhawkgrognard.com/             | Greyhawk Grognard                   |     |
-| https://grognardia.blogspot.com              | Grognardia                          | Y   |
-| https://hackslashmaster.blogspot.com         | Hasck and Slash                     |     |
-| https://jrients.blogspot.com                 | Jeff's Gameblog                     |     |
-| https://www.landofphantoms.com/              | Land of phantoms                    |     |
-| https://lordofthegreendragons.blogspot.com   | Lord of the Green Dragon            |     |
-| https://lotfp.blogspot.com                   | Lamentations of the Flame Princess  |     |
-| https://maximumrockroleplaying.blogspot.com  | Maximum Rock and Roleplay           |     |
-| https://muleabides.wordpress.com             | The Mule Abides                     |     |
-| https://peoplethemwithmonsters.blogspot.com  | People Them With Monsters           |     |
-| https://planetalgol.blogspot.com             | Planet Algol                        |     |
-| https://poleandrope.blogspot.com             | The society of torch, pole and rope |     |
-| https://sagaworkstudios.blogspot.com/        | Saga works studio                   |     |
-| https://shamsgrog.blogspot.com/              | Sham's Glog and Blog                |     |
-| https://shiftymushrooms.weebly.com           | The Gentle Art of Wargaming         |     |
-| https://sorcerersskull.blogspot.com          | From the Sorcerer's Skull           |     |
-| https://swordandsanity.blogspot.com          | Swords and Sanity                   |     |
-| https://tabletopdiversions.blogspot.com/     | Tabletop Diversions                 |     |
-| https://www.thickskulladventures.com/        | Thick Skull Adventures              |     |
-| https://towerofthearchmage.blogspot.com      | Tower of the Archmage               |     |
-| https://trollandflame.blogspot.com           | Troll and Flame                     |     |
-|                                              |                                     |     |
+| Site                                        | Comment                             | OSR |
+|---------------------------------------------+-------------------------------------+-----|
+| https://worldoffightingfantasy.blogspot.com | The world of Fighting Fantasy       | N   |
+| https://9and30kingdoms.blogspot.com         | The Nine and Thirty Kingdoms        |     |
+| https://akraticwizardry.blogspot.com        | AKRATIC WIZARDRY                    |     |
+| https://apaladinincitadel.blogspot.com      | A Paladin In Citadel                |     |
+| https://backtothedungeon.blogspot.com       | BACK TO THE DUNGEON!                |     |
+| https://batintheattic.blogspot.com          | Bat in the Attic                    |     |
+| https://beyondtheblackgate.blogspot.com     | Beyond the Black Gate               |     |
+| https://bxblackrazor.blogspot.com           | B/X Black Razor                     |     |
+| https://carjackedseraphim.blogspot.com      | Carjacked Seraphim                  |     |
+| http://crawlfanzine.blogspot.com/           | Crawl!                              | Y   |
+| https://curmudgeonsdragons.blogspot.com     | Curmudgeons and Dragons             |     |
+| https://cyclopeatron.blogspot.com           | Cyclopeatron                        |     |
+| https://deltasdnd.blogspot.com              | Delta's D&D Hotspot                 |     |
+| https://dreamsofmythicfantasy.blogspot.com  | Dreams of Mythic Fantasy            |     |
+| https://dungeonsndigressions.blogspot.com   | Dungeons and Digressions            |     |
+| http://www.greyhawkgrognard.com/            | Greyhawk Grognard                   |     |
+| https://grognardia.blogspot.com             | Grognardia                          | Y   |
+| https://hackslashmaster.blogspot.com        | Hasck and Slash                     |     |
+| https://jrients.blogspot.com                | Jeff's Gameblog                     |     |
+| https://www.landofphantoms.com/             | Land of phantoms                    |     |
+| https://lordofthegreendragons.blogspot.com  | Lord of the Green Dragon            |     |
+| https://lotfp.blogspot.com                  | Lamentations of the Flame Princess  |     |
+| https://maximumrockroleplaying.blogspot.com | Maximum Rock and Roleplay           |     |
+| https://muleabides.wordpress.com            | The Mule Abides                     |     |
+| https://peoplethemwithmonsters.blogspot.com | People Them With Monsters           |     |
+| https://planetalgol.blogspot.com            | Planet Algol                        |     |
+| https://poleandrope.blogspot.com            | The society of torch, pole and rope |     |
+| https://sagaworkstudios.blogspot.com/       | Saga works studio                   |     |
+| https://shamsgrog.blogspot.com/             | Sham's Glog and Blog                |     |
+| https://shiftymushrooms.weebly.com          | The Gentle Art of Wargaming         |     |
+| https://sorcerersskull.blogspot.com         | From the Sorcerer's Skull           |     |
+| https://swordandsanity.blogspot.com         | Swords and Sanity                   |     |
+| https://tabletopdiversions.blogspot.com/    | Tabletop Diversions                 |     |
+| https://www.thickskulladventures.com/       | Thick Skull Adventures              |     |
+| https://towerofthearchmage.blogspot.com     | Tower of the Archmage               |     |
+| https://trollandflame.blogspot.com          | Troll and Flame                     |     |
+|                                             |                                     |     |
 
 ** Solo RPG links
 

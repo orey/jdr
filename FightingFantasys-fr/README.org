@@ -40,7 +40,6 @@ Tous les personnages démarrent avec :
 | Une potion     | 2 doses       | Une potion de compétence, de vie ou de chance (choix du joueur) |
 |                |               | Une potion restore le score concerné à son niveau original      |
 
-
 * Monstres
 
 Les montres ont aussi ont des caractéristiques Compétence et Constitution.
@@ -103,7 +102,7 @@ _Note_: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela
 2. Résoudre les combats A-X et B-Y.
 2. X a une seconde attaque, il peut donc attaquer B en mode attaque protégée.
 
-
+* Situations communes
 
 
 

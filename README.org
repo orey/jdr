@@ -93,6 +93,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://trollandflame.blogspot.com          | Troll and Flame                     |     |
 |                                             |                                     |     |
 
+
 ** Solo RPG links
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -118,13 +119,13 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 ** Podcast and videos
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                                                      | Comment                        |
-|-------------------------------------------------------------------------------------------+--------------------------------|
-| https://podcasts.apple.com/us/podcast/drink-spin-run-the-rpg-talkshow-podcast/id929736757 | Drink, spin, run, the podcasts |
-| https://drinkspinrun.blogspot.com/?m=1                                                    | Drink, spin, run, the site     |
-| https://wanderingdms.com                                                                  | Wandering DMs                  |
-|                                                                                           |                                |
-
+| Site                                                                                      | Comment                            |
+|-------------------------------------------------------------------------------------------+------------------------------------|
+| https://www.dicegeeks.com/category/dicegeeks-podcast/                                     | DiceGeeks.com very good interviews |
+| https://www.aintslayednobody.com/                                                         | A good CoC podcast                 |
+| https://podcasts.apple.com/us/podcast/drink-spin-run-the-rpg-talkshow-podcast/id929736757 | Drink, spin, run, the podcasts     |
+| https://drinkspinrun.blogspot.com/?m=1                                                    | Drink, spin, run, the site         |
+| https://wanderingdms.com                                                                  | Wandering DMs                      |
 
 ** Sites de jeux en français
 

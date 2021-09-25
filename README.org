@@ -164,6 +164,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 |------+------------------------------+------------------+---------------------------------------------------------+------+-----+---------|
 | 2021 | 13th Age                     | Heroic Fantasy   | Just starting                                           | -    | Y   | **Y**   |
 | 2021 | Basic Roleplaying System     | Generic System   | The best, especially for CoC, free ed. is great         | 5/5  | N   | **Y**   |
+| 2021 | The Wretched                 | Horror           | Bof                                                     | 2/5  | N   | N       |
 | 2021 | GURPS                        | Generic System   | Not convinced                                           | 4/5  | N   | N       |
 | 2021 | Fighting Fantasy             | Generic System   | From Steve Jackson & Ian Livingstone                    | -    | Y   | **Y**   |
 | 2021 | Bloodlust                    | Heroic Fantasy   | French game by Croc                                     | 3/5  | N   | N       |
@@ -198,31 +199,61 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | 2020 | Risus                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart        | 4/5  | N   | Later   |
 | 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].  | 4/5  | N   | N       |
 | 2020 | MiniSix                      | Generic system   |                                                         | -    | N   | Later   |
-| 2020 | Dagger                       | RPG for kids     | Bof                                                     | 3/5  | Y   | N       |
-|      |                              |                  |                                                         |      |     |         |
+| 2020 | Dagger                       | RPG for kids     | Bof                                                     | 2/5  | Y   | N       |
 
-* Mécaniques de jeux intéressantes
 
-** Bloodlust, jeu de Croc
+* Systèmes de jeux
 
-*** Mécanisme de combat
+** Système de jeu idéal
 
-Table de bonus/malus avec le choix de l'attaquant versus le choix du défenseur
+Un équilibre entre :
+- Possibilités de faire des jets de dés sous contraintes,
+- Simplicité et logique globale du système,
+- Adaptation à l'univers.
+
+Par exemple, pour les charactéristiques, il est important qu'elles soient intuitives pour le MJ. Là dessus, D&D et BRS sont au dessus du lot.
+
+** Numéro 1 : Basic Roleplaying System (BRS)
+
+Surtout dans la première édition de CoC.
+
+Mais Runequest et Stormbringer sont bien aussi, même si Runequest est un peu complexe.
+
+** Numéro 2 : D6 system
+
+Version Star Wars première édition.
+
+A partir de la seconde, l'efficacité du système se dégrade.
+
+** Numéro 3 : Maléfices
+
+- Un système de jeu très adapté à l'univers.
+- Tarot très utile dans le jeu.
+
+** En cours d'analyse : Gumshoe
+
+Pour le moment système sympa. Il faut pratiquer.
+
+** Trus intéressants
+
+*** Bloodlust
+
+**** Mécanisme de combat
+
+Une seule table pour attaquant vs défenseur. En abscisse et en ordonnée :
 - Attaque brutale
 - Attaque normale
 - Attaque rapide
 - Parade
 - Esquive
 
-Dans le combat, chacun est tour à tour attaquant et défenseur.
+Dans le combat, chacun est tour à tour attaquant et défenseur. Fluide et efficace.
 
-*** Réussites et échecs critiques
+**** Réussites et échecs critiques
 
 Bloodlust est un système à pourcentage. En cas de réussite, si l'unité de la valeur du jet est 0, on est dans un cas de réussite critique. Pareil pour les échecs critiques avec une valeur de l'unité de 1 sur le jet de pourcentage raté.
 
-** Gumshoe
 
-Choisir certaines compétences avec un mécanisme de points et réussir à chaque fois dans l'exercice de ces dernières (pas de jet pouvant bloquer les enquêtes).
 
 
 

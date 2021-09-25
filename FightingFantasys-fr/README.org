@@ -9,7 +9,7 @@
 | Concepteur               | Steve Jackson                                    |
 | Version originale        | Version originale 1984 - Copyright Steve Jackson |
 | Website                  | [[https://www.fightingfantasy.com/][https://www.fightingfantasy.com/]]                 |
-| Traduction et adaptation | O. Rey Sepembre 2021                             |
+| Traduction et adaptation | O. Rey Septembre 2021                            |
 | Licence                  | Copyright Steve Jackson                          |
 
 * 1. Création du personnage

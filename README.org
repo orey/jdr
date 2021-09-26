@@ -26,6 +26,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://www.darkshire.net/jhkim/rpg/encyclopedia/        | An encyclopedia of RPG            | N   |
 |                                                          |                                   |     |
 
+
 ** Games in English
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -41,21 +42,22 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://goblinoidgames.com/index.php/downloads/                             | Labyrinth Lord RPG               | Y   |
 | http://opend6.wikidot.com/                                                  | Open D6                          | N   |
 | http://www.antipaladingames.com/                                            | Mini Six                         | N   |
-| https://microlite20.org                                                     | Microlite products               | N   |
 | https://microlite20.org/community/viewforum.php?f=15                        | Microlite20 rules                | N   |
-| http://www.wizards.com/default.asp?x=d20/article/srd35                      | D&D SRD 3.5 WoC                  | Y   |
 | https://www3.autarch.co/                                                    | Adventurer Conqueror King System | Y   |
 | http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf                      | Wizards, Warriors and Wyrms      | Y   |
 | https://beyondbeliefgames.webs.com/                                         | BEYOND BELIEF GAMES              | N   |
 |                                                                             |                                  |     |
 
+
 ** SRD - System Reference Document
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                                            | Game     | OSR |
-|---------------------------------------------------------------------------------+----------+-----|
-| https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/ | Gumshoe  | N   |
-| https://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/      | 13th Age | Y?  |
+| Site                                                                            | Game            | OSR |
+|---------------------------------------------------------------------------------+-----------------+-----|
+| https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/ | Gumshoe         | N   |
+| https://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/      | 13th Age        | Y?  |
+| http://www.wizards.com/default.asp?x=d20/article/srd35                          | D&D SRD 3.5 WoC | Y   |
+
 
 ** Gaming blogs in English
 

@@ -9,10 +9,11 @@ This is a very basic RPG which objective is to be implemented in JS by an AI. It
 
 ** 1.1. Features
 
-Several possibilities:
-- The character starts at 6 on each 4 features and has 14 points to assign;
-- The player launches 1D6+6 4 times and assign the results to the features;
-- The player launches 1D6+6 5 times, keep the 4 best scrores and assign the results to the features.
+The character starts at 6 the first 3 features and at 0 for the magic feature.
+
+The player has then points to assign:
+- and has 14 points to assign;
+- The player launches 1D6+6 4 times and assign the results to the features.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Feature    | Creation | Comments                                         | Code |
@@ -20,7 +21,7 @@ Several possibilities:
 | PHYSICAL   |     6-12 | Anything physical skill including combat         | PHY  |
 | MENTAL     |     6-12 | Any intelligence skill including mental health   | MEN  |
 | CHANCE     |     6-12 | Better get lucky sometimes                       | CHA  |
-| MAGICAL    |     6-12 | Magic, faith, the Force, etc., to act and resist | MAG  |
+| MAGICAL    |      0-7 | Magic, faith, the Force, etc., to act and resist | MAG  |
 | HIT POINTS |   PHY+12 | At 0, le PC is dead                              | HP   |
 
 Those scores will evolve during the session. The scores determined at PC creation are the maximum the PC can be when fully rested.
@@ -57,11 +58,14 @@ To be seen with the GM and the story.
 
 ** Testing competences PHY and MEN
 
-All testing is done *strictly under* the score. Roll 2D6 strictly under the feature to succeed. *Double 6 always fails*.
+All testing is done *strictly under* the score. Roll 2D6 strictly under the feature to succeed. *Double 6 always fails* and **double 1 always succeeds**.
 
 For PHY and MEN, the GM can had:
-- A *penalty*: For instance, shooting in the dark, penalty = +4 to the player's PHY dice roll.
-- A *bonus*: For instance, finding an information everywhere on the news, bonus = -4 to the player's MEN dice roll.
+- A *penalty*: For instance, shooting in the dark, penalty = -4 to the player's PHY for the dice roll.
+- A *bonus*: For instance, finding an information everywhere on the news, bonus = +4 to the player's MEN for the dice roll.
+
+Table of penalties
+
 
 ** Testing chance
 
@@ -73,22 +77,32 @@ To test your luck, roll 2D6 under your CHA pool value. If the score is *inferior
 
 If the test does not work, you loose the points anyway. The GM can decide if something badder happens (it is generally bad enough to have tried a luck test...).
 
-Note: CHA cannot have penalties on tests.
+Notes:
+- CHA cannot have penalties on tests.
+- On some occasions, the GM can decide to reinitialize the CHA pools to their original value.
 
 *** Sample
 
-Claudia is hanging on a suspension bridge. She missed her PHY test by rolling 8 on 2D6, test under 9 with a penalty of 3 because she is carring a heavy gold artifact. 8+3=11 which is bigger than 9.
+Claudia is hanging on a suspension bridge. She missed her PHY test by rolling 10 on 2D6, test under 9 with a penalty of 3 because she is carring a heavy gold artifact. 10+3=13 which is bigger than 9 by 4 points.
 
-She decides to take 2 points of CHA from her pool of 11. She rolls 2D6: 3 and 1. That makes 4 to substract from the 12 missed roll which gives 11-4=7. She succeeds in getting out of the bridge with the gold artifact.
+She decides to take 2 points of CHA from her pool of 11. First, she tests her luck by rolling 2D6 under her current CHA of 11: 2+3=5. That's a success. She then rolls 2D6 to change the fate: 3 and 1. That makes 4 to subtract from the 13 missed roll which gives 13-4=9. She hardly succeeds in getting out of the bridge with the gold artifact.
 
 Claudia has now 9 points in her CHA pool for the rest of the adventure.
 
 ** Testing magic
 
-Testing magic can be done in 3 situations:
+Testing magic can be done in 3 situations.
 1. Sensing magic,
 2. Resisting magic,
 3. Casting spells.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Situation       | Test      | Consequence           |
+|-----------------+-----------+-----------------------|
+| Sensing magic   | 2D6 < MAG | The magic is detected |
+| Resisting magic | 2D6 < MAG |                       |
+
+
 
 
 

@@ -120,6 +120,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                              | Comment                                      |
 |---------------------------------------------------+----------------------------------------------|
+| https://anydice.com                               | Great site on probabilities                  |
 | https://worldographer.com                         | Worldographer                                |
 | http://donjon.bin.sh/d20/dungeon                  | d20 Random Dungeon Generator and other tools |
 | https://purplesorcerer.com/                       | Purple Sorcerer, tools for DCC               |

@@ -19,11 +19,11 @@
 Un personnage a trois caractéristiques : *compétence*, *constitution* et *chance*.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Caractéristiques | Création | Commentaires                                               | Acronyme |
-|------------------+----------+------------------------------------------------------------+----------|
-| Compétence       |    1D6+6 | Test de compétence réussi : 2D6 inférieur ou égal au score | COMP     |
-| Points de vie    |   2D6+12 | Représente les points de vie. A 0, le PJ est mort          | PV       |
-| Chance           |     1D+6 | Test de chance réussi : 2D6 inférieur ou égal au score     | CHA      |
+| Caractéristique | Création | Commentaires                                               | Acronyme |
+|-----------------+----------+------------------------------------------------------------+----------|
+| Compétence      |    1D6+6 | Test de compétence réussi : 2D6 inférieur ou égal au score | COMP     |
+| Points de vie   |   2D6+12 | Représente les points de vie. A 0, le PJ est mort          | PV       |
+| Chance          |    1D6+6 | Test de chance réussi : 2D6 inférieur ou égal au score     | CHA      |
 
 ** 1.2. Equipement
 

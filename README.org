@@ -26,28 +26,36 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://www.darkshire.net/jhkim/rpg/encyclopedia/        | An encyclopedia of RPG            | N   |
 |                                                          |                                   |     |
 
-
 ** Games in English
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                          | Game                                    | OSR |
-|---------------------------------------------------------------+-----------------------------------------+-----|
-| https://www.knights-n-knaves.com                              | Osric RPG                               | Y   |
-| https://www.knights-n-knaves.com/phpbb3/                      | Osric RPG forums                        | Y   |
-| https://www.basicfantasy.org                                  | Basic Fantasy RPG                       | Y   |
-| https://www.basicfantasy.org/forums                           | Basic Fantasy RPG forums                | Y   |
-| https://gatewayrpg.wordpress.com                              | Gateway RPG                             | N   |
-| https://goblinoidgames.com/index.php/downloads/               | Labyrinth Lord RPG                      | Y   |
-| http://opend6.wikidot.com/                                    | Open D6                                 | N   |
-| http://www.antipaladingames.com/                              | Mini Six                                | N   |
-| https://microlite20.org                                       | Microlite products                      | N   |
-| https://microlite20.org/community/viewforum.php?f=15          | Microlite20 rules                       | N   |
-| http://www.wizards.com/default.asp?x=d20/article/srd35        | D&D SRD 3.5 WoC                         | Y   |
-| https://www3.autarch.co/                                      | Adventurer Conqueror King System        | Y   |
-| http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf        | Wizards, Warriors and Wyrms             | Y   |
-| https://beyondbeliefgames.webs.com/                           | BEYOND BELIEF GAMES                     | N   |
-|                                                               |                                         |     |
+| Site                                                                        | Game                             | OSR |
+|-----------------------------------------------------------------------------+----------------------------------+-----|
+| http://site.pelgranepress.com/index.php/category/products/trail-of-cthulhu/ | Trail of Cthulhu                 | N   |
+| http://site.pelgranepress.com/index.php/category/products/13th-age/         | 13th Age                         | Y?  |
+| https://www.knights-n-knaves.com                                            | Osric RPG                        | Y   |
+| https://www.knights-n-knaves.com/phpbb3/                                    | Osric RPG forums                 | Y   |
+| https://www.basicfantasy.org                                                | Basic Fantasy RPG                | Y   |
+| https://www.basicfantasy.org/forums                                         | Basic Fantasy RPG forums         | Y   |
+| https://gatewayrpg.wordpress.com                                            | Gateway RPG                      | N   |
+| https://goblinoidgames.com/index.php/downloads/                             | Labyrinth Lord RPG               | Y   |
+| http://opend6.wikidot.com/                                                  | Open D6                          | N   |
+| http://www.antipaladingames.com/                                            | Mini Six                         | N   |
+| https://microlite20.org                                                     | Microlite products               | N   |
+| https://microlite20.org/community/viewforum.php?f=15                        | Microlite20 rules                | N   |
+| http://www.wizards.com/default.asp?x=d20/article/srd35                      | D&D SRD 3.5 WoC                  | Y   |
+| https://www3.autarch.co/                                                    | Adventurer Conqueror King System | Y   |
+| http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf                      | Wizards, Warriors and Wyrms      | Y   |
+| https://beyondbeliefgames.webs.com/                                         | BEYOND BELIEF GAMES              | N   |
+|                                                                             |                                  |     |
 
+** SRD - System Reference Document
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Site                                                                            | Game     | OSR |
+|---------------------------------------------------------------------------------+----------+-----|
+| https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/ | Gumshoe  | N   |
+| https://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/      | 13th Age | Y?  |
 
 ** Gaming blogs in English
 
@@ -127,11 +135,14 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://drinkspinrun.blogspot.com/?m=1                                                    | Drink, spin, run, the site         |
 | https://wanderingdms.com                                                                  | Wandering DMs                      |
 
+
 ** Sites de jeux en français
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                   | Comment                                    | OSR |
 |------------------------------------------------------------------------+--------------------------------------------+-----|
+| https://github.com/brunobord/micro-rpg-catalog                         | Micro-RPG catalogue                        | Y&N |
+| https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/               | Une traduction française de FU             | N   |
 | https://www.geek-it.org/harry-potter-jdr                               | Harry Potter JDR                           | N   |
 | https://sites.google.com/site/empiregalact                             | Empire Galactique JDR                      | N   |
 | https://sites.google.com/site/wizardinabottle/epeesetsorcellerie       | Epées et Sorcellerie JDR                   | Y   |
@@ -154,7 +165,6 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 - https://www.drivethrurpg.com
 - https://www.black-book-editions.fr/
-
 
 
 * Exporations récentes

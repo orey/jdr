@@ -249,7 +249,7 @@ A partir de la seconde, l'efficacité du système se dégrade.
 
 Pour le moment système sympa. Il faut pratiquer.
 
-** Trus intéressants
+** Trucs intéressants
 
 *** Bloodlust
 
@@ -268,7 +268,9 @@ Dans le combat, chacun est tour à tour attaquant et défenseur. Fluide et effic
 
 Bloodlust est un système à pourcentage. En cas de réussite, si l'unité de la valeur du jet est 0, on est dans un cas de réussite critique. Pareil pour les échecs critiques avec une valeur de l'unité de 1 sur le jet de pourcentage raté.
 
+** Le problème de fond du système D6
 
+Après analyse, le système D6 semble un système fondamentalement défectueux.
 
 
 

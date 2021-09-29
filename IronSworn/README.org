@@ -12,3 +12,7 @@ The diagram below represents your chances per kind of bonus/penalty.
 [[file:IronSworn.png]]
 
 See also the Excel spreadsheet.
+
+That reminds a lot the "Table des Paliers" of the Maléfices French RPG.
+
+[[https://github.com/orey/jdr/blob/master/Mal%C3%A9fices/MaleficesTablePaliers.jpg]]

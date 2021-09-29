@@ -6,5 +6,5 @@ Ce répertoire contient des images Gimp pour faire vos propres couvertures de Ma
 
 ## Table des paliers
 
-[[MaleficesTablePaliers.jpg]]
+![Table des paliers](MaleficesTablePaliers.jpg)
 

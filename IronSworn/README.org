@@ -1,0 +1,14 @@
+* IronSworn
+
+** Probabilities
+
+The system of IronSworn is a bit unusual. In order to test a success, you have to roll 1D6, add a potential penalty or bonus and compare it to the result of 2D10:
+- If the resulting number is inferior to the value of each of the D10, you fail;
+- If your result is superior to only one of the D10, you have a weak success;
+- If your result is above twice D10, you have a strong success.
+
+The diagram below represents your chances per kind of bonus/penalty.
+
+[[file:IronSworn.png]]
+
+See also the Excel spreadsheet.

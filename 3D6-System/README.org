@@ -86,7 +86,7 @@ Le problème est que le système D6 consiste à dépasser un certain seuil en la
 
 On obtient la courbe suivante :
 
-[[file:above-threshold]]
+[[file:above-threshold.png]]
 
 
 

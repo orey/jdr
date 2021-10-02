@@ -12,6 +12,8 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                                  | Title                             | OSR |
 |---------------------------------------------------------------------------------------+-----------------------------------+-----|
+| http://thealexandrian.net/index.html                                                  | The Alexandrian                   | N   |
+| http://www.thealexandrian.net/creations/creations.html                                | The Alexandrian creations         | N   |
 | https://www.enworld.org/threads/the-10-most-anticipated-tabletop-rpgs-of-2021.677397/ | Most anticipated RPG in 2021      | N   |
 | https://gurps.fandom.com/wiki/Main_Page                                               | GURPS Wiki                        | N   |
 | https://ennie-awards.com/history-of-winners/                                          | Site of the Ennie Awards          | N   |
@@ -382,6 +384,15 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 - https://www.black-book-editions.fr/
 
 
+** Interesting pages
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Year | URL                                                                         | Topic                                             |
+|------+-----------------------------------------------------------------------------+---------------------------------------------------|
+| 2008 | https://thealexandrian.net/wordpress/1118/roleplaying-games/three-Clue-Rule | The 3-clue rule to design investigative scenarios |
+|      |                                                                             |                                                   |
+
+
 * Exporations récentes
 
 A explorer : Fiasco, Nephilim.
@@ -389,23 +400,24 @@ A explorer : Fiasco, Nephilim.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                   | Note | OSR | Ongoing |
 |------+------------------------------+------------------+-----------------------------------------------------------+------+-----+---------|
-| 2021 | 13th Age                     | Heroic Fantasy   | Just starting                                             | -    | Y   | **Y**   |
+| 2021 | Gumshoe system               | Generic System   | Entering into simplified translation process              | -    | N   | **Y**   |
+| 2021 | 13th Age                     | Heroic Fantasy   | Just starting                                             | -    | Y   | Later   |
 | 2021 | Basic Roleplaying System     | Generic System   | The best, especially for CoC, free ed. is great           | 5/5  | N   | **Y**   |
 | 2021 | The Wretched                 | Horror           | Bof                                                       | 2/5  | N   | N       |
 | 2021 | GURPS                        | Generic System   | Not convinced                                             | 4/5  | N   | N       |
-| 2021 | Fighting Fantasy             | Generic System   | From Steve Jackson & Ian Livingstone : [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][French translation]] | -    | Y   | **Y**   |
+| 2021 | Fighting Fantasy             | Generic System   | From Steve Jackson & Ian Livingstone : [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][French translation]] | 4/5  | Y   | N       |
 | 2021 | Bloodlust                    | Heroic Fantasy   | French game by Croc                                       | 3/5  | N   | N       |
 | 2021 | Fudge                        | Generic System   | Ongoing                                                   | -    | N   | **Y**   |
 | 2021 | Metamorphosis Alpha          | Sci-Fi           | Interesting game                                          | 3/5  | -   | N       |
 | 2021 | Ironsworn                    | Heroic Fantasy   | Interesting game but too random (action dice vs 2D10)     | 3/5  | N   | N       |
-| 2021 | Gumshoe system               | Generic system   | Investigation oriented: That one is for me :)             | 5/5  | N   | **Y**   |
+| 2021 | Gumshoe system               | Generic system   | Investigation oriented: That one is for me :)             | -    | N   | **Y**   |
 | 2021 | DCC                          | Heroic Fantasy   | A whole universe                                          | 4/5  | Y   | N       |
 | 2021 | Légendes                     | Historic Fantasy | Great game for the universes. Hyper complex game system   | 5/5  | N   | Later   |
 | 2021 | Tékumel                      | Heroic Fantasy   | Author's world                                            | 3/5  | N   | N       |
 | 2021 | Microlite                    | Generic System   | [[https://github.com/orey/jdr/tree/master/Microlite20-fr][French translation]] done. Not playable as-is.              | 3/5  | N   | N       |
 | 2021 | Fortunes Wheel               | -                | Very interesting with tarot cards                         | -    | N   | Later   |
 | 2021 | Maléfices                    | French Steampunk | Un des meilleurs JDR français                             | 5/5  | N   | Later   |
-| 2021 | GURPS                        | Generic System   | To investigate                                            | -    | N   | Later   |
+| 2021 | GURPS                        | Generic System   | To investigate                                            | -    | N   | N       |
 | 2021 | Traveller 1e                 | Sci-Fi           | Seducing                                                  | -    | N   | Later   |
 | 2020 | D&D 5e basic rules           | Heroic Fantasy   |                                                           | 3/5  | -   | N       |
 | 2020 | Covetous                     | GM Emulator      | Bon produit avec plein de tables                          | -    | N   | Later   |

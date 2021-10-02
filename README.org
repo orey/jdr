@@ -1,7 +1,7 @@
 #+TITLE: Ressources pour JDR
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-09-05
-#+STARTUP: overview
+#+STARTUP: content
 
 Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
 
@@ -264,4 +264,4 @@ Bloodlust est un système à pourcentage. En cas de réussite, si l'unité de la
 
 ** Le problème de fond du système D6
 
-Voir [[https://github.com/orey/jdr/tree/master/3D6-System][le folder 3D6-system]].
+Voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]].

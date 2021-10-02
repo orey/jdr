@@ -1,9 +1,9 @@
 #+TITLE: Réflexions sur le système D6
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-10-02
-#+STARTUP: overview
+#+STARTUP: content
 
-* La courbe de Gauss des probabilités d'un jet de 3D6
+** La courbe de Gauss des probabilités d'un jet de 3D6
 
 Après analyse, le système D6 semble un système fondamentalement défectueux.
 
@@ -35,7 +35,7 @@ Certains nombres sont beaucoup plus difficiles à atteindre avec 3D6 qu'avec 1D1
 
 [[file:3D6.png]]
 
-* Probabilités de faire moins qu'un certain seuil
+** Probabilités de faire moins qu'un certain seuil
 
 Si le but est de faire moins qu'un certain seuil, le système D6 est très favorable.
 
@@ -65,7 +65,7 @@ On obtient la courbe suivante.
 
 [[file:under-threshold.png]]
 
-* Probabilités de faire plus qu'un certain seuil
+** Probabilités de faire plus qu'un certain seuil
  
 Le problème est que le système D6 consiste à dépasser un certain seuil en lançant plusieurs dés. Plus le seuil est grand, et plus le nombre de dés est élevé et plus l'atteinte du seuil est improbable.
 
@@ -92,7 +92,7 @@ On obtient la courbe suivante :
 
 [[file:above-threshold.png]]
 
-* Introduction du "wild die"
+** Introduction du "wild die"
 
 Assez rapidement, dès la seconde édition de Star Wars, les créateurs ont introduit la notion de "wild die", sans doute pour corriger les problèmes de seuils elévés.
 
@@ -130,7 +130,7 @@ Nous pouvons y voir deux avantages :
 
 *Conclusion* :  de fait, le wild die est une technique intéressante et amusante mais il ne corrige pas complètement les défauts de lancer un grand nombre de D6 pour dépasser des seuils.
 
-* Autres systèmes de jeux aux probabilités linéaires
+** Autres systèmes de jeux aux probabilités linéaires
 
 Les deux plus grands systèmes de JDR, D&D et Basic Role Playing System (CoC, Runequest, etc.), n'ont pas les défauts des systèmes D6 à seuils :
 - Le système D&D qui est construit sur =1D20 + modificateurs > AC ou DC= est un système linéaire ;

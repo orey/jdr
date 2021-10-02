@@ -264,4 +264,4 @@ Bloodlust est un système à pourcentage. En cas de réussite, si l'unité de la
 
 ** Le problème de fond du système D6
 
-Voir [[https://github.com/orey/jdr/tree/master/3D6-system][le folder 3D6-system]].
+Voir [[https://github.com/orey/jdr/tree/master/3D6-System][le folder 3D6-system]].

@@ -92,18 +92,50 @@ On obtient la courbe suivante :
 
 [[file:above-threshold.png]]
 
-* Introdution du "wild dice"
+* Introduction du "wild die"
 
-Assez rapidement, dès la seconde éditions de Star Wars je crois, les créateurs ont introduit la notion de wild dice. Dans les dés jetés, un dé a une couleur différente. Si ce dernier a une valeur de 6, on le relance pour additionner de nouveaux points. On reproduit le système tant que le wild dice fait 6.
+Assez rapidement, dès la seconde édition de Star Wars, les créateurs ont introduit la notion de "wild die", sans doute pour corriger les problèmes de seuils elévés.
 
-Les probabilités d'avoir un certain score pour le wild dice obéissent à une formule simple :
+Dans les dés jetés, un dé a une couleur différente. Si ce dernier a une valeur de 6, on le relance pour additionner de nouveaux points. On reproduit le système tant que le wild die fait 6.
 
-| Intervalle | Probabilité avec wild dice |
-|------------+----------------------------|
-|        1-5 | 1/6                        |
-|       7-11 | (1/6)^2                    |
-|      13-17 | 1/6 au cube                |
-|            |                            |
+Les probabilités d'avoir un certain score pour le wild die obéissent à une formule simple :
 
+| Intervalle   | Probabilité avec wild die |
+|--------------+---------------------------|
+| [1, 5]       | 1/6                       |
+| [7, 11]      | (1/6)^2                   |
+| [13, 17]     | (1/6)^3                   |
+| ...          | ...                       |
+| [6n+1, 6n+5] | (1/6)^(n+1)               |
+
+Virtuellement, il existe une change infime pour que l'on fasse un très gros score.
+
+Cela change évidemment la donne. Les probabilités comparées entre 3D6, 1D16 et "2D6+Wild die" sont montrées dans la figure ci-dessous.
+
+[[file:2D6-wild.png]]
+
+L'introduction du wild die a deux effets :
+- Une légère correction de la hauteur de la gaussienne,
+- Une possibilité d'avoir des tirages supérieurs à 18.
+
+Regardons maintenant la courbe de dépassement de seuil, car le wild die est supposé être utile dans ce cas.
+
+[[file:wild-dice-above-threshold.png]]
+
+La courbe avec wild die suit la courbe de 3D6 au début pour prendre une position intermédiaire entre la courbe de probabilités linéaires et celle du lancer de 3D6.
+
+Nous pouvons y voir deux avantages :
+- Une correction d'environ 50% du biais négatif causé par la mécanique 3D6 au dessus d'un seuil ;
+- Il reste, de plus 7% de chances environ de faire 18+ au tirage.
+
+*Conclusion* :  de fait, le wild die est une technique intéressante et amusante mais il ne corrige pas complètement les défauts de lancer un grand nombre de D6 pour dépasser des seuils.
+
+* Autres systèmes de jeux aux probabilités linéaires
+
+Les deux plus grands systèmes de JDR, D&D et Basic Role Playing System (CoC, Runequest, etc.), n'ont pas les défauts des systèmes D6 à seuils :
+- Le système D&D qui est construit sur =1D20 + modificateurs > AC ou DC= est un système linéaire ;
+- Le système Basic RPS qui est construit sur des pourcentages, =jet sous une compétence=, est aussi un système linéaire.
+
+Ces systèmes utilisant respectivement des seuils à dépasser ou sous lesquels passer ne mettent pas en place de mécanique de déformation des probabilités.
 
 

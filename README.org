@@ -12,6 +12,8 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                     | Title                             | OSR |
 |----------------------------------------------------------+-----------------------------------+-----|
+| https://gurps.fandom.com/wiki/Main_Page                  | GURPS Wiki                        | N   |
+| https://ennie-awards.com/history-of-winners/             | Site of the Ennie Awards          | N   |
 | https://www.rpg.net                                      | RPG.net                           | N   |
 | https://1d4chan.org/                                     | 1d4Chan                           | N   |
 | https://www.rpglibrary.org/                              | RPG Library                       | N   |
@@ -24,6 +26,10 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://www.dieheart.net/solo-rpg-resources/             | Solo RPG resources                | N   |
 | https://purplesorcerer.com/                              | Purple Sorcerer, fan site for DCC | Y   |
 | https://www.darkshire.net/jhkim/rpg/encyclopedia/        | An encyclopedia of RPG            | N   |
+| https://alexschroeder.ch/wiki/RPG                        | RPG site                          | Y   |
+| https://lukegearing.blot.im/                             | Luke Gearning                     | Y   |
+| https://forum.autarch.co/                                |                                   | Y   |
+| http://badwrong.fun/                                     |                                   | Y   |
 |                                                          |                                   |     |
 
 
@@ -62,46 +68,241 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 ** Gaming blogs in English
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                        | Comment                             | OSR |
-|---------------------------------------------+-------------------------------------+-----|
-| https://gurps.fandom.com/wiki/Main_Page     | GURPS Wiki                          | N   |
-| https://worldoffightingfantasy.blogspot.com | The world of Fighting Fantasy       | N   |
-| https://9and30kingdoms.blogspot.com         | The Nine and Thirty Kingdoms        |     |
-| https://akraticwizardry.blogspot.com        | AKRATIC WIZARDRY                    |     |
-| https://apaladinincitadel.blogspot.com      | A Paladin In Citadel                |     |
-| https://backtothedungeon.blogspot.com       | BACK TO THE DUNGEON!                |     |
-| https://batintheattic.blogspot.com          | Bat in the Attic                    |     |
-| https://beyondtheblackgate.blogspot.com     | Beyond the Black Gate               |     |
-| https://bxblackrazor.blogspot.com           | B/X Black Razor                     |     |
-| https://carjackedseraphim.blogspot.com      | Carjacked Seraphim                  |     |
-| http://crawlfanzine.blogspot.com/           | Crawl!                              | Y   |
-| https://curmudgeonsdragons.blogspot.com     | Curmudgeons and Dragons             |     |
-| https://cyclopeatron.blogspot.com           | Cyclopeatron                        |     |
-| https://deltasdnd.blogspot.com              | Delta's D&D Hotspot                 |     |
-| https://dreamsofmythicfantasy.blogspot.com  | Dreams of Mythic Fantasy            |     |
-| https://dungeonsndigressions.blogspot.com   | Dungeons and Digressions            |     |
-| http://www.greyhawkgrognard.com/            | Greyhawk Grognard                   |     |
-| https://grognardia.blogspot.com             | Grognardia                          | Y   |
-| https://hackslashmaster.blogspot.com        | Hasck and Slash                     |     |
-| https://jrients.blogspot.com                | Jeff's Gameblog                     |     |
-| https://www.landofphantoms.com/             | Land of phantoms                    |     |
-| https://lordofthegreendragons.blogspot.com  | Lord of the Green Dragon            |     |
-| https://lotfp.blogspot.com                  | Lamentations of the Flame Princess  |     |
-| https://maximumrockroleplaying.blogspot.com | Maximum Rock and Roleplay           |     |
-| https://muleabides.wordpress.com            | The Mule Abides                     |     |
-| https://peoplethemwithmonsters.blogspot.com | People Them With Monsters           |     |
-| https://planetalgol.blogspot.com            | Planet Algol                        |     |
-| https://poleandrope.blogspot.com            | The society of torch, pole and rope |     |
-| https://sagaworkstudios.blogspot.com/       | Saga works studio                   |     |
-| https://shamsgrog.blogspot.com/             | Sham's Glog and Blog                |     |
-| https://shiftymushrooms.weebly.com          | The Gentle Art of Wargaming         |     |
-| https://sorcerersskull.blogspot.com         | From the Sorcerer's Skull           |     |
-| https://swordandsanity.blogspot.com         | Swords and Sanity                   |     |
-| https://tabletopdiversions.blogspot.com/    | Tabletop Diversions                 |     |
-| https://www.thickskulladventures.com/       | Thick Skull Adventures              |     |
-| https://towerofthearchmage.blogspot.com     | Tower of the Archmage               |     |
-| https://trollandflame.blogspot.com          | Troll and Flame                     |     |
-|                                             |                                     |     |
+| Site                                                                          | Comment                                                                                                                             | OSR |
+|-------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----|
+| https://1d30.wordpress.com                                                    | Tabletop gaming and maybe some other things                                                                                         | Y   |
+| https://3toadstools.blogspot.ca                                               | 3 Toadstools publishing                                                                                                             | Y   |
+| https://9and30kingdoms.blogspot.com                                           | The Nine and Thirty Kingdoms                                                                                                        |     |
+| https://abominablefancy.blogspot.com                                          | joel priddy has a blog about role playing games                                                                                     | Y   |
+| https://aeonsnaugauries.blogspot.com/                                         | Aeons & Augauries                                                                                                                   | Y   |
+| https://afieldguidetodoomsday.blogspot.com                                    | A Field Guide To Doomsday                                                                                                           | Y   |
+| https://akraticwizardry.blogspot.com                                          | AKRATIC WIZARDRY                                                                                                                    |     |
+| https://antiledo.blogspot.com                                                 | Of pedantry                                                                                                                         | Y   |
+| https://antlerrr.blogspot.com                                                 | ANT-LERRR                                                                                                                           | Y   |
+| https://apaladinincitadel.blogspot.com                                        | A Paladin In Citadel                                                                                                                |     |
+| https://appliedphantasticality.blogspot.com/                                  |                                                                                                                                     | Y   |
+| http://arsludi.lamemage.com                                                   |                                                                                                                                     | Y   |
+| https://arsmagisterii.blogspot.com                                            |                                                                                                                                     | Y   |
+| https://arsphantasia.wordpress.com                                            |                                                                                                                                     | Y   |
+| http://www.athenopolis.net                                                    |                                                                                                                                     | Y   |
+| https://backtothedungeon.blogspot.com                                         | BACK TO THE DUNGEON!                                                                                                                |     |
+| https://batintheattic.blogspot.com                                            | Bat in the Attic                                                                                                                    |     |
+| https://beyondtheblackgate.blogspot.com                                       | Beyond the Black Gate                                                                                                               |     |
+| https://bxblackrazor.blogspot.com                                             | B/X Black Razor                                                                                                                     |     |
+| https://carjackedseraphim.blogspot.com                                        | Carjacked Seraphim                                                                                                                  |     |
+| http://crawlfanzine.blogspot.com/                                             | Crawl!                                                                                                                              | Y   |
+| https://curmudgeonsdragons.blogspot.com                                       | Curmudgeons and Dragons                                                                                                             |     |
+| https://cyclopeatron.blogspot.com                                             | Cyclopeatron                                                                                                                        |     |
+| https://deltasdnd.blogspot.com                                                | Delta's D&D Hotspot                                                                                                                 |     |
+| https://dreamsofmythicfantasy.blogspot.com                                    | Dreams of Mythic Fantasy                                                                                                            |     |
+| https://dungeonsndigressions.blogspot.com                                     | Dungeons and Digressions                                                                                                            |     |
+| http://www.greyhawkgrognard.com/                                              | Greyhawk Grognard                                                                                                                   |     |
+| https://grognardia.blogspot.com                                               | Grognardia                                                                                                                          | Y   |
+| https://hackslashmaster.blogspot.com                                          | Hasck and Slash                                                                                                                     |     |
+| https://jrients.blogspot.com                                                  | Jeff's Gameblog                                                                                                                     |     |
+| https://www.landofphantoms.com/                                               | Land of phantoms                                                                                                                    |     |
+| https://lordofthegreendragons.blogspot.com                                    | Lord of the Green Dragon                                                                                                            |     |
+| https://lotfp.blogspot.com                                                    | Lamentations of the Flame Princess                                                                                                  |     |
+| https://maximumrockroleplaying.blogspot.com                                   | Maximum Rock and Roleplay                                                                                                           |     |
+| https://muleabides.wordpress.com                                              | The Mule Abides                                                                                                                     |     |
+| https://peoplethemwithmonsters.blogspot.com                                   | People Them With Monsters                                                                                                           |     |
+| https://planetalgol.blogspot.com                                              | Planet Algol                                                                                                                        |     |
+| https://poleandrope.blogspot.com                                              | The society of torch, pole and rope                                                                                                 |     |
+| https://sagaworkstudios.blogspot.com/                                         | Saga works studio                                                                                                                   |     |
+| https://shamsgrog.blogspot.com/                                               | Sham's Glog and Blog                                                                                                                |     |
+| https://shiftymushrooms.weebly.com                                            | The Gentle Art of Wargaming                                                                                                         |     |
+| https://sorcerersskull.blogspot.com                                           | From the Sorcerer's Skull                                                                                                           |     |
+| https://swordandsanity.blogspot.com                                           | Swords and Sanity                                                                                                                   |     |
+| https://tabletopdiversions.blogspot.com/                                      | Tabletop Diversions                                                                                                                 |     |
+| https://www.thickskulladventures.com/                                         | Thick Skull Adventures                                                                                                              |     |
+| https://towerofthearchmage.blogspot.com                                       | Tower of the Archmage                                                                                                               |     |
+| https://trollandflame.blogspot.com                                            | Troll and Flame                                                                                                                     |     |
+| https://worldoffightingfantasy.blogspot.com                                   | The world of Fighting Fantasy                                                                                                       | N   |
+| https://basicredrpg.blogspot.com                                              | Tables, wacky fluff, etc.                                                                                                           | Y   |
+| https://batintheattic.blogspot.com                                            | Tables and DM tools.                                                                                                                | Y   |
+| https://bdsmrpg.blogspot.com                                                  | Metal inspired fantasy content.                                                                                                     | Y   |
+| https://d6.beardedbaby.net                                                    | Tunnels and trolls content.                                                                                                         | Y   |
+| https://beyondfomalhaut.blogspot.com                                          | Reviews, play reports.                                                                                                              | Y   |
+| https://beyondtheblackgate.blogspot.com                                       |                                                                                                                                     | y   |
+| https://blessingsofthedicegods.blogspot.com                                   |                                                                                                                                     | y   |
+| http://blogofholding.com                                                      |                                                                                                                                     | y   |
+| https://bloodofprokopius.blogspot.com                                         | Uses real-life theology to make in-game better.                                                                                     | y   |
+| https://bogeymanscave.blogspot.com                                            |                                                                                                                                     | y   |
+| https://boggswood.blogspot.com                                                | History of fantasy role playing games.                                                                                              | y   |
+| http://breeyark.org                                                           |                                                                                                                                     | y   |
+| https://buildingsarepeople.blogspot.com                                       | Beastiary, Classes, GLOG stuff.                                                                                                     | y   |
+| https://builtbygodslongforgotten.blogspot.com                                 | Custom setting "The Sea of the Dead", space mutants.                                                                                | y   |
+| https://buzzclaw.blogspot.com                                                 | Fluff, AD&D, Settings, etc.                                                                                                         | y   |
+| http://www.bythisaxe.co                                                       | Resource and examination of Adventure Conqueror King System (ACKS.) Slow to update.                                                 | y   |
+| https://carisma18.blogspot.com                                                | Spanish language OSR blog.                                                                                                          | y   |
+| https://cavegirlgames.blogspot.com                                            | Author of Wolf Packs and Winter Snow.                                                                                               | y   |
+| https://chaudronchromatique.blogspot.com                                      | Zines, Art, Tables, etc. Author of Chromatic Soup.                                                                                  | y   |
+| https://coinsandscrolls.blogspot.com                                          | Tables, fluff, etc. Content for GLOG.                                                                                               | y   |
+| http://www.critical-hits.com/blog/category/critical-hits/columns/dungeonomics | Economics, reviews, etc. Has older articles on Project Multiplexer, seen below.                                                     | y   |
+| https://cuticlechewerswellpissers.blogspot.com                                | Weird prose and neat ideas.                                                                                                         | y   |
+| https://cyclopeatron.blogspot.com                                             |                                                                                                                                     | y   |
+| http://blog.d4caltrops.com                                                    |                                                                                                                                     | y   |
+| https://dangerousbrian.blogspot.com                                           |                                                                                                                                     | y   |
+| https://dcctreasures.blogspot.com                                             | DCC content discussion.                                                                                                             | y   |
+| https://deltasdnd.blogspot.com                                                | Math, history, and design of old D&D.                                                                                               | y   |
+| https://detectmagic.blogspot.com                                              |                                                                                                                                     | y   |
+| https://dice-universe.blogspot.com                                            |                                                                                                                                     | y   |
+| https://dishwasherpossum.blogspot.com                                         |                                                                                                                                     | y   |
+| https://diyanddragons.blogspot.com                                            | House Rules, fluff, and homebrew DCC spells.                                                                                        | y   |
+| https://dndwithpornstars.blogspot.com                                         |                                                                                                                                     | y   |
+| https://dragonsgonnadrag.blogspot.com                                         |                                                                                                                                     | y   |
+| https://dreadweasel.blogspot.com                                              |                                                                                                                                     | y   |
+| https://dreamsinthelichhouse.blogspot.com                                     | Adventurer Conqueror King, play reports.                                                                                            | y   |
+| https://dungeonofsigns.blogspot.com                                           | Reviews. Content for the HMS Apollyon setting. Monsters.                                                                            | y   |
+| https://dungeonsanddutchovens.blogspot.com                                    |                                                                                                                                     | y   |
+| https://dungeonsddx.blogspot.hu                                               | Content for Avatar's & Annihilation.                                                                                                | y   |
+| https://dungeonsndigressions.blogspot.com                                     |                                                                                                                                     | y   |
+| https://dungeonspossums.blogspot.com                                          |                                                                                                                                     | y   |
+| https://dyingstylishly.blogspot.com                                           | Former website for the author of Wolf Packs and Winter Snow. Now visit cavegirlgames.blogspot.com)                                  | y   |
+| https://elatedapathy.blogspot.com                                             |                                                                                                                                     | y   |
+| https://eldritchfields.blogspot.com                                           | Lamentations, occult, horror.                                                                                                       | y   |
+| https://elfmaidsandoctopi.blogspot.com                                        | Tables Tables Tables. DM Tools and world gen.                                                                                       | y   |
+| https://encritgaz.blogspot.com                                                |                                                                                                                                     | y   |
+| https://engineoforacles.wordpress.com                                         | 18th Century, Gothic Romance, author of Ghastly Affair.                                                                             | y   |
+| https://falsemachine.blogspot.com                                             | Dungeon maker, fluff, reviews.                                                                                                      | y   |
+| https://fistsofcinderandstone.blogspot.com                                    |                                                                                                                                     | y   |
+| https://followmeanddie.com                                                    |                                                                                                                                     | y   |
+| https://gameswithothers.blogspot.com                                          | Setting, Fluff, Classes, and Tables. Dark Souls hack for OD&D.                                                                      | y   |
+| https://gibletblizzard.blogspot.com                                           |                                                                                                                                     | y   |
+| https://gloomtrain.blogspot.com                                               | New rules and fluff for old-school d&d. Seems to like making mage classes.                                                          | y   |
+| http://www.goatmansgoblet.com                                                 | Randomizers/generators. Content for Dolemwood. Some Greek stuff.                                                                    | y   |
+| https://goblinpunch.blogspot.com                                              | Modular Rules, settings, great springboard. Creator of the GLOG rule set.                                                           | y   |
+| https://goodberrymonthly.blogspot.com                                         | Island content, monsters, etc.                                                                                                      | y   |
+| https://gorgonmilk.blogspot.com                                               |                                                                                                                                     | y   |
+| https://graverobbersguide.blogspot.com                                        |                                                                                                                                     | y   |
+| https://greatandsmallrpg.blogspot.com                                         | primarily rules for playing a game with sentient but non-humanoid animal characters exclusively                                     | y   |
+| https://greenskeletongamingguild.blogspot.com                                 | Monsters, content for Mutant Futures, Stars Without Number, Labyrinth Lord                                                          | y   |
+| https://growlygoatsgaming.blogspot.com                                        |                                                                                                                                     | y   |
+| https://grimaldicascade.blogspot.com                                          |                                                                                                                                     | y   |
+| https://hackslashmaster.blogspot.com                                          | Game Theory and analysis.                                                                                                           | y   |
+| https://harbingergames.blogspot.com                                           |                                                                                                                                     | y   |
+| https://hereticwerks.blogspot.com                                             |                                                                                                                                     | y   |
+| https://twitter.com/hexaday                                                   | A new hex description every day.                                                                                                    | y   |
+| https://hillcantons.blogspot.com                                              |                                                                                                                                     | y   |
+| https://hmmmarquis.blogspot.com                                               | Magic, Darksun stuff                                                                                                                | y   |
+| https://icequeensthrone.blogspot.com                                          |                                                                                                                                     | y   |
+| http://initiativeone.blogspot.com                                             |                                                                                                                                     | y   |
+| https://jamesmishlergames.blogspot.com                                        |                                                                                                                                     | y   |
+| https://jennerak.blogspot.com                                                 |                                                                                                                                     | y   |
+| https://journeyintotheweird.blogspot.com                                      |                                                                                                                                     | y   |
+| https://joyfulsitting.blogspot.com                                            | Setting, fluff, fiction author. Fistful of hacks for Black Hack.                                                                    | y   |
+| https://jrients.blogspot.com                                                  | Proto-OSR dude. Lots of B/X and Labyrinth Lord stuff.                                                                               | y   |
+| https://killitwithfirerpg.blogspot.com                                        |                                                                                                                                     | y   |
+| http://www.kjd-imc.org                                                        |                                                                                                                                     | y   |
+| http://www.lastgaspgrimoire.com                                               | NSFW. Fluff, random generators, body horror, and some house rules. Hasn't updated in a while.                                       | y   |
+| https://lizardmandiaries.blogspot.com/                                        |                                                                                                                                     | y   |
+| https://lurkerablog.wordpress.com                                             |                                                                                                                                     | y   |
+| https://matt-landofnod.blogspot.com                                           |                                                                                                                                     | y   |
+| https://maziriansgarden.blogspot.com                                          | World-building, monsters, and evocative writing                                                                                     | y   |
+| https://meanderingbanter.blogspot.com                                         | Mechanics, GLOG Classes, handy generator java scripts.                                                                              | y   |
+| http://melancholiesandmirth.blogspot.com                                      |                                                                                                                                     | y   |
+| https://mesmerizedbysirens.blogspot.com                                       | Writes on obscure old fantasy role-playing games. author of Perils & Phantasmagorias.                                               | y   |
+| https://metalvsskin.blogspot.com                                              | Setting, monsters, houserules.                                                                                                      | y   |
+| https://middenmurk.blogspot.com                                               | Spooky, moody, historical OSR stuff. Hasn't updated in a while.                                                                     | y   |
+| https://monstersandmanuals.blogspot.com                                       | Author of Yoon-Suin. Gaming philosophy, high concept settings.                                                                      | y   |
+| https://morgantcorey.wordpress.com                                            | Author of Faerie Tales & Folklore. Mythology and history.                                                                           | y   |
+| https://muleabides.wordpress.com                                              | ACKS content.                                                                                                                       | y   |
+| https://mutationapocalypse.blogspot.com                                       | Mutants, post apocalypse, random tables.                                                                                            | y   |
+| http://www.necropraxis.com                                                    | Setting. House rules for combat, classes, magic. Author of Wonder and Wickedness.                                                   | y   |
+| https://necrotic-gnome-productions.blogspot.com                               |                                                                                                                                     | y   |
+| https://nerdomancerofdork.wordpress.com                                       |                                                                                                                                     | y   |
+| https://nilisnotnull.blogspot.com                                             |                                                                                                                                     | y   |
+| https://nthdecree.blogspot.com                                                |                                                                                                                                     | y   |
+| https://ode2bd.blogspot.com                                                   |                                                                                                                                     | y   |
+| http://www.occultesque.com                                                    | 1d100 lists and tables, sometimes spooky.                                                                                           | y   |
+| https://oldguardgamingaccoutrements.blogspot.com                              | Monsters, 1d100 lists, etc.                                                                                                         | y   |
+| https://oldschoolheretic.blogspot.com                                         |                                                                                                                                     | y   |
+| https://oldschoolpsionics.blogspot.com                                        |                                                                                                                                     | y   |
+| https://osrsimulacrum.blogspot.com                                            |                                                                                                                                     | y   |
+| https://paimonssilvercity.blogspot.com                                        |                                                                                                                                     | y   |
+| https://pastamanscritto.blogspot.com                                          |                                                                                                                                     | y   |
+| http://paperspencils.com                                                      |                                                                                                                                     | y   |
+| https://playingattheworld.blogspot.com                                        | D&D and RPG history and records. He made a book, go read it.                                                                        | y   |
+| http://playingwithelectronstomakestories.com                                  |                                                                                                                                     | y   |
+| https://poleandrope.blogspot.com                                              |                                                                                                                                     | y   |
+| https://popularenchanting.blogspot.com                                        | Monsters, fluff, and game recaps.                                                                                                   | y   |
+| http://projectmultiplexer.com                                                 | Economics, reviews, etc. Lots of non-RPG content. Author moved to Dungeonomics, seen above.                                         | y   |
+| https://pulpwood.blogspot.com                                                 |                                                                                                                                     | y   |
+| https://quasarknight.blogspot.com                                             |                                                                                                                                     | y   |
+| http://questingblog.com                                                       | Author of Maze Rats and Knave.                                                                                                      | y   |
+| https://quicklyquietlycarefully.blogspot.com                                  | OD&D player with some fun stuff for that. Hasn't updated in a while.                                                                | y   |
+| https://randommagicsword.blogspot.com                                         |                                                                                                                                     | y   |
+| https://ravencrowking.blogspot.com                                            |                                                                                                                                     | y   |
+| https://reactionroll.blogspot.com (only updated for one month in 2014)        |                                                                                                                                     | y   |
+| https://recedingrules.blogspot.com                                            |                                                                                                                                     | y   |
+| https://rememberdismove.blogspot.com                                          | Generators, tables, settings, etc)                                                                                                  | y   |
+| http://remixesandrevelations.com                                              | Monsters, classes, wizards.                                                                                                         | y   |
+| https://rendedpress.blogspot.com                                              | Classic and Retro modules, maps, and adventures. Aggregates free material whose links are hard to find due to changing web layouts. | y   |
+| https://retiredadventurer.blogspot.com                                        | House Rules, Runequest.                                                                                                             | y   |
+| https://reverancepavane.blogspot.com                                          |                                                                                                                                     | y   |
+| https://reynaldogamingsoap.blogspot.com                                       |                                                                                                                                     | y   |
+| https://rodoflordlymight.blogspot.com                                         |                                                                                                                                     | y   |
+| https://roguesandreavers.blogspot.com/                                        |                                                                                                                                     | y   |
+| https://rolesrules.blogspot.com                                               |                                                                                                                                     | y   |
+| https://roll1d12.blogspot.com                                                 | Tables.                                                                                                                             | y   |
+| https://roll1d100.blogspot.com                                                | New blog, AAA video game level designer. Looks at motives and game loops in RPGs.                                                   | y   |
+| https://rottenpulp.blogspot.com                                               |                                                                                                                                     | y   |
+| https://rpgcharacters.wordpress.com                                           | Mostly maps, some house rules, fluff, etc.                                                                                          | y   |
+| https://santicore.blogspot.com                                                |                                                                                                                                     | y   |
+| https://saturdaynightsandbox.blogspot.com                                     |                                                                                                                                     | y   |
+| https://save-vs-lazer.tumblr.com                                              | Mostly reblogs, maps, unwarranted opinions, 80's, and hard nostalgia for Spelljammer.                                               | y   |
+| https://savevsdragon.blogspot.com                                             | Monsters, maps, art, and classes. Tables and world gen tools.                                                                       | y   |
+| https://shamsgrog.blogspot.com                                                |                                                                                                                                     | y   |
+| https://sheepandsorcery.blogspot.com                                          |                                                                                                                                     | y   |
+| https://signsinthewilderness.blogspot.com                                     | Wilderness, tables, etc.                                                                                                            | y   |
+| https://smashthedungeon.blogspot.com                                          | Tables, sessions reports, classes.                                                                                                  | y   |
+| https://soogagames.blogspot.ca                                                | Into the Odd author, design, setting fluff namely a gonzo early-modern age.                                                         | y   |
+| https://sorcerersskull.blogspot.com                                           |                                                                                                                                     | y   |
+| https://spacecockroach.blogspot.co.il                                         | ACKS, sci-fi, Traveler. Home of Stellagama Publishing                                                                               | y   |
+| https://straitsofanian.blogspot.com                                           | Material for the mythic Pacific Northwest.                                                                                          | y   |
+| http://strangemagic.robertsongames.com                                        |                                                                                                                                     | y   |
+| https://steamtunnel.blogspot.com                                              |                                                                                                                                     | y   |
+| https://strength18slash01.blogspot.com                                        | Session recaps, setting fluff.                                                                                                      | y   |
+| https://swampofmonsters.blogspot.com                                          |                                                                                                                                     | y   |
+| https://swordsandscrolls.blogspot.com                                         |                                                                                                                                     | y   |
+| https://talesofthegrotesqueanddungeonesque.blogspot.com                       |                                                                                                                                     | y   |
+| https://tao-dnd.blogspot.com                                                  | Has an obscenely complicated economics system.                                                                                      | y   |
+| https://tarsostheorem.blogspot.com                                            | Tables, java script generators, GLOG classes                                                                                        | y   |
+| http://tenfootpole.org                                                        | Classic and retroclone adventure reviews. Not the same person as below.                                                             | y   |
+| https://tenfootpolemic.blogspot.com                                           | Rouse Rules, tables, LotFP classes. Not the same person as above.                                                                   | y   |
+| https://textgolem.blogspot.com                                                | Generators, etc                                                                                                                     | y   |
+| https://the-city-of-iron.blogspot.com                                         |                                                                                                                                     | y   |
+| https://theamateurdungeoneers.blogspot.com                                    | Tables, Godbound stuff, monsters.                                                                                                   | y   |
+| https://thebonehoard.blogspot.com                                             |                                                                                                                                     | y   |
+| https://themansegaming.blogspot.com                                           | Tables for encounters, items, class, and more.                                                                                      | y   |
+| https://thenorthernrealm.blogspot.com                                         |                                                                                                                                     | y   |
+| https://theomnipotenteye.blogspot.com                                         |                                                                                                                                     | y   |
+| https://theosrlibrary.blogspot.com                                            |                                                                                                                                     | y   |
+| https://therpgpundit.blogspot.com                                             |                                                                                                                                     | y   |
+| https://blog.thesconesalone.com                                               | Into the Odd stuff, Dragon Warrior stuff.                                                                                           | y   |
+| https://twogoblinsinatrenchcoat.blogspot.com                                  |                                                                                                                                     | y   |
+| https://throneofsalt.blogspot.com                                             | World building, reviews, GLOG stuff.                                                                                                | y   |
+| https://todistantlands.blogspot.com                                           |                                                                                                                                     | y   |
+| http://blog.trilemma.com                                                      | Mapping and small adventures.                                                                                                       | y   |
+| https://trollandflame.blogspot.com                                            |                                                                                                                                     | y   |
+| https://trollsmyth.blogspot.com                                               |                                                                                                                                     | y   |
+| https://tsojcanth.wordpress.com                                               |                                                                                                                                     | y   |
+| https://udan-adan.blogspot.com                                                | Setting, themes, and locations.                                                                                                     | y   |
+| https://twitter.com/unchartedatlas                                            | Random bot creation region maps.                                                                                                    | y   |
+| https://unlawfulgames.blogspot.com                                            | Setting, lore, gonzo                                                                                                                | y   |
+| https://vorpalmace.blogspot.com                                               | Module and system reviews.                                                                                                          | y   |
+| https://wanderinggamist.blogspot.com                                          |                                                                                                                                     | y   |
+| https://wayspell.blogspot.com                                                 |                                                                                                                                     | y   |
+| https://welshpiper.com/                                                       |                                                                                                                                     | y   |
+| https://whatwouldconando.blogspot.com                                         | Troika, The Undercroft, Fever Swamp                                                                                                 | y   |
+| https://wheel-of-samsara.blogspot.com                                         |                                                                                                                                     | y   |
+| https://www.wizardthieffighter.com                                            |                                                                                                                                     | y   |
+| https://wizzzargh.blogspot.com                                                |                                                                                                                                     | y   |
+| https://ynasmidgard.blogspot.com                                              | Play Reports, Astonishing Swordsmen & Sorcerers of Hyperborea content.                                                              | y   |
+| https://zenopusarchives.blogspot.com                                          | Design and analysis in Holmes Basic.                                                                                                | y   |
+| https://zigguratofunknowing.blogspot.com                                      |                                                                                                                                     | y   |
+| https://zzarchov.blogspot.com                                                 | Author of Neoclassical Geek Revival and Scenic Dunnsmouth.                                                                          | y   |
+|                                                                               |                                                                                                                                     |     |
 
 
 ** Solo RPG links
@@ -238,6 +439,10 @@ Mais Runequest et Stormbringer sont bien aussi, même si Runequest est un peu co
 
 - Un système de jeu très adapté à l'univers.
 - Tarot très utile dans le jeu.
+
+** Numéro 3 : D&D
+
+- Un système de jeu aux probabilités linéaires.
 
 ** En cours d'analyse : Gumshoe
 

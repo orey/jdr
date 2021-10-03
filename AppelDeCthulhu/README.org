@@ -9,11 +9,33 @@ Deux aides de jeux de feu le =Descartes, le supplément= m'ont bien aidé dans l
 
 ** Fiche de temps
 
-La fiche de temps.
+[[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][La fiche de temps]]
 
-Je me souvenais d'une table de localisation des blessures dans le jeu aftermath et la voici :
+La fiche de temps, comme son nom l'indique permet de suivre le temps de jeu de manière simple, ce qui est utile dans les scénarios. A noter que l'on trouve aujourd'hui de très nombreuses aides de jeu de ce type alors qu'à l'époque, ce type de matériel était soit home-made, soit difficile à trouver.
 
-[[LocalisationDesBlessures.png]]
+** Ecran complémentaire du MJ
 
-Lancez 1D20.
+[[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire]]
+
+L'écran se compose de deux pages :
+- Une page avec sorts, les phobies et quelques autres informations,
+- Une page avec des animaux et des PNJ moyens.
+
+Moins utile que la fiche de temps, ces deux pages peuvent être très pratiques.
+
+** Ressources en ligne pour Call of Cthulhu/Appel de Cthulhu
+
+Cette section s'enrichira progressivement.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Site               | Contenu                           | Commentaire  |
+|--------------------+-----------------------------------+--------------|
+| [[https://thealexandrian.net/wordpress/39221/roleplaying-games/call-of-cthulhu-5th-edition-revised-system-cheat-sheet][CoC 5e Cheat sheet]] | Une synthèse des règles de CoC 5e | Beau travail |
+|                    |                                   |              |
+
+
+
+
+
+
 

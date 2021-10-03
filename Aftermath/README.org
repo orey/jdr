@@ -5,5 +5,5 @@
 
 Je me souvenais d'une table de localisation des blessures dans le jeu aftermath et la voici :
 
-[[file:Localisation des blessures.png]]
+[[LocalisationDesBlessures.png]]
 

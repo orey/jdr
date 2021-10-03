@@ -1,0 +1,9 @@
+#+TITLE: Aftermath
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-10-03
+#+STARTUP: content
+
+Je me souvenais d'une table de localisation des blessures dans le jeu aftermath et la voici :
+
+[[file:Localisation des blessures.png]]
+

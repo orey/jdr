@@ -29,7 +29,7 @@
 *** Les règles + un générateur de rencontres
 
 - Les règles en PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]]
-- Les règles sur GitHub : file:DungeonSquad-VersionFrancaise-OreyJdr01.org
+- Les règles sur GitHub : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.org][DungeonSquad! Version Française]]
 
 *** Feuille de personnage
 

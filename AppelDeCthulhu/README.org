@@ -1,0 +1,19 @@
+#+TITLE: Aides de jeu Appel de Cthulhu
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-10-03
+#+STARTUP: content
+
+Deux aides de jeux de feu le =Descartes, le supplément= m'ont bien aidé dans les parties de Cthulhu menées au travers de ces années :
+- La fiche de temps,
+- L'écran complémentaire
+
+** Fiche de temps
+
+La fiche de temps.
+
+Je me souvenais d'une table de localisation des blessures dans le jeu aftermath et la voici :
+
+[[LocalisationDesBlessures.png]]
+
+Lancez 1D20.
+

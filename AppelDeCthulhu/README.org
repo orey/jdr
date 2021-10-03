@@ -28,10 +28,10 @@ Moins utile que la fiche de temps, ces deux pages peuvent être très pratiques.
 Cette section s'enrichira progressivement.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site               | Contenu                           | Commentaire  |
-|--------------------+-----------------------------------+--------------|
-| [[https://thealexandrian.net/wordpress/39221/roleplaying-games/call-of-cthulhu-5th-edition-revised-system-cheat-sheet][CoC 5e Cheat sheet]] | Une synthèse des règles de CoC 5e | Beau travail |
-|                    |                                   |              |
+| Site               | Langue | Contenu                               | Commentaire              |
+|--------------------+--------+---------------------------------------+--------------------------|
+| [[https://thealexandrian.net/wordpress/39221/roleplaying-games/call-of-cthulhu-5th-edition-revised-system-cheat-sheet][CoC 5e Cheat sheet]] | EN     | Une synthèse PDF des règles de CoC 5e | Beau travail, pour écran |
+|                    |        |                                       |                          |
 
 
 

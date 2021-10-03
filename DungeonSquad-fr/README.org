@@ -1,7 +1,20 @@
 #+TITLE: Dungeon Squad! - Version Française
 #+AUTHOR: Olivier Rey
-#+DATE: 2021-04-10
+#+EMAIL: rey.olivier@gmail.com
+#+DATE: 2021-10-03
 #+STARTUP: overview
+#+LANGUAGE: fr
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]
+#+LATEX_HEADER: \usepackage{geometry}\geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
+#+LATEX_HEADER: \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Dungeon Squad! - Version Française}, pdfkeywords={jdr, dungeonsquad}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={Frenchb}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
+#+LATEX_HEADER: \usepackage[french]{babel}
+#+LATEX_HEADER: \usepackage{titlesec}\titlelabel{\thetitle. \quad}
+#+EXPORT_FILE_NAME: DungeonSquad-VersionFrancaise-OreyJdr01.pdf
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 
 [[file:logo.png]]
 
@@ -9,17 +22,24 @@
 
 ** Introduction
 
-Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
-
-_Note_ : un [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/Generateur.org][générateur de rencontres]] est proposé pour ce jeu. En l'utilisant avec le générateur de labyrinthe, il est possible créer un genre de jeu de plateau dynamique et aléatoire (voir à la fin de la page).
+   Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Concepteur               | Jason Morningstar                                               |
-| Version traduite         | 2005                                                            |
-| PDF original             | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon_squad.pdf][dungeon_squad.pdf]]                                               |
-| Traduction et adaptation | O. Rey Avril 2021                                               |
-|                          | Le jeu a été remanié dans sa présentation pour être plus clair. |
-|                          | Les règles ajoutées ont été signalées.                          |
+#+ATTR_LATEX: :environment longtable :align |l|l|
+|------------------------------+-----------------------------------------------------------------|
+| Concepteur                   | (C) Jason Morningstar                                           |
+| Version traduite             | 2005                                                            |
+| PDF original                 | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon_squad.pdf][dungeonsquad.pdf]]                                                |
+|------------------------------+-----------------------------------------------------------------|
+| Version                      | 1.0                                                             |
+|------------------------------+-----------------------------------------------------------------|
+| (C) traduction et adaptation | O. Rey 2021                                                     |
+|                              | Le jeu a été remanié dans sa présentation pour être plus clair. |
+|                              | Les règles ajoutées ont été signalées.                          |
+| Octobre 2021                 | Corrections diverses                                            |
+|                              | Intégration du générateur de rencontres                         |
+|                              | Mise en place des tags pour génération Latex/PDF                |
+|------------------------------+-----------------------------------------------------------------|
 
 ** Ce dont vous avez besoin pour jouer
 
@@ -27,6 +47,12 @@ Chaque joueur doit avoir accès à :
 - Un crayon et du papier,
 - Un ensemble de dés polyhédriques par personne : 1D4, 1D6, 1D8, 1D10 et 1D12 ;
 - Des choses à picorer et des boissons.
+
+** Note
+
+Un certain nombre de ressources sont disponibles à la fin de ce document :
+- Des liens vers des feuilles de personnage et un écran ;
+- Un générateur de rencontres est proposé à la fin de ce jeu. En l'utilisant avec le [[https://github.com/orey/jdr/tree/master/G%25C3%25A9n%25C3%25A9rateurLabyrinthe][générateur de labyrinthe]], il est possible créer un genre de jeu de plateau dynamique et aléatoire.
 
 * Création des personnages
 ** Caractéristiques
@@ -36,6 +62,8 @@ Chaque personnage possèdes trois caractéristiques : *Magicien*, *Guerrier* et 
 /Exemple 1 : Luna de Balor est une magiciene voleuse. Sa joueuse a choisi :/
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|c
+|------------+-----|
 | Magicienne | D12 |
 | Voleuse    | D8  |
 | Guerrière  | D4  |
@@ -45,9 +73,12 @@ Chaque personnage possèdes trois caractéristiques : *Magicien*, *Guerrier* et 
 /Exemple 2 : Grognard le Turbulent est un guerrier. Son joueur a choisi la configuration suivante :/
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|c
+|----------+-----|
 | Guerrier | D12 |
 | Voleur   | D8  |
 | Magicien | D4  |
+
 
 ** Compétences
 *** Compétences à la création du personnage
@@ -64,18 +95,24 @@ Au début du jeu, les personnages ont seulement *2* compétences. Ils affectent 
 /Exemple : la joueuse de Luna de Balor a choisi les compétences suivantes :/
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|l|c
+|------+--------+-----|
 | Sort | Eclair | D10 |
 | Sort | Soins  | D6  |
 
 /Exemple : Grognard le Turbulent a les compétences suivantes :/
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|l|c
+|--------+-------------------+-----|
 | Arme   | Epée à deux mains | D10 |
 | Armure | Cotte de mailles  | D6  |
 
 /Une autre option pour le guerrier ayant le D4 assigné à la caractéristique *Magicien* de prendre le sort *Guérison*, en ne le lançant qu'entre les combats./
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|l|c
+|------+-------------------+-----|
 | Arme | Epée à deux mains | D10 |
 | Sort | Soins             | D6  |
 
@@ -98,6 +135,7 @@ Chaque personnage démarre dans la vie avec *30 PO* (pièce d'or). Il peut s'ach
 Tous les personnages peuvent se battre, lancer des sorts et fureter. La difficulté de l'action est déterminée par un seuil qu'il faut dépasser avec le dé assigné à l'action.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|c
 | Difficulté     | Seuil |
 |----------------+-------|
 | Facile         |     2 |
@@ -112,6 +150,7 @@ Les règles originales ne proposent pas de règles concernant l'initiative. Or, 
 Nous proposons la règle optionnelle suivante : Lancez 1D6 par joueur et ajoutez le modificateur suivant, dépendant du dé de *voleur* :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|c
 | Dé de voleur pour les PJ | Modificateur |
 |--------------------------+--------------|
 | D4                       |           -1 |
@@ -132,6 +171,7 @@ Les monstres sont caractérisés par un niveau : faible, moyen ou fort.
 Dans un combat, lancez votre dé de *Guerrier* et consultez la table ci-dessous :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|c|c|c
 | Catégorie de monstre | Dé       | Seuil à dépasser | Restriction armes de jet           |
 |----------------------+----------+------------------+------------------------------------|
 | Faible               | Guerrier |                2 | Toucher pour nombre pair seulement |
@@ -143,21 +183,26 @@ Explication du tableau ci-dessus : dans le cas d'un combat au corps à corps, il
 
 Bien entendu, si vous avez assigné le D4 au *Guerrier*, le combat risque de s'avérer difficile, voire impossible dans certains cas (cas des monstres forts).
 
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
 *** Dommages
 
+POur faire des dommages, il faut avoir choisi une arme comme compétence (donc soit lui avoir affecté un D6, soit un D10).
+
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Type d'arme                   |                    Dommages |
-|-------------------------------+-----------------------------|
-| Arme choisie comme compétence | Dé de compétence (D6 ou D10 |
-|-------------------------------+-----------------------------|
-| Poings                        |                         1D4 |
-| Dague                         |                         1D4 |
-| Epée                          |                         1D6 |
-| Epée magique                  |                         1D8 |
-| Hache                         |                         1D8 |
-| Arc                           |                         1D6 |
-| Arbalète                      |                         1D8 |
-| Lance                         |                         1D8 |
+#+ATTR_LATEX: :environment longtable :align l|c
+| Type d'arme  | Dommages |
+|--------------+----------|
+| Poings       |      1D4 |
+| Dague        |      1D4 |
+| Epée         |      1D6 |
+| Epée magique |      1D8 |
+| Hache        |      1D8 |
+| Arc          |      1D6 |
+| Arbalète     |      1D8 |
+| Lance        |      1D8 |
 
 *** Armures
 
@@ -167,15 +212,16 @@ Les armures réduisent les dommages encaissés de la valeur de leur dé assigné
 
 D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant aller du D4 au D12.
 
+Pour utiliser une armure, il faut avoir affecté au préalable un dé de compétence à une armure.
+
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Type d'armure                   |       Protection |
-|---------------------------------+------------------|
-| Armure choisie comme compétence | Dé de compétence |
-|---------------------------------+------------------|
-| Armure de cuir                  |              1D4 |
-| Armure de cuir renforcé         |              1D6 |
-| Cotte de mailles                |              1D8 |
-| Armure à plaques                |             1D10 |
+#+ATTR_LATEX: :environment longtable :align l|c
+| Type d'armure           | Protection |
+|-------------------------+------------|
+| Armure de cuir          |        1D4 |
+| Armure de cuir renforcé |        1D6 |
+| Cotte de mailles        |        1D8 |
+| Armure à plaques        |       1D10 |
 
 ** Magie
 *** Lancer un sort
@@ -183,6 +229,7 @@ D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant
 Pour lancer un sort, jetez votre dé de *Magicien* :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|c
 | Situation du magicien | Seuil à dépasser |
 |-----------------------+------------------|
 | Dans un combat        |                6 |
@@ -192,7 +239,12 @@ Pour lancer un sort, jetez votre dé de *Magicien* :
 
 6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de compétences à deux sorts différents.
 
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|p{10cm}|c
 | Sort             | Description                                                                                                                                                              | Fréquence           |
 |------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------|
 | Eblouissement    | Désoriente un ennemi de la taille d'un humain par 2 points de jet, 4 pour les grosses créatures et 1 pour les petites. Les victimes ne peuvent pas agir pendant un tour. | 1 fois par combat   |
@@ -207,6 +259,7 @@ Pour lancer un sort, jetez votre dé de *Magicien* :
 Pour être furtif ou exercer d'autres talents du voleur, jetez votre dé de *Voleur* et consultez la table ci-dessous :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|c
 | Compétences de voleur        | Seuil à dépasser |
 |------------------------------+------------------|
 | Se déplacer silencieusement  |                2 |
@@ -221,6 +274,7 @@ Pour être furtif ou exercer d'autres talents du voleur, jetez votre dé de *Vol
 Certains matériels spécifiques vous donnent un bonus de "+D" (passage au dé supérieur) pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette action spécifique.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|c|c
 | Bonus | Dé de départ | Dé à utiliser |
 |-------+--------------+---------------|
 | +D    | D4           | D6            |
@@ -240,6 +294,7 @@ Les cordes, crochets pour serrure, pelles, etc., peuvent être achetés, mais il
 Au cours des aventures, il est possible de trouver des trésors, par exemple :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|l
 | Trésor           | Caractéristique                                            |
 |------------------+------------------------------------------------------------|
 | Epée normale     | Dommages : 1D6                                             |
@@ -256,6 +311,7 @@ Les pièces d'or (PO) peuvent servir à acheter des chose, mais aussi à l'avanc
 _Règle optionnelle_ : Tuer des monstres rapporte des points d'expérience (notés "Exp" dans les tableaux de monstres). Ils définissent un compte de "Points d'Expérience", notés PE, et déterminés en fin d'aventure avec le maître de jeu. Ces points peuvent être consommés pour faire avancer le personnage (voir table ci_dessous).
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|c|c
 | Expérience | Gain                      | Règle originale |
 |------------+---------------------------+-----------------|
 | 100 PO     | +D pour un dé (max : D12) | Oui             |
@@ -272,24 +328,37 @@ Principe : tous les monstres ont besoin d'un 4 ou plus pour toucher les personna
 Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align p{3cm}|c|p{6cm}|c|p{1.3cm}|c|c
 | Monstre                      | Attaque | Dommages                                                                        | PV | Armure | Exp | Initiative |
 |------------------------------+---------+---------------------------------------------------------------------------------+----+--------+-----+------------|
 | Rat                          | D4      | Morsure 1 PV                                                                    |  1 | -      |   1 |         +1 |
+|------------------------------+---------+---------------------------------------------------------------------------------+----+--------+-----+------------|
 | Araignée                     | D4      | Piqûre 1 PV                                                                     |  1 | -      |   1 |          0 |
+|------------------------------+---------+---------------------------------------------------------------------------------+----+--------+-----+------------|
 | Chauve souris vampire géante | D4      | Morsure 2 PV                                                                    |  2 | -      |   2 |         +1 |
+|------------------------------+---------+---------------------------------------------------------------------------------+----+--------+-----+------------|
 | Moisissure gluante et puante | D4      | Erode le métal, détruit les armures et les épées                                | 25 | -      |  25 |          - |
+|------------------------------+---------+---------------------------------------------------------------------------------+----+--------+-----+------------|
 | Eponge moisie magique        | D4      | Les points de magie utilisés contre elle accroissent ses points de vie d'autant | 25 | -      |  25 |         -1 |
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 
 ** Monstres faibles
 
 Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align p{3cm}|c|p{6cm}|c|p{1.3cm}|c|c
 | Monstre                | Attaque | Dommages   | PV | Armure | Exp | Initiative |
 |------------------------+---------+------------+----+--------+-----+------------|
 | Rat géant              | D6      | Morsure D4 |  4 | -      |   4 |         +1 |
+|------------------------+---------+------------+----+--------+-----+------------|
 | Loup                   | D6      | Morsure D6 |  6 | -      |   6 |          0 |
+|------------------------+---------+------------+----+--------+-----+------------|
 | Goblin                 | D6      | Hache D8   |  8 | -      |   8 |          0 |
+|------------------------+---------+------------+----+--------+-----+------------|
 | Bandit de grand chemin | D6      | Epée D6    |  8 | 1d4    |   8 |          0 |
 
 ** Monstres moyens
@@ -297,13 +366,19 @@ Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou pl
 Les personnages ont desoin d'un 4 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align p{3cm}|c|p{6cm}|c|p{1.3cm}|c|c
 | Monstre            | Attaque | Dommages                                | PV | Armure          | Exp | Initiative |
 |--------------------+---------+-----------------------------------------+----+-----------------+-----+------------|
 | Orc                | D8      | Epée D6                                 | 10 | Bouclier D6     |  10 |          0 |
+|--------------------+---------+-----------------------------------------+----+-----------------+-----+------------|
 | Soldat             | D8      | Epée D6                                 | 10 | 1d8             |  10 |         +1 |
+|--------------------+---------+-----------------------------------------+----+-----------------+-----+------------|
 | Squelette guerrier | D8      | Hache D8                                |  4 | -               |   4 |         -1 |
+|--------------------+---------+-----------------------------------------+----+-----------------+-----+------------|
 | Araignée géante    | D8      | Poison D4 par tour pendant 4 tours      | 12 | -               |  12 |         -1 |
+|--------------------+---------+-----------------------------------------+----+-----------------+-----+------------|
 | Zombie             | D8      | Morsure D6 (guérie par le sort "soins") |  8 | -               |   8 |          0 |
+|--------------------+---------+-----------------------------------------+----+-----------------+-----+------------|
 | Homme poisson      | D8      | Griffes D6, morsure D4                  | 10 | Peau : 2 points |  10 |          0 |
 
 ** Monstres forts
@@ -311,10 +386,13 @@ Les personnages ont desoin d'un 4 ou plus pour les toucher.
 Les personnages ont desoin d'un 6 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align p{3cm}|c|p{3.5cm}|c|p{3.8cm}|c|c
 | Monstre      | Attaque | Dommages                                  | PV | Armure               | Exp | Initiative |
 |--------------+---------+-------------------------------------------+----+----------------------+-----+------------|
 | Géant        | D10     | Gourdin D10                               | 20 | -                    |  20 |         -1 |
+|--------------+---------+-------------------------------------------+----+----------------------+-----+------------|
 | Troll        | D10     | Mains D10                                 | 12 | Armure naturelle D10 |  12 |         -1 |
+|--------------+---------+-------------------------------------------+----+----------------------+-----+------------|
 | Petit dragon | D10     | Pinces d6, morsure D8, souffle de feu D12 | 40 | Armure naturelle D6  |  40 |          0 |
 
 ** Sauve qui peut !
@@ -322,65 +400,72 @@ Les personnages ont desoin d'un 6 ou plus pour les toucher.
 Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align l|c|p{3.5cm}|c|p{3.8cm}|c|c
 | Monstre      | Attaque | Dommages                       | PV | Armure               | Exp | Initiative |
 |--------------+---------+--------------------------------+----+----------------------+-----+------------|
 | Grand dragon | D12     | Pinces D10, souffle de feu D12 | 60 | Armure naturelle D10 |  60 | -1         |
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 
 * Equipement
 
 ** Moins de 20 PO
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Equipement                       | Commentaires                                                   | Prix en PO |
-|----------------------------------+----------------------------------------------------------------+------------|
-| Bougie                           |                                                                |          1 |
-| Sac de couchage                  |                                                                |          1 |
-| Gourde                           |                                                                |          1 |
-| Sifflet                          |                                                                |          1 |
-| Torche                           |                                                                |          1 |
-| Sac à butin                      |                                                                |          1 |
-| Repas pour une semaine           |                                                                |          5 |
-| Valise waterproof                |                                                                |          5 |
-| Corde de 3 mètres                |                                                                |          5 |
-| Briquet silex                    |                                                                |          5 |
-| Sac à dos                        |                                                                |          5 |
-| Pelle à creuser                  | +D pour creuser                                                |          5 |
-| Bandages                         | Soigne 1D4 une fois                                            |          5 |
-| Kit de l'aventurier              | Sac à dos, briquet silex, sac de couchage, gourde, sac à butin |         10 |
-| Lanterne                         |                                                                |         10 |
-| Carte locale                     |                                                                |         10 |
-| Corde                            |                                                                |         10 |
-| Crochet escalade                 | +D en escalade si utilisé avec la corde                        |         10 |
-| Marteau et piquets               |                                                                |         10 |
-| Parchemin, encre et plume        |                                                                |         10 |
-| Instrument de musique            |                                                                |         10 |
-| Baume soignant                   | Soigne 1D6 une fois                                            |         10 |
+#+ATTR_LATEX: :environment longtable :align l|c|p{10cm}
+| Equipement                | Prix (PO) | Commentaires                                                   |
+|---------------------------+-----------+----------------------------------------------------------------|
+| Bougie                    |         1 |                                                                |
+| Sac de couchage           |         1 |                                                                |
+| Gourde                    |         1 |                                                                |
+| Sifflet                   |         1 |                                                                |
+| Torche                    |         1 |                                                                |
+| Sac à butin               |         1 |                                                                |
+| Repas pour une semaine    |         5 |                                                                |
+| Valise waterproof         |         5 |                                                                |
+| Corde de 3 mètres         |         5 |                                                                |
+| Briquet silex             |         5 |                                                                |
+| Sac à dos                 |         5 |                                                                |
+| Pelle à creuser           |         5 | +D pour creuser                                                |
+| Bandages                  |         5 | Soigne 1D4 une fois                                            |
+| Kit de l'aventurier       |        10 | Sac à dos, briquet silex, sac de couchage, gourde, sac à butin |
+| Lanterne                  |        10 |                                                                |
+| Carte locale              |        10 |                                                                |
+| Corde                     |        10 |                                                                |
+| Crochet escalade          |        10 | +D en escalade si utilisé avec la corde                        |
+| Marteau et piquets        |        10 |                                                                |
+| Parchemin, encre et plume |        10 |                                                                |
+| Instrument de musique     |        10 |                                                                |
+| Baume soignant            |        10 | Soigne 1D6 une fois                                            |
 
 ** 20 PO et plus
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Equipement                       | Commentaires                                                   | Prix en PO |
-|----------------------------------+----------------------------------------------------------------+------------|
-| Augmenter ses PV de 1            |                                                                |         20 |
-| Tente pour 4 personnes           |                                                                |         20 |
-| Beaux habits                     |                                                                |         20 |
-| Animal de compagnie              | Chat, belette, hibou, faucon, etc.                             |         20 |
-| Cape                             | +D pour se cacher                                              |         20 |
-| Gants pour escalader             | +D escalade                                                    |         20 |
-| Bottes elfiques                  | +D se déplacer en silence                                      |         20 |
-| Potion de soins                  | Soigne 1D12 une fois                                           |         20 |
-| Cheval harnaché                  |                                                                |         50 |
-| Piège à ours                     |                                                                |         50 |
-| Longue-vue                       |                                                                |         50 |
-| Mirroir                          |                                                                |         50 |
-| Crocket pour serrure             | +D crochetage                                                  |         50 |
-| Parchemin de sort                | Contient un sort à usage unique                                |         50 |
-| +D pour une caractéristique      | Magicien, Guerrier ou Voleur                                   |        100 |
-| Chien de garde                   | Attaque D8. Dommages : morsure D6. 6 PV. Loyal.                |        100 |
-| Epée magique                     | +D pour le combat avec cette épée                              |        100 |
-| Baguette magique                 | +D pour lancer des sorts                                       |        100 |
-| Etalon de guerrier               | Attaque par piétinement D6. 12 PV. Féroce.                     |        100 |
-| Laboratoire portable de magicien | Pour inventer de nouveaux sorts                                |        100 |
+#+ATTR_LATEX: :environment longtable :align l|c|p{10cm}
+| Equipement                       | Prix (PO) | Commentaires                                    |
+|----------------------------------+-----------+-------------------------------------------------|
+| Augmenter ses PV de 1            |        20 |                                                 |
+| Tente pour 4 personnes           |        20 |                                                 |
+| Beaux habits                     |        20 |                                                 |
+| Animal de compagnie              |        20 | Chat, belette, hibou, faucon, etc.              |
+| Cape                             |        20 | +D pour se cacher                               |
+| Gants pour escalader             |        20 | +D escalade                                     |
+| Bottes elfiques                  |        20 | +D se déplacer en silence                       |
+| Potion de soins                  |        20 | Soigne 1D12 une fois                            |
+| Cheval harnaché                  |        50 |                                                 |
+| Piège à ours                     |        50 |                                                 |
+| Longue-vue                       |        50 |                                                 |
+| Mirroir                          |        50 |                                                 |
+| Crocket pour serrure             |        50 | +D crochetage                                   |
+| Parchemin de sort                |        50 | Contient un sort à usage unique                 |
+| +D pour une caractéristique      |       100 | Magicien, Guerrier ou Voleur                    |
+| Chien de garde                   |       100 | Attaque D8. Dommages : morsure D6. 6 PV. Loyal. |
+| Epée magique                     |       100 | +D pour le combat avec cette épée               |
+| Baguette magique                 |       100 | +D pour lancer des sorts                        |
+| Etalon de guerrier               |       100 | Attaque par piétinement D6. 12 PV. Féroce.      |
+| Laboratoire portable de magicien |       100 | Pour inventer de nouveaux sorts                 |
 
 * Feuille de personnage
 
@@ -394,6 +479,100 @@ Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
 * Générateur de rencontres
 
-Voir [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/Generateur.org][générateur de rencontres]].
+** Monstres niveau 1
 
+Lancez 1D12.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|l|c
+| Valeur | Monstre                | Nombre |
+|--------+------------------------+--------|
+|    1-2 | Rats                   |    1D8 |
+|    3-4 | Chauves souris géantes |    1D8 |
+|      5 | Araignée géante        |    1D2 |
+|      6 | Goblin                 |    1D2 |
+|      7 | Rat géant              |    1D4 |
+|      8 | Squelette guerrier     |    1D2 |
+|      9 | Orc                    |    1D2 |
+|     10 | Homme poisson          |    1D2 |
+|     11 | Eponge moisie          |      1 |
+|     12 | Zombie                 |    1D2 |
+
+** Monstres niveau 2
+
+Lancez 1D6.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|l
+| Valeur | Monstre                                          |
+|--------+--------------------------------------------------|
+|    1-2 | Troll                                            |
+|    3-4 | Géant                                            |
+|      5 | Petit dragon                                     |
+|      6 | Relancer 1D6. 1-5 : Petit dragon, 6 grand dragon |
+
+
+** Trésors
+
+Lancez 1D12.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|l
+| Valeur | Trésor                                       |
+|--------+----------------------------------------------|
+|    1-2 | 1D6 PO                                       |
+|    3-4 | 1D8 PO                                       |
+|      5 | Des bijoux pour une valeur de 1D10 PO        |
+|      6 | Potion de soins valable 1D4 fois             |
+|      7 | Epée magique, dommages 1D8                   |
+|      8 | Baguette magique +D en sorts                 |
+|      9 | Parchemin bouclier magique (voir règles)     |
+|     10 | Potion d'invisibilité, ne marche qu'une fois |
+|     11 | Kit de crochetage magique, marche 1D8 fois   |
+|     12 | Torche éternelle, marche pour une aventure   |
+
+** Difficultés et pièges
+
+Lancez 1D10.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|p{6cm}|p{3.5cm}|p{4cm}
+| Valeur | Description                                            | Seuil éviter / désamorcer |                               Dommages |
+|--------+--------------------------------------------------------+---------------------------+----------------------------------------|
+|      1 | Le sol tremble et la pièce s'effondre                  | Voleur 4 / Voleur 6       |                                    1D6 |
+|      2 | Le plafond tremble et s'écroule                        | Voleur 4 / Voleur 6       |                                    1D6 |
+|      3 | 1 flèche est tirée par un piège vers chaque personnage | Voleur 4 / Voleur 8       |                                    1D4 |
+|      4 | Boule de feu venant d'un coin de la pièce              | Voleur 4 / Voleur 6       |                                    1D6 |
+|      5 | Trappe qui s'ouvre, besoin d'une corde pour sortir     | Voleur 4 / Voleur 6       |                                    1D4 |
+|      6 | Boule de pierre géante qui surgit d'un mur             | Voleur 4 / Voleur 8       |                                    1D6 |
+|      7 | Rayont paralysant                                      | Voleur 4 / Voleur 6       |      Paralysé pendant 1D6 heures - 1D4 |
+|      8 | Cage emprisonnante                                     | Voleur 4 / Voleur 6       |                             Prisonnier |
+|      9 | Moisissure gluante et puante                           | Voleur 3 / -              | Erode le métal, les épées, les armures |
+|     10 | Porte fermée                                           | - / Voleur 6              |                                        |
+
+** Situations étranges
+
+Lancez 1D10.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align c|l
+| Valeur | Description                                       |
+|--------+---------------------------------------------------|
+|      1 | Statue qui parle                                  |
+|      2 | Nid de paille puant avec cafards                  |
+|      3 | Squelettes humains avec armes et épées            |
+|      4 | Fontaine avec octogone                            |
+|      5 | Dortoir vide                                      |
+|      6 | Chapelle du chaos avec autel                      |
+|      7 | Pièce avec grande cage et squellettes non humains |
+|      8 | Pièce avec vieux habits pourris                   |
+|      9 | Pièce avec un puits central                       |
+|     10 | Pièce avec une roue de pierre qui tourne          |
+
+#+BEGIN_EXPORT latex
+\vfill
+#+END_EXPORT
+
+#+ATTR_LATEX: :width 3cm
+[[file:logo-orey-big.png]]
 

@@ -5,6 +5,16 @@
 
 Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
 
+* Dernières livraisons
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Date | JDR-RPG | Livrable                   | Commentaire                                         |
+|------+---------+----------------------------+-----------------------------------------------------|
+| 2021 | AdC     | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]    | Ecran complémentaire MJ                             |
+| 2021 | AdC     | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]             | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
+| 2021 | Tous    | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]] | A intégrer dans une synthèse d'aides de jeu pour MJ |
+
+
 * Liens
 
 ** RPG sites and forums

@@ -7,3 +7,5 @@ Je me souvenais d'une table de localisation des blessures dans le jeu aftermath 
 
 [[LocalisationDesBlessures.png]]
 
+Lancez 1D20.
+

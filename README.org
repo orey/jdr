@@ -5,17 +5,17 @@
 
 Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
 
-* Dernières livraisons PDF
+* Dernières livraisons
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Date | JDR-RPG          | Type             | Livrable                        | Commentaire                                         |
+| Date | JDR-RPG          | Type             | Livrable                        | Format | Commentaire                                         |
 |------+------------------+------------------+---------------------------------+-----------------------------------------------------|
-| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française PDF]] | Traduction originale                                |
-| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]            | Traduction originale                                |
-| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf][Ecran PDF]]                       | Traduction originale                                |
-| 2021 | AdC              | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]         | Ecran complémentaire MJ                             |
-| 2021 | AdC              | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]                  | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
-| 2021 | Tous             | Aide de jeu      | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]]      | A intégrer dans une synthèse d'aides de jeu pour MJ |
+| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]] | PDF | Traduction originale                                |
+| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso]]            | PDF | Traduction originale                                |
+| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf][Ecran]]                       | PDF | Traduction originale                                |
+| 2021 | AdC              | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]        | PDF | Ecran complémentaire MJ                             |
+| 2021 | AdC              | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]    |  PDF            | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
+| 2021 | Tous             | Aide de jeu      | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]]  | PNG    | A intégrer dans une synthèse d'aides de jeu pour MJ |
 
 
 * Liens

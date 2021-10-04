@@ -5,12 +5,12 @@
 
 Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
 
-* Dernières livraisons
+* Dernières livraisons PDF
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | JDR-RPG          | Type             | Livrable                        | Commentaire                                         |
 |------+------------------+------------------+---------------------------------+-----------------------------------------------------|
-| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]] | Traduction originale                                |
+| 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française PDF]] | Traduction originale                                |
 | 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]            | Traduction originale                                |
 | 2021 | DungeonSquad! VF | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf][Ecran PDF]]                       | Traduction originale                                |
 | 2021 | AdC              | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]         | Ecran complémentaire MJ                             |

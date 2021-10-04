@@ -41,3 +41,5 @@
 - Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf][Ecran PDF]]
 - Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.odp][Ecran ODP]]
 
+[[file:logo-ore.png]]
+

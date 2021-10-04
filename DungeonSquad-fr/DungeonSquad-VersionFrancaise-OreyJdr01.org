@@ -6,6 +6,7 @@
 #+LANGUAGE: fr
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]
+#+LATEX_HEADER: \usepackage{baskervillef}
 #+LATEX_HEADER: \usepackage{geometry}\geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
 #+LATEX_HEADER: \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Dungeon Squad! - Version Française}, pdfkeywords={jdr, dungeonsquad}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={Frenchb}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
 #+LATEX_HEADER: \usepackage[french]{babel}
@@ -26,20 +27,19 @@
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align |l|l|
-|------------------------------+-----------------------------------------------------------------|
-| Concepteur                   | (C) Jason Morningstar                                           |
-| Version traduite             | 2005                                                            |
-| PDF original                 | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon_squad.pdf][dungeonsquad.pdf]]                                                |
-|------------------------------+-----------------------------------------------------------------|
-| Version                      | 1.0                                                             |
-|------------------------------+-----------------------------------------------------------------|
-| (C) traduction et adaptation | O. Rey 2021                                                     |
-|                              | Le jeu a été remanié dans sa présentation pour être plus clair. |
-|                              | Les règles ajoutées ont été signalées.                          |
-| Octobre 2021                 | Corrections diverses                                            |
-|                              | Intégration du générateur de rencontres                         |
-|                              | Mise en place des tags pour génération Latex/PDF                |
-|------------------------------+-----------------------------------------------------------------|
+|--------------------------+-----------------------------------------------------------------|
+| Concepteur               | (C) Jason Morningstar                                           |
+| Version traduite         | 2005                                                            |
+| PDF original             | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon_squad.pdf][dungeonsquad.pdf]]                                                |
+|--------------------------+-----------------------------------------------------------------|
+| Version                  | 1.0                                                             |
+|--------------------------+-----------------------------------------------------------------|
+| Traduction et adaptation | (C) O. Rey 2021                                                 |
+|                          | Le jeu a été remanié dans sa présentation pour être plus clair. |
+| Octobre 2021             | Corrections diverses                                            |
+|                          | Intégration du générateur de rencontres                         |
+|                          | Mise en place des tags pour génération Latex/PDF                |
+|--------------------------+-----------------------------------------------------------------|
 
 ** Ce dont vous avez besoin pour jouer
 
@@ -48,11 +48,12 @@ Chaque joueur doit avoir accès à :
 - Un ensemble de dés polyhédriques par personne : 1D4, 1D6, 1D8, 1D10 et 1D12 ;
 - Des choses à picorer et des boissons.
 
-** Note
+** Notes
 
 Un certain nombre de ressources sont disponibles à la fin de ce document :
 - Des liens vers des feuilles de personnage et un écran ;
-- Un générateur de rencontres est proposé à la fin de ce jeu. En l'utilisant avec le [[https://github.com/orey/jdr/tree/master/G%25C3%25A9n%25C3%25A9rateurLabyrinthe][générateur de labyrinthe]], il est possible créer un genre de jeu de plateau dynamique et aléatoire.
+- Un générateur de rencontres est proposé à la fin de ce jeu. En l'utilisant avec le [[https://github.com/orey/jdr/tree/master/G%25C3%25A9n%25C3%25A9rateurLabyrinthe][générateur de labyrinthe]], il est possible créer un genre de jeu de plateau dynamique et aléatoire ;
+- Il est aussi possible de l'utiliser sans MJ, en jouant avec des émulateurs de MJ, tels [[https://github.com/orey/jdr/tree/master/Mythic-fr][Mythic]].
 
 * Création des personnages
 ** Caractéristiques

@@ -1,4 +1,4 @@
-% Created 2021-10-03 Sun 23:27
+% Created 2021-10-04 Mon 22:52
 % Intended LaTeX compiler: pdflatex
 \documentclass[a4paper, 11pt, twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -14,6 +14,7 @@
 \usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
+\usepackage{baskervillef}
 \usepackage{geometry}\geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
 \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Dungeon Squad! - Version Française}, pdfkeywords={jdr, dungeonsquad}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={Frenchb}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
 \usepackage[french, frenchb]{babel}
@@ -40,10 +41,10 @@
 \end{center}
 
 \section{Dungeon Squad! - Version Française}
-\label{sec:org4a12f73}
+\label{sec:org7d05668}
 
 \subsection{Introduction}
-\label{sec:org710cee6}
+\label{sec:org8c93640}
 
 Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
 
@@ -66,9 +67,8 @@ PDF original & \href{https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dun
 \hline
 Version & 1.0\\
 \hline
-(C) traduction et adaptation & O. Rey 2021\\
+Traduction et adaptation & (C) O. Rey 2021\\
  & Le jeu a été remanié dans sa présentation pour être plus clair.\\
- & Les règles ajoutées ont été signalées.\\
 Octobre 2021 & Corrections diverses\\
  & Intégration du générateur de rencontres\\
  & Mise en place des tags pour génération Latex/PDF\\
@@ -76,7 +76,7 @@ Octobre 2021 & Corrections diverses\\
 \end{longtable}
 
 \subsection{Ce dont vous avez besoin pour jouer}
-\label{sec:orgf3aa2eb}
+\label{sec:orgfbeed6b}
 
 Chaque joueur doit avoir accès à :
 \begin{itemize}
@@ -85,19 +85,20 @@ Chaque joueur doit avoir accès à :
 \item Des choses à picorer et des boissons.
 \end{itemize}
 
-\subsection{Note}
-\label{sec:orgacb6df8}
+\subsection{Notes}
+\label{sec:orgc9c854b}
 
 Un certain nombre de ressources sont disponibles à la fin de ce document :
 \begin{itemize}
 \item Des liens vers des feuilles de personnage et un écran ;
-\item Un générateur de rencontres est proposé à la fin de ce jeu. En l'utilisant avec le \href{https://github.com/orey/jdr/tree/master/G\%25C3\%25A9n\%25C3\%25A9rateurLabyrinthe}{générateur de labyrinthe}, il est possible créer un genre de jeu de plateau dynamique et aléatoire.
+\item Un générateur de rencontres est proposé à la fin de ce jeu. En l'utilisant avec le \href{https://github.com/orey/jdr/tree/master/G\%25C3\%25A9n\%25C3\%25A9rateurLabyrinthe}{générateur de labyrinthe}, il est possible créer un genre de jeu de plateau dynamique et aléatoire ;
+\item Il est aussi possible de l'utiliser sans MJ, en jouant avec des émulateurs de MJ, tels \href{https://github.com/orey/jdr/tree/master/Mythic-fr}{Mythic}.
 \end{itemize}
 
 \section{Création des personnages}
-\label{sec:org3774562}
+\label{sec:orgf0fc546}
 \subsection{Caractéristiques}
-\label{sec:org884be30}
+\label{sec:org2a7614c}
 
 Chaque personnage possèdes trois caractéristiques : \textbf{Magicien}, \textbf{Guerrier} et \textbf{Voleur} (respectivement \textbf{Magicienne}, \textbf{Guerrière} et \textbf{Voleuse}). Chaque joueur possède 3 dés, un D4, un D8 et un D12, chaque dé devant être assigné à une des trois caractéristiques. 
 
@@ -123,9 +124,9 @@ Magicien & D4\\
 
 
 \subsection{Compétences}
-\label{sec:org7f3aec1}
+\label{sec:org46b5f3f}
 \subsubsection{Compétences à la création du personnage}
-\label{sec:org934ea53}
+\label{sec:orgbb2298a}
 
 Chaque personnage possède un D6 et un D10 pour décrire des compétences.
 
@@ -163,26 +164,26 @@ Sort & Soins & D6\\
 \end{longtable}
 
 \subsubsection{Limitation à 4 du nombre de compétences}
-\label{sec:orge8d1c6d}
+\label{sec:org5a0100b}
 
 Dans le cours du jeu, les joueurs pourront acquérir d'autres compétences en trouvant, par exemple, des objets magiques ou des armes. Pour autant, ils ne pourront \textbf{jamais avoir plus de 4} compétences (en comptant les armes, les armures et les sorts).
 
 \emph{Par exemple, si le personnage trouve un trésor avec quelque chose d'intéressant à l'intérieur (comme un parchemin de \textbf{Boule de feu} par exemple), il l'inscrit sur sa feuille en plus des deux autres choses qu'il a choisies à la création de son personnage. Le personnage peut choisir de prendre ou de laisser des choses, mais il ne peut pas en avoir plus de 4 avec lui.}
 
 \subsection{Points de vie}
-\label{sec:orga0c9b3a}
+\label{sec:org1c0f03d}
 
 Tous les personnages ont \textbf{15 points de vie} (PV). Les dommages réduisent directement les PV (après prise en compte de l'armure).
 
 \subsection{Pièces d'or}
-\label{sec:org044e055}
+\label{sec:org3b39a24}
 
 Chaque personnage démarre dans la vie avec \textbf{30 PO} (pièce d'or). Il peut s'acheter un équipement avec cette somme (voir la partie équipement).
 
 \section{La mécanique du jeu}
-\label{sec:orgf18f17b}
+\label{sec:org231e077}
 \subsection{Les seuils de difficulté}
-\label{sec:org59458ee}
+\label{sec:org551c4ca}
 Tous les personnages peuvent se battre, lancer des sorts et fureter. La difficulté de l'action est déterminée par un seuil qu'il faut dépasser avec le dé assigné à l'action.
 
 \begin{longtable}{c|c}
@@ -207,7 +208,7 @@ Très difficile & 8\\
 \end{longtable}
 
 \subsection{Initiative (règle optionnelle)}
-\label{sec:orgd72b511}
+\label{sec:org7fbcd4c}
 
 Les règles originales ne proposent pas de règles concernant l'initiative. Or, savoir qui attaque en premier est important dans un combat.
 
@@ -240,9 +241,9 @@ Classez alors l'ordre des attaques et résolvez le tour.
 Cette règles optionnelle marche aussi avec les magiciens usant d'un sort d'attaque (comme "éclair").
 
 \subsection{Combat}
-\label{sec:org459fcdc}
+\label{sec:org422ac92}
 \subsubsection{Toucher}
-\label{sec:org4570930}
+\label{sec:org9e31a5f}
 
 Les monstres sont caractérisés par un niveau : faible, moyen ou fort.
 
@@ -276,7 +277,7 @@ Bien entendu, si vous avez assigné le D4 au \textbf{Guerrier}, le combat risque
 \newpage
 
 \subsubsection{Dommages}
-\label{sec:org4710de9}
+\label{sec:org4c52d2a}
 
 POur faire des dommages, il faut avoir choisi une arme comme compétence (donc soit lui avoir affecté un D6, soit un D10).
 
@@ -306,7 +307,7 @@ Lance & 1D8\\
 \end{longtable}
 
 \subsubsection{Armures}
-\label{sec:org73c6c50}
+\label{sec:org6a45d6f}
 
 Les armures réduisent les dommages encaissés de la valeur de leur dé assigné.
 
@@ -338,9 +339,9 @@ Armure à plaques & 1D10\\
 \end{longtable}
 
 \subsection{Magie}
-\label{sec:orgfbd939f}
+\label{sec:orgc9e4037}
 \subsubsection{Lancer un sort}
-\label{sec:orgdc8e505}
+\label{sec:org0141957}
 
 Pour lancer un sort, jetez votre dé de \textbf{Magicien} :
 
@@ -364,7 +365,7 @@ Hors d'un combat & 2\\
 \end{longtable}
 
 \subsubsection{Liste de sorts}
-\label{sec:org33c9bca}
+\label{sec:org3b4130e}
 
 6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de compétences à deux sorts différents.
 
@@ -394,7 +395,7 @@ Bouclier magique & Protège une seule personne au choix du magicien (incluant lu
 \end{longtable}
 
 \subsection{Furtivité et autres compétences de voleur}
-\label{sec:orgcc8e35a}
+\label{sec:org16c5070}
 
 Pour être furtif ou exercer d'autres talents du voleur, jetez votre dé de \textbf{Voleur} et consultez la table ci-dessous :
 
@@ -421,9 +422,9 @@ Sauter au dessus d'une fosse & 6\\
 \end{longtable}
 
 \subsection{Influence de l'équipement}
-\label{sec:org9f8363c}
+\label{sec:org4f65b49}
 \subsubsection{Bonus dus à certains équipements}
-\label{sec:org3efbb6d}
+\label{sec:orgf9148ee}
 
 Certains matériels spécifiques vous donnent un bonus de "+D" (passage au dé supérieur) pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette action spécifique.
 
@@ -451,14 +452,14 @@ Bonus & Dé de départ & Dé à utiliser \\
 \emph{Par exemple, si vous utilisez des bottes elfiques, vous pouvez passer de \textbf{Voleur} D4 à \textbf{Voleur} D6 quand vous furetez pour chercher des choses.}
 
 \subsubsection{Autres équipements}
-\label{sec:org9f5c86a}
+\label{sec:orge424c27}
 
 Les cordes, crochets pour serrure, pelles, etc., peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
 
 \section{Trésors et expérience}
-\label{sec:org003c843}
+\label{sec:org8dc5ebc}
 \subsection{Trésors}
-\label{sec:org16760dd}
+\label{sec:org41a8481}
 
 Au cours des aventures, il est possible de trouver des trésors, par exemple :
 
@@ -486,7 +487,7 @@ Pièces d'or (PO) & Permettent d'acheter des choses ou de gagner en expérience\
 \end{longtable}
 
 \subsection{Expérience (avec règle optionnelle)}
-\label{sec:orgd443b6d}
+\label{sec:org624741e}
 
 Les pièces d'or (PO) peuvent servir à acheter des chose, mais aussi à l'avancement du personnage.
 
@@ -514,12 +515,12 @@ Expérience & Gain & Règle originale \\
 \end{longtable}
 
 \section{Monstres}
-\label{sec:org4bbfbb7}
+\label{sec:org728185f}
 
 Principe : tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages.
 
 \subsection{Vermines}
-\label{sec:org3134737}
+\label{sec:org98dfa2c}
 
 Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
 
@@ -552,7 +553,7 @@ Eponge moisie magique & D4 & Les points de magie utilisés contre elle accroisse
 \newpage
 
 \subsection{Monstres faibles}
-\label{sec:org90bb888}
+\label{sec:org22dbc24}
 
 Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou plus pour les toucher.
 
@@ -581,7 +582,7 @@ Bandit de grand chemin & D6 & Epée D6 & 8 & 1d4 & 8 & 0\\
 \end{longtable}
 
 \subsection{Monstres moyens}
-\label{sec:orgec213e1}
+\label{sec:org14876cf}
 
 Les personnages ont desoin d'un 4 ou plus pour les toucher.
 
@@ -614,7 +615,7 @@ Homme poisson & D8 & Griffes D6, morsure D4 & 10 & Peau : 2 points & 10 & 0\\
 \end{longtable}
 
 \subsection{Monstres forts}
-\label{sec:orgb469088}
+\label{sec:org9535e11}
 
 Les personnages ont desoin d'un 6 ou plus pour les toucher.
 
@@ -641,7 +642,7 @@ Petit dragon & D10 & Pinces d6, morsure D8, souffle de feu D12 & 40 & Armure nat
 \end{longtable}
 
 \subsection{Sauve qui peut !}
-\label{sec:orgfc975d0}
+\label{sec:org0764337}
 
 Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
@@ -666,10 +667,10 @@ Grand dragon & D12 & Pinces D10, souffle de feu D12 & 60 & Armure naturelle D10 
 \newpage
 
 \section{Equipement}
-\label{sec:org0749790}
+\label{sec:orgab2a15a}
 
 \subsection{Moins de 20 PO}
-\label{sec:org7d075a3}
+\label{sec:org599b752}
 
 \begin{longtable}{l|c|p{10cm}}
 Equipement & Prix (PO) & Commentaires\\
@@ -711,7 +712,7 @@ Baume soignant & 10 & Soigne 1D6 une fois\\
 \end{longtable}
 
 \subsection{20 PO et plus}
-\label{sec:org525e8fe}
+\label{sec:org0b98bca}
 
 \begin{longtable}{l|c|p{10cm}}
 Equipement & Prix (PO) & Commentaires\\
@@ -751,7 +752,7 @@ Laboratoire portable de magicien & 100 & Pour inventer de nouveaux sorts\\
 \end{longtable}
 
 \section{Feuille de personnage}
-\label{sec:org64e2ce3}
+\label{sec:orgf817d2c}
 
 \begin{itemize}
 \item Version PDF : \href{https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf}{Feuille de perso PDF}
@@ -759,7 +760,7 @@ Laboratoire portable de magicien & 100 & Pour inventer de nouveaux sorts\\
 \end{itemize}
 
 \section{Ecran}
-\label{sec:orgaa0d0d9}
+\label{sec:orgff54e6b}
 
 \begin{itemize}
 \item Version PDF : \href{https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf}{Ecran PDF}
@@ -767,10 +768,10 @@ Laboratoire portable de magicien & 100 & Pour inventer de nouveaux sorts\\
 \end{itemize}
 
 \section{Générateur de rencontres}
-\label{sec:org10ca7f2}
+\label{sec:orgc9019c0}
 
 \subsection{Monstres niveau 1}
-\label{sec:orgd6396f6}
+\label{sec:orgff63928}
 
 Lancez 1D12.
 
@@ -802,7 +803,7 @@ Valeur & Monstre & Nombre \\
 \end{longtable}
 
 \subsection{Monstres niveau 2}
-\label{sec:org1fa50b4}
+\label{sec:org52f13e7}
 
 Lancez 1D6.
 
@@ -829,7 +830,7 @@ Valeur & Monstre \\
 
 
 \subsection{Trésors}
-\label{sec:orgd5d7783}
+\label{sec:org49946f3}
 
 Lancez 1D12.
 
@@ -861,7 +862,7 @@ Valeur & Trésor \\
 \end{longtable}
 
 \subsection{Difficultés et pièges}
-\label{sec:orgbd61bb3}
+\label{sec:org813b4b1}
 
 Lancez 1D10.
 
@@ -893,7 +894,7 @@ Valeur & Description & Seuil éviter / désamorcer & Dommages \\
 \end{longtable}
 
 \subsection{Situations étranges}
-\label{sec:org0f09948}
+\label{sec:org0b510c3}
 
 Lancez 1D10.
 

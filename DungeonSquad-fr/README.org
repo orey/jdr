@@ -11,7 +11,6 @@
    Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-|------------------------------+-----------------------------------------------------------------|
 | Concepteur                   | (C) Jason Morningstar                                           |
 | Version traduite             | 2005                                                            |
 | PDF original                 | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon_squad.pdf][dungeonsquad.pdf]]                                                |
@@ -22,7 +21,6 @@
 | Octobre 2021                 | Corrections diverses                                            |
 |                              | Intégration du générateur de rencontres                         |
 |                              | Mise en place des tags pour génération Latex/PDF                |
-|------------------------------+-----------------------------------------------------------------|
 
 ** Téléchargements
 

@@ -1,213 +1,30 @@
-#+TITLE: Fighting Fantasy - Règles en français
+#+TITLE: Fighting Fantasy - Version Française
 #+AUTHOR: Olivier Rey
-#+DATE: 2021-09-18
+#+DATE: 2021-10-09
 #+STARTUP: overview
 
 [[file:FF2018.png]]
 
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Concepteur               | Steve Jackson                                    |
-| Version originale        | Version originale 1984 - Copyright Steve Jackson |
-| Website                  | [[https://www.fightingfantasy.com/][https://www.fightingfantasy.com/]]                 |
-| Traduction et adaptation | O. Rey Septembre 2021                            |
-| Licence                  | Copyright Steve Jackson                          |
+* Fighting Fantasy - Version Française
 
-* 1. Création du personnage
+** Introduction
 
-** 1.1. Caractéristiques
+Fighting Fantasy est une série de livres de jeux de rôles pour un seul joueur créée par Steve Jackson et Ian Livingstone. Le premier volume de la série fut publié en livre de poche par Pufin en 1982. Cette série propose un système de jeu de rôles très simple qui fut ensuite complété de diverses façons, notamment dans le livre /Dungeoneer, Advanced Fighting Fantasy/.
 
-Un personnage a trois caractéristiques : *compétence*, *constitution* et *chance*.
+Nous avons repris les principales règles de ce dernier livre pour proposer un jeu très simple, jouable avec tous les types de joueurs, spécialement les enfants.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Caractéristique | Création | Commentaires                                               | Acronyme |
-|-----------------+----------+------------------------------------------------------------+----------|
-| Compétence      |    1D6+6 | Test de compétence réussi : 2D6 inférieur ou égal au score | COMP     |
-| Points de vie   |   2D6+12 | Représente les points de vie. A 0, le PJ est mort          | PV       |
-| Chance          |    1D6+6 | Test de chance réussi : 2D6 inférieur ou égal au score     | CHA      |
+#+ATTR_LATEX: :environment longtable :align ll
+| Concepteur               | (C) Steve Jackson                                               |
+| Version originale        | Version originale 1984 - Copyright Steve Jackson                |
+| Website                  | [[https://www.fightingfantasy.com/][https://www.fightingfantasy.com/]]                                |
+| Traduction et adaptation | (C) O. Rey 2021                                                 |
+| Version                  | 1.0                                                             |
+| Octobre 2021             | Corrections diverses                                            |
+|                          | Mise en place des tags pour génération Latex/PDF                |
 
-** 1.2. Equipement
+** Téléchargements
 
-Tous les personnages démarrent avec :
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Objet          | Points/Doses  | Commentaires                                                    |
-|----------------+---------------+-----------------------------------------------------------------|
-| Une épée       | -             | -                                                               |
-| un sac à dos   | -             | Pour mettre les trésors                                         |
-| Une lanterne   | -             | Une lanterne et son combustible suffisent pour une aventure     |
-| Des provisions | 2 à 10 points | Les provisions restorent les points de vie d'autant de points   |
-|                |               | On ne peut pas consommer les provisions pendant un combat       |
-| Une potion     | 2 doses       | Une potion de compétence, de vie ou de chance (choix du joueur) |
-|                |               | Une potion restore le score concerné à son niveau original      |
-
-* 2. Monstres
-
-Les montres ont aussi ont des caractéristiques Compétence et Constitution.
-
-Ils ont une autre caractéristique : *Attaques* qui représente le nombre de joueurs que les monstres peuvent attaquer /en même temps/.
-
-* 3. Combats
-
-** 3.1. Combat simple
-
-Un round de combat se passe comme suit :
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| N° | Action                             | Effet                 | Chance (optionnel)        |
-|----+------------------------------------+-----------------------+---------------------------|
-|  1 | Attaque monstre = 2D6 + COMP       | -                     | -                         |
-|    | Attaque PJ = 2D6 + COMP            | -                     | -                         |
-|  2 | Si Attaque monstre > attaque PJ    | -2 PV pour le PJ      | Voir table suivante cas 1 |
-|    | Si Attaque PJ > attaque monstre    | -2 PV pour le monstre | Voir table suivante cas 2 |
-|    | Si Attaque PJ = attaque monstre    | Aucun effet           | -                         |
-
-Le combat s'arrête quand l'un des deux adversaire est mort (PV = 0).
-
-Si un PJ s'enfuit, il perd automatiquement 2 PV (dernière blessure infligée par le monstre). La chance peut être utilisée pour réduire les dommages.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Cas | Jet de chance | Effet                                  |
-|-----+---------------+----------------------------------------|
-|   1 | Réussi        | -1 PV au lieu de -2 PV pour le PJ      |
-|   1 | Raté          | -3 PV au lieu de -2 PV pour le PJ      |
-|   2 | Réussi        | -4 PV au lieu de -2 PV pour le monstre |
-|   2 | Raté          | -1 PV au lieu de -2 PV pour le monstre |
-
-** 3.2 Combat multiple
-
-*** Un monstre à une attaque contre trois PJ (A, B et C)
-
-1. Le MJ tire au sort le PJ qui sera attaqué (ou le choisit) : C.
-2. Résolution du combats simple entre le monstre et C.
-  - Le MJ enregistre le score d'attaque du monstre.
-3. Les autres PJ, A et B, font une attaque :
-  - Si elle est inférieure à l'attaque du montre, le monstre n'a rien,
-  - Si elle est supérieure, il prend les dommages normaux,
-  - A et B ne prennent aucun dommage.
-
-On appelle les attaques de A et B, des *attaques protégées*, car ils ne peuvent pas prendre de dommages.
-
-Au round suivant, le processus recommence.
-
-*** Un monstre à 8 attaques contre quatre PJ (A, B, C et D)
-
-_Note_: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela ne signifie pas que le monstre a des attaques gratuites. Le nombre d'attaques correspond au nombre maximum de PJ que le monstre peut attaquer.
-
-1. Le MJ calcule l'attaque du monstre (2D6 + COMP): celle-ci est valable pour tous les joueurs ;
-2. Chaque combat est résolu normalement.
-
-*** Deux PJ (A et B) contre deux monstres (X, 2 attaques et Y, 1 attaque)
-
-1. Le MJ demande aux joueurs quels monstres ils veulent attaquer. Les monstres répondront aux attaques. Tout monstre supplémentaire attaquera de manière aléatoire l'un des deux PJ. Les combats doivent donc se dérouler A-X et B-Y.
-2. Résoudre les combats A-X et B-Y.
-2. X a une seconde attaque, il peut donc attaquer B en mode attaque protégée.
-
-* 4. Situations communes
-** 4.1. Soudoyer/corrompre
-
-Les monstres un peu intelligents aiment l'or. Le MJ peut accepter que les PJ tentent de les corrompre. Le MJ décide d'une probabilité de réussite et lance 1D6 (1 sur 6, ou 3 sur 6, etc.). Les monstres peuvent donner quelques informations s'ils se font corrompre.
-
-** 4.2. Equipement des PJ
-
-Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne drvrait pas transporter plus de 10 articles d'équipement (hors or et provisions). Les gros objets comptent pour plus de un point. Le MJ doit être vigilant sur ce point.
-
-** 4.3. Portes
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Type                       | Commentaire                                                             |
-|----------------------------+-------------------------------------------------------------------------|
-| Porte magique              | Ont besoin d'un sort pour être ouvertes (ou sous contrôle d'un sorcier) |
-| Porte ordinaire            | Jeter 1D6 : 1-2 la porte est fermée ; 3-6 la porte est ouverte          |
-| Casser une porte ordinaire | Jet réussi de 2D6 strictement sous COMP ; -1 PV                         |
-|                            | Si le jet est supérieur ou égal à COMP, la porte résiste ; -1 PV        |
-|                            | Deuxième tentative : 2D6 + 1 strictement sous COMP pour réussir ; -1 PV |
-|                            | Troisième tentative : 2D6 + 2 strictement... (etc.)                     |
-| Portes secrètes            | Le PJ doit chercher ; le MJ jette 2D6 sous la COMP du PJ                |
-|                            | Si le jet est réussi, la porte est trouvée (mais pas ouverte)           |
-|                            | Jet de CHA pour trouver comment l'ouvrir                                |
-
-** 4.4. Fuite
-
-Le MJ doit décider si la fuite est possible (par exemple PJ acculé). Si la fuite est possible, la règle de la partie 3.1. s'applique. Idem pour les monstres (intelligents) qui fuient.
-
-** 4.5. Chute
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Hauteur            | Commentaire                                                       |
-|--------------------+-------------------------------------------------------------------|
-| Inférieur à 2m     | Pas de dommages                                                   |
-| Par tranche de 10m | Faire un jet 2D6 + 1 sous CHA                                     |
-|                    | Ex : 10m, 2D6 + 1 sous CHA ; 30m, 2D6+3 sous CHA                  |
-|                    | Si jet de CHA raté, le PJ est blessé. Perte de PV : 1 + 1 par 10m |
-
-** 4.6. Perte d'un arme
-
-Si un PJ perd son arme, sa COMP est diminuée de 4 jusqu'à ce qu'il trouve une autre arme.
-
-** 4.7. Mouvement
-
-Laissé à l'arbitrage du MJ et suivant les situations (longs couloirs avec pièges).
-
-** 4.8. Ouvrir un coffre
-
-Similaire aux portes :
-- Un coffre a 5 chances sur 6 d'être fermé.
-- Pour ouvrir le coffre : 2D6 strictement sous COMP
-- Si le PJ retente, à chaque essai, son arme s'abîme et le PJ perd un point de COMP par tentative jusqu'à ce qu'il trouve une autre arme.
-
-Pour trouver les compartiments secrets dans les coffres, le PJ doit chercher le compartiment et les règles des portes s'appliquent.
-
-** 4.9. Pickpocket
-
-Un jet de COMP strictement réussi est un succès. Le MJ peut donner un malus (6-8 est un malus acceptable si la situation ne se prête pas à jouer au pickpocket).
-
-** 4.10. Provision 
-
-Les PJ peuvent consommer leurs provisions à tout moment sauf dans un combat.
-
-Le nombre de provisions dont bénéficient les PJ au départ de l'aventure dépend de différents facteurs : longueur de l'histoire, provisions disponibles dans le scénario, etc.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Aventure | Nb de provisions |
-|----------+------------------|
-| Courte   |                2 |
-
-** 4.11. Chercher
-
-Le PJ doit dire ce qu'il cherche. Le MJ fait les jets : 2D6 strictement sous COMP pour trouver.
-
-** 4.12. Se déplacer en silence
-
-2D6 strictement sous COMP. Le MJ peut ajouter des malus.
-
-** 4.13. Monstres errants
-
-Si les PJ s'attardent trop dans un lieu, il est possible de générer une rencontre avec un monstre errant. le MJ lance 1D6 régulièrement. Si c'est un 1, un monstre a repéré les PJ.
-
-En souterrain :
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| 1D6 | Créature  | COMP | PV | Attaques |
-|-----+-----------+------+----+----------|
-|   1 | Goblin    |    5 |  3 |        1 |
-|   2 | Orc       |    6 |  3 |        1 |
-|   3 | Gremlin   |    6 |  3 |        1 |
-|   4 | Rat géant |    5 |  4 |        1 |
-|   5 | Squelette |    6 |  5 |        1 |
-|   6 | Troll     |    8 |  7 |        3 |
-
-En extérieur :
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| 1D6 | Créature             | COMP | PV | Attaques |
-|-----+----------------------+------+----+----------|
-|   1 | Goblin               |    5 |  3 |        1 |
-|   2 | Chauve-souris géante |    5 |  4 |        1 |
-|   3 | Rat Géant            |    5 |  4 |        1 |
-|   4 | Chien de guerre      |    7 |  6 |        1 |
-|   5 | Loup-garou           |    8 |  9 |        2 |
-|   6 | Ogre                 |    8 | 10 |        2 |
-
-
-/(Septembre 2021)/
+- Règles du jeu en PDF : [[https://github.com/orey/jdr/blob/master/FightingFantasys-fr/FightingFantasy-VersionFrancaise-OreyJdr02.pdf][Fighting Fantasy - Version Française]]
+- Règles du jeu sur Github : [[https://github.com/orey/jdr/blob/master/FightingFantasys-fr/FightingFantasy-VersionFrancaise-OreyJdr02.org][Fighting Fantasy - Version Française]]
 

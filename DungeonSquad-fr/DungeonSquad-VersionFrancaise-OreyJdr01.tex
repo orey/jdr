@@ -1,4 +1,4 @@
-% Created 2021-10-04 Mon 22:52
+% Created 2021-10-09 Sat 21:52
 % Intended LaTeX compiler: pdflatex
 \documentclass[a4paper, 11pt, twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -19,6 +19,8 @@
 \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Dungeon Squad! - Version Française}, pdfkeywords={jdr, dungeonsquad}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={Frenchb}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
 \usepackage[french, frenchb]{babel}
 \usepackage{titlesec}\titlelabel{\thetitle. \quad}
+\usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
+\usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
 \author{Olivier Rey}
 \date{2021-10-03}
 \title{Dungeon Squad! - Version Française}
@@ -41,42 +43,27 @@
 \end{center}
 
 \section{Dungeon Squad! - Version Française}
-\label{sec:org7d05668}
+\label{sec:org58b5e21}
 
 \subsection{Introduction}
-\label{sec:org8c93640}
+\label{sec:org04861fe}
 
 Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
 
-\begin{longtable}{|l|l|}
-\hline
+\begin{longtable}{ll}
 Concepteur & (C) Jason Morningstar\\
 Version traduite & 2005\\
 PDF original & \href{https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon\_squad.pdf}{dungeonsquad.pdf}\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-
-PDF original & \href{https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon\_squad.pdf}{dungeonsquad.pdf} \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
-Version & 1.0\\
-\hline
 Traduction et adaptation & (C) O. Rey 2021\\
  & Le jeu a été remanié dans sa présentation pour être plus clair.\\
+Version & 1.1\\
 Octobre 2021 & Corrections diverses\\
  & Intégration du générateur de rencontres\\
  & Mise en place des tags pour génération Latex/PDF\\
-\hline
 \end{longtable}
 
 \subsection{Ce dont vous avez besoin pour jouer}
-\label{sec:orgfbeed6b}
+\label{sec:org5da1d3c}
 
 Chaque joueur doit avoir accès à :
 \begin{itemize}
@@ -86,7 +73,7 @@ Chaque joueur doit avoir accès à :
 \end{itemize}
 
 \subsection{Notes}
-\label{sec:orgc9c854b}
+\label{sec:orge988505}
 
 Un certain nombre de ressources sont disponibles à la fin de ce document :
 \begin{itemize}
@@ -96,16 +83,15 @@ Un certain nombre de ressources sont disponibles à la fin de ce document :
 \end{itemize}
 
 \section{Création des personnages}
-\label{sec:orgf0fc546}
+\label{sec:orgeebacd8}
 \subsection{Caractéristiques}
-\label{sec:org2a7614c}
+\label{sec:org75f640e}
 
 Chaque personnage possèdes trois caractéristiques : \textbf{Magicien}, \textbf{Guerrier} et \textbf{Voleur} (respectivement \textbf{Magicienne}, \textbf{Guerrière} et \textbf{Voleuse}). Chaque joueur possède 3 dés, un D4, un D8 et un D12, chaque dé devant être assigné à une des trois caractéristiques. 
 
 \emph{Exemple 1 : Luna de Balor est une magiciene voleuse. Sa joueuse a choisi :}
 
-\begin{longtable}{l|c}
-\hline
+\begin{longtable}{lc}
 Magicienne & D12\\
 Voleuse & D8\\
 Guerrière & D4\\
@@ -115,8 +101,7 @@ Guerrière & D4\\
 
 \emph{Exemple 2 : Grognard le Turbulent est un guerrier. Son joueur a choisi la configuration suivante :}
 
-\begin{longtable}{l|c}
-\hline
+\begin{longtable}{lc}
 Guerrier & D12\\
 Voleur & D8\\
 Magicien & D4\\
@@ -124,9 +109,9 @@ Magicien & D4\\
 
 
 \subsection{Compétences}
-\label{sec:org46b5f3f}
+\label{sec:org52c7a9b}
 \subsubsection{Compétences à la création du personnage}
-\label{sec:orgbb2298a}
+\label{sec:org1e266b9}
 
 Chaque personnage possède un D6 et un D10 pour décrire des compétences.
 
@@ -141,66 +126,52 @@ Au début du jeu, les personnages ont seulement \textbf{2} compétences. Ils aff
 
 \emph{Exemple : la joueuse de Luna de Balor a choisi les compétences suivantes :}
 
-\begin{longtable}{l|l|c}
-\hline
+\begin{longtable}{llc}
 Sort & Eclair & D10\\
 Sort & Soins & D6\\
 \end{longtable}
 
 \emph{Exemple : Grognard le Turbulent a les compétences suivantes :}
 
-\begin{longtable}{l|l|c}
-\hline
+\begin{longtable}{llc}
 Arme & Epée à deux mains & D10\\
 Armure & Cotte de mailles & D6\\
 \end{longtable}
 
 \emph{Une autre option pour le guerrier ayant le D4 assigné à la caractéristique \textbf{Magicien} de prendre le sort \textbf{Guérison}, en ne le lançant qu'entre les combats.}
 
-\begin{longtable}{l|l|c}
-\hline
+\begin{longtable}{llc}
 Arme & Epée à deux mains & D10\\
 Sort & Soins & D6\\
 \end{longtable}
 
 \subsubsection{Limitation à 4 du nombre de compétences}
-\label{sec:org5a0100b}
+\label{sec:org6e4ba7a}
 
 Dans le cours du jeu, les joueurs pourront acquérir d'autres compétences en trouvant, par exemple, des objets magiques ou des armes. Pour autant, ils ne pourront \textbf{jamais avoir plus de 4} compétences (en comptant les armes, les armures et les sorts).
 
 \emph{Par exemple, si le personnage trouve un trésor avec quelque chose d'intéressant à l'intérieur (comme un parchemin de \textbf{Boule de feu} par exemple), il l'inscrit sur sa feuille en plus des deux autres choses qu'il a choisies à la création de son personnage. Le personnage peut choisir de prendre ou de laisser des choses, mais il ne peut pas en avoir plus de 4 avec lui.}
 
 \subsection{Points de vie}
-\label{sec:org1c0f03d}
+\label{sec:org4dccc20}
 
 Tous les personnages ont \textbf{15 points de vie} (PV). Les dommages réduisent directement les PV (après prise en compte de l'armure).
 
 \subsection{Pièces d'or}
-\label{sec:org3b39a24}
+\label{sec:org0108e04}
 
 Chaque personnage démarre dans la vie avec \textbf{30 PO} (pièce d'or). Il peut s'acheter un équipement avec cette somme (voir la partie équipement).
 
 \section{La mécanique du jeu}
-\label{sec:org231e077}
+\label{sec:orgcfb3c80}
 \subsection{Les seuils de difficulté}
-\label{sec:org551c4ca}
+\label{sec:orgced738c}
 Tous les personnages peuvent se battre, lancer des sorts et fureter. La difficulté de l'action est déterminée par un seuil qu'il faut dépasser avec le dé assigné à l'action.
 
-\begin{longtable}{c|c}
-Difficulté & Seuil\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
+\newpage
 
-Difficulté & Seuil \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cc}
+\textbf{Difficulté} & \textbf{Seuil}\\
 Facile & 2\\
 Moyen & 4\\
 Difficile & 6\\
@@ -208,27 +179,14 @@ Très difficile & 8\\
 \end{longtable}
 
 \subsection{Initiative (règle optionnelle)}
-\label{sec:org7fbcd4c}
+\label{sec:org7424127}
 
 Les règles originales ne proposent pas de règles concernant l'initiative. Or, savoir qui attaque en premier est important dans un combat.
 
 Nous proposons la règle optionnelle suivante : Lancez 1D6 par joueur et ajoutez le modificateur suivant, dépendant du dé de \textbf{voleur} :
 
-\begin{longtable}{c|c}
-Dé de voleur pour les PJ & Modificateur\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Dé de voleur pour les PJ & Modificateur \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cc}
+\textbf{Dé de voleur pour les PJ} & \textbf{Modificateur}\\
 D4 & -1\\
 D8 & +1\\
 D12 & +2\\
@@ -241,29 +199,16 @@ Classez alors l'ordre des attaques et résolvez le tour.
 Cette règles optionnelle marche aussi avec les magiciens usant d'un sort d'attaque (comme "éclair").
 
 \subsection{Combat}
-\label{sec:org422ac92}
+\label{sec:org3d16dbb}
 \subsubsection{Toucher}
-\label{sec:org9e31a5f}
+\label{sec:org72d2550}
 
 Les monstres sont caractérisés par un niveau : faible, moyen ou fort.
 
 Dans un combat, lancez votre dé de \textbf{Guerrier} et consultez la table ci-dessous :
 
-\begin{longtable}{c|c|c|c}
-Catégorie de monstre & Dé & Seuil à dépasser & Restriction armes de jet\\
-\hline
-\endfirsthead
-\multicolumn{4}{l}{Suite de la page précédente} \\
-\hline
-
-Catégorie de monstre & Dé & Seuil à dépasser & Restriction armes de jet \\
-
-\hline
-\endhead
-\hline\multicolumn{4}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cccc}
+\textbf{Catégorie de monstre} & \textbf{Dé} & \textbf{Seuil à dépasser} & \textbf{Restriction armes de jet}\\
 Faible & Guerrier & 2 & Toucher pour nombre pair seulement\\
 Moyen & Guerrier & 4 & Toucher pour nombre pair seulement\\
 Fort & Guerrier & 6 & Toucher pour nombre pair seulement\\
@@ -277,25 +222,12 @@ Bien entendu, si vous avez assigné le D4 au \textbf{Guerrier}, le combat risque
 \newpage
 
 \subsubsection{Dommages}
-\label{sec:org4c52d2a}
+\label{sec:orgcb38310}
 
-POur faire des dommages, il faut avoir choisi une arme comme compétence (donc soit lui avoir affecté un D6, soit un D10).
+Pour faire des dommages, il faut avoir choisi une arme comme compétence (donc soit lui avoir affecté un D6, soit un D10).
 
-\begin{longtable}{l|c}
-Type d'arme & Dommages\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Type d'arme & Dommages \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lc}
+\textbf{Type d'arme} & \textbf{Dommages}\\
 Poings & 1D4\\
 Dague & 1D4\\
 Epée & 1D6\\
@@ -307,7 +239,7 @@ Lance & 1D8\\
 \end{longtable}
 
 \subsubsection{Armures}
-\label{sec:org6a45d6f}
+\label{sec:org2fc6096}
 
 Les armures réduisent les dommages encaissés de la valeur de leur dé assigné.
 
@@ -317,21 +249,8 @@ D'autres armures peuvent être trouvées dans les trésors avec des dés pouvant
 
 Pour utiliser une armure, il faut avoir affecté au préalable un dé de compétence à une armure.
 
-\begin{longtable}{l|c}
-Type d'armure & Protection\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Type d'armure & Protection \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lc}
+\textbf{Type d'armure} & \textbf{Protection}\\
 Armure de cuir & 1D4\\
 Armure de cuir renforcé & 1D6\\
 Cotte de mailles & 1D8\\
@@ -339,53 +258,25 @@ Armure à plaques & 1D10\\
 \end{longtable}
 
 \subsection{Magie}
-\label{sec:orgc9e4037}
+\label{sec:orga281206}
 \subsubsection{Lancer un sort}
-\label{sec:org0141957}
+\label{sec:orgc7c6fce}
 
 Pour lancer un sort, jetez votre dé de \textbf{Magicien} :
 
-\begin{longtable}{l|c}
-Situation du magicien & Seuil à dépasser\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Situation du magicien & Seuil à dépasser \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lc}
+\textbf{Situation du magicien} & \textbf{Seuil à dépasser}\\
 Dans un combat & 6\\
 Hors d'un combat & 2\\
 \end{longtable}
 
 \subsubsection{Liste de sorts}
-\label{sec:org3b4130e}
+\label{sec:org1558032}
 
 6 sorts sont à disposition. Chaque joueur peut choisir d'assigner un dé de choses (D6 ou D10) à un sort, voire les deux dés de compétences à deux sorts différents.
 
-\newpage
-
-\begin{longtable}{l|p{10cm}|c}
-Sort & Description & Fréquence\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Sort & Description & Fréquence \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cp{10cm}c}
+\textbf{Sort} & \textbf{Description} & \textbf{Fréquence}\\
 Eblouissement & Désoriente un ennemi de la taille d'un humain par 2 points de jet, 4 pour les grosses créatures et 1 pour les petites. Les victimes ne peuvent pas agir pendant un tour. & 1 fois par combat\\
 Boule de feu & Les dommages sur la cible sont le triple du dé assigné. Tous ceux qui sont proches de la cible prennent le dé de dommages (sans multiplicateur). & 1 fois par aventure\\
 Soins & Fournit le dés du sort en PV à la personne guérie. Ne s'applique qu'à une seule personne. & 1 fois par combat\\
@@ -395,25 +286,12 @@ Bouclier magique & Protège une seule personne au choix du magicien (incluant lu
 \end{longtable}
 
 \subsection{Furtivité et autres compétences de voleur}
-\label{sec:org16c5070}
+\label{sec:orgbdb258b}
 
 Pour être furtif ou exercer d'autres talents du voleur, jetez votre dé de \textbf{Voleur} et consultez la table ci-dessous :
 
-\begin{longtable}{l|c}
-Compétences de voleur & Seuil à dépasser\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Compétences de voleur & Seuil à dépasser \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lc}
+\textbf{Compétence de voleur} & \textbf{Seuil à dépasser}\\
 Se déplacer silencieusement & 2\\
 Crocheter une serrure & 4\\
 Escalader un mur & 4\\
@@ -422,27 +300,14 @@ Sauter au dessus d'une fosse & 6\\
 \end{longtable}
 
 \subsection{Influence de l'équipement}
-\label{sec:org4f65b49}
+\label{sec:orga16824c}
 \subsubsection{Bonus dus à certains équipements}
-\label{sec:orgf9148ee}
+\label{sec:org6e04370}
 
 Certains matériels spécifiques vous donnent un bonus de "+D" (passage au dé supérieur) pour faire des choses spécifiques. Ce bonus vous donne droit à lancer le dé supérieur pour cette action spécifique.
 
-\begin{longtable}{c|c|c}
-Bonus & Dé de départ & Dé à utiliser\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Bonus & Dé de départ & Dé à utiliser \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{ccc}
+\textbf{Bonus} & \textbf{Dé de départ} & \textbf{Dé à utiliser}\\
 +D & D4 & D6\\
 +D & D6 & D8\\
 +D & D8 & D10\\
@@ -452,32 +317,19 @@ Bonus & Dé de départ & Dé à utiliser \\
 \emph{Par exemple, si vous utilisez des bottes elfiques, vous pouvez passer de \textbf{Voleur} D4 à \textbf{Voleur} D6 quand vous furetez pour chercher des choses.}
 
 \subsubsection{Autres équipements}
-\label{sec:orge424c27}
+\label{sec:org2add67c}
 
 Les cordes, crochets pour serrure, pelles, etc., peuvent être achetés, mais ils n'ont pas de dé assigné. Ainsi, il n'y a pas de limite quant aux objets de ce genre que les personnages peuvent transporter.
 
 \section{Trésors et expérience}
-\label{sec:org8dc5ebc}
+\label{sec:org67457b0}
 \subsection{Trésors}
-\label{sec:org41a8481}
+\label{sec:org9e87ac1}
 
 Au cours des aventures, il est possible de trouver des trésors, par exemple :
 
-\begin{longtable}{l|l}
-Trésor & Caractéristique\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Trésor & Caractéristique \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{Trésor} & \textbf{Caractéristique}\\
 Epée normale & Dommages : 1D6\\
 Epée magique & Dommages : 1D8\\
 Baguette magique & +D pour lancer les sorts\\
@@ -487,27 +339,16 @@ Pièces d'or (PO) & Permettent d'acheter des choses ou de gagner en expérience\
 \end{longtable}
 
 \subsection{Expérience (avec règle optionnelle)}
-\label{sec:org624741e}
+\label{sec:org3406569}
 
 Les pièces d'or (PO) peuvent servir à acheter des chose, mais aussi à l'avancement du personnage.
 
-\uline{Règle optionnelle} : Tuer des monstres rapporte des points d'expérience (notés "Exp" dans les tableaux de monstres). Ils définissent un compte de "Points d'Expérience", notés PE, et déterminés en fin d'aventure avec le maître de jeu. Ces points peuvent être consommés pour faire avancer le personnage (voir table ci\(_{\text{dessous}}\)).
+\uline{Règle optionnelle} : Tuer des monstres rapporte des points d'expérience (notés "Exp" dans les tableaux de monstres). Ils définissent un compte de "Points d'Expérience", notés PE, et déterminés en fin d'aventure avec le maître de jeu. Ces points peuvent être consommés pour faire avancer le personnage (voir table ci-dessous).
 
-\begin{longtable}{c|c|c}
-Expérience & Gain & Règle originale\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
+\newpage
 
-Expérience & Gain & Règle originale \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{ccc}
+\textbf{Expérience} & \textbf{Gain} & \textbf{Règle originale}\\
 100 PO & +D pour un dé (max : D12) & Oui\\
 20 PO & +1 PV & Oui\\
 500 PE & +D pour un dé (max : D12) & Non\\
@@ -515,178 +356,82 @@ Expérience & Gain & Règle originale \\
 \end{longtable}
 
 \section{Monstres}
-\label{sec:org728185f}
+\label{sec:orga1e9d29}
 
 Principe : tous les monstres ont besoin d'un 4 ou plus pour toucher les personnages.
 
 \subsection{Vermines}
-\label{sec:org98dfa2c}
+\label{sec:org1247139}
 
 Les personnages en touchent automatiquement un par attaque mais les vermines attaquent en groupe.
 
-\begin{longtable}{p{3cm}|c|p{6cm}|c|p{1.3cm}|c|c}
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative\\
-\hline
-\endfirsthead
-\multicolumn{7}{l}{Suite de la page précédente} \\
-\hline
-
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative \\
-
-\hline
-\endhead
-\hline\multicolumn{7}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{p{4cm}cp{5cm}cccc}
+\textbf{Monstre} & \textbf{Attaque} & \textbf{Dommages} & \textbf{PV} & \textbf{Armure} & \textbf{Exp} & \textbf{Initiative}\\
 Rat & D4 & Morsure 1 PV & 1 & - & 1 & +1\\
-\hline
 Araignée & D4 & Piqûre 1 PV & 1 & - & 1 & 0\\
-\hline
 Chauve souris vampire géante & D4 & Morsure 2 PV & 2 & - & 2 & +1\\
-\hline
 Moisissure gluante et puante & D4 & Erode le métal, détruit les armures et les épées & 25 & - & 25 & -\\
-\hline
 Eponge moisie magique & D4 & Les points de magie utilisés contre elle accroissent ses points de vie d'autant & 25 & - & 25 & -1\\
 \end{longtable}
 
-\newpage
-
 \subsection{Monstres faibles}
-\label{sec:org22dbc24}
+\label{sec:org7216930}
 
 Les monstres faibles voyagent en bandes. Les personnages ont desoin d'un 2 ou plus pour les toucher.
 
-\begin{longtable}{p{3cm}|c|p{6cm}|c|p{1.3cm}|c|c}
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative\\
-\hline
-\endfirsthead
-\multicolumn{7}{l}{Suite de la page précédente} \\
-\hline
-
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative \\
-
-\hline
-\endhead
-\hline\multicolumn{7}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{p{4cm}cp{5cm}cccc}
+\textbf{Monstre} & \textbf{Attaque} & \textbf{Dommages} & \textbf{PV} & \textbf{Armure} & \textbf{Exp} & \textbf{Initiative}\\
 Rat géant & D6 & Morsure D4 & 4 & - & 4 & +1\\
-\hline
 Loup & D6 & Morsure D6 & 6 & - & 6 & 0\\
-\hline
 Goblin & D6 & Hache D8 & 8 & - & 8 & 0\\
-\hline
 Bandit de grand chemin & D6 & Epée D6 & 8 & 1d4 & 8 & 0\\
 \end{longtable}
 
 \subsection{Monstres moyens}
-\label{sec:org14876cf}
+\label{sec:org1075bfe}
 
 Les personnages ont desoin d'un 4 ou plus pour les toucher.
 
-\begin{longtable}{p{3cm}|c|p{6cm}|c|p{1.3cm}|c|c}
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative\\
-\hline
-\endfirsthead
-\multicolumn{7}{l}{Suite de la page précédente} \\
-\hline
-
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative \\
-
-\hline
-\endhead
-\hline\multicolumn{7}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lclcccc}
+\textbf{Monstre} & \textbf{Attaque} & \textbf{Dommages} & \textbf{PV} & \textbf{Armure} & \textbf{Exp} & \textbf{Initiative}\\
 Orc & D8 & Epée D6 & 10 & Bouclier D6 & 10 & 0\\
-\hline
 Soldat & D8 & Epée D6 & 10 & 1d8 & 10 & +1\\
-\hline
 Squelette guerrier & D8 & Hache D8 & 4 & - & 4 & -1\\
-\hline
 Araignée géante & D8 & Poison D4 par tour pendant 4 tours & 12 & - & 12 & -1\\
-\hline
 Zombie & D8 & Morsure D6 (guérie par le sort "soins") & 8 & - & 8 & 0\\
-\hline
-Homme poisson & D8 & Griffes D6, morsure D4 & 10 & Peau : 2 points & 10 & 0\\
+Homme poisson & D8 & Griffes D6, morsure D4 & 10 & Peau : 2 pts & 10 & 0\\
 \end{longtable}
 
 \subsection{Monstres forts}
-\label{sec:org9535e11}
+\label{sec:orga0b3c97}
 
 Les personnages ont desoin d'un 6 ou plus pour les toucher.
 
-\begin{longtable}{p{3cm}|c|p{3.5cm}|c|p{3.8cm}|c|c}
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative\\
-\hline
-\endfirsthead
-\multicolumn{7}{l}{Suite de la page précédente} \\
-\hline
-
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative \\
-
-\hline
-\endhead
-\hline\multicolumn{7}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lcp{5cm}cccc}
+\textbf{Monstre} & \textbf{Attaque} & \textbf{Dommages} & \textbf{PV} & \textbf{Armure} & \textbf{Exp} & \textbf{Initiative}\\
 Géant & D10 & Gourdin D10 & 20 & - & 20 & -1\\
-\hline
 Troll & D10 & Mains D10 & 12 & Armure naturelle D10 & 12 & -1\\
-\hline
 Petit dragon & D10 & Pinces d6, morsure D8, souffle de feu D12 & 40 & Armure naturelle D6 & 40 & 0\\
 \end{longtable}
 
 \subsection{Sauve qui peut !}
-\label{sec:org0764337}
+\label{sec:org7f77509}
 
 Les personnages ont desoin d'un 8 ou plus pour les toucher.
 
-\begin{longtable}{l|c|p{3.5cm}|c|p{3.8cm}|c|c}
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative\\
-\hline
-\endfirsthead
-\multicolumn{7}{l}{Suite de la page précédente} \\
-\hline
-
-Monstre & Attaque & Dommages & PV & Armure & Exp & Initiative \\
-
-\hline
-\endhead
-\hline\multicolumn{7}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lcp{5cm}cccc}
+\textbf{Monstre} & \textbf{Attaque} & \textbf{Dommages} & \textbf{PV} & \textbf{Armure} & \textbf{Exp} & \textbf{Initiative}\\
 Grand dragon & D12 & Pinces D10, souffle de feu D12 & 60 & Armure naturelle D10 & 60 & -1\\
 \end{longtable}
 
-\newpage
-
 \section{Equipement}
-\label{sec:orgab2a15a}
+\label{sec:org2fcfdaf}
 
 \subsection{Moins de 20 PO}
-\label{sec:org599b752}
+\label{sec:org11a7953}
 
-\begin{longtable}{l|c|p{10cm}}
-Equipement & Prix (PO) & Commentaires\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Equipement & Prix (PO) & Commentaires \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lcp{10cm}}
+\textbf{Equipement} & \textbf{Prix (PO)} & \textbf{Commentaires}\\
 Bougie & 1 & \\
 Sac de couchage & 1 & \\
 Gourde & 1 & \\
@@ -712,23 +457,10 @@ Baume soignant & 10 & Soigne 1D6 une fois\\
 \end{longtable}
 
 \subsection{20 PO et plus}
-\label{sec:org0b98bca}
+\label{sec:orgcb1d3b2}
 
-\begin{longtable}{l|c|p{10cm}}
-Equipement & Prix (PO) & Commentaires\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Equipement & Prix (PO) & Commentaires \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lcp{10cm}}
+\textbf{Equipement} & \textbf{Prix (PO)} & \textbf{Commentaires}\\
 Augmenter ses PV de 1 & 20 & \\
 Tente pour 4 personnes & 20 & \\
 Beaux habits & 20 & \\
@@ -752,7 +484,7 @@ Laboratoire portable de magicien & 100 & Pour inventer de nouveaux sorts\\
 \end{longtable}
 
 \section{Feuille de personnage}
-\label{sec:orgf817d2c}
+\label{sec:org0513444}
 
 \begin{itemize}
 \item Version PDF : \href{https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf}{Feuille de perso PDF}
@@ -760,7 +492,7 @@ Laboratoire portable de magicien & 100 & Pour inventer de nouveaux sorts\\
 \end{itemize}
 
 \section{Ecran}
-\label{sec:orgff54e6b}
+\label{sec:orgffd223b}
 
 \begin{itemize}
 \item Version PDF : \href{https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf}{Ecran PDF}
@@ -768,28 +500,13 @@ Laboratoire portable de magicien & 100 & Pour inventer de nouveaux sorts\\
 \end{itemize}
 
 \section{Générateur de rencontres}
-\label{sec:orgc9019c0}
+\label{sec:org9636d56}
 
 \subsection{Monstres niveau 1}
-\label{sec:orgff63928}
+\label{sec:orgd7e242f}
 
-Lancez 1D12.
-
-\begin{longtable}{c|l|c}
-Valeur & Monstre & Nombre\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Valeur & Monstre & Nombre \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{clc}
+\textbf{1D12} & \textbf{Monstre} & \textbf{Nombre}\\
 1-2 & Rats & 1D8\\
 3-4 & Chauves souris géantes & 1D8\\
 5 & Araignée géante & 1D2\\
@@ -803,25 +520,10 @@ Valeur & Monstre & Nombre \\
 \end{longtable}
 
 \subsection{Monstres niveau 2}
-\label{sec:org52f13e7}
+\label{sec:org437bf43}
 
-Lancez 1D6.
-
-\begin{longtable}{c|l}
-Valeur & Monstre\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Valeur & Monstre \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{1D6} & \textbf{Monstre}\\
 1-2 & Troll\\
 3-4 & Géant\\
 5 & Petit dragon\\
@@ -830,25 +532,10 @@ Valeur & Monstre \\
 
 
 \subsection{Trésors}
-\label{sec:org49946f3}
+\label{sec:org0e0fde0}
 
-Lancez 1D12.
-
-\begin{longtable}{c|l}
-Valeur & Trésor\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Valeur & Trésor \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{1D12} & \textbf{Trésor}\\
 1-2 & 1D6 PO\\
 3-4 & 1D8 PO\\
 5 & Des bijoux pour une valeur de 1D10 PO\\
@@ -861,58 +548,30 @@ Valeur & Trésor \\
 12 & Torche éternelle, marche pour une aventure\\
 \end{longtable}
 
+\newpage
+
 \subsection{Difficultés et pièges}
-\label{sec:org813b4b1}
+\label{sec:org2be5a2a}
 
-Lancez 1D10.
-
-\begin{longtable}{c|p{6cm}|p{3.5cm}|p{4cm}}
-Valeur & Description & Seuil éviter / désamorcer & Dommages\\
-\hline
-\endfirsthead
-\multicolumn{4}{l}{Suite de la page précédente} \\
-\hline
-
-Valeur & Description & Seuil éviter / désamorcer & Dommages \\
-
-\hline
-\endhead
-\hline\multicolumn{4}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cp{6cm}cp{4cm}}
+\textbf{1D10} & \textbf{Description} & \textbf{Seuil éviter / désamorcer} & \textbf{Dommages}\\
 1 & Le sol tremble et la pièce s'effondre & Voleur 4 / Voleur 6 & 1D6\\
 2 & Le plafond tremble et s'écroule & Voleur 4 / Voleur 6 & 1D6\\
 3 & 1 flèche est tirée par un piège vers chaque personnage & Voleur 4 / Voleur 8 & 1D4\\
 4 & Boule de feu venant d'un coin de la pièce & Voleur 4 / Voleur 6 & 1D6\\
 5 & Trappe qui s'ouvre, besoin d'une corde pour sortir & Voleur 4 / Voleur 6 & 1D4\\
 6 & Boule de pierre géante qui surgit d'un mur & Voleur 4 / Voleur 8 & 1D6\\
-7 & Rayont paralysant & Voleur 4 / Voleur 6 & Paralysé pendant 1D6 heures - 1D4\\
+7 & Rayont paralysant & Voleur 4 / Voleur 6 & Paralysé pendant 1D6 heures, dommages :1D4\\
 8 & Cage emprisonnante & Voleur 4 / Voleur 6 & Prisonnier\\
 9 & Moisissure gluante et puante & Voleur 3 / - & Erode le métal, les épées, les armures\\
 10 & Porte fermée & - / Voleur 6 & \\
 \end{longtable}
 
 \subsection{Situations étranges}
-\label{sec:org0b510c3}
+\label{sec:org875209c}
 
-Lancez 1D10.
-
-\begin{longtable}{c|l}
-Valeur & Description\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Valeur & Description \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{1D10} & \textbf{Description}\\
 1 & Statue qui parle\\
 2 & Nid de paille puant avec cafards\\
 3 & Squelettes humains avec armes et épées\\

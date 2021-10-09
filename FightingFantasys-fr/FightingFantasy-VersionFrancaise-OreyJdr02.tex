@@ -1,4 +1,4 @@
-% Created 2021-10-04 Mon 22:52
+% Created 2021-10-09 Sat 22:05
 % Intended LaTeX compiler: pdflatex
 \documentclass[a4paper, 11pt, twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -19,6 +19,8 @@
 \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Dungeon Squad! - Version Française}, pdfkeywords={jdr, dungeonsquad}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={Frenchb}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
 \usepackage[french, frenchb]{babel}
 \usepackage{titlesec}\titlelabel{\thetitle. \quad}
+\usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
+\usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
 \author{Olivier Rey}
 \date{2021-09-18}
 \title{Fighting Fantasy - Règles en français}
@@ -41,42 +43,27 @@
 \end{center}
 
 \section{Fighting Fantasy - Version Française}
-\label{sec:org0ff5f1c}
+\label{sec:org7d1c4c3}
 
 \subsection{Introduction}
-\label{sec:org2bb5439}
+\label{sec:orge270066}
 
 Fighting Fantasy est une série de livres de jeux de rôles pour un seul joueur créée par Steve Jackson et Ian Livingstone. Le premier volume de la série fut publié en livre de poche par Pufin en 1982. Cette série propose un système de jeu de rôles très simple qui fut ensuite complété de diverses façons, notamment dans le livre \emph{Dungeoneer, Advanced Fighting Fantasy}.
 
 Nous avons repris les principales règles de ce dernier livre pour proposer un jeu très simple, jouable avec tous les types de joueurs, spécialement les enfants.
 
-\begin{longtable}{|l|l|}
-\hline
+\begin{longtable}{ll}
 Concepteur & (C) Steve Jackson\\
 Version originale & Version originale 1984 - Copyright Steve Jackson\\
 Website & \href{https://www.fightingfantasy.com/}{https://www.fightingfantasy.com/}\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-
-Website & \href{https://www.fightingfantasy.com/}{https://www.fightingfantasy.com/} \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
-Version & 1.0\\
-\hline
 Traduction et adaptation & (C) O. Rey 2021\\
+Version & 1.0\\
 Octobre 2021 & Corrections diverses\\
  & Mise en place des tags pour génération Latex/PDF\\
-\hline
 \end{longtable}
 
 \subsection{Ce dont vous avez besoin pour jouer}
-\label{sec:org81187d2}
+\label{sec:org082180d}
 
 Chaque joueur doit avoir accès à :
 \begin{itemize}
@@ -86,7 +73,7 @@ Chaque joueur doit avoir accès à :
 \end{itemize}
 
 \subsection{Notes}
-\label{sec:orgb1e9c8d}
+\label{sec:org359e7f0}
 
 Vous pouvez utiliser ce jeu avec d'autres ressources :
 \begin{itemize}
@@ -95,28 +82,15 @@ Vous pouvez utiliser ce jeu avec d'autres ressources :
 \end{itemize}
 
 \section{Création du personnage}
-\label{sec:org55443a5}
+\label{sec:org8a5a8d0}
 
 \subsection{Caractéristiques}
-\label{sec:orgfd92860}
+\label{sec:org86a6918}
 
 Un personnage a trois caractéristiques : \textbf{compétence} (skill), \textbf{points de vie} (stamina)  et \textbf{chance} (luck).
 
-\begin{longtable}{l|c|l|c}
-Caractéristique & Création & Acronyme\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Caractéristique & Création & Acronyme \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lcc}
+\textbf{Caractéristique} & \textbf{Création} & \textbf{Acronyme}\\
 Compétence & 1D6+6 & CPT\\
 Points de vie & 2D6+12 & PV\\
 Chance & 1D6+6 & CHA\\
@@ -124,26 +98,15 @@ Chance & 1D6+6 & CHA\\
 
 S'il tombe à 0 PV ou moins, le PJ meurt.
 
+\newpage
+
 \subsection{Test de compétence}
-\label{sec:org06b3f35}
+\label{sec:org749839e}
 
 Pour réussir un test de compétence, lancer 2D6 :
 
-\begin{longtable}{c|l}
-Test de compétence & Résultat\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Test de compétence & Résultat \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{Test de compétence} & \textbf{Résultat}\\
 2D6 < CPT & Test de compétence réussi\\
 2D6 >= CPT & Test de compétence échoué\\
 \end{longtable}
@@ -151,25 +114,12 @@ Test de compétence & Résultat \\
 Ainsi, même avec 12 en CPT, un double 6 sera un échec.
 
 \subsection{Test de chance}
-\label{sec:org4a31d77}
+\label{sec:org98e79b7}
 
 Il en va de même pour la chance :
 
-\begin{longtable}{c|l}
-Test de chance & Résultat\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Test de chance & Résultat \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{Test de chance} & \textbf{Résultat}\\
 2D6 < CHA & Test de chance réussi\\
 2D6 >= CHA & Test de chance échoué\\
 \end{longtable}
@@ -177,25 +127,12 @@ Test de chance & Résultat \\
 Ainsi, même avec 12 en CHA, un double 6 sera un échec.
 
 \subsection{Equipement}
-\label{sec:org4f6e34b}
+\label{sec:org3fb4560}
 
-Tous les personnages démarrent avec :
+Tous les personnages démarrent avec les objets suivants :
 
-\begin{longtable}{l|c|l}
-Objet & Points/Doses & Commentaires\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Objet & Points/Doses & Commentaires \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lcl}
+\textbf{Objet} & \textbf{Points/Doses} & \textbf{Commentaires}\\
 Une épée & - & -\\
 un sac à dos & - & Pour mettre les trésors\\
 Une lanterne & - & Une lanterne et son combustible suffisent pour une aventure\\
@@ -206,43 +143,30 @@ Une potion & 2 doses & Une potion de compétence, de vie ou de chance (choix du 
 \end{longtable}
 
 \section{Monstres}
-\label{sec:orgd710bfb}
+\label{sec:org7e35d7c}
 
 \subsection{Attaques}
-\label{sec:org6b447b1}
+\label{sec:orgf00846c}
 
 Les montres ont aussi ont des caractéristiques \textbf{Compétence} et \textbf{Constitution}, mais ils n'ont pas de chance.
 
 Ils ont une autre caractéristique : \textbf{Attaques} (ATT) qui représente le nombre de joueurs que les monstres peuvent attaquer \emph{en même temps}.
 
 \subsection{Exemple de monstre}
-\label{sec:org3c37c77}
+\label{sec:org2e87664}
 
 Le loup-garou montré ci-dessous a deux ATT : il est donc capable d'attaquer au plus 2 PJ dans un même round de combat.
 
-\begin{longtable}{l|c|c|c}
- & CPT & PV & ATT\\
-\hline
-\endfirsthead
-\multicolumn{4}{l}{Suite de la page précédente} \\
-\hline
-
- & CPT & PV & ATT \\
-
-\hline
-\endhead
-\hline\multicolumn{4}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{lccc}
+ & \textbf{CPT} & \textbf{PV} & \textbf{ATT}\\
 Loup-garou & 8 & 9 & 2\\
 \end{longtable}
 
 \section{Combats}
-\label{sec:org8f62093}
+\label{sec:org3c8f936}
 
 \subsection{Combat simple}
-\label{sec:org2cb948f}
+\label{sec:orgc374bb5}
 
 Un round de combat se passe comme suit :
 \begin{enumerate}
@@ -250,51 +174,21 @@ Un round de combat se passe comme suit :
 \item Les attaques sont ensuite comparées entre elles.
 \end{enumerate}
 
-Le tableau suivant détaille la procédure pour un \textbf{round} de combat.
-
-\begin{longtable}{c|l|c|l}
-N° & Action & Effet & Jet de chance optionnel du joueur\\
-\hline
-\endfirsthead
-\multicolumn{4}{l}{Suite de la page précédente} \\
-\hline
-
-N° & Action & Effet & Jet de chance optionnel du joueur \\
-
-\hline
-\endhead
-\hline\multicolumn{4}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{clcl}
+\textbf{Séquence} & \textbf{Action} & \textbf{Effet} & \textbf{Jet de chance optionnel du joueur}\\
 1 & COMB monstre = 2D6 + CPT & - & -\\
  & COMB PJ = 2D6 + CPT & - & -\\
-\hline
-2 & Si COMB monstre > COMB PJ & -2 PV pour le PJ & Voir table suivante cas n°1\\
- & Si COMB PJ > COMB monstre & -2 PV pour le monstre & Voir table suivante cas n°2\\
+2 & Si COMB monstre > COMB PJ & -2 PV pour le PJ & Voir table suivante cas numéro 1\\
+ & Si COMB PJ > COMB monstre & -2 PV pour le monstre & Voir table suivante cas numéro 2\\
  & Si COMB PJ = COMB monstre & Aucun effet & -\\
 \end{longtable}
 
-Le joueur peut décider d'utiliser sa chance, soit pour 
+Le joueur peut décider d'utiliser sa chance, soit pour éviter un coup donné par un monstre (cas d'un échec du PJ en combat), soit pour aggraver la blassure du monstre (cas du succès du PJ en combat).
 
-\begin{longtable}{c|c|l}
-Cas & Jet de chance & Effet\\
-\hline
-\endfirsthead
-\multicolumn{3}{l}{Suite de la page précédente} \\
-\hline
-
-Cas & Jet de chance & Effet \\
-
-\hline
-\endhead
-\hline\multicolumn{3}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{ccl}
+\textbf{Cas} & \textbf{Jet de chance} & \textbf{Effet}\\
 1 & Réussi & -1 PV au lieu de -2 PV pour le PJ\\
 1 & Raté & -3 PV au lieu de -2 PV pour le PJ\\
-\hline
 2 & Réussi & -4 PV au lieu de -2 PV pour le monstre\\
 2 & Raté & -1 PV au lieu de -2 PV pour le monstre\\
 \end{longtable}
@@ -304,29 +198,16 @@ Le combat s'arrête quand l'un des deux adversaire est mort (PV = 0) ou s'enfuit
 Si un PJ s'enfuit, il perd automatiquement 2 PV (dernière blessure infligée par le monstre). La chance peut être utilisée pour réduire les dommages (voir table ci-dessus).
 
 \subsection{Combat multiple}
-\label{sec:orgb6b4886}
+\label{sec:orgca959fb}
 
 Le combat multiple est assez amusant et logique. Nous l'exposons au travers d'exemples.
 
 \subsubsection{Cas d'un monstre possédant une seule ATT contre trois PJ (A, B et C)}
-\label{sec:org82ac33b}
+\label{sec:orgef49132}
 
-\begin{longtable}{c|l}
-Séquence & Action\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Séquence & Action \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
-1 & Le MJ tire au sort le PJ qui sera attaqué (ou le choisit), disons  C\\
+\begin{longtable}{cl}
+\textbf{Séquence} & \textbf{Action}\\
+1 & Le MJ tire au sort le PJ qui sera attaqué (ou le choisit), disons C\\
 2 & Combat simple entre le PJ et le monstre\\
  & Le MJ note le score de COMB du monstre pour ce tour\\
 3 & Les autres PJ peuvent attaquer le monstre (ici A et B)\\
@@ -340,25 +221,12 @@ On appelle les attaques de A et B, des \textbf{attaques protégées}, car ils ne
 Au round suivant, le processus recommence.
 
 \subsubsection{Cas d'un monstre à 8 ATT contre quatre PJ (A, B, C et D)}
-\label{sec:org01a7daf}
+\label{sec:org0f04ec3}
 
 \uline{Note}: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela ne signifie pas que le monstre a des attaques gratuites. Le nombre d'attaques correspond au nombre maximum de PJ que le monstre peut attaquer. Dans le cas présent, le monstre ne pourra attaquer que les 4 PJ.
 
-\begin{longtable}{c|l}
-Séquence & Action\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Séquence & Action \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{Séquence} & \textbf{Action}\\
 1 & Le MJ calcule le COMB du monstre (2D6 + CPT)\\
  & Ce nombre  est valable pour le round pour tous les combats avec tous les PJ\\
 2 & Chaque combat est résolu normalement.\\
@@ -366,23 +234,10 @@ Séquence & Action \\
 
 
 \subsubsection{Cas de deux PJ (A et B) contre deux monstres (X ayant 2 ATT et Y ayant 1 ATT)}
-\label{sec:orgadda7fa}
+\label{sec:org9cbefec}
 
-\begin{longtable}{c|l}
-Séquence & Action\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Séquence & Action \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cl}
+\textbf{Séquence} & \textbf{Action}\\
 1 & Le MJ demande aux joueurs quels monstres ils veulent attaquer (ex: A-X et B-Y).\\
  & Les monstres répondront aux attaques des PJ.\\
  & Les combats doivent donc se dérouler entre A et X et B et Y.\\
@@ -393,35 +248,22 @@ Séquence & Action \\
 Tout monstre supplémentaire attaquera de manière aléatoire l'un des deux PJ.
 
 \section{Situations communes}
-\label{sec:org6efb77c}
+\label{sec:org6971969}
 \subsection{Soudoyer/corrompre}
-\label{sec:org08ac89f}
+\label{sec:org2971773}
 
 Les monstres un peu intelligents aiment l'or. Le MJ peut accepter que les PJ tentent de les corrompre. Le MJ décide d'une probabilité de réussite et lance 1D6 (1 sur 6, ou 3 sur 6, etc.). Les monstres peuvent donner quelques informations s'ils se font corrompre.
 
 \subsection{Equipement des PJ}
-\label{sec:orgdc3df8b}
+\label{sec:orgce9d69c}
 
-Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne drvrait pas transporter plus de 10 articles d'équipement (hors or et provisions). Les gros objets comptent pour plus de un point. Le MJ doit être vigilant sur ce point.
+Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne drvrait pas transporter plus de 10 articles d'équipement (hors or et provisions). Les gros objets comptent pour plus d'un point. Le MJ doit être vigilant sur ce point.
 
 \subsection{Portes}
-\label{sec:orgdc57dbb}
+\label{sec:org21a7fdc}
 
-\begin{longtable}{l|l}
-Type & Commentaire\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Type & Commentaire \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{ll}
+\textbf{Type} & \textbf{Commentaire}\\
 Porte magique & Ont besoin d'un sort pour être ouvertes (ou sous contrôle d'un sorcier)\\
 Porte ordinaire & Jeter 1D6 : 1-2 la porte est fermée ; 3-6 la porte est ouverte\\
 Casser une porte ordinaire & Jet réussi de 2D6 strictement sous CPT ; -1 PV\\
@@ -434,28 +276,15 @@ Portes secrètes & Le PJ doit chercher ; le MJ jette 2D6 sous la CPT du PJ\\
 \end{longtable}
 
 \subsection{Fuite}
-\label{sec:org8813b1a}
+\label{sec:org3c8783a}
 
 Le MJ doit décider si la fuite est possible (par exemple PJ acculé). Si la fuite est possible, la règle ci-dessus (combat simple) s'applique. Idem pour les monstres (intelligents) qui fuient.
 
 \subsection{Chute}
-\label{sec:orgbf2520b}
+\label{sec:org34c4c18}
 
-\begin{longtable}{l|l}
-Hauteur & Commentaire\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Hauteur & Commentaire \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{ll}
+\textbf{Hauteur} & \textbf{Commentaire}\\
 Inférieur à 2m & Pas de dommages\\
 Par tranche de 10m & Faire un jet 2D6 + 1 sous CHA\\
  & Ex : 10m, 2D6 + 1 sous CHA ; 30m, 2D6+3 sous CHA\\
@@ -463,17 +292,17 @@ Par tranche de 10m & Faire un jet 2D6 + 1 sous CHA\\
 \end{longtable}
 
 \subsection{Perte d'un arme}
-\label{sec:org8be58ad}
+\label{sec:org4203fd3}
 
 Si un PJ perd son arme, sa CPT est diminuée de 4 jusqu'à ce qu'il trouve une autre arme.
 
 \subsection{Mouvement}
-\label{sec:orge22b34d}
+\label{sec:org343ae5c}
 
 Laissé à l'arbitrage du MJ et suivant les situations (longs couloirs avec pièges).
 
 \subsection{Ouvrir un coffre}
-\label{sec:org6562b48}
+\label{sec:org04b9e80}
 
 Similaire aux portes :
 \begin{itemize}
@@ -485,69 +314,43 @@ Similaire aux portes :
 Pour trouver les compartiments secrets dans les coffres, le PJ doit chercher le compartiment et les règles des portes s'appliquent.
 
 \subsection{Pickpocket}
-\label{sec:org7bba3e8}
+\label{sec:org939c4e5}
 
 Un jet de CPT strictement réussi est un succès. Le MJ peut donner un malus (6-8 est un malus acceptable si la situation ne se prête pas à jouer au pickpocket).
 
 \subsection{Provision}
-\label{sec:orge512807}
+\label{sec:org36d2007}
 
 Les PJ peuvent consommer leurs provisions à tout moment sauf dans un combat.
 
 Le nombre de provisions dont bénéficient les PJ au départ de l'aventure dépend de différents facteurs : longueur de l'histoire, provisions disponibles dans le scénario, etc.
 
-\begin{longtable}{c|c}
-Aventure & Nb de provisions\\
-\hline
-\endfirsthead
-\multicolumn{2}{l}{Suite de la page précédente} \\
-\hline
-
-Aventure & Nb de provisions \\
-
-\hline
-\endhead
-\hline\multicolumn{2}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{cc}
+\textbf{Aventure} & \textbf{Nb de provisions}\\
 Courte & 2\\
 Moyenne & 4\\
 Longue & 6+\\
 \end{longtable}
 
 \subsection{Chercher}
-\label{sec:orgf07601a}
+\label{sec:org130b771}
 
 Le PJ doit dire ce qu'il cherche. Le MJ fait les jets : 2D6 strictement sous CPT pour trouver.
 
 \subsection{Se déplacer en silence}
-\label{sec:org69deb4b}
+\label{sec:org3898d16}
 
 2D6 strictement sous CPT. Le MJ peut ajouter des malus.
 
 \subsection{Monstres errants}
-\label{sec:org753e204}
+\label{sec:orgeb47cc9}
 
 Si les PJ s'attardent trop dans un lieu, il est possible de générer une rencontre avec un monstre errant. le MJ lance 1D6 régulièrement. Si c'est un 1, un monstre a repéré les PJ.
 
 En souterrain :
 
-\begin{longtable}{c|l|c|c|c}
-1D6 & Créature & CPT & PV & ATT\\
-\hline
-\endfirsthead
-\multicolumn{5}{l}{Suite de la page précédente} \\
-\hline
-
-1D6 & Créature & CPT & PV & ATT \\
-
-\hline
-\endhead
-\hline\multicolumn{5}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{clccc}
+\textbf{1D6} & \textbf{Créature} & \textbf{CPT} & \textbf{PV} & \textbf{ATT}\\
 1 & Goblin & 5 & 3 & 1\\
 2 & Orc & 6 & 3 & 1\\
 3 & Gremlin & 6 & 3 & 1\\
@@ -558,21 +361,8 @@ En souterrain :
 
 En extérieur :
 
-\begin{longtable}{c|l|c|c|c}
-1D6 & Créature & CPT & PV & ATT\\
-\hline
-\endfirsthead
-\multicolumn{5}{l}{Suite de la page précédente} \\
-\hline
-
-1D6 & Créature & CPT & PV & ATT \\
-
-\hline
-\endhead
-\hline\multicolumn{5}{r}{Suite page suivante} \\
-\endfoot
-\endlastfoot
-\hline
+\begin{longtable}{clccc}
+\textbf{1D6} & \textbf{Créature} & \textbf{CPT} & \textbf{PV} & \textbf{ATT}\\
 1 & Goblin & 5 & 3 & 1\\
 2 & Chauve-souris géante & 5 & 4 & 1\\
 3 & Rat Géant & 5 & 4 & 1\\

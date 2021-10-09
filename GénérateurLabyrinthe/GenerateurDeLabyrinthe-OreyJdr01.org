@@ -1,0 +1,161 @@
+#+TITLE: Générateur de labyrinthes pour JDR
+#+AUTHOR: Olivier Rey
+#+EMAIL: rey.olivier@gmail.com
+#+DATE: 2021-10-09
+#+STARTUP: overview
+#+LANGUAGE: fr
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]
+#+LATEX_HEADER: \usepackage{baskervillef}
+#+LATEX_HEADER: \usepackage{geometry}\geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
+#+LATEX_HEADER: \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Dungeon Squad! - Version Française}, pdfkeywords={jdr, dungeonsquad}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={Frenchb}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
+#+LATEX_HEADER: \usepackage[french]{babel}
+#+LATEX_HEADER: \usepackage{titlesec}\titlelabel{\thetitle. \quad}
+#+LATEX_HEADER: \usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
+#+LATEX_HEADER: \usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
+#+EXPORT_FILE_NAME: GenerateurDeLabyrinthe-OreyJdr01.pdf
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+* Générateur de labyrinthes pour JDR
+
+** Introduction
+
+John Norio a travaillé sur plusieurs versions de générateurs de "donjons", ce qui est traduit par générateur de labyrinthe. Nous proposons ici la traduction de la version 4.1 du générateur.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align ll
+| Concepteur               | (C) John Yorio "No Budget No Frills Pencil and Paper Dungeon Generator" |
+| Version                  | 4.1                                                                     |
+| URL                      | [[http://tabletopdiversions.blogspot.com/2012/12/dungeon-generator-updated-now-with-more.html][http://tabletopdiversions.blogspot.com/]]                                 |
+| Traduction et adaptation | (C) O. Rey avril 2021                                                   |
+| Version 1.1              | Adaptation PDF                                                          |
+
+** Matériel
+
+- Un jeu de cartes ordinaire de 54 cartes sans les jokers.
+- Des dés : 1D4, 1D6, 1D8, 1D10.
+- Du papier quadrillé, des crayons ou stylos ou un équivalent informatique.
+
+** Enchaînement des tables
+
+[[file:genlab01.png]]
+
+Gardez en mémoire que vous pouvez toujours adapter un peu les choses si votre labyrinthe ne rentre pas dans la page.
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+* Tables
+
+** Table principale
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cp{6cm}p{8.5cm}
+|  /Table 1/ | /Table principale/                              |                                                                                                                                |
+|    *Carte* | *Résultat*                                      | *Détails*                                                                                                                      |
+|         As | Escaliers montants, ou sortie dans X cases      | Choix du joueur ou lancer 1D6 : 1-3 escaliers, 4-6 sortie                                                                      |
+|          2 | Escaliers descendants, ou sortie dans X cases   | Choix du joueur ou lancer 1D6 : 1-3 escaliers, 4-6 sortie                                                                      |
+|          3 | Couloir droit pendant X cases avec piège        | Lancer 1D6 : 1-3 fosse, 4-6 autre piège                                                                                        |
+|          4 | Couloir droit pendant X cases                   |                                                                                                                                |
+|          5 | Intersection en croix dans X cases              | Couloirs à gauche, à droite et devant                                                                                          |
+|          6 | Coude à droite dans X cases                     |                                                                                                                                |
+|          7 | Coude à gauche dans X cases                     |                                                                                                                                |
+|          8 | Intersection en T dans X cases                  | Lancer 1D6 : 1-2 coudes à gauche et à droite, 3-4 coude à gauche et couloir devant, 5-6 coude à droite et couloir devant       |
+| 9-10-Valet | *Salle*                                         | Dessiner une porte et aller aux tables 3A, puis 3B, puis 3C                                                                    |
+|       Dame | Impasse dans X cases, ou tirer une autre carte  | Choix du joueur                                                                                                                |
+|        Roi | Rebattez les cartes et tirez une nouvelle carte | Variante : gardez le roi de côté et tirez une nouvelle carte. Au quatrième roi, rebattez les cartes et tirez un nouvelle carte |
+
+
+** Couloirs
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cc
+| /Table 2/             | /Détermination du nombre X de cases/ |
+| *Couleur de la carte* |                    *Nombre de cases* |
+| Coeur                 |                                 1D10 |
+| Carreau               |                                  1D8 |
+| Pique                 |                                  1D6 |
+| Trèfle                |                                  1D4 |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 4B/ | /Table des rencontres dans les couloirs (optionnel)/ |
+|      *1D6* | *Rencontre*                                          |
+|          1 | Monstre                                              |
+|          2 | Piège                                                |
+|        3-6 | Rien à signaler                                      |
+
+Vous pouvez aussi utiliser les tables de rencontres de votre jeu favori.
+
+** Salles
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cc
+| /Table 3A/            | /Taille brute de la salle/ |
+| *Couleur de la carte* | *Nombre de cases*          |
+| Coeur                 | D10 x D10 cases            |
+| Carreaux              | D8 x D8 cases              |
+| Pique                 | D6 x D6 cases              |
+| Trèfle                | D4 x D4 cases              |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 3B/                            | /Finalisation de la taille de la salle/                               |
+| *Analyse des dés*                     | *Action*                                                              |
+| Les deux dés ont la même valeur       | Pas de changement                                                     |
+| Un dé est pair et l'autre impair      | Diviser le plus grand nombre en deux et arrondir au chiffre supérieur |
+| Si les deux dés sont pairs ou impairs | Diviser les deux nombres par deux et arrondir au chiffre supérieur    |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 3C/ | /Détermination des 1D4-1 sorties/    |
+|      *1D6* | *Positionnement de la sortie*        |
+|        1-2 | Sortie à gauche de la porte d'entrée |
+|        3-4 | Sorie en face de la porte d'entrée   |
+|        5-6 | Sortie à droite de la porte d'entrée |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 4A/ | /Table des rencontres dans les salles/                          |
+|      *1D6* | *Rencontre*                                                     |
+|        1-2 | Monstre                                                         |
+|          3 | Piège                                                           |
+|          4 | Situation étrange (statues qui parlent, fontaine magique, etc.) |
+|        5-6 | Vide                                                            |
+
+** Portes secrètes
+
+Qund les pièces et les couloirs se jouxtent sans moyen visible de passer, il se peut qu'il y ait une porte secrète.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 5A/ | /Portes secrètes/ |
+|      *1D6* | *A trouver*      |
+|          1 | Porte secrète     |
+|        2-6 | Rien              |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 5B/ | /Sens des portes secrètes/                                             |
+|      *1D6* | *Sens*                                                                 |
+|          1 | Sens unique dans la direction dans laquelle vous allez                 |
+|        2-5 | Double sens                                                            |
+|          6 | Sens unique dans la direction opposée à celle dans laquelle vous allez |
+
+
+#+BEGIN_EXPORT latex
+\vfill
+#+END_EXPORT
+
+#+ATTR_LATEX: :width 3cm
+[[file:logo-orey-big.png]]
+

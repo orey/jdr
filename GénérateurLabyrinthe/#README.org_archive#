@@ -1,0 +1,69 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/olivier/Documents/github/jdr/GénérateurLabyrinthe/README.org
+
+
+* Salles
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-10-09 Sat 15:27
+  :ARCHIVE_FILE: ~/Documents/github/jdr/GénérateurLabyrinthe/README.org
+  :ARCHIVE_OLPATH: Tables
+  :ARCHIVE_CATEGORY: README
+  :END:
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cc|p{4cm}p{5cm}
+| /Table 3A/            | /Taille brute de la salle/ |
+| *Couleur de la carte* | *Nombre de cases*          |
+| Coeur                 | D10 x D10 cases            |
+| Carreaux              | D8 x D8 cases              |
+| Pique                 | D6 x D6 cases              |
+| Trèfle                | D4 x D4 cases              |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 3B/                            | /Finalisation de la taille de la salle/                               |
+| *Analyse des dés*                     | *Correction de la taille de la salle*                                 |
+| Les deux dés ont la même valeur       | Pas de changement                                                     |
+| Un dé est pair et l'autre impair      | Diviser le plus grand nombre en deux et arrondir au chiffre supérieur |
+| Si les deux dés sont pairs ou impairs | Diviser les deux nombres par deux et arrondir au chiffre supérieur    |
+
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 3C/ | /Détermination des 1D4-1 sorties/    |
+|      *1D6* | *Positionnement de la sortie*        |
+|        1-2 | Sortie à gauche de la porte d'entrée |
+|        3-4 | Sorie en face de la porte d'entrée   |
+|        5-6 | Sortie à droite de la porte d'entrée |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 4A/ | /Table des rencontres dans les salles/                          |
+|     *1D6* | *Rencontre*                                                     |
+|       1-2 | Monstre                                                         |
+|         3 | Piège                                                           |
+|         4 | Situation étrange (statues qui parlent, fontaine magique, etc.) |
+|       5-6 | Vide                                                            |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 5A/ | /Portes secrètes: quand les pièces et les couloirs se jouxtent sans moyen visible de passer/ |
+|      *1D6* | *Positionnement de la sortie*                                                                |
+|          1 | Porte secrète                                                                                |
+|        2-6 | Rien                                                                                         |
+
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cl
+| /Table 5B/ | /Sens des portes secrètes/                                             |
+|      *1D6* | *Sens*                                                                 |
+|          1 | Sens unique dans la direction dans laquelle vous allez                 |
+|        2-5 | Double sens                                                            |
+|          6 | Sens unique dans la direction opposée à celle dans laquelle vous allez |
+
+

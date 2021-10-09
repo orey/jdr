@@ -1,6 +1,6 @@
 #+TITLE: Fighting Fantasy - Règles en français
 #+AUTHOR: Olivier Rey
-#+DATE: 2021-09-18
+#+DATE: 2021-10-09
 #+STARTUP: overview
 #+LANGUAGE: fr
 #+LATEX_CLASS: article
@@ -103,7 +103,7 @@ Tous les personnages démarrent avec les objets suivants :
 #+ATTR_LATEX: :environment longtable :align lcl
 | *Objet*        | *Points/Doses* | *Commentaires*                                                  |
 | Une épée       | -             | -                                                               |
-| un sac à dos   | -             | Pour mettre les trésors                                         |
+| Un sac à dos   | -             | Pour mettre les trésors                                         |
 | Une lanterne   | -             | Une lanterne et son combustible suffisent pour une aventure     |
 | Des provisions | 2 à 10 points | Les provisions restorent les points de vie d'autant de points   |
 |                |               | On ne peut pas consommer les provisions pendant un combat       |
@@ -120,7 +120,7 @@ Ils ont une autre caractéristique : *Attaques* (ATT) qui représente le nombre 
 
 ** Exemple de monstre
 
-Le loup-garou montré ci-dessous a deux ATT : il est donc capable d'attaquer au plus 2 PJ dans un même round de combat.
+Le loup-garou est un monstre à deux ATT : il est donc capable d'attaquer au plus 2 PJ dans un même round de combat.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align lccc
@@ -136,15 +136,15 @@ Un round de combat se passe comme suit :
 2. Les attaques sont ensuite comparées entre elles.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-#+ATTR_LATEX: :environment longtable :align clcl
-| *Séquence* | *Action*                  | *Effet*               | *Jet de chance optionnel du joueur* |
-|          1 | COMB monstre = 2D6 + CPT  | -                     | -                                   |
-|            | COMB PJ = 2D6 + CPT       | -                     | -                                   |
-|          2 | Si COMB monstre > COMB PJ | -2 PV pour le PJ      | Voir table suivante cas numéro 1    |
-|            | Si COMB PJ > COMB monstre | -2 PV pour le monstre | Voir table suivante cas numéro 2    |
-|            | Si COMB PJ = COMB monstre | Aucun effet           | -                                   |
+#+ATTR_LATEX: :environment longtable :align clcc
+| *Séquence* | *Action*                  | *Effet*               | *Jet de chance (option joueur)* |
+|          1 | COMB monstre = 2D6 + CPT  | -                     | -                               |
+|            | COMB PJ = 2D6 + CPT       | -                     | -                               |
+|          2 | Si COMB monstre > COMB PJ | -2 PV pour le PJ      | Voir table suivante cas 1       |
+|            | Si COMB PJ > COMB monstre | -2 PV pour le monstre | Voir table suivante cas 2       |
+|            | Si COMB PJ = COMB monstre | Aucun effet           | -                               |
 
-Le joueur peut décider d'utiliser sa chance, soit pour éviter un coup donné par un monstre (cas d'un échec du PJ en combat), soit pour aggraver la blassure du monstre (cas du succès du PJ en combat).
+Le joueur peut décider d'utiliser sa chance, soit pour éviter un coup donné par un monstre (cas d'un échec du PJ en combat), soit pour aggraver la blessure du monstre (cas du succès du PJ en combat).
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align ccl
@@ -198,7 +198,7 @@ _Note_: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela
 | *Séquence* | *Action*                                                                        |
 |          1 | Le MJ demande aux joueurs quels monstres ils veulent attaquer (ex: A-X et B-Y). |
 |            | Les monstres répondront aux attaques des PJ.                                    |
-|            | Les combats doivent donc se dérouler entre A et X et B et Y.                    |
+|            | Les combats doivent donc se dérouler entre A et X, et B et Y.                   |
 |          2 | Résoudre les combats A-X et B-Y.                                                |
 |          3 | X a une seconde attaque, il peut donc attaquer B en mode attaque protégée.      |
 
@@ -211,7 +211,7 @@ Les monstres un peu intelligents aiment l'or. Le MJ peut accepter que les PJ ten
 
 ** Equipement des PJ
 
-Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne drvrait pas transporter plus de 10 articles d'équipement (hors or et provisions). Les gros objets comptent pour plus d'un point. Le MJ doit être vigilant sur ce point.
+Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne devrait pas transporter plus de 10 articles d'équipement (hors or et provisions). Les gros objets comptent pour plus d'un point. Le MJ doit être vigilant sur ce point.
 
 ** Portes
 
@@ -257,7 +257,7 @@ Similaire aux portes :
 - Pour ouvrir le coffre : 2D6 strictement sous CPT
 - Si le PJ retente, à chaque essai, son arme s'abîme et le PJ perd un point de CPT par tentative jusqu'à ce qu'il trouve une autre arme.
 
-Pour trouver les compartiments secrets dans les coffres, le PJ doit chercher le compartiment et les règles des portes s'appliquent.
+Pour trouver les compartiments secrets dans les coffres, le PJ doit chercher le compartiment. La règle des portes secrètes s'applique.
 
 ** Pickpocket
 
@@ -278,7 +278,7 @@ Le nombre de provisions dont bénéficient les PJ au départ de l'aventure dépe
 
 ** Chercher
 
-Le PJ doit dire ce qu'il cherche. Le MJ fait les jets : 2D6 strictement sous CPT pour trouver.
+Le PJ doit dire ce qu'il cherche. Le MJ fait les jets de dés : 2D6 strictement sous CPT pour trouver.
 
 ** Se déplacer en silence
 

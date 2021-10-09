@@ -1,4 +1,4 @@
-% Created 2021-10-09 Sat 22:05
+% Created 2021-10-09 Sat 22:29
 % Intended LaTeX compiler: pdflatex
 \documentclass[a4paper, 11pt, twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -22,7 +22,7 @@
 \usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
 \usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
 \author{Olivier Rey}
-\date{2021-09-18}
+\date{2021-10-09}
 \title{Fighting Fantasy - Règles en français}
 \hypersetup{
  pdfauthor={Olivier Rey},
@@ -43,10 +43,10 @@
 \end{center}
 
 \section{Fighting Fantasy - Version Française}
-\label{sec:org7d1c4c3}
+\label{sec:orgba42f95}
 
 \subsection{Introduction}
-\label{sec:orge270066}
+\label{sec:org6f537ef}
 
 Fighting Fantasy est une série de livres de jeux de rôles pour un seul joueur créée par Steve Jackson et Ian Livingstone. Le premier volume de la série fut publié en livre de poche par Pufin en 1982. Cette série propose un système de jeu de rôles très simple qui fut ensuite complété de diverses façons, notamment dans le livre \emph{Dungeoneer, Advanced Fighting Fantasy}.
 
@@ -63,7 +63,7 @@ Octobre 2021 & Corrections diverses\\
 \end{longtable}
 
 \subsection{Ce dont vous avez besoin pour jouer}
-\label{sec:org082180d}
+\label{sec:org4a1e0d6}
 
 Chaque joueur doit avoir accès à :
 \begin{itemize}
@@ -73,7 +73,7 @@ Chaque joueur doit avoir accès à :
 \end{itemize}
 
 \subsection{Notes}
-\label{sec:org359e7f0}
+\label{sec:org083fee1}
 
 Vous pouvez utiliser ce jeu avec d'autres ressources :
 \begin{itemize}
@@ -82,10 +82,10 @@ Vous pouvez utiliser ce jeu avec d'autres ressources :
 \end{itemize}
 
 \section{Création du personnage}
-\label{sec:org8a5a8d0}
+\label{sec:orgeb51132}
 
 \subsection{Caractéristiques}
-\label{sec:org86a6918}
+\label{sec:orgbbbf915}
 
 Un personnage a trois caractéristiques : \textbf{compétence} (skill), \textbf{points de vie} (stamina)  et \textbf{chance} (luck).
 
@@ -101,7 +101,7 @@ S'il tombe à 0 PV ou moins, le PJ meurt.
 \newpage
 
 \subsection{Test de compétence}
-\label{sec:org749839e}
+\label{sec:orgad07055}
 
 Pour réussir un test de compétence, lancer 2D6 :
 
@@ -114,7 +114,7 @@ Pour réussir un test de compétence, lancer 2D6 :
 Ainsi, même avec 12 en CPT, un double 6 sera un échec.
 
 \subsection{Test de chance}
-\label{sec:org98e79b7}
+\label{sec:org1cf5a91}
 
 Il en va de même pour la chance :
 
@@ -127,14 +127,14 @@ Il en va de même pour la chance :
 Ainsi, même avec 12 en CHA, un double 6 sera un échec.
 
 \subsection{Equipement}
-\label{sec:org3fb4560}
+\label{sec:org1c97dbc}
 
 Tous les personnages démarrent avec les objets suivants :
 
 \begin{longtable}{lcl}
 \textbf{Objet} & \textbf{Points/Doses} & \textbf{Commentaires}\\
 Une épée & - & -\\
-un sac à dos & - & Pour mettre les trésors\\
+Un sac à dos & - & Pour mettre les trésors\\
 Une lanterne & - & Une lanterne et son combustible suffisent pour une aventure\\
 Des provisions & 2 à 10 points & Les provisions restorent les points de vie d'autant de points\\
  &  & On ne peut pas consommer les provisions pendant un combat\\
@@ -143,19 +143,19 @@ Une potion & 2 doses & Une potion de compétence, de vie ou de chance (choix du 
 \end{longtable}
 
 \section{Monstres}
-\label{sec:org7e35d7c}
+\label{sec:org7f02d0d}
 
 \subsection{Attaques}
-\label{sec:orgf00846c}
+\label{sec:orgb576cf5}
 
 Les montres ont aussi ont des caractéristiques \textbf{Compétence} et \textbf{Constitution}, mais ils n'ont pas de chance.
 
 Ils ont une autre caractéristique : \textbf{Attaques} (ATT) qui représente le nombre de joueurs que les monstres peuvent attaquer \emph{en même temps}.
 
 \subsection{Exemple de monstre}
-\label{sec:org2e87664}
+\label{sec:orgb5ab8ac}
 
-Le loup-garou montré ci-dessous a deux ATT : il est donc capable d'attaquer au plus 2 PJ dans un même round de combat.
+Le loup-garou est un monstre à deux ATT : il est donc capable d'attaquer au plus 2 PJ dans un même round de combat.
 
 \begin{longtable}{lccc}
  & \textbf{CPT} & \textbf{PV} & \textbf{ATT}\\
@@ -163,10 +163,10 @@ Loup-garou & 8 & 9 & 2\\
 \end{longtable}
 
 \section{Combats}
-\label{sec:org3c8f936}
+\label{sec:orga8189d4}
 
 \subsection{Combat simple}
-\label{sec:orgc374bb5}
+\label{sec:org2ab38ee}
 
 Un round de combat se passe comme suit :
 \begin{enumerate}
@@ -174,16 +174,16 @@ Un round de combat se passe comme suit :
 \item Les attaques sont ensuite comparées entre elles.
 \end{enumerate}
 
-\begin{longtable}{clcl}
-\textbf{Séquence} & \textbf{Action} & \textbf{Effet} & \textbf{Jet de chance optionnel du joueur}\\
+\begin{longtable}{clcc}
+\textbf{Séquence} & \textbf{Action} & \textbf{Effet} & \textbf{Jet de chance (option joueur)}\\
 1 & COMB monstre = 2D6 + CPT & - & -\\
  & COMB PJ = 2D6 + CPT & - & -\\
-2 & Si COMB monstre > COMB PJ & -2 PV pour le PJ & Voir table suivante cas numéro 1\\
- & Si COMB PJ > COMB monstre & -2 PV pour le monstre & Voir table suivante cas numéro 2\\
+2 & Si COMB monstre > COMB PJ & -2 PV pour le PJ & Voir table suivante cas 1\\
+ & Si COMB PJ > COMB monstre & -2 PV pour le monstre & Voir table suivante cas 2\\
  & Si COMB PJ = COMB monstre & Aucun effet & -\\
 \end{longtable}
 
-Le joueur peut décider d'utiliser sa chance, soit pour éviter un coup donné par un monstre (cas d'un échec du PJ en combat), soit pour aggraver la blassure du monstre (cas du succès du PJ en combat).
+Le joueur peut décider d'utiliser sa chance, soit pour éviter un coup donné par un monstre (cas d'un échec du PJ en combat), soit pour aggraver la blessure du monstre (cas du succès du PJ en combat).
 
 \begin{longtable}{ccl}
 \textbf{Cas} & \textbf{Jet de chance} & \textbf{Effet}\\
@@ -198,12 +198,12 @@ Le combat s'arrête quand l'un des deux adversaire est mort (PV = 0) ou s'enfuit
 Si un PJ s'enfuit, il perd automatiquement 2 PV (dernière blessure infligée par le monstre). La chance peut être utilisée pour réduire les dommages (voir table ci-dessus).
 
 \subsection{Combat multiple}
-\label{sec:orgca959fb}
+\label{sec:orga5c5734}
 
 Le combat multiple est assez amusant et logique. Nous l'exposons au travers d'exemples.
 
 \subsubsection{Cas d'un monstre possédant une seule ATT contre trois PJ (A, B et C)}
-\label{sec:orgef49132}
+\label{sec:org2e64de1}
 
 \begin{longtable}{cl}
 \textbf{Séquence} & \textbf{Action}\\
@@ -221,7 +221,7 @@ On appelle les attaques de A et B, des \textbf{attaques protégées}, car ils ne
 Au round suivant, le processus recommence.
 
 \subsubsection{Cas d'un monstre à 8 ATT contre quatre PJ (A, B, C et D)}
-\label{sec:org0f04ec3}
+\label{sec:org07cf8f9}
 
 \uline{Note}: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela ne signifie pas que le monstre a des attaques gratuites. Le nombre d'attaques correspond au nombre maximum de PJ que le monstre peut attaquer. Dans le cas présent, le monstre ne pourra attaquer que les 4 PJ.
 
@@ -234,13 +234,13 @@ Au round suivant, le processus recommence.
 
 
 \subsubsection{Cas de deux PJ (A et B) contre deux monstres (X ayant 2 ATT et Y ayant 1 ATT)}
-\label{sec:org9cbefec}
+\label{sec:org38d9123}
 
 \begin{longtable}{cl}
 \textbf{Séquence} & \textbf{Action}\\
 1 & Le MJ demande aux joueurs quels monstres ils veulent attaquer (ex: A-X et B-Y).\\
  & Les monstres répondront aux attaques des PJ.\\
- & Les combats doivent donc se dérouler entre A et X et B et Y.\\
+ & Les combats doivent donc se dérouler entre A et X, et B et Y.\\
 2 & Résoudre les combats A-X et B-Y.\\
 3 & X a une seconde attaque, il peut donc attaquer B en mode attaque protégée.\\
 \end{longtable}
@@ -248,19 +248,19 @@ Au round suivant, le processus recommence.
 Tout monstre supplémentaire attaquera de manière aléatoire l'un des deux PJ.
 
 \section{Situations communes}
-\label{sec:org6971969}
+\label{sec:org0c0da5e}
 \subsection{Soudoyer/corrompre}
-\label{sec:org2971773}
+\label{sec:org694b2ce}
 
 Les monstres un peu intelligents aiment l'or. Le MJ peut accepter que les PJ tentent de les corrompre. Le MJ décide d'une probabilité de réussite et lance 1D6 (1 sur 6, ou 3 sur 6, etc.). Les monstres peuvent donner quelques informations s'ils se font corrompre.
 
 \subsection{Equipement des PJ}
-\label{sec:orgce9d69c}
+\label{sec:org8504ec4}
 
-Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne drvrait pas transporter plus de 10 articles d'équipement (hors or et provisions). Les gros objets comptent pour plus d'un point. Le MJ doit être vigilant sur ce point.
+Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne devrait pas transporter plus de 10 articles d'équipement (hors or et provisions). Les gros objets comptent pour plus d'un point. Le MJ doit être vigilant sur ce point.
 
 \subsection{Portes}
-\label{sec:org21a7fdc}
+\label{sec:org7ab7de3}
 
 \begin{longtable}{ll}
 \textbf{Type} & \textbf{Commentaire}\\
@@ -276,12 +276,12 @@ Portes secrètes & Le PJ doit chercher ; le MJ jette 2D6 sous la CPT du PJ\\
 \end{longtable}
 
 \subsection{Fuite}
-\label{sec:org3c8783a}
+\label{sec:org603f596}
 
 Le MJ doit décider si la fuite est possible (par exemple PJ acculé). Si la fuite est possible, la règle ci-dessus (combat simple) s'applique. Idem pour les monstres (intelligents) qui fuient.
 
 \subsection{Chute}
-\label{sec:org34c4c18}
+\label{sec:orgb577ca8}
 
 \begin{longtable}{ll}
 \textbf{Hauteur} & \textbf{Commentaire}\\
@@ -292,17 +292,17 @@ Par tranche de 10m & Faire un jet 2D6 + 1 sous CHA\\
 \end{longtable}
 
 \subsection{Perte d'un arme}
-\label{sec:org4203fd3}
+\label{sec:org8ceda78}
 
 Si un PJ perd son arme, sa CPT est diminuée de 4 jusqu'à ce qu'il trouve une autre arme.
 
 \subsection{Mouvement}
-\label{sec:org343ae5c}
+\label{sec:org07ba2f1}
 
 Laissé à l'arbitrage du MJ et suivant les situations (longs couloirs avec pièges).
 
 \subsection{Ouvrir un coffre}
-\label{sec:org04b9e80}
+\label{sec:orgf419e84}
 
 Similaire aux portes :
 \begin{itemize}
@@ -311,15 +311,15 @@ Similaire aux portes :
 \item Si le PJ retente, à chaque essai, son arme s'abîme et le PJ perd un point de CPT par tentative jusqu'à ce qu'il trouve une autre arme.
 \end{itemize}
 
-Pour trouver les compartiments secrets dans les coffres, le PJ doit chercher le compartiment et les règles des portes s'appliquent.
+Pour trouver les compartiments secrets dans les coffres, le PJ doit chercher le compartiment. La règle des portes secrètes s'applique.
 
 \subsection{Pickpocket}
-\label{sec:org939c4e5}
+\label{sec:orgef0a5bf}
 
 Un jet de CPT strictement réussi est un succès. Le MJ peut donner un malus (6-8 est un malus acceptable si la situation ne se prête pas à jouer au pickpocket).
 
 \subsection{Provision}
-\label{sec:org36d2007}
+\label{sec:org796d271}
 
 Les PJ peuvent consommer leurs provisions à tout moment sauf dans un combat.
 
@@ -333,17 +333,17 @@ Longue & 6+\\
 \end{longtable}
 
 \subsection{Chercher}
-\label{sec:org130b771}
+\label{sec:orge3b665d}
 
-Le PJ doit dire ce qu'il cherche. Le MJ fait les jets : 2D6 strictement sous CPT pour trouver.
+Le PJ doit dire ce qu'il cherche. Le MJ fait les jets de dés : 2D6 strictement sous CPT pour trouver.
 
 \subsection{Se déplacer en silence}
-\label{sec:org3898d16}
+\label{sec:org300c687}
 
 2D6 strictement sous CPT. Le MJ peut ajouter des malus.
 
 \subsection{Monstres errants}
-\label{sec:orgeb47cc9}
+\label{sec:org47b7cec}
 
 Si les PJ s'attardent trop dans un lieu, il est possible de générer une rencontre avec un monstre errant. le MJ lance 1D6 régulièrement. Si c'est un 1, un monstre a repéré les PJ.
 

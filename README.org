@@ -21,66 +21,90 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | 2021 | [[https://github.com/orey/jdr/tree/master/D%2526D][D&D 5e]]              | Couverture       | [[https://github.com/orey/jdr/blob/master/D%2526D/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
 
 
-* Liens
+* RPG Links - Liens JDR
 
 ** RPG sites and forums
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                                                  | Title                             | OSR |
-|---------------------------------------------------------------------------------------+-----------------------------------+-----|
-| http://thealexandrian.net/index.html                                                  | The Alexandrian                   | N   |
-| http://www.thealexandrian.net/creations/creations.html                                | The Alexandrian creations         | N   |
-| https://www.enworld.org/threads/the-10-most-anticipated-tabletop-rpgs-of-2021.677397/ | Most anticipated RPG in 2021      | N   |
-| https://gurps.fandom.com/wiki/Main_Page                                               | GURPS Wiki                        | N   |
-| https://ennie-awards.com/history-of-winners/                                          | Site of the Ennie Awards          | N   |
-| https://www.rpg.net                                                                   | RPG.net                           | N   |
-| https://1d4chan.org/                                                                  | 1d4Chan                           | N   |
-| https://www.rpglibrary.org/                                                           | RPG Library                       | N   |
-| https://www.dragonsfoot.org                                                           | The home of D&D 1e                | Y   |
-| https://www.dragonsfoot.org/forums                                                    | Dragonsfoot forums                | Y   |
-| https://odd74.proboards.com                                                           | OD&D discussion                   | Y   |
-| https://www.acaeum.com                                                                | D&D Knowledge Compendium          | Y   |
-| http://www.tomeoftreasures.com/tot_adnd/adnd_history.htm                              | History of AD&D                   | Y   |
-| https://github.com/brunobord/micro-rpg-catalog                                        | Micro-RPG catalog                 | N   |
-| https://www.dieheart.net/solo-rpg-resources/                                          | Solo RPG resources                | N   |
-| https://purplesorcerer.com/                                                           | Purple Sorcerer, fan site for DCC | Y   |
-| https://www.darkshire.net/jhkim/rpg/encyclopedia/                                     | An encyclopedia of RPG            | N   |
-| https://alexschroeder.ch/wiki/RPG                                                     | RPG site                          | Y   |
-| https://lukegearing.blot.im/                                                          | Luke Gearning                     | Y   |
-| https://forum.autarch.co/                                                             |                                   | Y   |
-| http://badwrong.fun/                                                                  |                                   | Y   |
-| https://dicegeeks.com                                                                 | Random tables                     | N   |
+| Site                                                                                  | Title                                                                           | OSR |
+|---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----|
+| *Numbers*                                                                             |                                                                                 |     |
+| https://1d4chan.org/                                                                  | 1d4Chan                                                                         | N   |
+| *A*                                                                                   |                                                                                 |     |
+| https://www.acaeum.com                                                                | D&D Knowledge Compendium                                                        | Y   |
+| https://alexschroeder.ch/wiki/RPG                                                     | RPG site                                                                        | Y   |
+| https://forum.autarch.co/                                                             |                                                                                 | Y   |
+| *B*                                                                                   |                                                                                 |     |
+| http://badwrong.fun/                                                                  |                                                                                 | Y   |
+| https://beyondbeliefgames.webs.com/                                                   | BEYOND BELIEF GAMES                                                             | N   |
+| https://github.com/brunobord/micro-rpg-catalog                                        | Micro-RPG catalog by Bruno Bord                                                 | N   |
+| *C*                                                                                   |                                                                                 |     |
+| http://www.critical-hits.com/                                                         | Various stuff                                                                 . | y   |
+| *D*                                                                                   |                                                                                 |     |
+| https://www.darkshire.net/jhkim/rpg/encyclopedia/                                     | An encyclopedia of RPG                                                          | N   |
+| https://dicegeeks.com                                                                 | Random tables                                                                   | N   |
+| https://www.dieheart.net/solo-rpg-resources/                                          | Solo RPG resources                                                              | N   |
+| https://www.dragonsfoot.org                                                           | The home of D&D 1e                                                              | Y   |
+| https://www.dragonsfoot.org/forums                                                    | Dragonsfoot forums                                                              | Y   |
+| *E*                                                                                   |                                                                                 |     |
+| https://ennie-awards.com/history-of-winners/                                          | Site of the Ennie Awards                                                        | N   |
+| https://www.enworld.org/threads/the-10-most-anticipated-tabletop-rpgs-of-2021.677397/ | Most anticipated RPG in 2021                                                    | N   |
+| *G*                                                                                   |                                                                                 |     |
+| https://gurps.fandom.com/wiki/Main_Page                                               | GURPS Wiki                                                                      | N   |
+| *L*                                                                                   |                                                                                 |     |
+| https://lukegearing.blot.im/                                                          | Luke Gearning                                                                   | Y   |
+| *O*                                                                                   |                                                                                 |     |
+| https://odd74.proboards.com                                                           | OD&D discussion                                                                 | Y   |
+| *P*                                                                                   |                                                                                 |     |
+| https://purplesorcerer.com/                                                           | Purple Sorcerer, fan site for DCC                                               | Y   |
+| *R*                                                                                   |                                                                                 |     |
+| https://www.rpg.net                                                                   | RPG.net                                                                         | N   |
+| https://www.rpglibrary.org/                                                           | RPG Library                                                                     | N   |
+| *T*                                                                                   |                                                                                 |     |
+| http://thealexandrian.net/index.html                                                  | The Alexandrian                                                                 | N   |
+| http://www.thealexandrian.net/creations/creations.html                                | The Alexandrian creations                                                       | N   |
+| http://www.tomeoftreasures.com/tot_adnd/adnd_history.htm                              | History of AD&D                                                                 | Y   |
 
 
-** Authors and editors
+** Magazines in English
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                       | Who        |
-|----------------------------+------------|
-| https://www.mattclick.com/ | Matt Click |
-|                            |            |
+| Site                                      | Comment                                            |
+|-------------------------------------------+----------------------------------------------------|
+| https://archive.org/details/Polyhedron105 | The whole collection of TSR RPGA/Polyhedron        |
+| http://www.fightingfantazine.co.uk/page/  | Fighting fantasy zine with lots of solo adventures |
+|                                           |                                                    |
 
 
-** Games in English
+** Some RPG games in English
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                                        | Game                             | OSR |
-|-----------------------------------------------------------------------------+----------------------------------+-----|
-| http://site.pelgranepress.com/index.php/category/products/trail-of-cthulhu/ | Trail of Cthulhu                 | N   |
-| http://site.pelgranepress.com/index.php/category/products/13th-age/         | 13th Age                         | Y?  |
-| https://www.knights-n-knaves.com                                            | Osric RPG                        | Y   |
-| https://www.knights-n-knaves.com/phpbb3/                                    | Osric RPG forums                 | Y   |
-| https://www.basicfantasy.org                                                | Basic Fantasy RPG                | Y   |
-| https://www.basicfantasy.org/forums                                         | Basic Fantasy RPG forums         | Y   |
-| https://gatewayrpg.wordpress.com                                            | Gateway RPG                      | N   |
-| https://goblinoidgames.com/index.php/downloads/                             | Labyrinth Lord RPG               | Y   |
-| http://opend6.wikidot.com/                                                  | Open D6                          | N   |
-| http://www.antipaladingames.com/                                            | Mini Six                         | N   |
-| https://microlite20.org/community/viewforum.php?f=15                        | Microlite20 rules                | N   |
-| https://www3.autarch.co/                                                    | Adventurer Conqueror King System | Y   |
-| http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf                      | Wizards, Warriors and Wyrms      | Y   |
-| https://beyondbeliefgames.webs.com/                                         | BEYOND BELIEF GAMES              | N   |
-|                                                                             |                                  |     |
+| Game                             | Site                                                                        | OSR |
+|----------------------------------+-----------------------------------------------------------------------------+-----|
+| *Numbers*                        |                                                                             |     |
+| 13th Age                         | http://site.pelgranepress.com/index.php/category/products/13th-age/         | Y   |
+| *A*                              |                                                                             |     |
+| Adventurer Conqueror King System | https://www3.autarch.co/                                                    | Y   |
+| *B*                              |                                                                             |     |
+| Basic Fantasy RPG                | https://www.basicfantasy.org                                                | Y   |
+| Basic Fantasy RPG forums         | https://www.basicfantasy.org/forums                                         | Y   |
+| *G*                              |                                                                             |     |
+| Gateway RPG                      | https://gatewayrpg.wordpress.com                                            | N   |
+| Gumshoe                          | https://site.pelgranepress.com/index.php/gumshoe/                           | N   |
+| *L*                              |                                                                             |     |
+| Labyrinth Lord RPG               | https://goblinoidgames.com/index.php/downloads/                             | Y   |
+| *M*                              |                                                                             |     |
+| Microlite20 rules                | https://microlite20.org/community/viewforum.php?f=15                        | N   |
+| Mini Six                         | http://www.antipaladingames.com/                                            | N   |
+| *O*                              |                                                                             |     |
+| Open D6                          | http://opend6.wikidot.com/                                                  | N   |
+| Osric RPG                        | https://www.knights-n-knaves.com                                            | Y   |
+| Osric RPG forums                 | https://www.knights-n-knaves.com/phpbb3/                                    | Y   |
+| *T*                              |                                                                             |     |
+| Trail of Cthulhu                 | http://site.pelgranepress.com/index.php/category/products/trail-of-cthulhu/ | N   |
+| *W*                              |                                                                             |     |
+| Wizards, Warriors and Wyrms      | http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf                      | Y   |
+|                                  |                                                                             |     |
 
 
 ** SRD - System Reference Document
@@ -88,6 +112,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                            | Game                      |
 |---------------------------------------------------------------------------------+---------------------------|
+| https://archive.org/details/d20modernsrd                                        | D20 Modern                |
 | https://www.chaosium.com/brp-system-reference-document/                         | Basic Role Playing System |
 | https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/ | Gumshoe                   |
 | https://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/      | 13th Age                  |
@@ -95,33 +120,16 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 |                                                                                 |                           |
 
 
-** Gaming blogs in English
+** Huge collection of gaming blogs in English
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                          | Comment                                                                                            | OSR |
 |-------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------+-----|
-| https://www.landofphantoms.com/                                               | Land of phantoms                                                                                   |     |
-| https://lordofthegreendragons.blogspot.com                                    | Lord of the Green Dragon                                                                           |     |
-| https://lotfp.blogspot.com                                                    | Lamentations of the Flame Princess                                                                 |     |
-| https://maximumrockroleplaying.blogspot.com                                   | Maximum Rock and Roleplay                                                                          |     |
-| https://muleabides.wordpress.com                                              | The Mule Abides                                                                                    |     |
-| https://peoplethemwithmonsters.blogspot.com                                   | People Them With Monsters                                                                          |     |
-| https://planetalgol.blogspot.com                                              | Planet Algol                                                                                       |     |
-| https://poleandrope.blogspot.com                                              | The society of torch, pole and rope                                                                |     |
-| https://sagaworkstudios.blogspot.com/                                         | Saga works studio                                                                                  |     |
-| https://shamsgrog.blogspot.com/                                               | Sham's Glog and Blog                                                                               |     |
-| https://shiftymushrooms.weebly.com                                            | The Gentle Art of Wargaming                                                                        |     |
-| https://sorcerersskull.blogspot.com                                           | From the Sorcerer's Skull                                                                          |     |
-| https://swordandsanity.blogspot.com                                           | Swords and Sanity                                                                                  |     |
-| https://tabletopdiversions.blogspot.com/                                      | Tabletop Diversions                                                                                |     |
-| https://www.thickskulladventures.com/                                         | Thick Skull Adventures                                                                             |     |
-| https://towerofthearchmage.blogspot.com                                       | Tower of the Archmage                                                                              |     |
-| https://trollandflame.blogspot.com                                            | Troll and Flame                                                                                    |     |
-| https://worldoffightingfantasy.blogspot.com                                   | The world of Fighting Fantasy                                                                      | N   |
-|                                                                               |                                                                                                    |     |
+| *Numbers*                                                                     |                                                                                                    |     |
 | https://1d30.wordpress.com                                                    | Tabletop gaming and maybe some other things                                                        | Y   |
 | https://3toadstools.blogspot.ca                                               | 3 Toadstools publishing                                                                            | Y   |
 | https://9and30kingdoms.blogspot.com                                           | The Nine and Thirty Kingdoms                                                                       |     |
+| *A*                                                                           |                                                                                                    |     |
 | https://abominablefancy.blogspot.com                                          | joel priddy has a blog about role playing games                                                    | Y   |
 | https://aeonsnaugauries.blogspot.com/                                         | Aeons & Augauries                                                                                  | Y   |
 | https://afieldguidetodoomsday.blogspot.com                                    | A Field Guide To Doomsday                                                                          | Y   |
@@ -134,7 +142,8 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://arsmagisterii.blogspot.com                                            |                                                                                                    | Y   |
 | https://arsphantasia.wordpress.com                                            |                                                                                                    | Y   |
 | http://www.athenopolis.net                                                    |                                                                                                    | Y   |
-| https://axianspice.blogspot.com/?m=0                                          |                                                                                                    | N  |
+| https://axianspice.blogspot.com/?m=0                                          |                                                                                                    | N   |
+| *B*                                                                           |                                                                                                    |     |
 | https://backtothedungeon.blogspot.com                                         | BACK TO THE DUNGEON!                                                                               |     |
 | https://basicredrpg.blogspot.com                                              | Tables, wacky fluff, etc.                                                                          | Y   |
 | https://batintheattic.blogspot.com                                            | Bat in the Attic                                                                                   |     |
@@ -154,6 +163,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://builtbygodslongforgotten.blogspot.com                                 | Custom setting "The Sea of the Dead", space mutants.                                               | y   |
 | https://buzzclaw.blogspot.com                                                 | Fluff, AD&D, Settings, etc.                                                                        | y   |
 | http://www.bythisaxe.co                                                       | Resource and examination of Adventure Conqueror King System (ACKS.) Slow to update.                | y   |
+| *C*                                                                           |                                                                                                    |     |
 | https://carjackedseraphim.blogspot.com                                        | Carjacked Seraphim                                                                                 |     |
 | http://crawlfanzine.blogspot.com/                                             | Crawl!                                                                                             | Y   |
 | https://curmudgeonsdragons.blogspot.com                                       | Curmudgeons and Dragons                                                                            |     |
@@ -162,9 +172,9 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://cavegirlgames.blogspot.com                                            | Author of Wolf Packs and Winter Snow.                                                              | y   |
 | https://chaudronchromatique.blogspot.com                                      | Zines, Art, Tables, etc. Author of Chromatic Soup.                                                 | y   |
 | https://coinsandscrolls.blogspot.com                                          | Tables, fluff, etc. Content for GLOG.                                                              | y   |
-| http://www.critical-hits.com/blog/category/critical-hits/columns/dungeonomics | Economics, reviews, etc. Has older articles on Project Multiplexer, seen below.                    | y   |
 | https://cuticlechewerswellpissers.blogspot.com                                | Weird prose and neat ideas.                                                                        | y   |
 | https://cyclopeatron.blogspot.com                                             |                                                                                                    | y   |
+| *D*                                                                           |                                                                                                    |     |
 | http://blog.d4caltrops.com                                                    |                                                                                                    | y   |
 | https://dangerousbrian.blogspot.com                                           |                                                                                                    | y   |
 | https://dcctreasures.blogspot.com                                             | DCC content discussion.                                                                            | y   |
@@ -186,14 +196,17 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://dungeonsndigressions.blogspot.com                                     |                                                                                                    | y   |
 | https://dungeonspossums.blogspot.com                                          |                                                                                                    | y   |
 | https://dyingstylishly.blogspot.com                                           | Former website for the author of Wolf Packs and Winter Snow. Now visit cavegirlgames.blogspot.com) | y   |
+| *E*                                                                           |                                                                                                    |     |
 | https://elatedapathy.blogspot.com                                             |                                                                                                    | y   |
 | https://eldritchfields.blogspot.com                                           | Lamentations, occult, horror.                                                                      | y   |
 | https://elfmaidsandoctopi.blogspot.com                                        | Tables Tables Tables. DM Tools and world gen.                                                      | y   |
 | https://encritgaz.blogspot.com                                                |                                                                                                    | y   |
 | https://engineoforacles.wordpress.com                                         | 18th Century, Gothic Romance, author of Ghastly Affair.                                            | y   |
+| *F*                                                                           |                                                                                                    |     |
 | https://falsemachine.blogspot.com                                             | Dungeon maker, fluff, reviews.                                                                     | y   |
 | https://fistsofcinderandstone.blogspot.com                                    |                                                                                                    | y   |
 | https://followmeanddie.com                                                    |                                                                                                    | y   |
+| *G*                                                                           |                                                                                                    |     |
 | https://gameswithothers.blogspot.com                                          | Setting, Fluff, Classes, and Tables. Dark Souls hack for OD&D.                                     | y   |
 | https://gibletblizzard.blogspot.com                                           |                                                                                                    | y   |
 | https://gloomtrain.blogspot.com                                               | New rules and fluff for old-school d&d. Seems to like making mage classes.                         | y   |
@@ -208,25 +221,35 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://greenskeletongamingguild.blogspot.com                                 | Monsters, content for Mutant Futures, Stars Without Number, Labyrinth Lord                         | y   |
 | https://growlygoatsgaming.blogspot.com                                        |                                                                                                    | y   |
 | https://grimaldicascade.blogspot.com                                          |                                                                                                    | y   |
+| *H*                                                                           |                                                                                                    |     |
 | https://hackslashmaster.blogspot.com                                          | Game Theory and analysis.                                                                          | y   |
 | https://harbingergames.blogspot.com                                           |                                                                                                    | y   |
 | https://hereticwerks.blogspot.com                                             |                                                                                                    | y   |
 | https://twitter.com/hexaday                                                   | A new hex description every day.                                                                   | y   |
 | https://hillcantons.blogspot.com                                              |                                                                                                    | y   |
 | https://hmmmarquis.blogspot.com                                               | Magic, Darksun stuff                                                                               | y   |
+| *I*                                                                           |                                                                                                    |     |
 | https://icequeensthrone.blogspot.com                                          |                                                                                                    | y   |
 | http://initiativeone.blogspot.com                                             |                                                                                                    | y   |
+| *J*                                                                           |                                                                                                    |     |
 | https://jamesmishlergames.blogspot.com                                        |                                                                                                    | y   |
 | https://jennerak.blogspot.com                                                 |                                                                                                    | y   |
 | https://journeyintotheweird.blogspot.com                                      |                                                                                                    | y   |
 | https://joyfulsitting.blogspot.com                                            | Setting, fluff, fiction author. Fistful of hacks for Black Hack.                                   | y   |
 | https://jrients.blogspot.com                                                  | Jeff's Gameblog                                                                                    |     |
+| *K*                                                                           |                                                                                                    |     |
 | https://killitwithfirerpg.blogspot.com                                        |                                                                                                    | y   |
 | http://www.kjd-imc.org                                                        |                                                                                                    | y   |
+| *L*                                                                           |                                                                                                    |     |
 | http://www.lastgaspgrimoire.com                                               | NSFW. Fluff, random generators, body horror, and some house rules. Hasn't updated in a while.      | y   |
+| https://www.landofphantoms.com/                                               | Land of phantoms                                                                                   |     |
 | https://lizardmandiaries.blogspot.com/                                        |                                                                                                    | y   |
+| https://lordofthegreendragons.blogspot.com                                    | Lord of the Green Dragon                                                                           |     |
+| https://lotfp.blogspot.com                                                    | Lamentations of the Flame Princess                                                                 |     |
 | https://lurkerablog.wordpress.com                                             |                                                                                                    | y   |
+| *M*                                                                           |                                                                                                    |     |
 | https://matt-landofnod.blogspot.com                                           |                                                                                                    | y   |
+| https://maximumrockroleplaying.blogspot.com                                   | Maximum Rock and Roleplay                                                                          |     |
 | https://maziriansgarden.blogspot.com                                          | World-building, monsters, and evocative writing                                                    | y   |
 | https://meanderingbanter.blogspot.com                                         | Mechanics, GLOG Classes, handy generator java scripts.                                             | y   |
 | http://melancholiesandmirth.blogspot.com                                      |                                                                                                    | y   |
@@ -237,29 +260,36 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://morgantcorey.wordpress.com                                            | Author of Faerie Tales & Folklore. Mythology and history.                                          | y   |
 | https://muleabides.wordpress.com                                              | ACKS content.                                                                                      | y   |
 | https://mutationapocalypse.blogspot.com                                       | Mutants, post apocalypse, random tables.                                                           | y   |
+| *N*                                                                           |                                                                                                    |     |
 | http://www.necropraxis.com                                                    | Setting. House rules for combat, classes, magic. Author of Wonder and Wickedness.                  | y   |
 | https://necrotic-gnome-productions.blogspot.com                               |                                                                                                    | y   |
 | https://nerdomancerofdork.wordpress.com                                       |                                                                                                    | y   |
 | https://nilisnotnull.blogspot.com                                             |                                                                                                    | y   |
 | https://nthdecree.blogspot.com                                                |                                                                                                    | y   |
+| *O*                                                                           |                                                                                                    |     |
 | https://ode2bd.blogspot.com                                                   |                                                                                                    | y   |
 | http://www.occultesque.com                                                    | 1d100 lists and tables, sometimes spooky.                                                          | y   |
 | https://oldguardgamingaccoutrements.blogspot.com                              | Monsters, 1d100 lists, etc.                                                                        | y   |
 | https://oldschoolheretic.blogspot.com                                         |                                                                                                    | y   |
 | https://oldschoolpsionics.blogspot.com                                        |                                                                                                    | y   |
 | https://osrsimulacrum.blogspot.com                                            |                                                                                                    | y   |
+| *P*                                                                           |                                                                                                    |     |
 | https://paimonssilvercity.blogspot.com                                        |                                                                                                    | y   |
-| https://pastamanscritto.blogspot.com                                          |                                                                                                    | y   |
 | http://paperspencils.com                                                      |                                                                                                    | y   |
+| https://pastamanscritto.blogspot.com                                          |                                                                                                    | y   |
+| https://peoplethemwithmonsters.blogspot.com                                   | People Them With Monsters                                                                          |     |
+| https://planetalgol.blogspot.com                                              | Planet Algol                                                                                       |     |
 | https://playingattheworld.blogspot.com                                        | D&D and RPG history and records. He made a book, go read it.                                       | y   |
 | http://playingwithelectronstomakestories.com                                  |                                                                                                    | y   |
-| https://poleandrope.blogspot.com                                              |                                                                                                    | y   |
+| https://poleandrope.blogspot.com                                              | The society of torch, pole and rope                                                                |     |
 | https://popularenchanting.blogspot.com                                        | Monsters, fluff, and game recaps.                                                                  | y   |
 | http://projectmultiplexer.com                                                 | Economics, reviews, etc. Lots of non-RPG content. Author moved to Dungeonomics, seen above.        | y   |
 | https://pulpwood.blogspot.com                                                 |                                                                                                    | y   |
+| *Q*                                                                           |                                                                                                    |     |
 | https://quasarknight.blogspot.com                                             |                                                                                                    | y   |
 | http://questingblog.com                                                       | Author of Maze Rats and Knave.                                                                     | y   |
 | https://quicklyquietlycarefully.blogspot.com                                  | OD&D player with some fun stuff for that. Hasn't updated in a while.                               | y   |
+| *R*                                                                           |                                                                                                    |     |
 | https://randommagicsword.blogspot.com                                         |                                                                                                    | y   |
 | https://ravencrowking.blogspot.com                                            |                                                                                                    | y   |
 | https://reactionroll.blogspot.com (only updated for one month in 2014)        |                                                                                                    | y   |
@@ -277,6 +307,12 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://roll1d100.blogspot.com                                                | New blog, AAA video game level designer. Looks at motives and game loops in RPGs.                  | y   |
 | https://rottenpulp.blogspot.com                                               |                                                                                                    | y   |
 | https://rpgcharacters.wordpress.com                                           | Mostly maps, some house rules, fluff, etc.                                                         | y   |
+| *S*                                                                           |                                                                                                    |     |
+| https://sagaworkstudios.blogspot.com/                                         | Saga works studio                                                                                  |     |
+| https://shamsgrog.blogspot.com/                                               | Sham's Glog and Blog                                                                               |     |
+| https://shiftymushrooms.weebly.com                                            | The Gentle Art of Wargaming                                                                        |     |
+| https://sorcerersskull.blogspot.com                                           | From the Sorcerer's Skull                                                                          |     |
+| https://swordandsanity.blogspot.com                                           | Swords and Sanity                                                                                  |     |
 | https://santicore.blogspot.com                                                |                                                                                                    | y   |
 | https://saturdaynightsandbox.blogspot.com                                     |                                                                                                    | y   |
 | https://save-vs-lazer.tumblr.com                                              | Mostly reblogs, maps, unwarranted opinions, 80's, and hard nostalgia for Spelljammer.              | y   |
@@ -294,6 +330,11 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://strength18slash01.blogspot.com                                        | Session recaps, setting fluff.                                                                     | y   |
 | https://swampofmonsters.blogspot.com                                          |                                                                                                    | y   |
 | https://swordsandscrolls.blogspot.com                                         |                                                                                                    | y   |
+| *T*                                                                           |                                                                                                    |     |
+| https://tabletopdiversions.blogspot.com/                                      | Tabletop Diversions                                                                                |     |
+| https://www.thickskulladventures.com/                                         | Thick Skull Adventures                                                                             |     |
+| https://towerofthearchmage.blogspot.com                                       | Tower of the Archmage                                                                              |     |
+| https://trollandflame.blogspot.com                                            | Troll and Flame                                                                                    |     |
 | https://talesofthegrotesqueanddungeonesque.blogspot.com                       |                                                                                                    | y   |
 | https://tao-dnd.blogspot.com                                                  | Has an obscenely complicated economics system.                                                     | y   |
 | https://tarsostheorem.blogspot.com                                            | Tables, java script generators, GLOG classes                                                       | y   |
@@ -318,8 +359,12 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://tsojcanth.wordpress.com                                               |                                                                                                    | y   |
 | https://udan-adan.blogspot.com                                                | Setting, themes, and locations.                                                                    | y   |
 | https://twitter.com/unchartedatlas                                            | Random bot creation region maps.                                                                   | y   |
+| *U*                                                                           |                                                                                                    |     |
 | https://unlawfulgames.blogspot.com                                            | Setting, lore, gonzo                                                                               | y   |
+| *V*                                                                           |                                                                                                    |     |
 | https://vorpalmace.blogspot.com                                               | Module and system reviews.                                                                         | y   |
+| *W*                                                                           |                                                                                                    |     |
+| https://worldoffightingfantasy.blogspot.com                                   | The world of Fighting Fantasy                                                                      | N   |
 | https://wanderinggamist.blogspot.com                                          |                                                                                                    | y   |
 | https://wayspell.blogspot.com                                                 |                                                                                                    | y   |
 | https://welshpiper.com/                                                       |                                                                                                    | y   |
@@ -327,7 +372,9 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://wheel-of-samsara.blogspot.com                                         |                                                                                                    | y   |
 | https://www.wizardthieffighter.com                                            |                                                                                                    | y   |
 | https://wizzzargh.blogspot.com                                                |                                                                                                    | y   |
+| *Y*                                                                           |                                                                                                    |     |
 | https://ynasmidgard.blogspot.com                                              | Play Reports, Astonishing Swordsmen & Sorcerers of Hyperborea content.                             | y   |
+| *Z*                                                                           |                                                                                                    |     |
 | https://zenopusarchives.blogspot.com                                          | Design and analysis in Holmes Basic.                                                               | y   |
 | https://zigguratofunknowing.blogspot.com                                      |                                                                                                    | y   |
 | https://zzarchov.blogspot.com                                                 | Author of Neoclassical Geek Revival and Scenic Dunnsmouth.                                         | y   |
@@ -337,44 +384,71 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 ** Solo RPG links
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                         | Comment                       | OSR |
-|----------------------------------------------+-------------------------------+-----|
-| http://www.fightingfantazine.co.uk/page/     | Fighting fantasy zine         | Y   |
-| https://noonetoplay.blogspot.com/            | Blog centered around solo RPG | N   |
-| https://www.dieheart.net/solo-rpg-resources/ | Solo RPG resources            | N   |
-| http://solorpggamer.blogspot.com/            | Solo RPG Gamer                | N   |
+| Site                                         | Comment                                            |
+|----------------------------------------------+----------------------------------------------------|
+| *D*                                          |                                                    |
+| https://www.dieheart.net/solo-rpg-resources/ | Extensive list of solo RPG resources               |
+| *F*                                          |                                                    |
+| http://www.fightingfantazine.co.uk/page/     | Fighting fantasy zine with lots of solo adventures |
+| *N*                                          |                                                    |
+| https://noonetoplay.blogspot.com/            | Blog centered around solo RPG                      |
+| *S*                                          |                                                    |
+| http://solorpggamer.blogspot.com/            | Solo RPG Gamer                                     |
+|                                              |                                                    |
 
 
 ** Tools
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                              | Comment                                      |
-|---------------------------------------------------+----------------------------------------------|
-| https://anydice.com                               | Great site on probabilities                  |
-| https://worldographer.com                         | Worldographer                                |
-| http://donjon.bin.sh/d20/dungeon                  | d20 Random Dungeon Generator and other tools |
-| https://purplesorcerer.com/                       | Purple Sorcerer, tools for DCC               |
-| https://site.pelgranepress.com/index.php/gumshoe/ | Gumshoe                                      |
+| Tool                                         | Site                             |
+|----------------------------------------------+----------------------------------|
+| *Numbers*                                    |                                  |
+| D20 Random Dungeon Generator and other tools | http://donjon.bin.sh/d20/dungeon |
+| *A*                                          |                                  |
+| All dice statistics                          | https://anydice.com/             |
+| *F*                                          |                                  |
+| Fantasy name generator                       | [[https://critical-hits.com/ch-presents/fantasy-name-generator/][https://critical-hits.com/]]       |
+| *G*                                          |                                  |
+| Great site on probabilities                  | https://anydice.com              |
+| *P*                                          |                                  |
+| Purple Sorcerer, tools for DCC               | https://purplesorcerer.com/      |
+| *W*                                          |                                  |
+| Worldographer                                | https://worldographer.com        |
 
 
 ** Podcast and videos
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                                                      | Comment                            |
-|-------------------------------------------------------------------------------------------+------------------------------------|
-| https://www.dicegeeks.com/category/dicegeeks-podcast/                                     | DiceGeeks.com very good interviews |
-| https://www.aintslayednobody.com/                                                         | A good CoC podcast                 |
-| https://podcasts.apple.com/us/podcast/drink-spin-run-the-rpg-talkshow-podcast/id929736757 | Drink, spin, run, the podcasts     |
-| https://drinkspinrun.blogspot.com/?m=1                                                    | Drink, spin, run, the site         |
-| https://wanderingdms.com                                                                  | Wandering DMs                      |
+| Site                                                  | Comment                                              |
+|-------------------------------------------------------+------------------------------------------------------|
+| *A*                                                   |                                                      |
+| https://www.aintslayednobody.com/                     | A good CoC podcast                                   |
+| *D*                                                   |                                                      |
+| https://www.dicegeeks.com/category/dicegeeks-podcast/ | DiceGeeks.com very good interviews                   |
+| https://drinkspinrun.blogspot.com/?m=1                | Drink, spin, run, the site & podcasts (DCC oriented) |
+| *W*                                                   |                                                      |
+| https://wanderingdms.com                              | Wandering DMs                                        |
 
+
+** Stores
+
+- EN: https://www.drivethrurpg.com
+- FR: https://www.black-book-editions.fr/
+
+
+** Interesting RPG pages and essays
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Year | Topic                                             | URL                                                                         |
+|------+---------------------------------------------------+-----------------------------------------------------------------------------|
+| 2008 | The 3-clue rule to design investigative scenarios | https://thealexandrian.net/wordpress/1118/roleplaying-games/three-Clue-Rule |
+|      |                                                   |                                                                             |
 
 ** Sites de jeux en français
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                   | Comment                                    | OSR |
 |------------------------------------------------------------------------+--------------------------------------------+-----|
-| https://github.com/brunobord/micro-rpg-catalog                         | Micro-RPG catalogue                        | Y&N |
 | https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/               | Une traduction française de FU             | N   |
 | https://www.geek-it.org/harry-potter-jdr                               | Harry Potter JDR                           | N   |
 | https://sites.google.com/site/empiregalact                             | Empire Galactique JDR                      | N   |
@@ -393,68 +467,53 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | https://www.chess-and-strategy.com                                     | Chess and Strategy, site en français       | N   |
 |                                                                        |                                            |     |
 
-
-** Stores
-
-- https://www.drivethrurpg.com
-- https://www.black-book-editions.fr/
-
-
-** Interesting pages
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Year | URL                                                                         | Topic                                             |
-|------+-----------------------------------------------------------------------------+---------------------------------------------------|
-| 2008 | https://thealexandrian.net/wordpress/1118/roleplaying-games/three-Clue-Rule | The 3-clue rule to design investigative scenarios |
-|      |                                                                             |                                                   |
-
-
 * Exporations récentes
 
 A explorer : Fiasco, Nephilim.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Date | Game                         | Type             | Comment                                                   | Note | OSR | Ongoing |
-|------+------------------------------+------------------+-----------------------------------------------------------+------+-----+---------|
-| 2021 | Gumshoe system               | Generic System   | Entering into simplified translation process              | -    | N   | **Y**   |
-| 2021 | 13th Age                     | Heroic Fantasy   | Just starting                                             | -    | Y   | Later   |
-| 2021 | Basic Roleplaying System     | Generic System   | The best, especially for CoC, free ed. is great           | 5/5  | N   | **Y**   |
-| 2021 | The Wretched                 | Horror           | Bof                                                       | 2/5  | N   | N       |
-| 2021 | GURPS                        | Generic System   | Not convinced                                             | 4/5  | N   | N       |
-| 2021 | Fighting Fantasy             | Generic System   | From Steve Jackson & Ian Livingstone : [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][French translation]] | 4/5  | Y   | N       |
-| 2021 | Bloodlust                    | Heroic Fantasy   | French game by Croc                                       | 3/5  | N   | N       |
-| 2021 | Fudge                        | Generic System   | Ongoing                                                   | -    | N   | **Y**   |
-| 2021 | Metamorphosis Alpha          | Sci-Fi           | Interesting game                                          | 3/5  | -   | N       |
-| 2021 | Ironsworn                    | Heroic Fantasy   | Interesting game but too random (action dice vs 2D10)     | 3/5  | N   | N       |
-| 2021 | Gumshoe system               | Generic system   | Investigation oriented: That one is for me :)             | -    | N   | **Y**   |
-| 2021 | DCC                          | Heroic Fantasy   | A whole universe                                          | 4/5  | Y   | N       |
-| 2021 | Légendes                     | Historic Fantasy | Great game for the universes. Hyper complex game system   | 5/5  | N   | Later   |
-| 2021 | Tékumel                      | Heroic Fantasy   | Author's world                                            | 3/5  | N   | N       |
-| 2021 | Microlite                    | Generic System   | [[https://github.com/orey/jdr/tree/master/Microlite20-fr][French translation]] done. Not playable as-is.              | 3/5  | N   | N       |
-| 2021 | Fortunes Wheel               | -                | Very interesting with tarot cards                         | -    | N   | Later   |
-| 2021 | Maléfices                    | French Steampunk | Un des meilleurs JDR français                             | 5/5  | N   | Later   |
-| 2021 | GURPS                        | Generic System   | To investigate                                            | -    | N   | N       |
-| 2021 | Traveller 1e                 | Sci-Fi           | Seducing                                                  | -    | N   | Later   |
-| 2020 | D&D 5e basic rules           | Heroic Fantasy   |                                                           | 3/5  | -   | N       |
-| 2020 | Covetous                     | GM Emulator      | Bon produit avec plein de tables                          | -    | N   | Later   |
-| 2020 | Conspiracy X                 | Modern           |                                                           | -    | N   | Later   |
-| 2020 | D&D SRD 3.5                  | Heroic Fantasy   | [[https://github.com/orey/srd-3.5][Repo spécial]] avec diverses versions.                      | 4/5  | -   | N       |
-| 2020 | Méga                         | Sci-Fi           | A French success                                          | -    | N   | Later   |
-| 2020 | Empire galactique            | Sci-Fi           | One of the first french RPG                               | 3/5  | N   | N       |
-| 2020 | L'appel de Cthulhu           | Horror           | The best                                                  | 5/5  | N   | Later   |
-| 2020 | Warhammer FR 1e              | Heroic Fantasy   | A very good game                                          | 5/5  | N   | Later   |
-| 2020 | Hero kids                    | RPG for kids     | Bof, better play a simple adult game, or Bubblegumshoe    | 2/5  | N   | N       |
-| 2020 | Pokethulhu                   | Fun              | You need to like the comics                               | 2/5  | N   | N       |
-| 2020 | CRGE                         | GM Emulator      | Based on the "Yes but.../No but..."                       | 2/5  | N   | N       |
-| 2020 | Mythic                       | GM Emulator      | Great! [[https://github.com/orey/jdr/tree/master/Mythic-fr][Resources in French]] (un écran !)                   | 5/5  | N   | Later   |
-| 2020 | PIP system                   | Generic system   |                                                           | -    | N   | Later   |
-| 2020 | QAGS - Quick Ass Game System | Generic system   | Simple and funny dynamic system                           | 4/5  | N   | Later   |
-| 2020 | Gateway                      | Heroic fantasy   | Based on D&D                                              | 3/5  | Y   | N       |
-| 2020 | FU - Freeform Universal      | Generic system   | JDR basé sur le "Yes but.../No but..."                    | -    | N   | Later   |
-| 2020 | Risus                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart          | 4/5  | N   | Later   |
-| 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].    | 4/5  | N   | N       |
-| 2020 | MiniSix                      | Generic system   |                                                           | -    | N   | Later   |
-| 2020 | Dagger                       | RPG for kids     | Bof                                                       | 2/5  | Y   | N       |
+| Date | Game                         | Type             | Comment                                                   | Note  | OSR | Ongoing |
+|------+------------------------------+------------------+-----------------------------------------------------------+-------+-----+---------|
+| 2021 | D20 Modern SRD               | Generic System   | Exploration in parallel to some [[https://archive.org/details/Polyhedron105][Polyhedron]] readings       | -     | N   | *Y*     |
+| 2021 | Gumshoe system               | Generic System   | Entering into simplified translation process              | -     | N   | *Y*     |
+| 2021 | 13th Age                     | Heroic Fantasy   | Just starting                                             | -     | Y   | Later   |
+| 2021 | Basic Roleplaying System     | Generic System   | The best, especially for CoC, free ed. is great           | *5/5* | N   | Later   |
+| 2021 | The Wretched                 | Horror           | Bof                                                       | 2/5   | N   | N       |
+| 2021 | GURPS                        | Generic System   | Not convinced                                             | 4/5   | N   | N       |
+| 2021 | Fighting Fantasy             | Generic System   | From Steve Jackson & Ian Livingstone : [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][French translation]] | 4/5   | Y   | N       |
+| 2021 | Bloodlust                    | Heroic Fantasy   | French game by Croc                                       | 3/5   | N   | N       |
+| 2021 | Fudge                        | Generic System   | Ongoing                                                   | -     | N   | Later   |
+| 2021 | Metamorphosis Alpha          | Sci-Fi           | Interesting game                                          | 3/5   | -   | N       |
+| 2021 | Ironsworn                    | Heroic Fantasy   | Interesting game but too random (action dice vs 2D10)     | 3/5   | N   | N       |
+| 2021 | Gumshoe system               | Generic system   | Investigation oriented: That one is for me :)             | -     | N   | Later   |
+| 2021 | DCC                          | Heroic Fantasy   | A whole universe                                          | 4/5   | Y   | N       |
+| 2021 | Légendes                     | Historic Fantasy | Great game for the universes. Hyper complex game system   | 4/5   | N   | Later   |
+| 2021 | Tékumel                      | Heroic Fantasy   | Author's world                                            | 3/5   | N   | N       |
+| 2021 | Microlite                    | Generic System   | [[https://github.com/orey/jdr/tree/master/Microlite20-fr][French translation]] done. Not playable as-is.              | 3/5   | N   | N       |
+| 2021 | Fortunes Wheel               | -                | Very interesting with tarot cards                         | -     | N   | Later   |
+| 2021 | Maléfices                    | French Steampunk | Un des meilleurs JDR français                             | *5/5* | N   | Later   |
+| 2021 | GURPS                        | Generic System   | To investigate                                            | -     | N   | N       |
+| 2021 | Traveller 1e                 | Sci-Fi           | Seducing                                                  | -     | N   | Later   |
+| 2020 | D&D 5e basic rules           | Heroic Fantasy   |                                                           | 3/5   | -   | N       |
+| 2020 | Covetous                     | GM Emulator      | Bon produit avec plein de tables                          | -     | N   | Later   |
+| 2020 | Conspiracy X                 | Modern           |                                                           | -     | N   | Later   |
+| 2020 | D&D SRD 3.5                  | Heroic Fantasy   | [[https://github.com/orey/srd-3.5][Repo spécial]] avec diverses versions.                      | 4/5   | -   | N       |
+| 2020 | Méga                         | Sci-Fi           | A French success                                          | -     | N   | Later   |
+| 2020 | Empire galactique            | Sci-Fi           | One of the first french RPG                               | 3/5   | N   | N       |
+| 2020 | L'appel de Cthulhu           | Horror           | The best                                                  | *5/5* | N   | Later   |
+| 2020 | Warhammer FR 1e              | Heroic Fantasy   | A very good game                                          | *5/5* | N   | Later   |
+| 2020 | Hero kids                    | RPG for kids     | Bof, better play a simple adult game, or Bubblegumshoe    | 2/5   | N   | N       |
+| 2020 | Pokethulhu                   | Fun              | You need to like the comics                               | 2/5   | N   | N       |
+| 2020 | CRGE                         | GM Emulator      | Based on the "Yes but.../No but..."                       | 2/5   | N   | N       |
+| 2020 | Mythic                       | GM Emulator      | Great! [[https://github.com/orey/jdr/tree/master/Mythic-fr][Resources in French]] (un écran !)                   | *5/5* | N   | Later   |
+| 2020 | PIP system                   | Generic system   |                                                           | -     | N   | Later   |
+| 2020 | QAGS - Quick Ass Game System | Generic system   | Simple and funny dynamic system                           | 4/5   | N   | Later   |
+| 2020 | Gateway                      | Heroic fantasy   | Based on D&D                                              | 3/5   | Y   | N       |
+| 2020 | FU - Freeform Universal      | Generic system   | JDR basé sur le "Yes but.../No but..."                    | -     | N   | Later   |
+| 2020 | Risus                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart          | 4/5   | N   | Later   |
+| 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].    | 4/5   | N   | N       |
+| 2020 | MiniSix                      | Generic system   |                                                           | -     | N   | Later   |
+| 2020 | Dagger                       | RPG for kids     | Bof                                                       | 2/5   | Y   | N       |
 
 
 * Systèmes de jeux
@@ -481,13 +540,54 @@ Mais Runequest et Stormbringer sont bien aussi, même si Runequest est un peu co
 
 ** Numéro 3 : D&D
 
-- Un système de jeu aux probabilités linéaires.
+D&D possède un bon système de jeu, avec un système simple basé sur le paradigme suivant : D20 + modificateurs >= Classe de difficulté (par exemple, classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
 
-** En cours d'analyse : Gumshoe
+Il faut voir D&D comme un JDR fait par un wargamer (Gary Gygax) et pour les joueurs de wargames.
 
-Pour le moment système sympa. Il faut pratiquer.
+Le jeu est centré sur l'exploration de souterrains et de cavernes (des "dungeons" en anglais, et par extension des "donjons" pour les rôlistes français) et les combats qui s'ensuivent. Cela a plusieurs conséquences.
 
-** Trucs intéressants
+*Conséquence 1 : équilibre et niveaux*
+
+Si le jeu est centré sur les combats, l'équilibre du scénario devient un sujet : est-ce que le groupe de PJ a une chance de survivre à l'ensemble de monstres et de pièges présents ? Pour tenter de modéliser cet équilibre, il est nécessaire de créer des niveaux, à la fois pour les personnages et pour les monstres. Ainsi, une certaine aventure aura un certain niveau et demandera un certain panel de PJ d'un certain niveau pour avoir une chance d'être réussie par les joueurs.
+
+*Conséquence 2 : le Gros-Bill*
+
+Dès lors, le joueur est amené à chercher à optimiser son personnage, dans le but de survivre et de gagner des avantages en augmentant de niveau. D&D crée donc une catégorie de joueurs experts qui vont chercher quels types de personnages sont les plus puissants à un certain niveau. Ces derniers vont parfois profiter des failles du jeu (par exemple dans D&D 3e) pour créer des personnages surpuissants. En France, la dénomination de ce genre de personnage est le "Gros-Bill".
+
+*Conséquence 3 : jouer contre le MJ*
+
+Si les joueurs jouent des Gros-Bill, ils peuvent se mettre dans la position de jouer contre le MJ. Certains apprécient cette confrontation, mais elle est souvent nuisible à l'esprit du jeu.
+
+*Conséquence 4 : une facilité pour joueur en conventions*
+
+Les américains font beaucoup de conventions de JDR. Au sein de ces conventions, avec des règles très complètes comme celles de D&D, ils peuvent "standardiser" les mécaniques de jeux et donc créer des compétitions basées sur un scénario et des personnages pré-tirés.
+
+Il est intéressant de noter que déjà en 1981, Gary Gygax mentionnait son besoin de standardiser D&D avec la sortie de AD&D 1e. En effet, D&D était tellement permissif que les joueurs inventaient leurs propres règles, au point de rendre parfois leurs personnages tellement puissants que le jeu perdait de son intérêt. AD&D a commencé à proposer des règles très lourdes sensées encadrer le jeu et éviter les "dérives".
+
+*Conséquence 5 : la tentation de customiser le jeu*
+
+Le système de jeu de D&D rendant facile la prolifération de suppléments (classes de personnages, "donjons" en tous genre, recueil de sorts, etc.), l'écosystème d'extension du jeu peut apparaître comme extrême. D'une certaines façon, des univers de jeu plus encadrés (comme DragonLance par exemple) pourraient être vus comme un moyen de stopper la prolifération. Dans ces univers, tout n'est pas permis et tous les suppléments de l'univers (dont la qualité est parfois douteuse en termes d'équilibre de jeu) ne sont pas applicables.
+
+*Le mouvement OSR (Old-School Revival)*
+
+Ce mouvement semble un composé de plusieurs dimensions :
+- Une volonté de retourner à des règles plus simples (comme D&D 0e ou 1e), ouvrant la possibilité à des règles customisées ;
+- Un appétit pour les scénarios simples d'exploration de "donjons" ;
+- Une volonté de retrouver un certain esprit bon-enfant des jeux des années 80, en particulier la possibilité que les PJ meurent dans une aventure.
+
+Ce mouvement a été favorisé par la mise sous licence OGL (Open Gaming Licence) en 2003 des règles de D&D 3.5e par Wizards of the Coast. De très nombreux jeux ont été publiés dont la plupart, presque 20 plus tard, sont oubliés (à part PathFinder).
+
+*Le besoin d'exploration*
+
+
+
+
+** Articles sur les probabilités dans le JDR
+
+- Une analyse des problèmes de probabilités du système D6 : voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]]
+- Une analyse des probabilités de l'étrange système de jeu de IronSworn : voir [[https://github.com/orey/jdr/tree/master/IronSworn][le folder IronSworn]]
+
+** Eléments de systèmes de jeu intéressants
 
 *** Bloodlust
 
@@ -502,10 +602,9 @@ Une seule table pour attaquant vs défenseur. En abscisse et en ordonnée :
 
 Dans le combat, chacun est tour à tour attaquant et défenseur. Fluide et efficace.
 
+En bref, le combat est comme un double "contest" avec des modificateurs. C'est assez malin.
+
 **** Réussites et échecs critiques
 
 Bloodlust est un système à pourcentage. En cas de réussite, si l'unité de la valeur du jet est 0, on est dans un cas de réussite critique. Pareil pour les échecs critiques avec une valeur de l'unité de 1 sur le jet de pourcentage raté.
 
-** Le problème de fond du système D6
-
-Voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]].

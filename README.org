@@ -442,30 +442,50 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | Year | Topic                                             | URL                                                                         |
 |------+---------------------------------------------------+-----------------------------------------------------------------------------|
 | 2008 | The 3-clue rule to design investigative scenarios | https://thealexandrian.net/wordpress/1118/roleplaying-games/three-Clue-Rule |
-|      |                                                   |                                                                             |
+| 2008 | A quick primer for old school gaming              | https://www.lulu.com/content/3019374?page=1&pageSize=4                      |
 
 ** Sites de jeux en français
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                                   | Comment                                    | OSR |
-|------------------------------------------------------------------------+--------------------------------------------+-----|
-| https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/               | Une traduction française de FU             | N   |
-| https://www.geek-it.org/harry-potter-jdr                               | Harry Potter JDR                           | N   |
-| https://sites.google.com/site/empiregalact                             | Empire Galactique JDR                      | N   |
-| https://sites.google.com/site/wizardinabottle/epeesetsorcellerie       | Epées et Sorcellerie JDR                   | Y   |
-| https://www.heroquest-revival.com                                      | Heroquest, un site de fan                  | N   |
-| https://fr.wikipedia.org/wiki/Liste_de_cr%C3%A9atures_l%C3%A9gendaires | Créatures légendaires                      | N   |
-| https://osric.fr                                                       | Osric JDR                                  | Y   |
-| https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS          | Maléfices vieux suppléments                | N   |
-| https://www.facebook.com/groups/254213402190606                        | Discussions de Rôlistes Ouvertes et Libres | N   |
-| https://www.abandonware-magazines.org/affiche_mag.php?mag=185          | Les anciens "Jeux et Stratégie"            | N   |
-| https://www.abandonware-magazines.org/affiche_mag.php?mag=188          | Les anciens "Casus Belli"                  | N   |
-| https://www.abandonware-magazines.org/affiche_mag.php?mag=199          | Les anciens "Backstab"                     | N   |
-| https://www.abandonware-magazines.org/affiche_mag.php?mag=402          | Quelques vieux "Graal"                     | N   |
-| https://www.abandonware-magazines.org/affiche_mag.php?mag=326          | Les vieux "Tangente"                       | N   |
-| http://casquenoir.free.fr/index.php                                    | Le cénotaphe                               | N   |
-| https://www.chess-and-strategy.com                                     | Chess and Strategy, site en français       | N   |
-|                                                                        |                                            |     |
+| Type                                       | Site                                                                   |
+|--------------------------------------------+------------------------------------------------------------------------|
+| *C*                                        |                                                                        |
+| Le cénotaphe                               | http://casquenoir.free.fr/index.php                                    |
+| Créatures légendaires                      | https://fr.wikipedia.org/wiki/Liste_de_cr%C3%A9atures_l%C3%A9gendaires |
+| *D*                                        |                                                                        |
+| Discussions de Rôlistes Ouvertes et Libres | https://www.facebook.com/groups/254213402190606                        |
+| *E*                                        |                                                                        |
+| Echecs: Check & Strategy, site en français | https://www.chess-and-strategy.com                                     |
+| Empire Galactique JDR, un classique        | https://sites.google.com/site/empiregalact                             |
+| Epées et Sorcellerie JDR                   | https://sites.google.com/site/wizardinabottle/epeesetsorcellerie       |
+| *F*                                        |                                                                        |
+| Une traduction française du RPG "FU"       | https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/               |
+| *H*                                        |                                                                        |
+| Harry Potter JDR, un très beau travail     | https://www.geek-it.org/harry-potter-jdr                               |
+| Heroquest, un site de fan                  | https://www.heroquest-revival.com                                      |
+| *M*                                        |                                                                        |
+| Maléfices vieux suppléments                | https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS          |
+| *O*                                        |                                                                        |
+| Osric JDR                                  | https://osric.fr                                                       |
+
+
+** Magazines en français
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Type                                     | Site                                                          |
+|------------------------------------------+---------------------------------------------------------------|
+| *B*                                      |                                                               |
+| Les anciens "Backstab"                   | https://www.abandonware-magazines.org/affiche_mag.php?mag=199 |
+| *C*                                      |                                                               |
+| Les anciens "Casus Belli"                | https://www.abandonware-magazines.org/affiche_mag.php?mag=188 |
+| *G*                                      |                                                               |
+| Quelques vieux "Graal"                   | https://www.abandonware-magazines.org/affiche_mag.php?mag=402 |
+| *J*                                      |                                                               |
+| Les anciens "Jeux et Stratégie", un must | https://www.abandonware-magazines.org/affiche_mag.php?mag=185 |
+| *T*                                      |                                                               |
+| Les vieux "Tangente"                     | https://www.abandonware-magazines.org/affiche_mag.php?mag=326 |
+|                                          |                                                               |
+
 
 * Exporations récentes
 
@@ -529,9 +549,7 @@ Par exemple, pour les charactéristiques, il est important qu'elles soient intui
 
 ** Numéro 1 : Basic Roleplaying System (BRS)
 
-Surtout dans la première édition de CoC.
-
-Mais Runequest et Stormbringer sont bien aussi, même si Runequest est un peu complexe.
+Le système Basic RPS ([[ https://www.chaosium.com/brp-system-reference-document/ ][SRD ici]]) est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers historiques et contemporains.
 
 ** Numéro 2 : Maléfices
 
@@ -542,13 +560,13 @@ Mais Runequest et Stormbringer sont bien aussi, même si Runequest est un peu co
 
 D&D possède un bon système de jeu, avec un système simple basé sur le paradigme suivant : D20 + modificateurs >= Classe de difficulté (par exemple, classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
 
-Il faut voir D&D comme un JDR fait par un wargamer (Gary Gygax) et pour les joueurs de wargames.
+Le fait est qu'il faut voir D&D comme un JDR fait par un wargamer (Gary Gygax) et pour des joueurs à l'esprit wargamer.
 
 Le jeu est centré sur l'exploration de souterrains et de cavernes (des "dungeons" en anglais, et par extension des "donjons" pour les rôlistes français) et les combats qui s'ensuivent. Cela a plusieurs conséquences.
 
 *Conséquence 1 : équilibre et niveaux*
 
-Si le jeu est centré sur les combats, l'équilibre du scénario devient un sujet : est-ce que le groupe de PJ a une chance de survivre à l'ensemble de monstres et de pièges présents ? Pour tenter de modéliser cet équilibre, il est nécessaire de créer des niveaux, à la fois pour les personnages et pour les monstres. Ainsi, une certaine aventure aura un certain niveau et demandera un certain panel de PJ d'un certain niveau pour avoir une chance d'être réussie par les joueurs.
+Comme le jeu est centré sur les combats, l'équilibre du scénario devient un sujet : est-ce que le groupe de PJ a une chance de survivre à l'ensemble de monstres et de pièges présents ? Pour tenter de modéliser cet équilibre, il est nécessaire de créer des niveaux, à la fois pour les personnages et pour les monstres. Ainsi, une certaine aventure aura un certain niveau et demandera un certain panel de PJ d'un certain niveau pour avoir une chance d'être réussie par les joueurs.
 
 *Conséquence 2 : le Gros-Bill*
 
@@ -556,7 +574,7 @@ Dès lors, le joueur est amené à chercher à optimiser son personnage, dans le
 
 *Conséquence 3 : jouer contre le MJ*
 
-Si les joueurs jouent des Gros-Bill, ils peuvent se mettre dans la position de jouer contre le MJ. Certains apprécient cette confrontation, mais elle est souvent nuisible à l'esprit du jeu.
+Si les joueurs jouent des Gros-Bills, ils peuvent se mettre dans la position de jouer contre le MJ. Certains apprécient cette confrontation, mais elle est souvent nuisible à l'esprit du jeu.
 
 *Conséquence 4 : une facilité pour joueur en conventions*
 
@@ -570,17 +588,18 @@ Le système de jeu de D&D rendant facile la prolifération de suppléments (clas
 
 *Le mouvement OSR (Old-School Revival)*
 
-Ce mouvement semble un composé de plusieurs dimensions :
-- Une volonté de retourner à des règles plus simples (comme D&D 0e ou 1e), ouvrant la possibilité à des règles customisées ;
-- Un appétit pour les scénarios simples d'exploration de "donjons" ;
+Ce mouvement semble composé de plusieurs dimensions :
+- Une volonté de retourner à des règles plus simples (comme D&D 0e ou 1e), ouvrant la possibilité à des règles customisées par les MJ ;
+- Un appétit pour les scénarios simples d'exploration de "donjons" à l'ancienne ;
 - Une volonté de retrouver un certain esprit bon-enfant des jeux des années 80, en particulier la possibilité que les PJ meurent dans une aventure.
 
 Ce mouvement a été favorisé par la mise sous licence OGL (Open Gaming Licence) en 2003 des règles de D&D 3.5e par Wizards of the Coast. De très nombreux jeux ont été publiés dont la plupart, presque 20 plus tard, sont oubliés (à part PathFinder).
 
-*Le besoin d'exploration*
+*Le D20 system moins adapté hors de l'Heroic Fantasy*
 
+La tentative d'adapter le système D20 de D&D à d'autres univers, en particulier D20 Modern de WotC, malgré un travail très intéressant, résulte en une hybridation un peu étrange. En conservant les niveaux et la magie (parfois sous la forme de pouvoirs psy), mais en favorisant l'ambiance et les enquêtes, la mécanique de jeu devient finalement un peu "overkill" par rapport au genre lui-même.
 
-
+En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent plus faciles à utiliser dans un univers contemporain. Cet univers se prête au final peu à un jeu centré sur les combats. Même dans les jeux de space opera, il faut vraiment un univers particulier type Star Wars, pour mettre les combats au centre du jeu. Il est possible que la gamme ait été abandonné pour cette raison. Sans combats récurrents entre PJ et PNJ, il n'est pas forcément utile d'équilibrer le jeu entre PJ et PNJ et donc de perpétuer la très lourde mécanique des niveaux.
 
 ** Articles sur les probabilités dans le JDR
 

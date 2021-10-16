@@ -54,10 +54,8 @@ Mais aussi :
 
 
 * RPG Links - Liens JDR
-:CUSTOM_ID: Part2
 
 ** RPG sites and forums
-:CUSTOM_ID: Part2-1
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                                  | Title                                                                           | OSR |
@@ -100,17 +98,16 @@ Mais aussi :
 | http://www.tomeoftreasures.com/tot_adnd/adnd_history.htm                              | History of AD&D                                                                 | Y   |
 
 ** Magazines in English
-:CUSTOM_ID: Part2-2
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                      | Comment                                            |
-|-------------------------------------------+----------------------------------------------------|
-| https://archive.org/details/Polyhedron105 | The whole collection of TSR RPGA/Polyhedron        |
-| http://www.fightingfantazine.co.uk/page/  | Fighting fantasy zine with lots of solo adventures |
-|                                           |                                                    |
+| Site                                                 | Comment                                            |
+|------------------------------------------------------+----------------------------------------------------|
+| https://archive.org/details/DragonMagazine045_201903 | The Dragon Magazine, issues 1-50                   |
+| https://archive.org/details/Polyhedron105            | The whole collection of TSR RPGA/Polyhedron        |
+| http://www.fightingfantazine.co.uk/page/             | Fighting fantasy zine with lots of solo adventures |
+|                                                      |                                                    |
 
 ** Some RPG games in English
-:CUSTOM_ID: Part2-3
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Game                             | Site                                                                        | OSR |
@@ -141,7 +138,6 @@ Mais aussi :
 |                                  |                                                                             |     |
 
 ** SRD - System Reference Documents
-:CUSTOM_ID: Part2-4
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                            | Game                      |
@@ -154,7 +150,6 @@ Mais aussi :
 |                                                                                 |                           |
 
 ** Huge collection of gaming blogs in English
-:CUSTOM_ID: Part2-5
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                          | Comment                                                                                            | OSR |
@@ -415,7 +410,6 @@ Mais aussi :
 |                                                                               |                                                                                                    |     |
 
 ** Solo RPG links
-:CUSTOM_ID: Part2-6
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                         | Comment                                            |
@@ -431,7 +425,6 @@ Mais aussi :
 |                                              |                                                    |
 
 ** Tools
-:CUSTOM_ID: Part2-7
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Tool                                         | Site                             |
@@ -450,7 +443,6 @@ Mais aussi :
 | Worldographer                                | https://worldographer.com        |
 
 ** Podcasts and videos
-:CUSTOM_ID: Part2-8
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                  | Comment                                              |
@@ -464,13 +456,11 @@ Mais aussi :
 | https://wanderingdms.com                              | Wandering DMs                                        |
 
 ** Stores
-:CUSTOM_ID: Part2-9
 
 - EN: https://www.drivethrurpg.com
 - FR: https://www.black-book-editions.fr/
 
 ** Interesting RPG pages and essays
-:CUSTOM_ID: Part2-10
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Year | Topic                                             | URL                                                                         |
@@ -479,7 +469,6 @@ Mais aussi :
 | 2008 | A quick primer for old school gaming              | https://www.lulu.com/content/3019374?page=1&pageSize=4                      |
 
 ** Sites de jeux en français
-:CUSTOM_ID: Part2-11
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Type                                       | Site                                                                   |
@@ -504,7 +493,6 @@ Mais aussi :
 | Osric JDR                                  | https://osric.fr                                                       |
 
 ** Magazines en français
-:CUSTOM_ID: Part2-12
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Type                                     | Site                                                          |
@@ -574,10 +562,8 @@ A explorer : Fiasco, Nephilim.
 
 
 * Systèmes de jeux
-:CUSTOM_ID: Part4
 
 ** Système de jeu idéal
-:CUSTOM_ID: Part4-1
 
 Un équilibre entre :
 - Possibilités de faire des jets de dés sous contraintes,
@@ -587,31 +573,26 @@ Un équilibre entre :
 Par exemple, pour les charactéristiques, il est important qu'elles soient intuitives pour le MJ. Là dessus, D&D et BRS sont au dessus du lot.
 
 ** Numéro 1 - Basic Roleplaying System - BRS
-:CUSTOM_ID: Part4-2
 
 Le système Basic RPS ([[ https://www.chaosium.com/brp-system-reference-document/ ][SRD ici]]) est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers historiques et contemporains.
 
 ** Numéro 2 - Maléfices
-:CUSTOM_ID: Part4-3
 
 - Un système de jeu très adapté à l'univers.
 - Tarot très utile dans le jeu.
 
 ** Numéro 3 - Donjons et Dragons
-:CUSTOM_ID: Part4-4
 
 D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de versions. Son système est simple et basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
 
 Voir [[https://github.com/orey/jdr/tree/master/D&D][la page dédiée]].
 
 ** Articles sur les probabilités dans le JDR
-:CUSTOM_ID: Part4-5
 
 - Une analyse des problèmes de probabilités du système D6 : voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]]
 - Une analyse des probabilités de l'étrange système de jeu de IronSworn : voir [[https://github.com/orey/jdr/tree/master/IronSworn][le folder IronSworn]]
 
 ** Eléments de systèmes de jeu intéressants
-:CUSTOM_ID: Part4-6
 
 *** Bloodlust
 

@@ -7,27 +7,28 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 * Table
 
-Go [[#user-content-1-derni%C3%A8res-livraisons][there]]
-
 - [[#Derni%C3%A8res-livraisons][Dernières livraisons]]
 - [[#RPG-Links---Liens-JDR][RPG Links - Liens JDR]]
     - [[#RPG-sites-and-forums][RPG sites and forums]]
     - [[#Magazines-in-English][Magazines in English]]
     - [[#Some-RPG-games-in-English][Some RPG games in English]]
-    - [[#Part2-4][2.4. SRD - System Reference Document]]
-    - [[#Part2-5][2.5. Huge collection of gaming blogs in English]]
-    - [[#Part2-6][2.6. Solo RPG links]]
-    - [[#Part2-7][2.7. Tools]]
-    - [[#Part2-8][2.8. Podcast and videos]]
-    - [[#Part2-9][2.9. Stores]]
-    - [[#Part2-10][2.10. Interesting RPG pages and essays]]
-    - [[#Part2-11][2.11. Sites de jeux en français]]
-    - [[#Part2-12][2.12. Magazines en français]]
-- [[#Part3][3. Explorations récentes]]
-
-
-
-
+    - [[#SRD---System-Reference-Documents][SRD - System Reference Documents]]
+    - [[#Huge-collection-of-gaming-blogs-in-English][Huge collection of gaming blogs in English]]
+    - [[#Solo-RPG-links][Solo RPG links]]
+    - [[#Tools][Tools]]
+    - [[#Podcasts-and-videos][Podcasts and videos]]
+    - [[#Stores][Stores]]
+    - [[#Interesting-RPG-pages-and-essays][Interesting RPG pages and essays]]
+    - [[#Sites-de-jeux-en-fran%C3%A7ais][Sites de jeux en français]]
+    - [[Magazines-en-fran%C3%A7ais][Magazines en français]]
+- [[#Explorations-r%C3%A9centes][Explorations récentes]]
+- [[#Syst%C3%A8mes-de-jeux][Systèmes de jeux]]
+    - [[#Syst%C3%A8me-de-jeu-id%C3%A9al][Système de jeu idéal]]
+    - [[Num%C3%A9ro-1-:-Basic-Roleplaying-System-(BRS)][Numéro 1 : Basic Roleplaying System (BRS)]]
+    - [[#Num%C3%A9ro-2-:-Mal%C3%A9fices][Numéro 2 : Maléfices]]
+    - [[Num%C3%A9ro-3-:-D&D][Numéro 3 : D&D]]
+    - [[#Articles-sur-les-probabilit%C3%A9s-dans-le-JDR][Articles sur les probabilités dans le JDR]]
+    - [[#El%C3%A9ments-de-syst%C3%A8mes-de-jeu-int%C3%A9ressants][Eléments de systèmes de jeu intéressants]]
 
 * Dernières livraisons
 #+name: Part1
@@ -139,7 +140,7 @@ Mais aussi :
 | Wizards, Warriors and Wyrms      | http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf                      | Y   |
 |                                  |                                                                             |     |
 
-** SRD - System Reference Document
+** SRD - System Reference Documents
 :CUSTOM_ID: Part2-4
 
 #+ATTR_HTML: :border 2 :rules all :frame border

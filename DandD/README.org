@@ -13,6 +13,7 @@ D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de
 - [[https://github.com/orey/jdr/tree/master/DandD/Articles][Articles choisis]] des vieux exemplaires de The Dragon disponibles sur archive.org (en anglais).
 - Articles intéressants de [[https://github.com/orey/jdr/tree/master/DandD/GaryGygax][Gary Gygax]] (en anglais).
 
+
 * Un jeu de wargamers
 
 Le fait est qu'il faut voir D&D comme un JDR fait par un wargamer (Gary Gygax) pour des joueurs à l'esprit wargamer.
@@ -69,4 +70,51 @@ Ce mouvement a été favorisé par la mise sous licence OGL (Open Gaming Licence
 La tentative d'adapter le système D20 de D&D à d'autres univers, en particulier D20 Modern de WotC, malgré un travail très intéressant, résulte en une hybridation un peu étrange. En conservant les niveaux et la magie (parfois sous la forme de pouvoirs psy), mais en favorisant l'ambiance et les enquêtes, la mécanique de jeu devient finalement peu adaptée et trop lourde par rapport au genre lui-même.
 
 En effet, d'autres systèmes de jeu, comme le Basic RPS de Chaosium, semblent plus faciles à utiliser dans un univers contemporain. Cet univers se prête au final peu à un jeu centré sur les combats. Même dans les jeux de space opera, il faut vraiment un univers particulier type Star Wars, pour mettre les combats au centre du jeu. Il est possible que la gamme ait été abandonné pour cette raison. Sans combats récurrents entre PJ et PNJ, il n'est pas forcément utile d'équilibrer le jeu entre PJ et PNJ et donc de perpétuer la très lourde mécanique des niveaux.
+
+
+* Recommended reading by Gary Gygax, The Dragon #4, December 1976
+
+*** FANTASY/SWORDS & SORCERY
+From Gary Gygax
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| AUTHORS             | SPECIFIC WORK                 |
+|---------------------+-------------------------------|
+| Anderson, Poul      | Three Hearts and Three Lions  |
+| Blackwood, Algernon |                               |
+| Brackett, Leigh     |                               |
+| Burroughs, E.R.     | John Carter of Mars (etal)    |
+| Carter, Lin         | John Carter of Mars (etal)    |
+| deCamp & Pratt      | Incomplete Enchanter          |
+|                     | Castle of Iron (etal)         |
+| Farmer, P.J.        | Gates of Creation (etal)      |
+| Fox, G.F.           | Kother the Barbarian (etal)   |
+| Howard, R.E.        | Conan the Conqueror (etal)    |
+| Lanier, Sterling    | Hiero’s Journey               |
+| Leiber, Fritz       | Swords of Lankhmar (etal)     |
+| Lovecraft, H.P.     |                               |
+| Merritt, A.         | Creep Shadow, Creep           |
+|                     | Moon Pool                     |
+|                     | Face in the Abyss             |
+|                     | Dwellers in the Mirage (etal) |
+| Moorcock, Michael   | Stealer of Souls              |
+|                     | Stormbringer                  |
+| Saberhagen, Fred    | Changling Earth               |
+| St. Clair, Margaret |                               |
+| Tolkien, J.R.R.     | The Hobbit                    |
+|                     | Lord of the Rings (Trilogy)   |
+| Vance, Jack         | Eyes of Overworld             |
+|                     | The Dying Earth               |
+| Weinbaum, Stanley   |                               |
+| Wellman, M. W.      |                               |
+| Zelazny, Roger      | Jack of Shadows (etal)        |
+|                     | Lord of Light                 |
+|                     | Nine Princes of Amber series  |
+
+[[file:197612_RecommendedReading-TheDragon004.png]]
+
+* Investigation level
+
+- The Dragon: Up to 034 DONE
+- RPGA/Polyhedron: 002 ok
 

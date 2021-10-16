@@ -7,6 +7,8 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 * Table
 
+Go [[Part1][there]]
+
 - [[#Part1][1. Dernières livraisons]]
 - [[#Part2][2. RPG Links - Liens JDR]]
     - [[#Part2-1][2.1 RPG sites and forums]]
@@ -23,11 +25,13 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
     - [[#Part2-12][2.12. Magazines en français]]
 - [[#Part3][3. Explorations récentes]]
 
-[[*3. Exporations récentes]]
+
+
 
 
 * 1. Dernières livraisons
-  :CUSTOM_ID: Part1
+#+name: Part1
+
 
 
 #+ATTR_HTML: :border 2 :rules all :frame border

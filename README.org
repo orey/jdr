@@ -49,8 +49,8 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | 2021 | [[https://github.com/orey/jdr/tree/master/D%2526D][D&D 5e]]              | Couverture       | [[https://github.com/orey/jdr/blob/master/D%2526D/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
 
 Mais aussi : 
-- Des [[https://github.com/orey/jdr/tree/master/D%2526D/Articles][articles choisis]] sur D&D ;
-- Des articles et interviews intéressantes de Gary Gygax.
+- Des [[https://github.com/orey/jdr/tree/master/D%2526D/Articles][articles choisis]] sur D&D / [[https://github.com/orey/jdr/tree/master/D%2526D/Articles][English articles]] on D&D;
+- Des articles et interviews intéressantes de [[https://github.com/orey/jdr/tree/master/GaryGygax][Gary Gygax]] / Interesting articles and interviews from [[https://github.com/orey/jdr/tree/master/GaryGygax][Gary Gygax]].
 
 
 * RPG Links - Liens JDR

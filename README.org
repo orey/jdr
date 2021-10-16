@@ -27,8 +27,8 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 
 * 1. Dernières livraisons
-:CUSTOM_ID: Part1
-@@html:<a name="Part1"></a>@@
+  :CUSTOM_ID: Part1
+
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | JDR-RPG             | Type             | Livrable                           | Format | Commentaire                                         |

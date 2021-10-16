@@ -449,7 +449,7 @@ Mais aussi :
 | *W*                                          |                                  |
 | Worldographer                                | https://worldographer.com        |
 
-** Podcast and videos
+** Podcasts and videos
 :CUSTOM_ID: Part2-8
 
 #+ATTR_HTML: :border 2 :rules all :frame border

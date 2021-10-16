@@ -24,7 +24,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 - [[#Explorations-r%C3%A9centes][Explorations récentes]]
 - [[#Syst%C3%A8mes-de-jeux][Systèmes de jeux]]
     - [[#Syst%C3%A8me-de-jeu-id%C3%A9al][Système de jeu idéal]]
-    - [[#Num%C3%A9ro-1---Basic-Roleplaying-System-(BRS)][Numéro 1 - Basic Roleplaying System (BRS)]]
+    - [[#Num%C3%A9ro-1---Basic-Roleplaying-System---BRS][Numéro 1 - Basic Roleplaying System - BRS]]
     - [[#Num%C3%A9ro-2---Mal%C3%A9fices][Numéro 2 - Maléfices]]
     - [[Num%C3%A9ro-3---D&D][Numéro 3 - D&D]]
     - [[#Articles-sur-les-probabilit%C3%A9s-dans-le-JDR][Articles sur les probabilités dans le JDR]]
@@ -586,7 +586,7 @@ Un équilibre entre :
 
 Par exemple, pour les charactéristiques, il est important qu'elles soient intuitives pour le MJ. Là dessus, D&D et BRS sont au dessus du lot.
 
-** Numéro 1 - Basic Roleplaying System (BRS)
+** Numéro 1 - Basic Roleplaying System - BRS
 :CUSTOM_ID: Part4-2
 
 Le système Basic RPS ([[ https://www.chaosium.com/brp-system-reference-document/ ][SRD ici]]) est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers historiques et contemporains.

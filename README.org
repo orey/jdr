@@ -32,7 +32,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 - [[Part3][3. Explorations récentes]]
 
 * 1. Dernières livraisons
-#+NAME: Part1
+:CUSTOM_ID: Part1
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | JDR-RPG             | Type             | Livrable                           | Format | Commentaire                                         |
@@ -53,10 +53,10 @@ Mais aussi :
 
 
 * 2. RPG Links - Liens JDR
-#+NAME: Part2
+:CUSTOM_ID: Part2
 
 ** 2.1. RPG sites and forums
-#+NAME: Part2-1
+:CUSTOM_ID: Part2-1
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                                  | Title                                                                           | OSR |
@@ -100,7 +100,7 @@ Mais aussi :
 
 
 ** 2.2. Magazines in English
-#+NAME: Part2-2
+:CUSTOM_ID: Part2-2
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                      | Comment                                            |
@@ -111,7 +111,7 @@ Mais aussi :
 
 
 ** 2.3. Some RPG games in English
-#+NAME: Part2-3
+:CUSTOM_ID: Part2-3
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Game                             | Site                                                                        | OSR |
@@ -143,7 +143,7 @@ Mais aussi :
 
 
 ** 2.4. SRD - System Reference Document
-#+NAME: Part2-4
+:CUSTOM_ID: Part2-4
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                            | Game                      |
@@ -157,7 +157,7 @@ Mais aussi :
 
 
 ** 2.5. Huge collection of gaming blogs in English
-#+NAME: Part2-5
+:CUSTOM_ID: Part2-5
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                                          | Comment                                                                                            | OSR |
@@ -419,7 +419,7 @@ Mais aussi :
 
 
 ** 2.6. Solo RPG links
-#+NAME: Part2-6
+:CUSTOM_ID: Part2-6
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                         | Comment                                            |
@@ -436,7 +436,7 @@ Mais aussi :
 
 
 ** 2.7. Tools
-#+NAME: Part2-7
+:CUSTOM_ID: Part2-7
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Tool                                         | Site                             |
@@ -456,7 +456,7 @@ Mais aussi :
 
 
 ** 2.8. Podcast and videos
-#+NAME: Part2-8
+:CUSTOM_ID: Part2-8
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Site                                                  | Comment                                              |
@@ -471,14 +471,14 @@ Mais aussi :
 
 
 ** 2.9. Stores
-#+NAME: Part2-9
+:CUSTOM_ID: Part2-9
 
 - EN: https://www.drivethrurpg.com
 - FR: https://www.black-book-editions.fr/
 
 
 ** 2.10. Interesting RPG pages and essays
-#+NAME: Part2-10
+:CUSTOM_ID: Part2-10
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Year | Topic                                             | URL                                                                         |
@@ -487,7 +487,7 @@ Mais aussi :
 | 2008 | A quick primer for old school gaming              | https://www.lulu.com/content/3019374?page=1&pageSize=4                      |
 
 ** 2.11. Sites de jeux en français
-#+NAME: Part2-11
+:CUSTOM_ID: Part2-11
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Type                                       | Site                                                                   |
@@ -513,7 +513,7 @@ Mais aussi :
 
 
 ** 2.12. Magazines en français
-#+NAME: Part2-12
+:CUSTOM_ID: Part2-12
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Type                                     | Site                                                          |
@@ -532,7 +532,7 @@ Mais aussi :
 
 
 * 3. Exporations récentes
-#+NAME: Part3
+:CUSTOM_ID: Part3
 
 A explorer : Fiasco, Nephilim.
 
@@ -584,10 +584,10 @@ A explorer : Fiasco, Nephilim.
 
 
 * 4. Systèmes de jeux
-#+NAME: Part4
+:CUSTOM_ID: Part4
 
 ** 4.1. Système de jeu idéal
-#+NAME: Part4-1
+:CUSTOM_ID: Part4-1
 
 Un équilibre entre :
 - Possibilités de faire des jets de dés sous contraintes,
@@ -597,31 +597,31 @@ Un équilibre entre :
 Par exemple, pour les charactéristiques, il est important qu'elles soient intuitives pour le MJ. Là dessus, D&D et BRS sont au dessus du lot.
 
 ** 4.2. Numéro 1 : Basic Roleplaying System (BRS)
-#+NAME: Part4-2
+:CUSTOM_ID: Part4-2
 
 Le système Basic RPS ([[ https://www.chaosium.com/brp-system-reference-document/ ][SRD ici]]) est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers historiques et contemporains.
 
 ** 4.3. Numéro 2 : Maléfices
-#+NAME: Part4-3
+:CUSTOM_ID: Part4-3
 
 - Un système de jeu très adapté à l'univers.
 - Tarot très utile dans le jeu.
 
 ** 4.4. Numéro 3 : D&D
-#+NAME: Part4-4
+:CUSTOM_ID: Part4-4
 
 D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de versions. Son système est simple et basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
 
 Voir [[https://github.com/orey/jdr/tree/master/D&D][la page dédiée]].
 
 ** 4.5. Articles sur les probabilités dans le JDR
-#+NAME: Part4-5
+:CUSTOM_ID: Part4-5
 
 - Une analyse des problèmes de probabilités du système D6 : voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]]
 - Une analyse des probabilités de l'étrange système de jeu de IronSworn : voir [[https://github.com/orey/jdr/tree/master/IronSworn][le folder IronSworn]]
 
 ** 4.6. Eléments de systèmes de jeu intéressants
-#+NAME: Part4-6
+:CUSTOM_ID: Part4-6
 
 *** Bloodlust
 

@@ -9,7 +9,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 Go [[#user-content-1-derni%C3%A8res-livraisons][there]]
 
-- [[#Part1][1. Dernières livraisons]]
+- [[#Derni%C3%A8res-livraisons][1. Dernières livraisons]]
 - [[#Part2][2. RPG Links - Liens JDR]]
     - [[#Part2-1][2.1 RPG sites and forums]]
     - [[#Part2-2][2.2. Magazines in English]]
@@ -29,7 +29,7 @@ Go [[#user-content-1-derni%C3%A8res-livraisons][there]]
 
 
 
-* 1. Dernières livraisons
+* Dernières livraisons
 #+name: Part1
 
 
@@ -52,10 +52,10 @@ Mais aussi :
 - Des articles et interviews intéressantes de Gary Gygax.
 
 
-* 2. RPG Links - Liens JDR
+* RPG Links - Liens JDR
 :CUSTOM_ID: Part2
 
-** 2.1. RPG sites and forums
+** RPG sites and forums
 :CUSTOM_ID: Part2-1
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -98,7 +98,7 @@ Mais aussi :
 | http://www.thealexandrian.net/creations/creations.html                                | The Alexandrian creations                                                       | N   |
 | http://www.tomeoftreasures.com/tot_adnd/adnd_history.htm                              | History of AD&D                                                                 | Y   |
 
-** 2.2. Magazines in English
+** Magazines in English
 :CUSTOM_ID: Part2-2
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -108,7 +108,7 @@ Mais aussi :
 | http://www.fightingfantazine.co.uk/page/  | Fighting fantasy zine with lots of solo adventures |
 |                                           |                                                    |
 
-** 2.3. Some RPG games in English
+** Some RPG games in English
 :CUSTOM_ID: Part2-3
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -139,7 +139,7 @@ Mais aussi :
 | Wizards, Warriors and Wyrms      | http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf                      | Y   |
 |                                  |                                                                             |     |
 
-** 2.4. SRD - System Reference Document
+** SRD - System Reference Document
 :CUSTOM_ID: Part2-4
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -152,7 +152,7 @@ Mais aussi :
 | http://www.wizards.com/default.asp?x=d20/article/srd35                          | D&D SRD 3.5 WoC           |
 |                                                                                 |                           |
 
-** 2.5. Huge collection of gaming blogs in English
+** Huge collection of gaming blogs in English
 :CUSTOM_ID: Part2-5
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -413,7 +413,7 @@ Mais aussi :
 | https://zzarchov.blogspot.com                                                 | Author of Neoclassical Geek Revival and Scenic Dunnsmouth.                                         | y   |
 |                                                                               |                                                                                                    |     |
 
-** 2.6. Solo RPG links
+** Solo RPG links
 :CUSTOM_ID: Part2-6
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -429,7 +429,7 @@ Mais aussi :
 | http://solorpggamer.blogspot.com/            | Solo RPG Gamer                                     |
 |                                              |                                                    |
 
-** 2.7. Tools
+** Tools
 :CUSTOM_ID: Part2-7
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -448,7 +448,7 @@ Mais aussi :
 | *W*                                          |                                  |
 | Worldographer                                | https://worldographer.com        |
 
-** 2.8. Podcast and videos
+** Podcast and videos
 :CUSTOM_ID: Part2-8
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -462,13 +462,13 @@ Mais aussi :
 | *W*                                                   |                                                      |
 | https://wanderingdms.com                              | Wandering DMs                                        |
 
-** 2.9. Stores
+** Stores
 :CUSTOM_ID: Part2-9
 
 - EN: https://www.drivethrurpg.com
 - FR: https://www.black-book-editions.fr/
 
-** 2.10. Interesting RPG pages and essays
+** Interesting RPG pages and essays
 :CUSTOM_ID: Part2-10
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -477,7 +477,7 @@ Mais aussi :
 | 2008 | The 3-clue rule to design investigative scenarios | https://thealexandrian.net/wordpress/1118/roleplaying-games/three-Clue-Rule |
 | 2008 | A quick primer for old school gaming              | https://www.lulu.com/content/3019374?page=1&pageSize=4                      |
 
-** 2.11. Sites de jeux en français
+** Sites de jeux en français
 :CUSTOM_ID: Part2-11
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -502,7 +502,7 @@ Mais aussi :
 | *O*                                        |                                                                        |
 | Osric JDR                                  | https://osric.fr                                                       |
 
-** 2.12. Magazines en français
+** Magazines en français
 :CUSTOM_ID: Part2-12
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -521,7 +521,7 @@ Mais aussi :
 |                                          |                                                               |
 
 
-* 3. Exporations récentes
+* Exporations récentes
 
 A explorer : Fiasco, Nephilim.
 
@@ -572,10 +572,10 @@ A explorer : Fiasco, Nephilim.
 | 2020 | Dagger                       | RPG for kids     | Bof                                                       | 2/5   | Y   | N       |
 
 
-* 4. Systèmes de jeux
+* Systèmes de jeux
 :CUSTOM_ID: Part4
 
-** 4.1. Système de jeu idéal
+** Système de jeu idéal
 :CUSTOM_ID: Part4-1
 
 Un équilibre entre :
@@ -585,31 +585,31 @@ Un équilibre entre :
 
 Par exemple, pour les charactéristiques, il est important qu'elles soient intuitives pour le MJ. Là dessus, D&D et BRS sont au dessus du lot.
 
-** 4.2. Numéro 1 : Basic Roleplaying System (BRS)
+** Numéro 1 : Basic Roleplaying System (BRS)
 :CUSTOM_ID: Part4-2
 
 Le système Basic RPS ([[ https://www.chaosium.com/brp-system-reference-document/ ][SRD ici]]) est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers historiques et contemporains.
 
-** 4.3. Numéro 2 : Maléfices
+** Numéro 2 : Maléfices
 :CUSTOM_ID: Part4-3
 
 - Un système de jeu très adapté à l'univers.
 - Tarot très utile dans le jeu.
 
-** 4.4. Numéro 3 : D&D
+** Numéro 3 : D&D
 :CUSTOM_ID: Part4-4
 
 D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de versions. Son système est simple et basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
 
 Voir [[https://github.com/orey/jdr/tree/master/D&D][la page dédiée]].
 
-** 4.5. Articles sur les probabilités dans le JDR
+** Articles sur les probabilités dans le JDR
 :CUSTOM_ID: Part4-5
 
 - Une analyse des problèmes de probabilités du système D6 : voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]]
 - Une analyse des probabilités de l'étrange système de jeu de IronSworn : voir [[https://github.com/orey/jdr/tree/master/IronSworn][le folder IronSworn]]
 
-** 4.6. Eléments de systèmes de jeu intéressants
+** Eléments de systèmes de jeu intéressants
 :CUSTOM_ID: Part4-6
 
 *** Bloodlust

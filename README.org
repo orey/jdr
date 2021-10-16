@@ -2,12 +2,16 @@
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-09-05
 #+STARTUP: content
+#+OPTIONS: toc:2
 
 Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
 
+* Section
+#+TOC: headlines 1 local
+
+
 * Table
 
-#+OPTIONS: toc:2
 
 
 

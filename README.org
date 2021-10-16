@@ -7,7 +7,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 * Table
 
-Go [[Part1][there]]
+Go [[#user-content-1-derni%C3%A8res-livraisons][there]]
 
 - [[#Part1][1. Dernières livraisons]]
 - [[#Part2][2. RPG Links - Liens JDR]]

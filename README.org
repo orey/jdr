@@ -2,18 +2,10 @@
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-09-05
 #+STARTUP: content
-#+OPTIONS: toc:2
 
 Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
 
-* Section
-#+TOC: headlines 1 local
-
-
 * Table
-
-
-
 
 - [[#Part1][1. Dernières livraisons]]
 - [[#Part2][2. RPG Links - Liens JDR]]
@@ -33,6 +25,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 * 1. Dernières livraisons
 :CUSTOM_ID: Part1
+@@html:<a name="Part1"></a>@@
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | JDR-RPG             | Type             | Livrable                           | Format | Commentaire                                         |
@@ -98,7 +91,6 @@ Mais aussi :
 | http://www.thealexandrian.net/creations/creations.html                                | The Alexandrian creations                                                       | N   |
 | http://www.tomeoftreasures.com/tot_adnd/adnd_history.htm                              | History of AD&D                                                                 | Y   |
 
-
 ** 2.2. Magazines in English
 :CUSTOM_ID: Part2-2
 
@@ -108,7 +100,6 @@ Mais aussi :
 | https://archive.org/details/Polyhedron105 | The whole collection of TSR RPGA/Polyhedron        |
 | http://www.fightingfantazine.co.uk/page/  | Fighting fantasy zine with lots of solo adventures |
 |                                           |                                                    |
-
 
 ** 2.3. Some RPG games in English
 :CUSTOM_ID: Part2-3
@@ -141,7 +132,6 @@ Mais aussi :
 | Wizards, Warriors and Wyrms      | http://ttyf.weebly.com/uploads/4/3/6/1/4361144/www.pdf                      | Y   |
 |                                  |                                                                             |     |
 
-
 ** 2.4. SRD - System Reference Document
 :CUSTOM_ID: Part2-4
 
@@ -154,7 +144,6 @@ Mais aussi :
 | https://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/      | 13th Age                  |
 | http://www.wizards.com/default.asp?x=d20/article/srd35                          | D&D SRD 3.5 WoC           |
 |                                                                                 |                           |
-
 
 ** 2.5. Huge collection of gaming blogs in English
 :CUSTOM_ID: Part2-5
@@ -417,7 +406,6 @@ Mais aussi :
 | https://zzarchov.blogspot.com                                                 | Author of Neoclassical Geek Revival and Scenic Dunnsmouth.                                         | y   |
 |                                                                               |                                                                                                    |     |
 
-
 ** 2.6. Solo RPG links
 :CUSTOM_ID: Part2-6
 
@@ -433,7 +421,6 @@ Mais aussi :
 | *S*                                          |                                                    |
 | http://solorpggamer.blogspot.com/            | Solo RPG Gamer                                     |
 |                                              |                                                    |
-
 
 ** 2.7. Tools
 :CUSTOM_ID: Part2-7
@@ -454,7 +441,6 @@ Mais aussi :
 | *W*                                          |                                  |
 | Worldographer                                | https://worldographer.com        |
 
-
 ** 2.8. Podcast and videos
 :CUSTOM_ID: Part2-8
 
@@ -469,13 +455,11 @@ Mais aussi :
 | *W*                                                   |                                                      |
 | https://wanderingdms.com                              | Wandering DMs                                        |
 
-
 ** 2.9. Stores
 :CUSTOM_ID: Part2-9
 
 - EN: https://www.drivethrurpg.com
 - FR: https://www.black-book-editions.fr/
-
 
 ** 2.10. Interesting RPG pages and essays
 :CUSTOM_ID: Part2-10
@@ -511,7 +495,6 @@ Mais aussi :
 | *O*                                        |                                                                        |
 | Osric JDR                                  | https://osric.fr                                                       |
 
-
 ** 2.12. Magazines en français
 :CUSTOM_ID: Part2-12
 
@@ -533,6 +516,7 @@ Mais aussi :
 
 * 3. Exporations récentes
 :CUSTOM_ID: Part3
+@@html:<a name="Part1"></a>@@
 
 A explorer : Fiasco, Nephilim.
 

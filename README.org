@@ -26,7 +26,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
     - [[#Syst%C3%A8me-de-jeu-id%C3%A9al][Système de jeu idéal]]
     - [[#Num%C3%A9ro-1---Basic-Roleplaying-System---BRS][Numéro 1 - Basic Roleplaying System - BRS]]
     - [[#Num%C3%A9ro-2---Mal%C3%A9fices][Numéro 2 - Maléfices]]
-    - [[Num%C3%A9ro-3---D&D][Numéro 3 - D&D]]
+    - [[#Num%C3%A9ro-3---Donjons-et-Dragons][Numéro 3 - Donjons et Dragons]]
     - [[#Articles-sur-les-probabilit%C3%A9s-dans-le-JDR][Articles sur les probabilités dans le JDR]]
     - [[#El%C3%A9ments-de-syst%C3%A8mes-de-jeu-int%C3%A9ressants][Eléments de systèmes de jeu intéressants]]
 
@@ -597,7 +597,7 @@ Le système Basic RPS ([[ https://www.chaosium.com/brp-system-reference-document
 - Un système de jeu très adapté à l'univers.
 - Tarot très utile dans le jeu.
 
-** Numéro 3 - D&D
+** Numéro 3 - Donjons et Dragons
 :CUSTOM_ID: Part4-4
 
 D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de versions. Son système est simple et basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).

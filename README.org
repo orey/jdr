@@ -515,8 +515,11 @@ Mais aussi :
 
 
 * 3. Exporations récentes
-:CUSTOM_ID: Part3
-@@html:<a name="Part1"></a>@@
+#+BEGIN_EXPORT html
+<a name="Part3"></a>
+#+END_EXPORT
+
+
 
 A explorer : Fiasco, Nephilim.
 

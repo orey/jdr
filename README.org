@@ -46,7 +46,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]            | PDF    | Ecran complémentaire MJ                             |
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]                     | PDF    | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
 | 2021 | Tous                | Aide de jeu      | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]]         | PNG    | A intégrer dans une synthèse d'aides de jeu pour MJ |
-| 2021 | [[https://github.com/orey/jdr/tree/master/DandD][D&D 5e]]              | Couverture       | [[https://github.com/orey/jdr/blob/master/DandD/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
+| 2021 | [[https://github.com/orey/jdr/tree/master/DandD][D&D 5e]]              | Couverture       | [[https://github.com/orey/jdr/tree/master/DandD/DandD%25205e%2520-%2520Basic%2520edition%2520Lulu%2520cover/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
 
 Mais aussi : 
 - Des [[https://github.com/orey/jdr/tree/master/DandD/Articles][articles choisis]] sur D&D / [[https://github.com/orey/jdr/tree/master/DandD/Articles][English articles]] on D&D;
@@ -585,7 +585,7 @@ Le système Basic RPS ([[ https://www.chaosium.com/brp-system-reference-document
 
 D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de versions. Son système est simple et basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
 
-Voir [[https://github.com/orey/jdr/tree/master/D&D][la page dédiée]].
+Voir [[https://github.com/orey/jdr/tree/master/DandD][la page dédiée]].
 
 ** Articles sur les probabilités dans le JDR
 

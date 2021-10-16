@@ -23,6 +23,9 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
     - [[#Part2-12][2.12. Magazines en français]]
 - [[#Part3][3. Explorations récentes]]
 
+[[*3. Exporations récentes]]
+
+
 * 1. Dernières livraisons
 :CUSTOM_ID: Part1
 @@html:<a name="Part1"></a>@@
@@ -515,11 +518,6 @@ Mais aussi :
 
 
 * 3. Exporations récentes
-#+BEGIN_EXPORT html
-<a name="Part3"></a>
-#+END_EXPORT
-
-
 
 A explorer : Fiasco, Nephilim.
 

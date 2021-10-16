@@ -33,8 +33,6 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 * Dernières livraisons
 #+name: Part1
 
-
-
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | JDR-RPG             | Type             | Livrable                           | Format | Commentaire                                         |
 |------+---------------------+------------------+------------------------------------+--------+-----------------------------------------------------|
@@ -50,7 +48,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 
 Mais aussi : 
 - Des [[https://github.com/orey/jdr/tree/master/DandD/Articles][articles choisis]] sur D&D / [[https://github.com/orey/jdr/tree/master/DandD/Articles][English articles]] on D&D;
-- Des articles et interviews intéressantes de [[https://github.com/orey/jdr/tree/master/GaryGygax][Gary Gygax]] / Interesting articles and interviews from [[https://github.com/orey/jdr/tree/master/GaryGygax][Gary Gygax]].
+- Des articles et interviews intéressantes de [[https://github.com/orey/jdr/tree/master/DandD/GaryGygax][Gary Gygax]] / Interesting articles and interviews from [[https://github.com/orey/jdr/tree/master/DandD/GaryGygax][Gary Gygax]].
 
 
 * RPG Links - Liens JDR

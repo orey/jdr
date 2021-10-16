@@ -46,7 +46,7 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]            | PDF    | Ecran complémentaire MJ                             |
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]                     | PDF    | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
 | 2021 | Tous                | Aide de jeu      | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]]         | PNG    | A intégrer dans une synthèse d'aides de jeu pour MJ |
-| 2021 | [[https://github.com/orey/jdr/tree/master/DandD][D&D 5e]]              | Couverture       | [[https://github.com/orey/jdr/tree/master/DandD/DandD%25205e%2520-%2520Basic%2520edition%2520Lulu%2520cover/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
+| 2021 | [[https://github.com/orey/jdr/tree/master/DandD][D&D 5e]]              | Couverture       | [[https://github.com/orey/jdr/tree/master/DandD/DandD%25205e%2520-%2520Basic%2520edition%2520Lulu%2520cover][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
 
 Mais aussi : 
 - Des [[https://github.com/orey/jdr/tree/master/DandD/Articles][articles choisis]] sur D&D / [[https://github.com/orey/jdr/tree/master/DandD/Articles][English articles]] on D&D;

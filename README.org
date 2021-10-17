@@ -3,6 +3,8 @@
 #+DATE: 2021-09-05
 #+STARTUP: content
 
+[[file:logo-orey.png]]
+
 Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
 
 * Table

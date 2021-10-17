@@ -44,12 +44,12 @@ Les différents dossiers contiennent des ressources en français pour JDR ou des
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]            | PDF    | Ecran complémentaire MJ                             |
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]                     | PDF    | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
 | 2021 | Tous                | Aide de jeu      | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]]         | PNG    | A intégrer dans une synthèse d'aides de jeu pour MJ |
-| 2021 | [[https://github.com/orey/jdr/tree/master/DandD][D&D 5e]]              | Couverture       | [[https://github.com/orey/jdr/blob/master/DandD/DandD_5e_BasicEditionLuluCover/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
+| 2021 | [[https://github.com/orey/DandD][D&D 5e]]              | Couverture       | [[https://github.com/orey/DandD/blob/master/DandD_5e_BasicEditionLuluCover/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    | Pour Lulu.com                                       |
 
 Mais aussi : 
-- Des [[https://github.com/orey/jdr/tree/master/DandD/Articles][articles choisis]] sur D&D / [[https://github.com/orey/jdr/tree/master/DandD/Articles][English articles]] on D&D;
-- Des articles et interviews intéressantes de [[https://github.com/orey/jdr/tree/master/DandD/GaryGygax][Gary Gygax]] / Interesting articles and interviews from [[https://github.com/orey/jdr/tree/master/DandD/GaryGygax][Gary Gygax]].
-
+- Des [[https://github.com/orey/DandD/tree/master/Articles][articles choisis]] sur D&D / [[https://github.com/orey/DandD/tree/master/Articles][English articles]] on D&D;
+- Des articles et interviews intéressantes de [[https://github.com/orey/DandD/tree/master/GaryGygax][Gary Gygax]] / Interesting articles and interviews from [[https://github.com/orey/DandD/tree/master/GaryGygax][Gary Gygax]]
+- Des [[https://github.com/orey/DandD/tree/master/Scenarios][scenarios]] pour D&D / [[https://github.com/orey/DandD/tree/master/Scenarios][Scenarios]] for D&D.
 
 * RPG Links - Liens JDR
 

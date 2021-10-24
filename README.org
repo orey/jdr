@@ -1,13 +1,20 @@
-#+TITLE: Ressources pour JDR
+#+TITLE: RPG Resources / Ressources pour JDR
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-09-05
 #+STARTUP: content
 
 [[file:logo-orey.png]]
 
-Les différents dossiers contiennent des ressources en français pour JDR ou des traductions.
+The various folders contain TTRPG resources in English / Les différents dossiers contiennent des ressources en français pour JDR ou des traductions :
+- Articles,
+- Scenarios,
+- Game aids / aides de jeux,
+- French original translations / traductions françaises originales,
+- Special content / contenus spéciaux.
 
-* Table
+Please Explore the folders / N'hésitez pas à explorer les dossiers.
+
+* What's in this very page? / Contenu de cette page uniquement
 
 - [[#Derni%C3%A8res-livraisons][Dernières livraisons]]
 - [[#RPG-Links---Liens-JDR][RPG Links - Liens JDR]]

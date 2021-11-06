@@ -1,5 +1,12 @@
-# Morphologie du conte - Propp
+# Morphologie du conte - Vladimir Propp
 
+![Morphology](morphology-book.png)
+
+Vladimir Propp est un sociologue qui, travaillant sur le recueil de contes russes d'Affanasiev, se rend compte que ces derniers ont une structure abstraite très précise, et que cette structure forme un genre d'équation générale. Il publie ses travaux dans un livre *Morphologie du conte populaire*.
+
+Ce livre fait partie des sources utiles pour travailler sur la structure des scenarii de jeux de rôles, comme les game master emulators (voir la section `Mythic-fr` du repo) ou la `BigListOfRPGPlots-fr`.
+
+Ce qui suit est une traduction française originale du squelette du livre anglais.
 
 ## Table
 
@@ -694,9 +701,10 @@ Depuis une nouvelle vilenie (A1 ou A2, etc.) à l'arrivée ; répétition de la 
 | -        | 151.                                   | mariage                                                                                      |
 
 
-## Structure
+## Structure graphique
 
 Ongoing works.
 
 ![Structure](structure.png)
+
 

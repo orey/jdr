@@ -29,40 +29,40 @@ Phases :
 * Complication : C
 * Aventure : A
 
-Phase | Etape | Description | Alias | Symbole | Lien
----|---|---|---|---|---
-P | I. | Un des membres de la famille s'absente de la maison | **absence** | &beta; | [Lien](#I)
-P | II. | On interdit quelque chose au héros | **interdiction** | &gamma; | [Lien](#II)
-P | III. | L'interdiction est violée | **violation** | &delta; | [Lien](#III)
-p | IV. | Le méchant cherche des indices (sous forme de question) (il vient en reconnaissance, dans le but d'obtenir des informations) | **reconnaissance** | &epsilon; | [Lien](#IV)
-P | V. | Le méchant reçoit des informations sur sa victime | **réception** | &zeta; | [Lien](#V)
-P | VI. | Le méchant tente de tromper la victime pour prendre possession de lui ou de ses affaires | **tromperie** | &eta; | [Lien](#VI)
-P | VII. | La victime se fait tromper et se aide involontairement son ennemi | **complicité** | &theta; | [Lien](#VII)
-C | VIII. | Le méchant fait du mal ou blesse un membre de la famille | **infamie** | A | [Lien](#VIII)
-C | VIIIa. | Un membre de la famille soit manque de quelque chose, soit désire quelque chose | **manque** | a | [Lien](#VIIIa)
-C | IX. | La mauvaise fortune ou le manque devient connu : le héros est approché avec une requête ou une commande ; il est autorisé à partir ou il est envoyé | **médiation (incident de transition)** | B | [Lien](#IX)
-C | X. | Le quêteur accepte ou décide d'une réaction | **début de réaction** | C | [Lien](#X)
-C | XI. | Le héros quitte la maison | **départ** | &uarr; | [Lien](#XI)
-A | XII. | Le héros est testé, interrogé, attaqué, etc., ce qui prépare la phase où il va recevoir un agent magique ou de l'aide | **fonction première du donneur** | D | [Lien](#XII)
-A | XIII. | Le héros réagit aux actions du futur donneur | **réaction du héros** | E | [Lien](#XIII)
-A | XIV. | Le héros acquiert l'usage d'un agent magique | **réception d'un agent magique** | F | [Lien](#XIV)
-A | XV. | Le héros est transféré, livré ou conduit dans les environs d'un objet lié à la recherche | **transport** | G | [Lien](#XV)
-A | XVI. | Le héros et le méchant se rejoignent pour un  combat | **combat** | H | [Lien](#XVI)
-A | XVII. | Le héros est marqué | **marque** | J | [Lien](#XVII)
-A | XVIII. | Le méchant est vaincu | **victoire** | I | [Lien](#XVIII)
-A | XIX. | La mauvaise fortune initiale ou le manque sont résolus | **resolution** | K | [Lien](#XIX)
-A | XX. | Le héros revient | **retour** | &darr; | [Lien](#XX)
-A | XXI. | Le héros est poursuivi | **poursuite** | Pr | [Lien](#XXI)
-A | XXII. | Le héros est secouru dans la poursuite | **secours** | Rs | [Lien](#XXII)
-A | XXIII. | Le héros, sous une forme non reconnaissable, arrive chez lui ou dans un autre pays | **arrivé non reconnu** | o | [Lien](#XXIII)
-A | XXIV. | Un faux héros présente des demandes infondées | **demandes infondées** | L | [Lien](#XXIV)
-A | XXV. | Une tâche difficile est proposée au héros | **épreuve** | M | [Lien](#XXV)
-A | XXVI. | La tâche est accomplie | **solution** | N | [Lien](#XXVI)
-A | XXVII. | Le héros est reconnu | **reconnaissance**| Q | [Lien](#XXVII)
-A | XXVIII. | Le faux héros ou le méchant est découvert | **découverte** | Ex | [Lien](#XXVIII)
-A | XXIX. | On donne au héros une nouvelle apparence | **transfiguration** | T | [Lien](#XXIX)
-A | XXX. | Le méchant est puni | **punition** | U | [Lien](#XXX)
-A | XXXI. | Le héros se marrie et monte sur le trône | **mariage** | W | [Lien](#XXXI)
+| Phase | Etape   | Description                                                                                                                                         | Alias                                  | Symbole   | Lien            |
+|-------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----------|-----------------|
+| P     | I.      | Un des membres de la famille s'absente de la maison                                                                                                 | **absence**                            | &beta;    | [Lien](#I)      |
+| P     | II.     | On interdit quelque chose au héros                                                                                                                  | **interdiction**                       | &gamma;   | [Lien](#II)     |
+| P     | III.    | L'interdiction est violée                                                                                                                           | **violation**                          | &delta;   | [Lien](#III)    |
+| P     | IV.     | Le méchant cherche des indices (sous forme de question) (il vient en reconnaissance, dans le but d'obtenir des informations)                        | **reconnaissance**                     | &epsilon; | [Lien](#IV)     |
+| P     | V.      | Le méchant reçoit des informations sur sa victime                                                                                                   | **réception**                          | &zeta;    | [Lien](#V)      |
+| P     | VI.     | Le méchant tente de tromper la victime pour prendre possession de lui ou de ses affaires                                                            | **tromperie**                          | &eta;     | [Lien](#VI)     |
+| P     | VII.    | La victime se fait tromper et se aide involontairement son ennemi                                                                                   | **complicité**                         | &theta;   | [Lien](#VII)    |
+| C     | VIII.   | Le méchant fait du mal ou blesse un membre de la famille                                                                                            | **infamie**                            | A         | [Lien](#VIII)   |
+| C     | VIIIa.  | Un membre de la famille soit manque de quelque chose, soit désire quelque chose                                                                     | **manque**                             | a         | [Lien](#VIIIa)  |
+| C     | IX.     | La mauvaise fortune ou le manque devient connu : le héros est approché avec une requête ou une commande ; il est autorisé à partir ou il est envoyé | **médiation (incident de transition)** | B         | [Lien](#IX)     |
+| C     | X.      | Le quêteur accepte ou décide d'une réaction                                                                                                         | **début de réaction**                  | C         | [Lien](#X)      |
+| C     | XI.     | Le héros quitte la maison                                                                                                                           | **départ**                             | &uarr;    | [Lien](#XI)     |
+| A     | XII.    | Le héros est testé, interrogé, attaqué, etc., ce qui prépare la phase où il va recevoir un agent magique ou de l'aide                               | **fonction première du donneur**       | D         | [Lien](#XII)    |
+| A     | XIII.   | Le héros réagit aux actions du futur donneur                                                                                                        | **réaction du héros**                  | E         | [Lien](#XIII)   |
+| A     | XIV.    | Le héros acquiert l'usage d'un agent magique                                                                                                        | **réception d'un agent magique**       | F         | [Lien](#XIV)    |
+| A     | XV.     | Le héros est transféré, livré ou conduit dans les environs d'un objet lié à la recherche                                                            | **transport**                          | G         | [Lien](#XV)     |
+| A     | XVI.    | Le héros et le méchant se rejoignent pour un  combat                                                                                                | **combat**                             | H         | [Lien](#XVI)    |
+| A     | XVII.   | Le héros est marqué                                                                                                                                 | **marque**                             | J         | [Lien](#XVII)   |
+| A     | XVIII.  | Le méchant est vaincu                                                                                                                               | **victoire**                           | I         | [Lien](#XVIII)  |
+| A     | XIX.    | La mauvaise fortune initiale ou le manque sont résolus                                                                                              | **resolution**                         | K         | [Lien](#XIX)    |
+| A     | XX.     | Le héros revient                                                                                                                                    | **retour**                             | &darr;    | [Lien](#XX)     |
+| A     | XXI.    | Le héros est poursuivi                                                                                                                              | **poursuite**                          | Pr        | [Lien](#XXI)    |
+| A     | XXII.   | Le héros est secouru dans la poursuite                                                                                                              | **secours**                            | Rs        | [Lien](#XXII)   |
+| A     | XXIII.  | Le héros, sous une forme non reconnaissable, arrive chez lui ou dans un autre pays                                                                  | **arrivé non reconnu**                 | o         | [Lien](#XXIII)  |
+| A     | XXIV.   | Un faux héros présente des demandes infondées                                                                                                       | **demandes infondées**                 | L         | [Lien](#XXIV)   |
+| A     | XXV.    | Une tâche difficile est proposée au héros                                                                                                           | **épreuve**                            | M         | [Lien](#XXV)    |
+| A     | XXVI.   | La tâche est accomplie                                                                                                                              | **solution**                           | N         | [Lien](#XXVI)   |
+| A     | XXVII.  | Le héros est reconnu                                                                                                                                | **reconnaissance**                     | Q         | [Lien](#XXVII)  |
+| A     | XXVIII. | Le faux héros ou le méchant est découvert                                                                                                           | **découverte**                         | Ex        | [Lien](#XXVIII) |
+| A     | XXIX.   | On donne au héros une nouvelle apparence                                                                                                            | **transfiguration**                    | T         | [Lien](#XXIX)   |
+| A     | XXX.    | Le méchant est puni                                                                                                                                 | **punition**                           | U         | [Lien](#XXX)    |
+| A     | XXXI.   | Le héros se marrie et monte sur le trône                                                                                                            | **mariage**                            | W         | [Lien](#XXXI)   |
 
 <a name="prepa"></a>
 
@@ -424,226 +424,226 @@ Expéditeur | [médiation, B](#IX)
 
 ### TABLE I : La situation initiale
 
-| Etape | Sous-étape | Description |
-| ---|---|---|
-| 1. | - | Détermination spatio temporelle ("dans un certain royaume") |
-| 2. | - | Composition de la famille |
-| - | a. | selon la classification et le statut |
-| - | b. | selon les catégories de personnages (dramatis personae) (expéditeur, quêteur, etc.) |
-| 3. | - | Absence d'enfant. |
-| 4-5. | - | Prière pour la naissance d'un enfant |
-| - | 4. | forme de la prière |
-| - | 5. | motivation de la prière |
-| 6. | - | Cause de la grossesse |
-| - | a. | intentionnelle (un poisson a été mange, etc.) |
-| - | b. | accidentelle (un pois avalé, etc.) |
-| - | c. | forcée (une fille est enlevée par un ours, etc.). |
-| 7. | - | Forme de la naissance miraculeuse |
-| - | a. | d'un poisson et de l'eau |
-| - | b. | d'une cheminée |
-| - | c. | d'un animal |
-| - | d. | autre |
-| 8. | - | Prophéties, avertissements |
-| 9. | - | Bien-être avant les complications |
-| - | a. | fantastique |
-| - | b. | domestique |
-| - | c. | agraire |
-| - | d. | autres formes |
-| 10-15. | - | Le futur héro |
-| - | 10. | nomenclature, sexe |
-| - | 11. | croissance rapide |
-| - | 12. | connexion avec les cheminées, les cendres |
-| - | 13. | qualités spirituelles |
-| - | 14. | malice |
-| - | 15. | autres qualités |
-| 16-20. | - | Le futur faux-héros (du premier type ; un frère, une belle-sœur) |
-| - | 16. | nomenclature, sexe |
-| - | 17. | degré de parenté avec le héro |
-| - | 18. | qualités négatives |
-| - | 19. | qualités spirituelles en comparaison avec le héro (intelligent) |
-| - | 20. | autres qualités |
-| 21-23. | - | Dispute des frères sur la primauté |
-| - | 21. | forme de la dispute et sorte de solution |
-| - | 22. | éléments auxiliaires triplés |
-| - | 23. | résultat de la dispute |
+| Etape  | Sous-étape | Description                                                                         |
+|--------|------------|-------------------------------------------------------------------------------------|
+| 1.     | -          | Détermination spatio temporelle ("dans un certain royaume")                         |
+| 2.     | -          | Composition de la famille                                                           |
+| -      | a.         | selon la classification et le statut                                                |
+| -      | b.         | selon les catégories de personnages (dramatis personae) (expéditeur, quêteur, etc.) |
+| 3.     | -          | Absence d'enfant.                                                                   |
+| 4-5.   | -          | Prière pour la naissance d'un enfant                                                |
+| -      | 4.         | forme de la prière                                                                  |
+| -      | 5.         | motivation de la prière                                                             |
+| 6.     | -          | Cause de la grossesse                                                               |
+| -      | a.         | intentionnelle (un poisson a été mange, etc.)                                       |
+| -      | b.         | accidentelle (un pois avalé, etc.)                                                  |
+| -      | c.         | forcée (une fille est enlevée par un ours, etc.).                                   |
+| 7.     | -          | Forme de la naissance miraculeuse                                                   |
+| -      | a.         | d'un poisson et de l'eau                                                            |
+| -      | b.         | d'une cheminée                                                                      |
+| -      | c.         | d'un animal                                                                         |
+| -      | d.         | autre                                                                               |
+| 8.     | -          | Prophéties, avertissements                                                          |
+| 9.     | -          | Bien-être avant les complications                                                   |
+| -      | a.         | fantastique                                                                         |
+| -      | b.         | domestique                                                                          |
+| -      | c.         | agraire                                                                             |
+| -      | d.         | autres formes                                                                       |
+| 10-15. | -          | Le futur héro                                                                       |
+| -      | 10.        | nomenclature, sexe                                                                  |
+| -      | 11.        | croissance rapide                                                                   |
+| -      | 12.        | connexion avec les cheminées, les cendres                                           |
+| -      | 13.        | qualités spirituelles                                                               |
+| -      | 14.        | malice                                                                              |
+| -      | 15.        | autres qualités                                                                     |
+| 16-20. | -          | Le futur faux-héros (du premier type ; un frère, une belle-sœur)                    |
+| -      | 16.        | nomenclature, sexe                                                                  |
+| -      | 17.        | degré de parenté avec le héro                                                       |
+| -      | 18.        | qualités négatives                                                                  |
+| -      | 19.        | qualités spirituelles en comparaison avec le héro (intelligent)                     |
+| -      | 20.        | autres qualités                                                                     |
+| 21-23. | -          | Dispute des frères sur la primauté                                                  |
+| -      | 21.        | forme de la dispute et sorte de solution                                            |
+| -      | 22.        | éléments auxiliaires triplés                                                        |
+| -      | 23.        | résultat de la dispute                                                              |
 
 <a name="table2"></a>
 
 ### TABLE II : Section préparatoire
 
-| Etape | Sous-étape | Description |
-| ---|---|--- |
-| 24-26. | | Interdictions |
-| - | 24. | personne actrice |
-| - | 25. | contenu, forme de l'interdiction |
-| - | 26. | motivation de l'interdiction |
-| 27-29. | | Absence |
-| - | 27. | personne actrice |
-| - | 28. | forme de l'absence |
-| - | 29. | motivation de l'absence |
-| 30-32. | | Violation de l'interdiction
-| - | 30. | personne actrice |
-| - | 31. | forme de la violation |
-| - | 32. | motivation |
-| 33-35. | | Première apparition du méchant |
-| - | 33. | nomenclature |
-| - | 34. | type d'introduction dans le cours de l'action (apparaît de l'extérieur) |
-| - | 35. | détails de l'apparition (vole dans le salon) |
-| 36-38. | Interrogatoire, reconnaissance |
-| - | 36. | motivation |
-| - | 37. | nature de l'interrogatoire |
-| - | a. | le méchant pose des questions sur le héro |
-| - | b. | le héros pose des questions sur le méchant |
-| - | c. | autre |
-| - | 38.| éléments auxiliaires triplés |
-| 39. | | (vide) |
-| 40-42. | | Livraison |
-| - | 40. | une personne trahit |
-| - | 41. | formes de réponse au méchant (ou actes sans tact) |
-| - | a. | formes des réponses au héros |
-| - | b. | autres formes de réponse |
-| - | c. | livraison au travers d'actes sans tact |
-| - | 42. | éléments auxiliaires triplés |
-| - | 43. | Les tromperies du méchant |
-| - | a. | au travers de la persuasion |
-| - | b. | au travers de la magie |
-| - | c. | autres |
-| 44. | | Mauvaise fortune préliminaire dans l'argument trompeur |
-| - | a. | la mauvaise fortune est présente |
-| - | b. | la mauvaise fortune est provoquée par le méchant lui-même |
-| 45. | | Réaction du héros |
-| - | a. | à la persuasion |
-| - | b. | à l'usage de la magie |
-| - | c. | aux autres actes du méchant |
+| Etape  | Sous-étape                     | Description                                                             |
+|--------|--------------------------------|-------------------------------------------------------------------------|
+| 24-26. |                                | Interdictions                                                           |
+| -      | 24.                            | personne actrice                                                        |
+| -      | 25.                            | contenu, forme de l'interdiction                                        |
+| -      | 26.                            | motivation de l'interdiction                                            |
+| 27-29. |                                | Absence                                                                 |
+| -      | 27.                            | personne actrice                                                        |
+| -      | 28.                            | forme de l'absence                                                      |
+| -      | 29.                            | motivation de l'absence                                                 |
+| 30-32. |                                | Violation de l'interdiction                                             |
+| -      | 30.                            | personne actrice                                                        |
+| -      | 31.                            | forme de la violation                                                   |
+| -      | 32.                            | motivation                                                              |
+| 33-35. |                                | Première apparition du méchant                                          |
+| -      | 33.                            | nomenclature                                                            |
+| -      | 34.                            | type d'introduction dans le cours de l'action (apparaît de l'extérieur) |
+| -      | 35.                            | détails de l'apparition (vole dans le salon)                            |
+| 36-38. | Interrogatoire, reconnaissance |                                                                         |
+| -      | 36.                            | motivation                                                              |
+| -      | 37.                            | nature de l'interrogatoire                                              |
+| -      | a.                             | le méchant pose des questions sur le héro                               |
+| -      | b.                             | le héros pose des questions sur le méchant                              |
+| -      | c.                             | autre                                                                   |
+| -      | 38.                            | éléments auxiliaires triplés                                            |
+| 39.    |                                | (vide)                                                                  |
+| 40-42. |                                | Livraison                                                               |
+| -      | 40.                            | une personne trahit                                                     |
+| -      | 41.                            | formes de réponse au méchant (ou actes sans tact)                       |
+| -      | a.                             | formes des réponses au héros                                            |
+| -      | b.                             | autres formes de réponse                                                |
+| -      | c.                             | livraison au travers d'actes sans tact                                  |
+| -      | 42.                            | éléments auxiliaires triplés                                            |
+| -      | 43.                            | Les tromperies du méchant                                               |
+| -      | a.                             | au travers de la persuasion                                             |
+| -      | b.                             | au travers de la magie                                                  |
+| -      | c.                             | autres                                                                  |
+| 44.    |                                | Mauvaise fortune préliminaire dans l'argument trompeur                  |
+| -      | a.                             | la mauvaise fortune est présente                                        |
+| -      | b.                             | la mauvaise fortune est provoquée par le méchant lui-même               |
+| 45.    |                                | Réaction du héros                                                       |
+| -      | a.                             | à la persuasion                                                         |
+| -      | b.                             | à l'usage de la magie                                                   |
+| -      | c.                             | aux autres actes du méchant                                             |
 
 <a name="table3"></a>
 
 ### TABLE III : La complication
 
-| Etape | Sous-étape | Description |
-| ---|---|--- |
-| 46-51. | | Vilenie (infamie) |
-| - | 46. | personne active |
-| - | 47. | forme de la vilenie (ou désignation du manque) |
-| - | 48. | objet de l'influence du méchant (ou objet du manque) |
-| - | 49. | propriétaire de l'objet ou père de la personne capturée (ou personne qui réalise le manque, les manques ou la motivation de partir) |
-| - | 50. | motivation et but de la vilenie (ou forme de réalisation) |
-| - | 51. | forme de disparition du méchant (exemples: un dragon kidnappe la fille du tsar avec l'intention d'imposer un mariage, et il s'enfuit ; dans le cas des manques, le besoin du cerf à la ramure dorée pour le tsar dans le but de détruire le héros) |
-| 52-57.| |  Le moment de conjonction (B) |
-| - | 52. | personnage intermédiaire, expéditeur |
-| - | 53. | forme de la médiation |
-| - | 54. | personne à laquelle elle s'adresse |
-| - | 55. | dans quel but |
-| - | 56. | éléments auxiliaires triplés |
-| - | 57. | Comment l'intermédiaire entend parler du héros |
-| 58-60. | | L'entrée du quêteur ou du héros dans le conte |
-| - | 58. | nomenclature |
-| - | 59. | formes d'inclusion dans le cours de l'action |
-| - | 60. | particularités externes de l'apparition sur la scène |
-| - | 61. | Forme du consentement du héro |
-| - | 62. | Forme de l'arrivée du héros |
-| 63-66. | | Phénomène l'accompagnant |
-| - | 63. | menaces |
-| - | 64. | promesses |
-| - | 65. | équipement pour le voyage |
-| - | 66. | éléments auxiliaires triplés |
-| - | 67. | envoi du héros à sa destination en partant de chez lui |
-| 68-69. | | But du héros |
-| - | 68. | le but comme action (chercher, libérer, secourir) |
-| - | 69. | le but comme objet (une princesse, un étalon magique, etc.) |
+| Etape  | Sous-étape | Description                                                                                                                                                                                                                                        |
+|--------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 46-51. |            | Vilenie (infamie)                                                                                                                                                                                                                                  |
+| -      | 46.        | personne active                                                                                                                                                                                                                                    |
+| -      | 47.        | forme de la vilenie (ou désignation du manque)                                                                                                                                                                                                     |
+| -      | 48.        | objet de l'influence du méchant (ou objet du manque)                                                                                                                                                                                               |
+| -      | 49.        | propriétaire de l'objet ou père de la personne capturée (ou personne qui réalise le manque, les manques ou la motivation de partir)                                                                                                                |
+| -      | 50.        | motivation et but de la vilenie (ou forme de réalisation)                                                                                                                                                                                          |
+| -      | 51.        | forme de disparition du méchant (exemples: un dragon kidnappe la fille du tsar avec l'intention d'imposer un mariage, et il s'enfuit ; dans le cas des manques, le besoin du cerf à la ramure dorée pour le tsar dans le but de détruire le héros) |
+| 52-57. |            | Le moment de conjonction (B)                                                                                                                                                                                                                       |
+| -      | 52.        | personnage intermédiaire, expéditeur                                                                                                                                                                                                               |
+| -      | 53.        | forme de la médiation                                                                                                                                                                                                                              |
+| -      | 54.        | personne à laquelle elle s'adresse                                                                                                                                                                                                                 |
+| -      | 55.        | dans quel but                                                                                                                                                                                                                                      |
+| -      | 56.        | éléments auxiliaires triplés                                                                                                                                                                                                                       |
+| -      | 57.        | Comment l'intermédiaire entend parler du héros                                                                                                                                                                                                     |
+| 58-60. |            | L'entrée du quêteur ou du héros dans le conte                                                                                                                                                                                                      |
+| -      | 58.        | nomenclature                                                                                                                                                                                                                                       |
+| -      | 59.        | formes d'inclusion dans le cours de l'action                                                                                                                                                                                                       |
+| -      | 60.        | particularités externes de l'apparition sur la scène                                                                                                                                                                                               |
+| -      | 61.        | Forme du consentement du héro                                                                                                                                                                                                                      |
+| -      | 62.        | Forme de l'arrivée du héros                                                                                                                                                                                                                        |
+| 63-66. |            | Phénomène l'accompagnant                                                                                                                                                                                                                           |
+| -      | 63.        | menaces                                                                                                                                                                                                                                            |
+| -      | 64.        | promesses                                                                                                                                                                                                                                          |
+| -      | 65.        | équipement pour le voyage                                                                                                                                                                                                                          |
+| -      | 66.        | éléments auxiliaires triplés                                                                                                                                                                                                                       |
+| -      | 67.        | envoi du héros à sa destination en partant de chez lui                                                                                                                                                                                             |
+| 68-69. |            | But du héros                                                                                                                                                                                                                                       |
+| -      | 68.        | le but comme action (chercher, libérer, secourir)                                                                                                                                                                                                  |
+| -      | 69.        | le but comme objet (une princesse, un étalon magique, etc.)                                                                                                                                                                                        |
 
 <a name="table4"></a>
 
 ### TABLE IV : Donneurs
 
-| Etape | Sous-étape | Description |
-| ---|---|--- |
-| 70. | | Voyage de la maison au donneur |
-| 71-77. | | Les donneurs |
-| - | 71. | façon de l'inclure dans le conte, nomenclature |
-| - | 72. | domicile |
-| - | 73. | apparence physique |
-| - | 74. | particularités des apparences externes dans la scène |
-| - | 75. | autres attributs |
-| - | 76. | dialogue avec le héro |
-| - | 77. | Hospitalité montrée au héro |
-| - | 78. | Préparation à la transmission de l'agent magique |
-| - | a. | tâches |
-| - | b. | requêtes |
-| - | c. | escarmouche |
-| - | d. | autres formes, triplées |
-| 79. | | Réaction du héros |
-| - | a. | positive |
-| - | b. | négative |
-| 80-81. | | Provision |
-| - | 80. | ce qui est donné |
-| - | 81. | sous quelle forme |
+| Etape  | Sous-étape | Description                                          |
+|--------|------------|------------------------------------------------------|
+| 70.    |            | Voyage de la maison au donneur                       |
+| 71-77. |            | Les donneurs                                         |
+| -      | 71.        | façon de l'inclure dans le conte, nomenclature       |
+| -      | 72.        | domicile                                             |
+| -      | 73.        | apparence physique                                   |
+| -      | 74.        | particularités des apparences externes dans la scène |
+| -      | 75.        | autres attributs                                     |
+| -      | 76.        | dialogue avec le héro                                |
+| -      | 77.        | Hospitalité montrée au héro                          |
+| -      | 78.        | Préparation à la transmission de l'agent magique     |
+| -      | a.         | tâches                                               |
+| -      | b.         | requêtes                                             |
+| -      | c.         | escarmouche                                          |
+| -      | d.         | autres formes, triplées                              |
+| 79.    |            | Réaction du héros                                    |
+| -      | a.         | positive                                             |
+| -      | b.         | négative                                             |
+| 80-81. |            | Provision                                            |
+| -      | 80.        | ce qui est donné                                     |
+| -      | 81.        | sous quelle forme                                    |
 
 <a name="table5"></a>
 
 ### TABLE V : Depuis l'entrée chez la personne aidante jusqu'à la fin du premier mouvement
 
-| Etape | Sous-étape | Description |
-| ---|---|--- |
-| 82-89. | | L'aide (l'agent magique) |
-| - | 82. | nomenclature |
-| - | 83. | formes d'invocations |
-| - | 84. | façon de l'inclure dans le cours de l'action |
-| - | 85. | particularités de l'apparence dans la scène |
-| - | 86. | apparence physique |
-| - | 87. | localisation originale |
-| - | 88. | formation (apprivoisement) de l'aide |
-| - | 89. | sagesse de l'aide |
-| 90. | | Livraison à l'endroit choisi |
-| 91. | | Formes de l'arrivée |
-| 92. | | Détails des paramètres de l'objet recherché |
-| - | a. | demeure de la princesse |
-| - | b. | demeure du méchant |
-| - | c. | description du royaume lointain |
-| 93-97. | | Seconde apparition du méchant |
-| - | 93. | Façon de l'inclure dans le cours de l'action (il est recherché) |
-| - | 94. | apparence physique du méchant |
-| - | 95. | cortège |
-| - | 96. | particularités des apparences externes de la scène |
-| - | 97. | dialogue du méchant avec le héro |
-| 98-101. | Seconde (première dans le cas des manques) apparition de la princesse (ou de l'objet de la quête) |
-| - | 98. | Façon de l'inclure dans le cours de l'action |
-| - | 99. | apparence physique |
-| - | 100. | particularités d'apparence extérieure dans la scène (elle est assise sur la plage, etc.) |
-| - | 101. | dialogue |
-| 102-105. | | combat avec le méchant |
-| - | 102. | endroit pour le combat |
-| - | 103. | actions précédant le combat (faire de la place, etc.) |
-| - | 104. | formes du combat |
-| - | 105. | après le combat (crémation) |
-| 106-107. | | Marquage |
-| - | 106. | personnage |
-| - | 107. | manière |
-| 108-109. | | Victoire sur le méchant |
-| - | 108. | rôle du héros |
-| - | 109. | rôle de l'aide ; tripler |
-| 110-113. | Le faux héros (du second type) |
-| - | 110. | nomenclature |
-| - | 111. | formes de l'apparence dans la scène |
-| - | 112. | comportement durant la bataille |
-| - | 113. | dialogue avec la princesse, mensonges, etc. |
-| 114-119. | | Fin de la mauvaise fortune ou du manque |
-| - | 114. | interdiction de l'aide |
-| - | 115. | violation de l'interdiction |
-| - | 116. | rôle du héros |
-| - | 117. | rôle de l'aide |
-| - | 118. | moyens |
-| - | 119. | éléments auxiliaires triplés |
-| 120. | | Le retour |
-| 121-124. | La poursuite |
-| - | 121. | Formes de notification du méchant à propos de l'évasion |
-| - | 122. | Formes de la poursuite |
-| - | 123. | Notification du héros quant à la poursuite |
-| - | 124. | éléments auxiliaires triplés |
-| 125-127. | | Sauvetage de la poursuite |
-| - | 125. | la sauveteur |
-| - | 126. | les formes |
-| - | 127. | la chute du méchant |
+| Etape    | Sous-étape                                                                                        | Description                                                                              |
+|----------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 82-89.   |                                                                                                   | L'aide (l'agent magique)                                                                 |
+| -        | 82.                                                                                               | nomenclature                                                                             |
+| -        | 83.                                                                                               | formes d'invocations                                                                     |
+| -        | 84.                                                                                               | façon de l'inclure dans le cours de l'action                                             |
+| -        | 85.                                                                                               | particularités de l'apparence dans la scène                                              |
+| -        | 86.                                                                                               | apparence physique                                                                       |
+| -        | 87.                                                                                               | localisation originale                                                                   |
+| -        | 88.                                                                                               | formation (apprivoisement) de l'aide                                                     |
+| -        | 89.                                                                                               | sagesse de l'aide                                                                        |
+| 90.      |                                                                                                   | Livraison à l'endroit choisi                                                             |
+| 91.      |                                                                                                   | Formes de l'arrivée                                                                      |
+| 92.      |                                                                                                   | Détails des paramètres de l'objet recherché                                              |
+| -        | a.                                                                                                | demeure de la princesse                                                                  |
+| -        | b.                                                                                                | demeure du méchant                                                                       |
+| -        | c.                                                                                                | description du royaume lointain                                                          |
+| 93-97.   |                                                                                                   | Seconde apparition du méchant                                                            |
+| -        | 93.                                                                                               | Façon de l'inclure dans le cours de l'action (il est recherché)                          |
+| -        | 94.                                                                                               | apparence physique du méchant                                                            |
+| -        | 95.                                                                                               | cortège                                                                                  |
+| -        | 96.                                                                                               | particularités des apparences externes de la scène                                       |
+| -        | 97.                                                                                               | dialogue du méchant avec le héro                                                         |
+| 98-101.  | Seconde (première dans le cas des manques) apparition de la princesse (ou de l'objet de la quête) |                                                                                          |
+| -        | 98.                                                                                               | Façon de l'inclure dans le cours de l'action                                             |
+| -        | 99.                                                                                               | apparence physique                                                                       |
+| -        | 100.                                                                                              | particularités d'apparence extérieure dans la scène (elle est assise sur la plage, etc.) |
+| -        | 101.                                                                                              | dialogue                                                                                 |
+| 102-105. |                                                                                                   | combat avec le méchant                                                                   |
+| -        | 102.                                                                                              | endroit pour le combat                                                                   |
+| -        | 103.                                                                                              | actions précédant le combat (faire de la place, etc.)                                    |
+| -        | 104.                                                                                              | formes du combat                                                                         |
+| -        | 105.                                                                                              | après le combat (crémation)                                                              |
+| 106-107. |                                                                                                   | Marquage                                                                                 |
+| -        | 106.                                                                                              | personnage                                                                               |
+| -        | 107.                                                                                              | manière                                                                                  |
+| 108-109. |                                                                                                   | Victoire sur le méchant                                                                  |
+| -        | 108.                                                                                              | rôle du héros                                                                            |
+| -        | 109.                                                                                              | rôle de l'aide ; tripler                                                                 |
+| 110-113. | Le faux héros (du second type)                                                                    |                                                                                          |
+| -        | 110.                                                                                              | nomenclature                                                                             |
+| -        | 111.                                                                                              | formes de l'apparence dans la scène                                                      |
+| -        | 112.                                                                                              | comportement durant la bataille                                                          |
+| -        | 113.                                                                                              | dialogue avec la princesse, mensonges, etc.                                              |
+| 114-119. |                                                                                                   | Fin de la mauvaise fortune ou du manque                                                  |
+| -        | 114.                                                                                              | interdiction de l'aide                                                                   |
+| -        | 115.                                                                                              | violation de l'interdiction                                                              |
+| -        | 116.                                                                                              | rôle du héros                                                                            |
+| -        | 117.                                                                                              | rôle de l'aide                                                                           |
+| -        | 118.                                                                                              | moyens                                                                                   |
+| -        | 119.                                                                                              | éléments auxiliaires triplés                                                             |
+| 120.     |                                                                                                   | Le retour                                                                                |
+| 121-124. | La poursuite                                                                                      |                                                                                          |
+| -        | 121.                                                                                              | Formes de notification du méchant à propos de l'évasion                                  |
+| -        | 122.                                                                                              | Formes de la poursuite                                                                   |
+| -        | 123.                                                                                              | Notification du héros quant à la poursuite                                               |
+| -        | 124.                                                                                              | éléments auxiliaires triplés                                                             |
+| 125-127. |                                                                                                   | Sauvetage de la poursuite                                                                |
+| -        | 125.                                                                                              | la sauveteur                                                                             |
+| -        | 126.                                                                                              | les formes                                                                               |
+| -        | 127.                                                                                              | la chute du méchant                                                                      |
 
 <a name="table6"></a>
 
@@ -655,41 +655,48 @@ Depuis une nouvelle vilenie (A1 ou A2, etc.) à l'arrivée ; répétition de la 
 
 ### TABLE VII : Suite du second mouvement
 
-| Etape | Sous-étape | Description |
-| ---|---|--- |
-| 128. | | Arrivée incognito |
-| - | a. | à la maison avec entrée en service |
-| - | b. | à la maison sans entrée en service |
-| - | c. | dans un autre domaine du tsar |
-| - | d. | autres formes de dissimulation |
-| 129-131. | Réclamations non fondées du faux héros |
-| - | 129. | personne actrice |
-| - | 130. | formes de plaintes |
-| - | 131. | préparatifs de mariage |
-| 132-136. | | La tâche difficile |
-| - | 132. | La personne qui la définit |
-| - | 133. | motivation pour la personne qui la définit (maladie, etc.) |
-| - | 134. | motivation réelle pour la tâche (le désir de différencier le faux héros du vrai héros, etc.) |
-| - | 135. | contenu de la tâche |
-| - | 136. | éléments auxiliaires triplés |
-| 137-140. | | Accomplissement de la tâche |
-| - | 137. | dialogue avec l'aide |
-| - | 138. | rôle de l'aide |
-| - | 139. | forme de la solution |
-| - | 140. | éléments auxiliaires triplés |
-| 141-143. | | Reconnaissance |
-| - | 141. | moyens d'invoquer le vrai héro (faire une grande fête, faire le tour des mendiants, etc.) |
-| - | 142. | forme de l'apparence du héro dans la scène (au mariage, etc.) |
-| - | 143. | forme de la reconnaissance |
-| 144-146. | | Exposition |
-| - | 144. | personne qui expose |
-| - | 145. | manière d'exposer |
-| - | 146. | motivation de l'exposition |
-| 147-148. | | Transfiguration |
-| - | 147. | personnage |
-| - | 148. | manière de transfigurer |
-| 149-150. | | Punition |
-| - | 149. | personnage |
-| - | 150. | type de punition |
-| - | 151. | mariage |
+| Etape    | Sous-étape                             | Description                                                                                  |
+| ---      | ---                                    | ---                                                                                          |
+| 128.     |                                        | Arrivée incognito                                                                            |
+| -        | a.                                     | à la maison avec entrée en service                                                           |
+| -        | b.                                     | à la maison sans entrée en service                                                           |
+| -        | c.                                     | dans un autre domaine du tsar                                                                |
+| -        | d.                                     | autres formes de dissimulation                                                               |
+| 129-131. | Réclamations non fondées du faux héros |                                                                                              |
+| -        | 129.                                   | personne actrice                                                                             |
+| -        | 130.                                   | formes de plaintes                                                                           |
+| -        | 131.                                   | préparatifs de mariage                                                                       |
+| 132-136. |                                        | La tâche difficile                                                                           |
+| -        | 132.                                   | La personne qui la définit                                                                   |
+| -        | 133.                                   | motivation pour la personne qui la définit (maladie, etc.)                                   |
+| -        | 134.                                   | motivation réelle pour la tâche (le désir de différencier le faux héros du vrai héros, etc.) |
+| -        | 135.                                   | contenu de la tâche                                                                          |
+| -        | 136.                                   | éléments auxiliaires triplés                                                                 |
+| 137-140. |                                        | Accomplissement de la tâche                                                                  |
+| -        | 137.                                   | dialogue avec l'aide                                                                         |
+| -        | 138.                                   | rôle de l'aide                                                                               |
+| -        | 139.                                   | forme de la solution                                                                         |
+| -        | 140.                                   | éléments auxiliaires triplés                                                                 |
+| 141-143. |                                        | Reconnaissance                                                                               |
+| -        | 141.                                   | moyens d'invoquer le vrai héro (faire une grande fête, faire le tour des mendiants, etc.)    |
+| -        | 142.                                   | forme de l'apparence du héro dans la scène (au mariage, etc.)                                |
+| -        | 143.                                   | forme de la reconnaissance                                                                   |
+| 144-146. |                                        | Exposition                                                                                   |
+| -        | 144.                                   | personne qui expose                                                                          |
+| -        | 145.                                   | manière d'exposer                                                                            |
+| -        | 146.                                   | motivation de l'exposition                                                                   |
+| 147-148. |                                        | Transfiguration                                                                              |
+| -        | 147.                                   | personnage                                                                                   |
+| -        | 148.                                   | manière de transfigurer                                                                      |
+| 149-150. |                                        | Punition                                                                                     |
+| -        | 149.                                   | personnage                                                                                   |
+| -        | 150.                                   | type de punition                                                                             |
+| -        | 151.                                   | mariage                                                                                      |
+
+
+## Structure
+
+Ongoing works.
+
+![Structure](structure.png)
 

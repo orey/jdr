@@ -62,6 +62,8 @@ Mais aussi :
 
 * RPG Links - Liens JDR
 
+See also the =links.opml= consolidated feed file at the root of the repo.
+
 ** RPG sites and forums
 
 #+ATTR_HTML: :border 2 :rules all :frame border

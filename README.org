@@ -502,6 +502,8 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | *H*                                        |                                                                        |
 | Harry Potter JDR, un très beau travail     | https://www.geek-it.org/harry-potter-jdr                               |
 | Heroquest, un site de fan                  | https://www.heroquest-revival.com                                      |
+| *I*                                        |                                                                        |
+| Imaginos                                   | https://blogs.bl0rg.net/imaginos/                                      |
 | *M*                                        |                                                                        |
 | Maléfices vieux suppléments                | https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS          |
 | *O*                                        |                                                                        |

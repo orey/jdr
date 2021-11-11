@@ -489,6 +489,7 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | Le cénotaphe                               | http://casquenoir.free.fr/index.php                                    |
 | Créatures légendaires                      | https://fr.wikipedia.org/wiki/Liste_de_cr%C3%A9atures_l%C3%A9gendaires |
 | *D*                                        |                                                                        |
+| Blog de Jérôme Darmont                     | http://darmont.free.fr/                                                |
 | Discussions de Rôlistes Ouvertes et Libres | https://www.facebook.com/groups/254213402190606                        |
 | *E*                                        |                                                                        |
 | Echecs: Check & Strategy, site en français | https://www.chess-and-strategy.com                                     |
@@ -536,7 +537,8 @@ A explorer : Fiasco, Nephilim, Fudge.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                     | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+-------------------------------------------------------------+-------+-----+---------|
-| 2021 | Tunnels & Trolls 1e          | Heroic Fantasy   | Interesting                                                 | 4/5  | N   | N       |
+| 2021 | Modern AGE system            | Modern           | Ongoing                                                     | -     | N   | *Y*     |
+| 2021 | Tunnels & Trolls 1e          | Heroic Fantasy   | Interesting                                                 | 4/5   | N   | N       |
 | 2021 | Alternity 98                 | Modern (Generic) | A very good system abandonned by WotC for crappy D20 Modern | *5/5* | N   | *Y*     |
 | 2021 | The Esoterrorists 2e         | Modern           | The first Gumshoe system                                    | -     | N   | *Y*     |
 | 2021 | The Dragon                   | Press            | Old issues of The Dragon, in [[https://archive.org/details/DragonMagazine045_201903][archive.org]] (1-100 251-280)    | -     | -   | N       |

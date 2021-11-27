@@ -537,6 +537,7 @@ A explorer : Fiasco, Nephilim, Fudge.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                     | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+-------------------------------------------------------------+-------+-----+---------|
+| 2021 | Advanced Fighting Fantasy    | Heroic Fantasy   | To play with children                                       | -     | N   | *Y*     |
 | 2021 | Modern AGE system            | Modern           | Ongoing                                                     | -     | N   | *Y*     |
 | 2021 | Tunnels & Trolls 1e          | Heroic Fantasy   | Interesting                                                 | 4/5   | N   | N       |
 | 2021 | Alternity 98                 | Modern (Generic) | A very good system abandonned by WotC for crappy D20 Modern | *5/5* | N   | *Y*     |

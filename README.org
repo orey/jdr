@@ -140,6 +140,8 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | Open D6                          | http://opend6.wikidot.com/                                                  | N   |
 | Osric RPG                        | https://www.knights-n-knaves.com                                            | Y   |
 | Osric RPG forums                 | https://www.knights-n-knaves.com/phpbb3/                                    | Y   |
+| *R*                              |                                                                             |     |
+| Runequest Wiki                   | https://rqwiki.chaosium.com/                                                |     |
 | *T*                              |                                                                             |     |
 | Trail of Cthulhu                 | http://site.pelgranepress.com/index.php/category/products/trail-of-cthulhu/ | N   |
 | *W*                              |                                                                             |     |
@@ -437,22 +439,27 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 ** Tools
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Tool                                         | Site                             |
-|----------------------------------------------+----------------------------------|
-| *Numbers*                                    |                                  |
-| D20 Random Dungeon Generator and other tools | http://donjon.bin.sh/d20/dungeon |
-| *A*                                          |                                  |
-| All dice statistics                          | https://anydice.com/             |
-| *B*                                          |                                  |
-| Bookshelf-Based Random Adventure Generator   | [[http://2ndage.blogspot.com/2012/12/bookshelf-based-random-adventure.html][http://2ndage.blogspot.com/]]      |
-| *F*                                          |                                  |
-| Fantasy name generator                       | [[https://critical-hits.com/ch-presents/fantasy-name-generator/][https://critical-hits.com/]]       |
-| *G*                                          |                                  |
-| Great site on probabilities                  | https://anydice.com              |
-| *P*                                          |                                  |
-| Purple Sorcerer, tools for DCC               | https://purplesorcerer.com/      |
-| *W*                                          |                                  |
-| Worldographer                                | https://worldographer.com        |
+| Tool                                         | Site                                                                     |
+|----------------------------------------------+--------------------------------------------------------------------------|
+| *Online dice*                                |                                                                          |
+| Online WotC dice rolls                       | https://www.wizards.com/dnd/dice/dice.htm                                |
+| *Numbers*                                    |                                                                          |
+| D20 Random Dungeon Generator and other tools | http://donjon.bin.sh/d20/dungeon                                         |
+| *A*                                          |                                                                          |
+| All dice statistics                          | https://anydice.com/                                                     |
+| *B*                                          |                                                                          |
+| Bookshelf-Based Random Adventure Generator   | [[http://2ndage.blogspot.com/2012/12/bookshelf-based-random-adventure.html][http://2ndage.blogspot.com/]]                                              |
+| *F*                                          |                                                                          |
+| Fantasy name generator                       | [[https://critical-hits.com/ch-presents/fantasy-name-generator/][https://critical-hits.com/]]                                               |
+| *G*                                          |                                                                          |
+| Great site on probabilities                  | https://anydice.com                                                      |
+| *P*                                          |                                                                          |
+| Purple Sorcerer, tools for DCC               | https://purplesorcerer.com/                                              |
+| *R*                                          |                                                                          |
+| Method for random scenario generation        | http://2ndage.blogspot.com/2012/12/bookshelf-based-random-adventure.html |
+| (In French)                                  | http://loukoum.online.fr/jdr/adj/gianni1.htm                             |
+| *W*                                          |                                                                          |
+| Worldographer                                | https://worldographer.com                                                |
 
 ** Podcasts and videos
 
@@ -483,34 +490,35 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 ** Sites de jeux en français
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Type                                       | Site                                                                   |
-|--------------------------------------------+------------------------------------------------------------------------|
-| *C*                                        |                                                                        |
-| Le cénotaphe                               | http://casquenoir.free.fr/index.php                                    |
-| Créatures légendaires                      | https://fr.wikipedia.org/wiki/Liste_de_cr%C3%A9atures_l%C3%A9gendaires |
-| *D*                                        |                                                                        |
-| Blog de Jérôme Darmont                     | http://darmont.free.fr/                                                |
-| Discussions de Rôlistes Ouvertes et Libres | https://www.facebook.com/groups/254213402190606                        |
-| *E*                                        |                                                                        |
-| Echecs: Check & Strategy, site en français | https://www.chess-and-strategy.com                                     |
-| Empire Galactique JDR, un classique        | https://sites.google.com/site/empiregalact                             |
-| Epées et Sorcellerie JDR                   | https://sites.google.com/site/wizardinabottle/epeesetsorcellerie       |
-| *F*                                        |                                                                        |
-| Une traduction française du RPG "FU"       | https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/               |
-| *G*                                        |                                                                        |
-| Giannirateur de scénarios                  | http://loukoum.online.fr/jdr/adj/gianni1.htm                           |
-|                                            | http://loukoum.online.fr/jdr/scenars/defi2012.htm#47                   |
-| *H*                                        |                                                                        |
-| Harry Potter JDR, un très beau travail     | https://www.geek-it.org/harry-potter-jdr                               |
-| Heroquest, un site de fan                  | https://www.heroquest-revival.com                                      |
-| *I*                                        |                                                                        |
-| Imaginos                                   | https://blogs.bl0rg.net/imaginos/                                      |
-| *M*                                        |                                                                        |
-| Maléfices vieux suppléments                | https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS          |
-| *O*                                        |                                                                        |
-| Osric JDR                                  | https://osric.fr                                                       |
-| *V*                                        |                                                                        |
-| La voix d'Héort, ressources pour Glorantha | https://heort.wordpress.com/                                           |
+| Type                                       | Site                                                                        |
+|--------------------------------------------+-----------------------------------------------------------------------------|
+| *C*                                        |                                                                             |
+| Le cénotaphe                               | http://casquenoir.free.fr/index.php                                         |
+| Créatures légendaires                      | https://fr.wikipedia.org/wiki/Liste_de_cr%C3%A9atures_l%C3%A9gendaires      |
+| *D*                                        |                                                                             |
+| Blog de Jérôme Darmont                     | http://darmont.free.fr/                                                     |
+| Discussions de Rôlistes Ouvertes et Libres | https://www.facebook.com/groups/254213402190606                             |
+| *E*                                        |                                                                             |
+| Echecs: Check & Strategy, site en français | https://www.chess-and-strategy.com                                          |
+| Empire Galactique JDR, un classique        | https://sites.google.com/site/empiregalact                                  |
+| Epées et Sorcellerie JDR                   | https://sites.google.com/site/wizardinabottle/epeesetsorcellerie            |
+| *F*                                        |                                                                             |
+| Une traduction française du RPG "FU"       | https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/                    |
+| Faenix                                     | https://chezfaenyx.blogspot.com/2021/11/20-jeux-20-questions-episode-3.html |
+| *G*                                        |                                                                             |
+| Giannirateur de scénarios                  | http://loukoum.online.fr/jdr/adj/gianni1.htm                                |
+|                                            | http://loukoum.online.fr/jdr/scenars/defi2012.htm#47                        |
+| *H*                                        |                                                                             |
+| Harry Potter JDR, un très beau travail     | https://www.geek-it.org/harry-potter-jdr                                    |
+| Heroquest, un site de fan                  | https://www.heroquest-revival.com                                           |
+| *I*                                        |                                                                             |
+| Imaginos                                   | https://blogs.bl0rg.net/imaginos/                                           |
+| *M*                                        |                                                                             |
+| Maléfices vieux suppléments                | https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS               |
+| *O*                                        |                                                                             |
+| Osric JDR                                  | https://osric.fr                                                            |
+| *V*                                        |                                                                             |
+| La voix d'Héort, ressources pour Glorantha | https://heort.wordpress.com/                                                |
 
 ** Magazines en français
 

@@ -505,6 +505,7 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | *F*                                        |                                                                             |
 | Une traduction française du RPG "FU"       | https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/                    |
 | Faenix                                     | https://chezfaenyx.blogspot.com/2021/11/20-jeux-20-questions-episode-3.html |
+| Traduction française de Fudge              | http://fudge.ouvaton.org/                                                   |
 | *G*                                        |                                                                             |
 | Giannirateur de scénarios                  | http://loukoum.online.fr/jdr/adj/gianni1.htm                                |
 |                                            | http://loukoum.online.fr/jdr/scenars/defi2012.htm#47                        |
@@ -513,12 +514,18 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | Heroquest, un site de fan                  | https://www.heroquest-revival.com                                           |
 | *I*                                        |                                                                             |
 | Imaginos                                   | https://blogs.bl0rg.net/imaginos/                                           |
+| *K*                                        |                                                                             |
+| Koma JDR et autres jeux de Xavier Raoult   | http://komajdr.free.fr/?page_id=96                                          |
+| *L*                                        |                                                                             |
+| Les jeux d'Olivier Legrand                 | http://storygame.free.fr/                                                   |
 | *M*                                        |                                                                             |
 | Maléfices vieux suppléments                | https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS               |
 | *O*                                        |                                                                             |
 | Osric JDR                                  | https://osric.fr                                                            |
 | *V*                                        |                                                                             |
 | La voix d'Héort, ressources pour Glorantha | https://heort.wordpress.com/                                                |
+|                                            |                                                                             |
+
 
 ** Magazines en français
 
@@ -545,8 +552,11 @@ A explorer : Fiasco, Nephilim, Fudge.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                     | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+-------------------------------------------------------------+-------+-----+---------|
+| 2021 | Fudge                        | Generic system   | An impressive system. I particularly like the scales.       | -     | N   | *Y*     |
+| 2021 | [[http://komajdr.free.fr/fichiers/BiTs.rar][Bits ]]                        | Generic system   | In French, a one page generic system                        | -     | N   | N       |
+| 2021 | [[http://storygame.free.fr/][Trucs trop bizarres]]          | Modern kids      | In French, a very simple game system                        | 3/5   | N   | *Y*     |
 | 2021 | Advanced Fighting Fantasy    | Heroic Fantasy   | To play with children                                       | -     | N   | *Y*     |
-| 2021 | Modern AGE system            | Modern           | Ongoing                                                     | -     | N   | *Y*     |
+| 2021 | Modern AGE system            | Modern           | Ongoing                                                     | -     | N   | Later   |
 | 2021 | Tunnels & Trolls 1e          | Heroic Fantasy   | Interesting                                                 | 4/5   | N   | N       |
 | 2021 | Alternity 98                 | Modern (Generic) | A very good system abandonned by WotC for crappy D20 Modern | *5/5* | N   | *Y*     |
 | 2021 | The Esoterrorists 2e         | Modern           | The first Gumshoe system                                    | -     | N   | *Y*     |

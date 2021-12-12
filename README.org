@@ -45,6 +45,7 @@ Please explore the folders / N'hésitez pas à explorer les dossiers.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | JDR-RPG             | Type             | Livrable                           | Format | Commentaire                                         |
 |------+---------------------+------------------+------------------------------------+--------+-----------------------------------------------------|
+| 2021 | Fudge               | JDR              | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge en une page]]                  | PDF    | Traduction originale                                |
 | 2021 | [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][Fighting Fantasy VF]] | JDR              | [[https://github.com/orey/jdr/blob/master/FightingFantasys-fr/FightingFantasy-VersionFrancaise-OreyJdr02.pdf][Fighting Fantasy Version Française]] | PDF    | Traduction et adaptation originale                  |
 | 2021 | Tous                | Aide de jeu      | [[https://github.com/orey/jdr/blob/master/G%C3%A9n%C3%A9rateurLabyrinthe/GenerateurDeLabyrinthe-OreyJdr01.pdf][Générateur de labyrinthe pour JDR]]  | PDF    | Traduction et adaptation originale                  |
 | 2021 | [[https://github.com/orey/jdr/tree/master/DungeonSquad-fr][DungeonSquad! VF]]    | JDR pour enfants | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]]    | PDF    | Traduction et adaptation originale                  |
@@ -552,7 +553,7 @@ A explorer : Fiasco, Nephilim, Fudge.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                     | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+-------------------------------------------------------------+-------+-----+---------|
-| 2021 | Fudge                        | Generic system   | An impressive system. I particularly like the scales.       | -     | N   | *Y*     |
+| 2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An impressive system. I particularly like the scales.       | *5/5* | N   | *Y*     |
 | 2021 | [[http://komajdr.free.fr/fichiers/BiTs.rar][Bits ]]                        | Generic system   | In French, a one page generic system                        | -     | N   | N       |
 | 2021 | [[http://storygame.free.fr/][Trucs trop bizarres]]          | Modern kids      | In French, a very simple game system                        | 3/5   | N   | *Y*     |
 | 2021 | Advanced Fighting Fantasy    | Heroic Fantasy   | To play with children                                       | -     | N   | *Y*     |

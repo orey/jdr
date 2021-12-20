@@ -1,6 +1,6 @@
-* Fudge settings
+** Fudge settings
 
-** Fudge Dungeon Crawl
+*** Fudge Dungeon Crawl
 
-[[FudgeDungeanCrawl.org][Fudge Dungeon Crawl]]
+[[FudgeDungeonCrawl.org][Fudge Dungeon Crawl]]
 

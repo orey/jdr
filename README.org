@@ -188,7 +188,7 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | *B*                                                                    |                                                                                                    |     |
 | https://backtothedungeon.blogspot.com                                  | BACK TO THE DUNGEON!                                                                               |     |
 | https://basicredrpg.blogspot.com                                       | Tables, wacky fluff, etc.                                                                          | Y   |
-| https://batintheattic.blogspot.com                                     | Bat in the Attic                                                                                   |     |
+| https://batintheattic.blogspot.com                                     | Bat in the Attic with a lot of [[https://batintheattic.blogspot.com/p/stuff-in-attic.html][stuff]] to download                                                   |     |
 | https://bdsmrpg.blogspot.com                                           | Metal inspired fantasy content.                                                                    | Y   |
 | https://beyondtheblackgate.blogspot.com                                | Beyond the Black Gate                                                                              |     |
 | https://bxblackrazor.blogspot.com                                      | B/X Black Razor                                                                                    |     |

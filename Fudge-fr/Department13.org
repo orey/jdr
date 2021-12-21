@@ -133,7 +133,13 @@ Sofia loves to hang out with Alex and Candice and wants to be best-buds. Smith, 
 | Charm       | Fair  |
 
 ***** Antony Brown
-/"It's no big deal." "You took off its head with a hubcap!" "Okay, so I just put a little english on it..."/ -- Anthony and Candice
+/"It's no big deal."/
+
+/"You took off its head with a hubcap!"/
+
+/"Okay, so I just put a little english on it..."/
+
+-- Anthony and Candice
 
 Anthony is a natural-born demon hunter (see Forces of Light). He grew up in an orphanage and never knew who, or what, his parents were. When he was twelve, he ran away from the orphanage and lived on the streets, hunting vampires until Department 13 recruited him.
 
@@ -207,7 +213,11 @@ If you want something more complex, dig deeper, and you'll find that the Martin 
 
 *** The Lab
 
-/Oh, I'll just run this through the DNA analyzer and we'll have your results in a jiffy! ... We have a DNA analyzer?! Nah. I'm really going to let Bruno sniff both samples, and if he thinks they're from the same person, he'll bark twice./ -- Jenkins and Alex
+/Oh, I'll just run this through the DNA analyzer and we'll have your results in a jiffy!/
+
+/... We have a DNA analyzer?!/
+
+/Nah. I'm really going to let Bruno sniff both samples, and if he thinks they're from the same person, he'll bark twice./ -- Jenkins and Alex
 
 While they may not have the latest in fancy crime-fighting equipment, the Department does have a basic laboratory with enough equipment to analyze blood samples, identify common materials, do basic forensics work, and generally get annoyed at not having enough fancy equipment.
 
@@ -293,6 +303,17 @@ Calling upon a greater demon always involves a long and complicated ritual. But 
 Any moderately powerful magic takes time, a ritual, the proper components, and often more than one witch.
 
 See the sample spells later in this article.
+
+| *Gamemastering Magic*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| The first rule is that magic should be risky, both in the short term and the long term. Every successful casting risks a loss of Light, the basic force of goodness in the soul.                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| The second rule is that magic is unreliable, unpredictable, and downright under the GM's control. Use magic to make the story more interesting, not to let the players short-circuit the story.                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| To cast a spell, the witch must know (or develop) the proper ritual, have at hand the necessary components, call upon an appropriate power, and then force, coerce or bargain with that power to grant the desired spell.                                                                                                                                                                                                                                                                                                                                                                                       |
+| If the witch doesn't get some portion of the spell correct, such as working from an inaccurate or damaged copy of the instructions, or a component was left out or substituted, there is the possibility that the spell will simply fail. This usually has no effect, but the GM may apply some minor backfire effect if desired. (This is especially encouraged if the players need reminding that magic is dangerous.) If there is the possibility of the spell being performed improperly, the witch may make a roll against her Magic skill to detect and correct for the mistake.                          |
+| Once it is determined that the casting has been performed properly, the witch has made contact with the desired entity and must make a Willpower roll against the difficulty of the spell. When using spirits, this reflects the willfulness of the spirits; the witch literally bends them to her will. In the case of greater demons, it's not a matter of having a stronger will than the demon, it's a matter of having the willpower to control the energy granted. (A spell's difficulty is set by the gamemaster using whatever manner of determination he desires. Just don't make any magic too easy.) |
+| If the spell fails at this stage, bad things are likely to happen. The spell may backfire with minor to terrible results. The spirits or demon's power may run amok or turn on the caster. The more powerful the spell, the more dangerous will its backlash be.                                                                                                                                                                                                                                                                                                                                                |
+| If the Willpower roll is successful, the spell goes off more or less as planned. The exact effects of a spell are under GM control. Both spirits and demons are mischevious, and the witch cannot count on everything going exactly as expected.                                                                                                                                                                                                                                                                                                                                                                |
+| In either case, successful Willpower roll or not, the witch must make a Light roll against the difficulty of the spell. If this roll fails, she permanantly loses one level of Light. (This effect does not occur if the spell was simply cast incorrectly. It is willing contact with Dark forces that cause loss of Light.)                                                                                                                                                                                                                                                                                   |
+| Magic should be handled in a very freeform manner. While witches may develop a few quick-cast spells for combat, most spells will be of specialized nature and not see repetitive use.                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
 

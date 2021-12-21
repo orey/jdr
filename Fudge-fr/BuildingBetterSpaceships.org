@@ -1,0 +1,230 @@
+* Building the Better Spaceship
+
+by Elliot Schutjer
+
+-------------
+
+What do you think when you think of the science fiction genre? Do you think of strange alien cultures? Do you think of dashing heroes fighting space pirates? Do you think of wondrous new technology? Well, I do and I also like having these things in my Fudge games.
+
+But, how do we get to these strange new alien cultures and fearsome space pirates? How do we showcase amazing technological achievements? The answer is a staple of science fiction: the spaceship. The spaceship is present in one form or another in almost every popular sci-fi setting, from Star Wars to Transhuman Space.
+
+You'll notice that I use the phrase Starship, Spaceship, Spacecraft and Ship interchangeably throughout the article; this is done for clarity and adaptability.
+
+* What is a Spaceship?
+
+Simply put, a spaceship is a vehicle that lets people traverse the lonely void beyond the sky. This is a rather boring definition, as it is way too broad. Science fiction has been around a long time and so have science fiction roleplaying games, the image conjured up by the word spaceship has changed through the years.
+
+In the novel The War of the Worlds, H.G Wells envisioned Martians invading the Earth. They came in metal cylinders that fell to earth like meteors. These early spaceships were propelled not by an engine; instead, the cylinders were shot out of a giant Martian cannon, aimed at the earth by some malevolent intelligence.
+
+Of course, this fanciful tale of Martian invasion was written in 1898. Attitudes towards spaceships and space travel have changed a lot in the last century. Early science fiction stories brought people all around the world to sit near to their radios to listen to the exploits of their favorite pulp heroes flying a rocket ship around the solar system. In the middle of the century, attitudes began to shift again; science fiction became more and more popular as the Earth entered its own space age. The rocket ships were replaced by the fanciful starships of Star Trek and then the vicious dog-fighting spacecraft of Star Wars. As the 20th century came to a close, we no longer have any dominate style. We have rocket ships, we have star cruisers, and we have all this and more.
+
+* Attributes for Spaceships
+
+Like the characters that use them, spaceships will be represented with Attributes to measure their capabilities. All starships have 2 primary Attributes, Hull Strength and Scale, although only Hull Strength works the way a normal attribute for a character does.
+
+** Hull Strength
+
+This is a measure of the ship's durability, similar to a character's Damage Capacity. Subtract this number from all damage taken or add to the damage suffered if the Trait Level is negative. You may also need to make Hull Strength rolls when encountering dangerous cosmological phenomena or any other time that the ship's structural integrity is being threatened.
+
+** Scale
+
+A number between 0 and 10 which represents the size of your ship. Scale is provided in a simplified form over what is discussed in the rules provided in the Fudge rulebook and will be discussed in greater detail below.
+
+** Ship Gifts and Flaws
+
+In addition to Attributes, ships will often have Gifts to represent advanced capabilities and Flaws to depict any shortcomings. In general, a Gift should either grant a +1 bonus or a special ability. A Flaw should penalize an action with a -1 penalty or limit the craft in some other way.
+
+Gifts can also represent certain things that are rare in the setting, such as hyperspace drives or other forms of advanced technology. The following is a list of Gift and Flaw examples:
+
+| Agile                     | The spacecraft is more agile then normal; it provides +1 to all evasion rolls or piloting rolls involving quick maneuvering.                                                                                            |
+| Faster-Than-Normal        | The spacecraft has better engines and travels faster than most ships of equal mass.                                                                                                                                     |
+| Sharp Sensors             | The spacecraft has a superior sensor array and can see things much better. This adds +1 to all sensor and detection rolls.                                                                                              |
+| Heavy Armor               | This adds +1 to Hull Strength for the purpose of damage resistance.                                                                                                                                                     |
+| Junker                    | The ship is patched together with different parts and systems. When the ship takes damage a random, minor system may fail.                                                                                              |
+| Unusual Quantum Signature | The ship's quantum hyperspace drive attracts strange aliens that live between the realities of the universe. These strange aliens are a thorn in the side of the characters, a nuisance at best, and a menace at worst. |
+
+* Spaceship Combat
+
+Spaceship combat is the most rules intensive part of this article and will be detailed in full. This isn't to say that shooting plasma beams at each other is the end-all-be-all of spacecraft, but it does require more rules than fixing the engines, for example.
+
+The basics of ship combat are simple. One spaceship uses one of its weapons to try and hit another ship. The defending ship either evades the shot or is hit and takes damage. Larger ships are generally bulky and so difficult to maneuver they are easily hit by fighters and smaller ships.
+
+Each attack is handled in the following manner:
+
+| The attacker's 4dF rolls + Gunnery skill + any other applicable modifiers           |
+| vs.                                                                                 |
+| The defender's 4dF roll + Piloting skill + any Scale differences or other modifiers |
+
+Now, we should go into what all of those means.
+
+Attacker refers to the person doing the shooting. They may be sitting in an uncomfortable ball turret, directing the gun manually, or they may be sitting in the comfort of the ship's command area, controlling the gun through an advanced targeting computer.
+
+Defender refers to person piloting the other ship. In cases where there are a group of people piloting the spaceship (as may be the case in a huge capital ship), average the piloting skills of the characters involved.
+
+The gunnery and piloting skills refer to a character's skill with spaceship weapons (there may be several skills in your game) and moving the ship in combat, respectively.
+
+But, the most important thing that you must note is Scale. Scale is used a bit differently here than in the standard rules. Here it only refers to the size of the spaceship, but on a much more abstract level than in the standard rules. An exact size is not derived from a Scale rating and these ratings as they may vary from game to game, but a good rule of thumb is that every Scale is about 2 times larger then the Scale that preceded it. So, a Scale 3 corvette is twice as large as a Scale 2 courier spaceship, the corvette is 4 times larger then a Scale 1 heavy fighter and 8 times larger then a light fighter. Note that this breaks down at the higher Scales (near 8, 9 and 10) as spaceships will get extremely massive. I will provide examples for most Scales from popular culture in a minute.
+
+The Scale difference works like this: if your ship has a small Scale and you are shooting at something with a large Scale, your opponent subtracts the difference in Scale ratings from their Dodge rolls. On the other hand, if your ship has a large Scale compared to your opponent's ship, your opponent can add the Scale difference to their dodge rolls. This models smaller ships that are harder to hit than huge, lumbering vessels.
+
+Weapons will have a Scale rating as well. Most large capital ships will have an array of smaller weapons; usually scale 1 or 2, which can be used to target fighters and other smaller craft. In this case, you will use the Scale of a weapon in place of the ship's Scale when determining attack success and damage.
+
+*** Example Scales
+
+With this Scale system, the bottom end of the range has been set as a small, fighter spaceship.
+
+| Scale 0   | Light Fighter: A small agile fighter with few weapons and even less armor. The A-Wing from Star Wars is a good example, as are the 4 winged fighter ships from Babylon 5. Light fighters are usually piloted by one person, two at the very most.                                                                                                                                                          |
+| Scale 1   | Heavy Fighter or Small Shuttlecraft: Bigger than light fighters but still relatively small. Heavy fighters and shuttlecraft can only hold a few people.                                                                                                                                                                                                                                                    |
+| Scale 2   | Medium-sized Shuttlecraft, Courier or Scout Ship: Now you are getting out of tiny fighter territory and into true spaceships. This a fairly nice ship for a small player group, though it may not last long against much resistance in combat.                                                                                                                                                             |
+| Scale 3   | Corvette or Light Freighter: A true spaceship, the corvette is fairly large, but still not large enough to take on capital ships. The Millennium Falcon of Star wars is a good example of a ship this size. This is a great sized ship for player groups; it is big enough for most adventures, such as the exploration of planets or ferrying cargo, while not overwhelming in size, like a capital ship. |
+| Scale 4   | Large Corvette: Another good ship for player characters, much like Scale 3 except, well, bigger.                                                                                                                                                                                                                                                                                                           |
+| Scale 6   | Heavy Destroyer or Heavy Freighter: A dedicated capital ship, the heavy destroyer will have multiple weapon systems and will most likely be a difficult opponent in combat. A freighter will have a huge cargo bay in place of weapons.                                                                                                                                                                    |
+| Scale 8   | Bulk Freighter or Cruiser: The cruiser is a much bigger version of the destroyer, hosting many weapon systems and even a few fighter craft. Bulk freighters are huge vessels that are most likely the standard cargo carriers in the safe and secure regions of space.                                                                                                                                     |
+| Scale 10  | Dreadnought: These huge ships form the core of any fleet. Their massive weapon systems, almost impenetrable armor, and their army of soldiers stationed onboard make them a fortress in space.                                                                                                                                                                                                             |
+| Scale 11+ | Any Scale above 10 should be reserved for one-of-a-kind ships and super powered alien spaceships.                                                                                                                                                                                                                                                                                                          |
+
+*** Shooting Example
+
+Danzig, the ruthless space pirate, has cornered a light freighter in his space fighter. Danzig's custom fighter is Scale 0, while the larger and bulkier light freighter is Scale 3. As merciless as his reputation, Danzig shoots his fighter's laser cannon at the freighter. The laser cannon's Scale is the same as the fighter (Scale 0) and Danzig's gunnery skill is Great. On the receiving end of this attack is the crew of the light freighter Acton. Even with their sizable bulk in comparison to the fighter, they hope to avoid the laser with some fancy piloting. The pilot of the vessel has a skill of Good.
+
+Danzig's player rolls and gets a +1 result. He adds his gunnery skill of Great for a final result of +3. The pilot of the Acton tries to dodge, rolling a +3 on his dice, when added with his skill, results in a total of +4. But wait, since the Acton is much larger than Danzig's fighter, the pilot must subtract the Scale difference from his dodge roll. The difference is 3, lowering the Acton's final dodge result to +1. The ruthless Danzig has scored a hit.
+
+** Weapons damage
+
+Weapon damage is also handled a bit differently from character combat. Instead of adding a damage bonus to your threshold roll, you simply roll a die and add your skill level. The opponent then subtracts their defenses (armor, hull strength, etc) from the damage and applies the damage to their ship's wound track. Of course, bigger weapons will do more damage to smaller opponents and also do less damage to opponents in even larger ships. As a result, smaller defenders will subtract the Scale difference from their defenses and larger defenders will add the Scale difference to their defenses.
+
+Every weapon in this system will have an assigned die for the purposes of determining damage. Usually weapon ratings will range from 1d4 to 1d12, with 1d4, 1d6 and 1d8 being by far the most common. The specifics of these weapons will vary from setting to setting. In one setting, a laser cannon might do 1d6, while in another, it might be 1d8.
+
+The basic weapon damage roll is this:
+
+| Weapon's damage die result + Attacker's gunnery skill |
+| vs.                                                   |
+| Defender's Hull Strength + or - any Scale differences |
+
+After subtracting the defenders hull strength, Scale differences and any other modifiers, you apply that damage to the ship as if it were a character, using a Wound track. 1-2 is a Scratch on the armor, 3-4 is Damaged and -1 to most ship systems, 5-6 is Very Damaged and -2 to most ship systems, 7-8 Disables the ship until a Superb repair roll can made and finally, a 9+ result usually results in the ship being Destroyed. At this point, the ship may explode in a ball of flame, simply fall apart, or just shut down.
+
+Ships are hardier then characters and can take 4 Scratches, 2 Damaged results, 1 Very Damaged result and one Disabled result before being Destroyed.
+
+| 1, 2 | OOOO | Scratched         |
+| 3, 4 | OO   | Damaged (-1)      |
+| 5, 6 | O    | Very Damaged (-2) |
+| 7, 8 | O    | Disabled          |
+| 9+   | O    | Destroyed         |
+
+The combat system presented here differs from standard Fudge combat by separating armor and dodging, which the original combat system does not. In the original combat system, a small fighter would easily destroy a larger ship, since the larger ships scale would make it an easy target, giving the small fighter an incredible damage threshold. While you could argue that this is realistic, the system provided here emulates the reality of a large chunk of the science fiction genre.
+
+*** Damage Example
+
+In the earlier example, the pirate Danzig, piloting a space fighter, had just hit the light freighter Acton with a blast from his laser cannon. To calculate damage, Danzig's player rolls the laser cannon's damage dice (in this case 1d6) and adds Danzig's gunnery skill (+2), resulting in a total of 5 damage, a solid hit.
+
+The Acton has a hull strength of Mediocre, being a non-combat freighter, but it's still much bigger than the fighter. The Acton's hull strength (-1) is added to the Scale difference between the craft (3) for a total of 2 points of damage resistance (any armor plating or other defenses would also modify this number). The 2 pts is then subtracted from the laser cannon's 5 damage, causing 3 damage to the freighter. The freighter is now Damaged, which will cause a -1 penalty to most actions until the damage can be repaired. Things do not look good for the Acton.
+
+** Where does this break down?
+
+A simple system like Fudge cannot perfectly model reality, much less the whole range of reality found in science fiction settings. For this reason, starship combat breaks down in three ways. Two of the ways involve Scale and the third applies to almost all spaceship combat systems in almost every role-playing game on the market.
+
+Scale is, in my opinion, the most complicated concept in these rules. You add the difference to your dodge rolls if you're in a smaller ship, subtract it when you're in a larger craft, and then you reverse that mechanism when determining weapon damage. Weapons will sometimes have their own Scale, further complicating things! There are two main rule breaks in this system; the first is the relation between starship scale and character Scale, the second accommodating super massive spacecraft into the Scale system.
+
+Unlike the somewhat exacting Scale found in the Fudge rules which handle character size, the spaceship Scale system is much more abstract and arbitrary. I did this intentionally so that the system could accommodate many different sizes and shapes of spacecraft. But, as a consequence, it then becomes difficult to determine what happens when a spaceship Scale weapon hits a character Scale person or object. Since characters rarely get hit by spaceship weapons, most of the time this isn't a problem. A Game Master could simply count the character as dead or mortally wounded. Or, a Game Master could simply add 4 to the spaceship scale to convert it to character scale.
+
+Scale also becomes an issue when trying to accurately model ships that operate on a truly massive scale, such as a 5 mile long battle-cruiser. Should it be rated as Scale 10, 20, or even 30? If it is determined to be Scale 20 (or around that area), it will be almost completely impervious to damage. To fix this, you might say that any ship approaching the higher levels of the Scale range, such as the 5 mile battle cruiser, is made up of a number of individual sections, all of which are Scale 10. Fighters and other ships would only be able to inflict damage by targeting these smaller sections of the huge vessel.
+
+Lastly, Scale also comes into play when attempting to role-playing starship combat. Simply put, large capital ships are going to have dozens and dozens of weapons, making attack rolls cumbersome and impractical, especially for a system as freeform as Fudge, turning an encounter into a wargrame. When dealing with NPCs, this issue can usually be glossed over, but with PCs thrown into the mix, there will often be more demand for the specific effects of each weapon.
+
+Unfortunately, there aren't many ways of getting around this problem. As a Game Master, you could simply keep such ships out of the hands of the players and limit their appearance as adversaries. Alternatively, you could cut the amount of guns on a capital ship by 4 or more, ruling that the arc of fire on each gun (or turret) limits the total number of weapons that can be brought to bear on any one foe.
+
+* Faster-than-light Travel
+
+Do your spaceships have faster-than-light drives; engines which allow them to quickly travel between star systems? Most star spanning games have these technological items in one form or another. The method used for FTL travel and its capabilities and idiosyncracies will most likely alter the entire structure of a universe, so it's important to really understand what sort of FTL travel you wish to have in a campaign and how it will impact the galaxy you have designed. I have a few examples below.
+
+** Wormholes
+
+Wormholes are holes in the fabric of space and time that lead to other places. A ship would simply have to go into the wormhole and it would reappear somewhere else. Most wormholes will be static and unchanging, always going to the same place. However, some wormholes could change their openings and closing from time to time. Entire networks of worlds could be bounded together by a web of wormholes.
+
+Using wormholes as the primary FTL in your campaign has several advantages associated with it. A network of worlds connected by wormholes make mapping the campaign universe a lot easier, since you must detail only the worlds included in this network. This also makes it easier for you to restrict the setting by setting boundaries.
+
+Wormholes are a good choice for FTL travel in a hard science fiction setting, since they only sort of break the laws of reality.
+
+Of course, using wormholes will also change the structure of a campaign. The wormholes in most systems will be guarded heavily. Don't expect Captain Beef Wallop and his ragtag band to be able to escape the home planet of tyrannical space lizards when those same space lizards have a few dozen capital ships guarding the only way in or out of the system.
+
+Also, having a static network of wormholes, especially a small number, makes the campaign rather closed. This can be a boon for an inexperienced GM, but it can also hinder creativity, as all the planets that can be encountered in the game must be part of a network. There are many ways around this, such as people being able to discover new wormholes, or civilizations possibly learning how to create new wormholes to expand their reach into the stars (this applies to permanent wormholes, ships that simply create their own wormholes should just use the hyperdrive guidelines).
+
+** Hyperdrives
+
+This type of faster-than-light travel focuses on engines which enable spaceships to travel faster then the speed of light, either by bending space, tearing a hole in space, or by just bypassing the entire issue of the light barrier by flinging the spaceship into a different dimension. Many popular science fiction settings use these sorts of engines as this design allows for very wide open settings. A ship can get almost anywhere while still maintaining some suspension of disbelief.
+
+There are, however, a few down sides to the hyperdrive and its ilk. The first is the fact that the setting becomes very open, even infinite. It is quite easy for the players to go to unknown and undefined areas, forcing the GM to think on her toes while maintaining the overall feel of her universe. The GM will most likely have to set limits on these kinds of engines to restrain the reach of the players (like fuel, time to operation and other things of that nature).
+
+** Old Timey and Miscellaneous Types of FTL
+
+This is a somewhat catchall category for things that simply don't fit in the two categories provided above. The two big ones are simply getting rid of the light barrier and using generational spaceships.
+
+Simply doing away with the "light barrier" is the FTL travel method often overlooked in today's science fiction games. In the olden days of science fiction, many writers didn't see why there had to be a speed limit in space, and so they simply presented their stories without any limits on space travel. Your ship goes as fast you can make it go. I would advise against putting this in anything but an old time space opera game, but it is still a nice change of pace for some games.
+
+A generational spaceship, on the other hand, does not actually travel at faster-than-light speeds. It is simply a huge ship, packed with people (sometimes held in suspended animation), that makes a slow, lonely journey between the stars at slower-than-light speeds. On the other hand, the spaceship could be going faster-than-light, but even traveling at such speeds could seem quite slow depending on the destination of the ship.
+
+* What Kind Of Game Do You Want?
+
+In a science fiction adventure, featuring lots of spaceships, it should come as no surprise that those spaceships will help define the setting in the minds of the players. Therefore, it is of the utmost importance that you design the spaceships used in your campaign setting with care.
+
+I will outline three major styles of spaceships and discuss the ways in which their "technology" affects the setting. These three styles only scratch the surface on what is possible; you can mix and match them, create entirely new styles of spaceships, and modify other ideas to fit your own vision of the world of tomorrow. The three styles discussed here are Old Timey, Realistic, and finally, Space Opera.
+
+Old Timey is likely the least realistic of the three styles presented here. Based on the old radio plays and comic books of the 1920s and beyond, spaceships are most often described as actual rockets, flying through space on kerosene or other fuels.
+
+The advantage of this style is that you can throw realism to the wind and concentrate on telling an exciting story. Another advantage is that most of the ships in the Old Timey style are usually about the same size, which will make combat a little easier. Armed with death rays and atomic warp engines, the rocket ships of yesteryear fly into the present.
+
+The Realistic style is quite the opposite of the Old Timey style. The Realistic style strives to emulate what might be, the speculative fiction of the present. The spaceships of the Realistic style are not flashy and they are usually fairly small. Typically, this kind of campaign tone doesn't allow for settings with faster-than-light travel, but if FTL is an option, then it too lacks the flash of the other styles. Combat usually involves long ranged lasers, projectile guns, and guided missiles.
+
+The watchword of the Realistic style is mundane. The main advantage of the style is that is presents a fairly believable universe, populated by fairly believable things. Another advantage is eerily reminiscent of the Old Timey style: most of the ships are relatively small and most of them will be fairly similar in size.
+
+In between these two extremes we find the style used in most popular science fiction: Space Opera. Ships can be of wildly different sizes and science can be stretched as far as you want. A caravan of freighters warping through a nebula, being chased by pirate destroyers, is a good example of the style. Fighters swooping through space and strafing larger ships with their particle blasters are also good examples.
+
+The advantage of this style is that you can include pretty much anything. While a broken down, rusty merchant vessel might be out of place in the Old Timey style, it would fit right into the Space Opera style. While a 300 mile wide alien city ship would completely wreak the mood of a Realistic style game, it would be perfectly at home in the Space Opera style.
+
+* Tricks and Tips
+
+Don't be afraid to think really big in regards to spaceships, especially if your characters will never be getting any of the truly huge craft. Want an 800 mile long battle cruiser that patrols the wormhole near the edge of the solar system? There isn't much stopping you if you want to put this big honking ship in your campaign. So, don't be afraid to go overboard, especially if its a cinematic, space opera game.
+
+Space monsters and space storms always spice up a dull voyage when they are used. This one may not work in most Realistic or even some Space Opera games, but it is fun when you can include them without disrupting the mood. You may have asteroid-eating worms the size of cities floating around in the void, or evil, dragon-like abominations that dwell in between reality in hyperspace. Space storms can also work well, although you may have to dress them up a little, calling them tachyon storms or something. These storms might just rock the boat or they could fling the ship into a whole different dimension. Another natural hazard could be black holes, collapsed stars that are so massive that even light cannot escape their grasp. Plus, nothing is stranger than when a lone science outpost radios into headquarters that a strange disc has been ejected by a black hole, then the outpost radio goes dead.
+
+A good name is sometimes worth more then hundreds of words of background. Good names are a must for people, spaceships, guns, engines and planets. Unless your players are more scientifically adept then usual, don't be afraid to simply take some cool sounding word and putting it in. Take the word ion for instance; all it means is an atom or a molecule with a net positive or negative charge. Now put it in front of the word Rifle and then add the word Phased to the mix. You now have a Phased Ion Rifle, a name that most likely doesn't mean anything, but it sounds real enough that players can debate the physics of it shortly after using it to blow up the creepy, slime aliens from beyond Jupiter. Try taking a sciencey sounding word and putting drive or engine after it, now you have the name of a spaceship engine. If you're doing a retro style game (such as the Old Timey style mentioned earlier), you may want to customize the names to reflect the time period. If the style and tone has been taken from the 30s, use Kerosene Engines and other things that sound like they may be from that era. If you move up the implied technology into a more 50s and 60s style, put Nuclear or Atomic in the names. Naming is extremely important and it will convey the feel of the setting just as well as any 600 mile long ship or artificial ring world will do.
+
+* Putting it all Together
+
+Cara has been putting off working on her game all week, but the players will be showing up soon and she has to think of a game to run. She knows she will be using the Fudge system and she knows the group wants to play in a space opera setting. For the last few weeks, Cara has run nothing but gritty cyberpunk games, so she has decided that she will run an epic space opera game for the group to mix things up a bit.
+
+She doesn't want to constrain herself with a restrictive setting, so she envisions the characters exploring a small nebula on the edge of known space, most likely in a mid-sized spaceship. She decides that the characters will be working for a far-ranging corporation known as Stella Collegium, but she doesn't have enough time to flesh out the entire corporation, so she will concentrate on the ship.
+
+Cara wants the players' ship to be small enough that will be awed by the wonders of the nebula, while still being big enough that they won't be trampled underfoot by them. She decides that their ship has a Scale of 3, about equal to a medium-sized corvette. She decides to increase the hull strength by 1 level since it is an exploratory ship in uncharted territory. Cara also adds a few gifts to individualize the ship and enforce the idea that it is an exploratory vessel. She adds Sharp Sensors and large amount of supplies. She also decides that the vessel will use a hyperspace-like engine called a Warp Shockwave Drive to propel the starship at faster-than-light speeds.
+
+| Name          |                          |
+| Type          | Explorer Vessel          |
+| Hull Strength | Good +1                  |
+| Scale         | 3                        |
+| Gifts         | Sharp Sensors            |
+|               | Lots of Supplies Weapons |
+
+Next, she gives the exploratory ship a few weapons. She decides that the ship will have a main gun mounted on a turret and 3 smaller weapons for dealing with marauding fighters. She makes up a nice Scale 3 weapon called a Plasma Ejector and assigns it a damage dice rating of 1d6. The other three weapons are small laser cannons that are only rated at a Scale of 0 and do 1d4 damage.
+
+Satisfied, Cara is ready to go, letting the players take on the responsibility of naming it. What will her players face tomorrow? Hostile robotic aliens from beyond reality? Nebula monsters lusting greedily after the sweet titanium treat floating through their territory?
+
+| Name          |                                             |
+| Type          | Explorer Vessel                             |
+| Hull Strength | Good +1                                     |
+| Scale         | 3                                           |
+| Gifts         | Sharp Sensors                               |
+|               | Lots of Supplies Weapons                    |
+| Weapons       | Main Plasma Ejector Turret: Scale 3 (1d6)   |
+|               | 3 Small Laser Cannon Turrets: Scale 0 (1d4) |
+
+* The Brave New World and the Ship of Tomorrow
+
+The Spaceship is a fundamental unit of the space going science fiction genre. It is the boat of tomorrow, the ship that will carry us into strange new lands. It is this exploration that makes the spaceship possible and it is this exploration that fuels us to journey into the brave new world.
+
+- Star Wars, characters, names, and all related indicia are trademarks of Lucasfilm, Ltd. . 2004 Lucasfilm, Ltd.
+- Babylon 5, characters, names, and all related indicia are trademarks of Time Warner Entertainment Co., LP. . 2004 Time Warner Entertainment Co.
+- Transhuman Space, characters, names, and all related indicia are trademarks of Steve Jackson Games. . 2004 Steve Jackson Games.
+- Star Trek, characters, names, and all related indicia are trademarks of Paramount Pictures. . 2004 Paramount Pictures.
+
+/(Source: The defunct [[http://web.archive.org/web/20071008190140/http://www.fudgefactor.org/2004/05/building-better-spaceship.html][fudgefactor.org]])/
+

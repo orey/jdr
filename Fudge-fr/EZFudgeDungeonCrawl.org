@@ -1,0 +1,243 @@
+* Fudge Dungeon Crawl
+by Tim Huntley
+
+Note from the editor: This page is a merge of two versions, one being on the defunct fudgefactor.org and the other being in the files coming from the Fudge community.
+
+---------------------------
+
+* Introduction
+
+Remember the days when a night of good RPG fun meant sitting around in a tavern until you were approached by a strange old man who needed the monsters cleared out of the dungeon just outside of town? Or, when the highlight of the game was defeating the dragon who claimed the 15th level of the dungeon as his lair?
+
+Well, those days are back! Welcome to Fudge Dungeon Crawl!
+
+* Characters
+
+Fudge Dungeon Crawl characters have 6 attributes:
+
+- Strength
+- Intelligence
+- Wisdom
+- Dexterity
+- Constitution
+- Charisma.
+
+Players should roll 4dF to randomly determine the trait level for each attribute; Legendary and Abysmal are not allowed and should be rerolled! However, should a character come out unplayable in the player's eyes, there is always a convenient volcano just outside of town for the character to jump into, allowing the player to roll up a new character.
+
+** Races
+
+Each player should pick a race for his character. The player's choice of race will confer certain skills and abilities onto the character. The available races are Human, Dwarf, Elf, and Halfling.
+
+*Human* : Humans are the base race from which all others are derived. Therefore, humans have no additional bonuses or penalties, aside of their unique ability to take on three classes if their attributes support them. Besides, humans receive what is indicated in the table below.
+
+| Human                 |    |
+|-----------------------+----|
+| Free attribute levels |  2 |
+| Free gifts            |  2 |
+| Skill points          | 10 |
+
+*Dwarf* : Dwarves are short, stout demi-humans with full beards and little to no sense of humor.
+
+| Dwarf        |                                    |
+|--------------+------------------------------------|
+| Attributes   | +1 to Constitution                 |
+|              | -1 to Charisma                     |
+| Gifts        | Dark Vision                        |
+|              | Resist Poison                      |
+|              | Resist Magic                       |
+|              | Detect Passage (and constructions) |
+| Fault        | Elf Animosity                      |
+| Skill points | 8                                  |
+
+*Elf* : Elves are lithe demi-humans with beautiful features and pointed ears.
+
+| Elf          |                        |
+|--------------+------------------------|
+| Attributes   | +1 to Dexterity        |
+|              | -1 to Constitution     |
+| Gifts        | Low-Light Vision       |
+|              | Long Sword Proficiency |
+|              | Long Bow Proficiency   |
+|              | Detect Hidden Doors    |
+| Fault        | Dwarf Animosity        |
+| Skill points | 8                      |
+
+*Halfling* : Halflings are small, good-natured demi-humans who tend to get along with everyone. 
+
+| Halfling     |                           |
+|--------------+---------------------------|
+| Attributes   | +1 to Dexterity           |
+|              | -1 to Strength            |
+| Gifts        | Sneaky                    |
+|              | Small Missile Proficiency |
+|              | Resist Magic              |
+| Fault        | Dwarf Animosity           |
+| Skill points | 8                         |
+
+** Classes (occupations)
+
+Each player should also pick one class for his character. Characters may an have a second occupation (aka dual-class) if they like, for one gift. Humans are more versatile than the other races and may learn up to three occupations (multi-class).
+
+Classes are like archetypes or clichés that grant certain skills and abilities to each character. The classes are Figher, Mage (Magic-User), Cleric, and Thief.
+
+It is recommended that the character meet a certain attribute requirement for each class as shown in the table below:
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Class      | Attribute Requirement |
+|------------+-----------------------|
+| Fighter    | Strength: Good        |
+| Magic-User | Intelligence: Good    |
+| Cleric     | Wisdom: Good          |
+| Thief      | Dexterity: Good       |
+
+A character can specialize in two classes if the Attribute Requirements for each class are met. A human character may even take three classes if the character's Attributes support them. When a character takes on more than one class and the two classes have similar benefits, the character receives the better of the benefits, not the sum of the benefits.
+
+*** Classes
+
+*Fighter* : A fighter gets two free Skill Levels to spend on any four weapon skills that the player wants. Fighter weapon skills default to Fair. A fighter can wear any armor and use any shield. In addition, a fighter only suffers a -1 penalty when using a weapon that is not one of the four weapon skills chosen during character creation.
+
+*Magic-User* : A magic-user can take one weapon skill at Mediocre. A magic-user suffers a -3 penalty when using a weapon other than his or her chosen weapon. A magic-user can wear no armor and cannot use a shield in combat. However, a magic-user does begin play with four magic spells in his or her spell book, chosen from the list in the Magic section.
+
+*Cleric* : A cleric gets one free Skill Level to spend on any two non-edged weapon skills that the player wants. Cleric weapon skills default to Mediocre. A cleric can wear any armor and use any type of shield. Clerics suffer a -2 penalty when using a weapon that is not one of the character's chosen weapons. A cleric can cast one cleric spell per day, chosen from the list in the Magic section, and can "turn," or rebuke, undead creatures with a situational roll of at least Great.
+
+*Thief* : A thief gets one free Skill Level to spend on any two weapon skills that the player wants. Thief weapon skills default to Mediocre. A thief can wear any light armor. Thieves also get three free Skill Levels to spend on the Pick Pockets, Open Locks, Find/Remove Traps, Move Silently, and Hide in Shadows skills, which otherwise default to Fair.
+
+** Magic
+
+Magic-Users and Clerics can both use Magic. For Magic-Users, it is their constant study of formulae and arcane texts that give them the power to affect reality. Clerics exercise their magic ability by working miracles in their god's name.
+
+A Magic-User character starts play with a spell book containing the player's choice of four of the Magic-User spells listed below. One spell can be memorized at a time, and casting the spell erases it from the Magic-User's memory. At that time, the character must return to his spell book and memorize another (or the same) spell before it can be cast again. A Magic-User with enough preparatory time can create scrolls containing a spell in his spell book, so that when the scroll is read aloud, the spell is cast. The scroll is destroyed in the process. Casting a spell from a scroll takes twice as long as casting it from memory.
+
+A Cleric can cast one spell from the Cleric spells listed below per day. Each morning, the Cleric must pray to his or her god and petition for the spell desired.
+
+Unless stated otherwise, spells take one combat round to cast, and last 6 + 4dF combat rounds. It takes 4 times as long for a magic-user to memorize a spell as it does to cast it. Magic-users may not memorize spells from a scroll.
+
+*** Magic-User Spells
+
+*Cast Illusions* : This spell allows the magic-user to create an illusion in an area no bigger than a 30' diameter. The illusions created by this spell disappear when touched.
+
+*Charm* : The target of this spell will be completely under the influence of the magic-user unless he or she can make a Great Intelligence roll.
+
+*Create Light* : This spell lights a circular area with an approximate 30' diameter. If cast on an item, that item can be carried and the light will move with it.
+
+*Invisibility* : This spell will render the magic-user (or another target chosen by the magic-user) completely invisible.
+
+*Levitate* : This spell allows the magic-user to move up or down in the air without any support.
+
+*Mage Wagon* : This spell creates an invisible disk floating at the magic-user's waist height, that can carry about 500 pounds of stuff. The disk will follow the magic-user as he or she walks around.
+
+*Mystic Armor* : This spell encircles the magic-user with a protective barrier, providing +4 DDF vs. ranged attacks and +2 DDF vs. melee attacks.
+
+*Mystic Bolt* : This spell launches a missile of glowing magical energy at a target chosen by the magic user. It has an ODF of +4 and magically strikes true.
+
+*Protection from Monsters* : This spell encircles the magic-user with a protective barrier that gives the magic-user +1 DDF vs. monsters, and makes the monsters -1 ODF vs. the magic-user (in other words, the magic-user receives a +2 DDF).
+
+*Read Languages* : This spell allows the magic-user to read (but not speak) any language.
+
+*See Invisible* : This spell allows the magic-user to detect any object cloaked with an Invisibility spell in his or her immediate vicinity.
+
+*Sense Magic* : This spell will alert the magic-user if a spell has been cast on a person, place, or thing in his or her immediate vicinity.
+
+*Sleep* : This spell puts 4 + 4dF creatures chosen by the caster to sleep.
+
+*Ventriloquism* : This spell allows the magic-user to cause his or her voice to come from somewhere else.
+
+*Wizard's Key* : This spell cancels a Hold Portal spell.
+
+*Wizard's Lock* : This spell magically holds a door shut.
+
+*** Cleric Spells
+
+*Calming Touch* : This spell calms the recipient and remove all fear from him or her.
+
+*Create Light* : As per the magic-user spell of the same name.
+
+*Healing Hands* : This spell allows the cleric to heal all Scratches.
+
+*Holy Warmth* : This spell allows the recipient to ignore the effects of cold.
+
+*Protection from Evil* : This spell encircles the magic-user with a protective barrier that gives the magic-user +1 DDF vs. inherently evil people or monsters, and makes the inherently evil people or monsters -1 ODF vs. the magic-user.
+
+*Purify* : This spell will make poisoned water and food usable.
+
+*Sense Evil* : This spell allows the cleric to detect any inherently evil person or creature in his or her immediate vicinity.
+
+*Sense Magic* : As per the magic-user spell of the same name.
+
+** Equipment
+
+It is assumed at the start of any Fudge Dungeon Crawl game that the characters are already in possession of all of their equipment. Players should equip their characters using items from the following list, persuant to their classes (i.e. a magic-user would most likely not wield a two-handed sword, and a fighter would most likely not use a staff).
+
+*** Weapons
+
+Two-hand battle axe (ODF +4), hand axe (ODF +3), crossbow & 30 quarrels (ODF +3), long bow & 20 arrows (ODF +3), short bow & 20 arrows (ODF +3), dagger (ODF +2), short sword (ODF +3), normal sword (ODF +4), long sword (ODF +4), two-hand sword (ODF +5), mace (ODF +3), club (ODF +2), pole arm (ODF +5), sling & 30 stones (ODF +2), spear (ODF +3), war hammer (ODF +3)
+
+*** Armor
+
+Leather armor (DDF +2), leather armor & shield (DDF +3), chain mail (DDF +4), chain mail & shield (DDF +5), plate mail (DDF +6), plate mail & shield (DDF +7)
+
+*** Gear
+
+Backpack, flask of oil, small hammer, holy symbol, vial of holy water, 12 iron spikes, lantern, hand-sized mirror, rations, 50' rope, small sack, large sack, thieves' tools, tinder box, torches, waterskin, wine, wolfsbane, 10' wooden pole
+
+** Combat
+
+Fudge Dungeon Crawl is not too different from normal Fudge combat. Each 10-second combat round begins with the rolling of Initiative. Initiative consists of a situational roll, high roll going first, and proceeding downwards in order. The character or monster who has initiative selects a target and makes his or her attack roll: their weapon skill + 4dF. This is compared against the defense of the target: their Dexterity + 4dF. If the attack is higher than the defense, the attack is successful and damage is calculated: the relative degree of success, plus the attacker's Strength (for melee attacks) + the ODF of their weapon, minus the DDF of the target's armor, and minus the target's Constitution.
+
+/Example: Bilmgi, the dwarf fighter, is taking on an orc. Bilmgi's player rolls 4dF for initiative and gets a result of Good. The GM rolls the orc's initiative, and gets a Poor. Bilmgi gets to attack first, swinging his battle axe at the orc's neck. His player rolls 4dF using Bilmgi's Battle Axe skill of Good, and gets a Great result. The orc has a Great (+2) Dexterity, and the GM rolls a -1 on its defense roll for a total of +1, or Good. Bilmgi is successful and damage is calculated. The relative degree of +1 is added to Bilmgi's Strength (which is Good, or +1) and his Battle Axe's ODF of +4 for a total of +6. The orc's leather armor provides a DDF of +2, and his Good constitution a further +1, for a total of +3. The orc takes 3 points of damage (+6 minus +3), a Hurt result - Bilmgi's axe cleaves into the orc's shoulder./
+
+** Monsters
+
+Most dungeons are home to several different types of monsters. These are the most common. Unless noted otherwise, all monsters have attributes of Fair for determination of attack and defense rolls.
+
+*Giant Lizard* : Five foot long nocturnal reptiles, giant lizards hunt by climbing steep walls with their specially adapted feed, and dropping on their prey to attack. Their scaled skin gives them a DDF of +2, and their bite has an ODF of +4.
+
+*Giant Snake* : Another reptile about five foot in length, the main difference between the giant snake and the giant lizard is the lack of legs and a poisonous bite. Giant snakes have scaled skin which provides a DDF of +2, and their bite has an ODF of +2 -- although any attack which causes damage will inject a paralyzing poison. The victim must make a Great Constitution roll or be completely paralyzed for 24 hours.
+
+*Giant Spider* : Giant spiders are meat-eaters that attack their victims by clinging to walls or ceilings and dropping onto them. When hidden in dark ceilings, the only signs of their presence are the collections of webs and cocooned prey. Giant spiders have tough skin which provides a DDF of +1 and their bite has an ODF of +2. Any successful giant spider bite carries a weak poison -- the character must make a Mediocre Constitution roll or die within 24 hours.
+
+*Goblin* : Small and incredibly ugly, goblins are humanoids with chalky tan or grey skin, and eyes that glow red in the dark. Goblins can see in the dark as can dwarves and elves, using infravision. Goblins usually wear leather armor (DDF +2) and wield short swords (ODF +3).
+
+*Green Slime* : Green slime looks, strangely enough, like green, oozing slime. It can only be damaged by fire. It dissolves wood and metal, and turns flesh into more green slime. The only cure is to burn the green slime and cauterize the wounds it creates.
+
+*Kobold* : Kobolds are small, evil dog-men with scaly, rust-brown skin and no hair. As with goblins, they have well-developed infravision which allows them to see in the dark. Kobolds usually wear no armor and wield clubs (ODF +2) or small spears (ODF +2, due to size).
+
+*Orc* : Orcs are ugly humanoids that look like a combination of animals and men. Thoroughly evil, they usually kill everything they meet, except for goblins who they frequently enslave. Orcs are commonly found wearing leather armor and carrying shields (ODF +3). They use just about any weapon they can find.
+
+*Zombie* : The undead and reanimated body of an previous adventurer who died in the dungeon and was left by his companions, never to have a proper burial. Generally mindless and slow, zombies hate the living and will attack them on site. Their rotting flesh is easy to damage, having no additional DDF, but zombies are not "dead" until their brains are destroyed requiring decapitation, a mace to the noggin doing at least a Very Hurt result, etc. Zombies strike with their bludgeoning fists, having an ODF of +2.
+
+** Treasure
+
+What is a good dungeon crawl without treasure? Most monsters (even unintelligent ones like zombies and giant snakes) will be guarding treasure chests containing hundreds of gold or silver coins or the occasional gemstone. Sometimes the chests are locked or trapped, requiring a thief character to use his or her Open Locks and Find/Remove Traps skills.
+
+The greatest treasures, however, are magic items -- weapons that ignore one or more minuses ("-") on the attack rolls, armor or shields that ignore one or more minuses on the defense rolls, scrolls with new spells for magic-users, enchanted rings or necklaces that provide additional DDF or can cast the magic-user spell Sheild at will, bracers that provide additional Strength or Dexterity (or ignore one or more minuses on Strength or Dexterity rolls), etc.
+
+* Krugerov's Dungeon
+
+** A sample dungeon for Fudge Dungeon Crawl
+
+As the characters are adventuring in a distant land, they hear the tale of an evil warlord named Krugerov who ruled with an iron fist until his subjects rebelled against him and razed his castle to the ground, killing him and his wizard advisor in the process. Rumors of vast dungeons filled with treasure assault their adventurous ears, and it is because of those rumors that we find the characters standing amidst the ruins of Castle Krugerov, staring down a forboding set of stairs leading down into the ground.
+
+[[file:kdungeon.jpg]]
+
+** Key to the map
+
+Please note - one square on the map equals approximately 10 feet. North points towards the top of the map.
+
+*1*. As the characters descend into this room, it seems to quickly swallow up the light streaming in from the top of the stairs. By the time they reach the bottom of the seemingly endless stairs, they can barely see the other side of the 30' by 30' room without using torchlight. Once a light source is established, they will notice that the room is very dirty and cluttered with chunks of rock from the destruction of the castle above. The statue of a large man stands in the south-east corner, most likely Krugerov himself. Any character making a Good Wisdom check will notice that the ceiling of the room is swathed with spider webs and will not be surprised when the Giant Spider (DDF +1, ODF +2; Mediocre Constitution roll or die in 24 hours) hiding therein drops on a random character. In the middle of the south wall is a secret door leading to area #3, and just past the entry into the hallway on the east is a pit trap - the first character to step on it will fall and take damage (treat as an ODF +4 attack). Please note that there is a 1' ridge between the north wall and the pit trap that the characters can use to safely bypass the pit if it is found.
+
+*2*. After clearing the pit trap and walking down two flights of stairs, the characters will find themselves in what was at one time a fairly heinous torture chamber. All the implements are here - iron maidens, racks, etc. - most have rotted due to age and will collapse if jostled too much, awakening the Giant Snake (DDF +2, ODF +2; Great Constitution roll or paralyzed for 24 hours) sleeping in the iron maiden. A moldy tapestry depicting scenes of torture hangs on the east wall, hiding a secret door leading to area #3. A second secret door on the south side of the west wall leads to the bottom of the pit trap just outside of area #1.
+
+*3*. The first thing the characters will notice upon entering this room is the horrible smell of rotting flesh. A dilapidated bed is against the south wall and moldy tapestries line the east and west walls. The eastern tapestry hides a secret door leading to area #2, and the western tapestry hides an alcove where a treasure chest and an armoire filled with rotting clothes can be found. As the characters approach the bed, they will notice a figure laying in it, coming to life as they approach... a zombie (DDF 0, ODF +2)! The treasure chest is trapped with a needle that will do one scratch of damage directly if not found -- the poison evaporated long ago. The chest contains 100 gold coins, 50 silver coins, a large ruby worth 500 gold coins, and a magic dagger. For each killing blow that the dagger lands (a "Near Death" damage result), it ignores one minus result ("-") on any follwoing attack rolls. This effect is cumulative, but has a maximum of -4. Every morning at dawn, the dagger "resets."
+
+*4*. The door to this room is unlocked, and appears to be used frequently as it swings open easily and without too much creaking. This room appears to have at one point been a prison, although the doors to all of the cells have been removed. Great Wisdom rolls will reveal the sounds of heavy breathing or light snoring coming from the room. Evidently, a group of goblins (DDF +2, ODF +3) have taken up residence here, as they all wake up when the characters enter! The number of goblins in the room depends on the number and type of player-characters: there are two goblins for each fighter and one for each other type of character. The goblins have nothing of value, save their somewhat rusty short swords and their ill-maintained leather armor.
+
+*5*. As the characters descend several flights of stairs, the air gets more stale and damp, before they finally come to a door which appears to be locked. A thief can pick the lock and gain access with a Good Open Locks roll, or any character can break it down with a Great Strength roll. The room appears to be a wizard's laboratory, as there is a desk on the north wall and a workbench covered with dirty, slimy beakers on the south wall. Most of the beakers are covered with Green Slime! If anyone investigates the workbench they will have to make a Great Wisdom roll to notice the quivering of the slime as they approach. A secret door on the east wall leads to area #6.
+
+*6*. This appears to be a wizard's private study. The walls are lined with musty, moldy books. Most disintegrate upon being touched, but a thorough search should turn up usable scrolls of Charm and Cast Illusions.
+
+*7*. As the characters open the secret door and descend the stairs leading to this area, they will be assaulted by the scent of stagnant water and dead fish. The entryway opens up into a natural cave dominated by a decent sized underwater pond. Characters who look into the pond will see skeltons strewn about, as if they had been thrown into the pool, with white, albino lobsters and crabs crawling over the bones. The north-east section of this room opens up to a natural stairway leading down into the second level of Krugerov's Dungeon, which you can create and populate yourself!
+
+Will the players discover the legendary king and his sorcerer alive in the halls below? Or, is there some other, unseen monster, guarding their bones? That's up to you to decide as the players continue in their quest for treasure.
+
+Source: [[http://web.archive.org/web/20050503144813/http://www.fudgefactor.org/2005/05/fudge-dungeon-crawl.html][fudgefactor.org]]

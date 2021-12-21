@@ -1,0 +1,112 @@
+*  Other Uses For Fudge Fu
+
+by Robb Neumann (robbneu @ earthlink .net)
+
+Many gamemasters and players may prefer campaign settings with dramatic confrontations that do not involve violence or martial arts mayhem. Although at first glance Fudge Fu may not seem useful in these circumstances, minor changes to the following guidelines can result in a very flexible system for resolving any extended, dramatic face-off.
+
+Listed below are examples of how Fudge Fu can be adapted for use in non-violent campaign settings. As with nearly every other set of examples provided in these guidelines, the following list is not exclusive, and should serve as inspiration for what can be done with Fudge Fu.
+
+Note: Fudge Fu appears in the new Fudge 10th Anniversary Edition. The Fudge 10th Anniversary Edition will be needed to make use of this article.
+
+** Chases
+
+Whether speeding through crowded city streets in tuned-up muscle cars, or diving and slipping between tumbling asteroids in nimble starships, chases can add a lot of drama to a story. Using the Fudge Fu guidelines, chases can be simulated quickly and easily, without forcing the players to resort to maps and diagrams of the action.
+
+Characters who participate in chases need an appropriate Skill, such as Driving, Piloting, or anything else that might be used in a chase. Like martial arts skills, this single Skill is broken down into three sub-Skills: Technique (basic driving/flying/whatever ability), Speed (a measure of the person's reflexes, not necessarily the speed of the vehicle being used), and Stance (the character's driving style, with a higher Stance meaning he is in more control of his vehicle, and a lower Stance signifying a more reckless approach). Alternatively, these sub-Skills can be renamed to fit the type of chases the characters are likely to get into during the course of a game. Smarts might be a suitable replacement for Technique. Moves could be used in place of Speed. And Control can take the place of Stance.
+
+When locked in a chase, characters will figure Wounds normally, using various chase "maneuvers," but rather than reflect damage, Wounds will simulate the ability of a character to stay in the chase and the distance between vehicles. Eventually, one character will either "catch" the person being chased, or a character may "get away" from someone pursuing them. These results will usually occur when someone achieves a Near Death result, but in poor visibility, a lesser result may signal the end of a chase.
+
+Obviously, the Wound Levels for a chase will need to be renamed to reflect the situation. Penalties should be applied for the duration of the chase, but once a chase is over, the driver/pilot loses all penalties applied to him during the course of the action.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Old Wound Level | New Wound Level |
+|-----------------+-----------------|
+| Scratch         | Side by Side    |
+| Hurt            | Pulling Ahead   |
+| Very Hurt       | In the Distance |
+| Incapacitated   | Out of Sight    |
+| Near Death      | Lost!           |
+
+Characters involved in a chase can attempt moves to either lose or catch their opponents (Attacks that can be Evaded, by fancy maneuvering, or Blocked, by the old movie standby of smashing your vehicle into the other person's vehicle). Feints can be used in a variety of ways, especially when playing "chicken." Pushes are just what they sound like, while Ready maneuvers can simulate sitting at a light, gunning your engine. Grabs and Throws aren't normally appropriate for chases, but some clever gamemasters might find uses for them, depending on the circumstances (perhaps a Grab can work for two cowboys chasing each other on horseback).
+
+If one character has an edge, due to a faster or more nimble vehicle, that advantage should be treated as a Weapon. A Disarm maneuver (usually smashing into the other vehicle to slow it down) can be used to reduce the opponent's effectiveness, but every time a Disarm maneuver is used, the character attempting it suffers a Scratch Wound result.
+
+Some gamemasters may decide to use these guidelines for chases that occur on foot, such as when one character chases another through a crowded marketplace. The same kinds of maneuvers and actions will be appropriate for these sorts of chases, but the characters will need to be skilled in Running.
+
+** Chess
+
+In a campaign that revolves around the lives of grand-master chess players, Fudge Fu would be an excellent tool for roleplaying the lengthy, sometimes vicious chess matches that are sure to be the dramatic center of the action. Player characters who wish to compete in tournaments should purchase a Chess martial art, further breaking the Skill down into the three sub-Skills: Technique (the chess master's natural ability on the board), Speed (his ability to react quickly to another master's moves and tactics), and Stance (the manner in which a chess master protects and organizes his pieces to achieve the greatest result). Alternatively, a gamemaster may choose to rename the Chess sub-Skills to Concentration (Technique), Flexibility (Speed), and Piece Management (Stance).
+
+Damage results during matches occur normally, with the Wound Levels renamed to reflect loss of chess pieces, rather than bodily harm.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+Old Wound Level 	New Wound Level
+Scratch 	Minor Pieces
+Hurt 	Major Pieces
+Very Hurt 	Queen
+Incapacitated 	Check
+Near Death 	Checkmate
+
+Wound results which normally cause penalties to actions, such as the -1 Trait Level penalty a character suffers for being Hurt, still apply, but only for the duration of the conflict. For example, a character who has received a Major Pieces result still suffers the -1 penalty, but in this case, only for the remainder of that particular chess match.
+
+Obviously, only some combat actions will be appropriate for the Chess martial art, such as Attack, Block, Evade, Feint, and Ready, all of which should have self-evident uses in a chess match. Some gamemasters may also allow the Throw maneuver, which can be used to simulate the temporary disruption of an opponent's strategy.
+Gossip
+
+The gamemaster may wish to run a campaign revolving around the activities and problems of a group of high school students. Played either for laughs (Romy and Michelle's Fudge-filled Reunion), wickedness (Fudge Intentions), or played a little more seriously (Dawson's Fudge), Fudge Fu can be used to simulate the struggles of students to achieve and maintain popularity. Like in the Chess example, the gamemaster may wish to alter the names of the Gossip sub-Skills to better fit the particular campaign focus. Chat represents the character's Technique at spreading and deflecting rumors. Networking replaces Speed and simulates the character's ability to move around social circles to both pass on and receive the latest news and information. Finally, Clique replaces Stance, and represents the character's allies and their actions on his behalf.
+
+Obviously, Wound Levels will need to be renamed to fit the circumstances. The new Wound Levels reflect the effects of rumors on a character's Reputation and social life.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Old Wound Level | New Wound Level |
+|-----------------+-----------------|
+| Scratch         | Tarnished       |
+| Hurt            | Insulted        |
+| Very Hurt       | Embarrassed     |
+| Incapacitated   | Horrified       |
+| Near Death      | Ostracized      |
+
+Unlike the Wounds suffered in the Chess example, shown above, the Wounds in the Gossip system can be a little more lengthy in duration. The gamemaster may allow characters to "heal" from rumors or may simply decide to erase all rumor Wounds at the start of every new "big thing" that comes along, since memories can be short... especially as the prom approaches.
+
+It's unlikely that the Gossip system will be the primary focus of a high school game, but it could easily be used in tandem with any other dramatic guidelines system, even other variations of Fudge Fu. For example, Gossip could be used with the standard Fudge Fu guidelines, allowing the GM to run a "Martial Arts High" style campaign.
+
+Like Chess, the Gossip martial art will only use certain maneuvers. Attack, Feint, Ready, Block, and Evade are all appropriate combat maneuvers for the art. Disarm could be used to steal the edge from a character who possesses especially damaging information about a foe. And although Throw maneuvers don't seem very appropriate, Grabs and even Chokes might work to simulate a brutal, public berating that the target character just cannot seem to escape.
+Hacking
+
+Outlaw computer hackers and code-writers, both in present day settings and cyberpunk futures, can use the Fudge Fu guidelines to simulate virtual battles between them and the massive computer networks where they roam. The sub-Skills for Hacking could probably keep their default names of Technique, Speed, and Stance, but the Wound Levels will need to be modified to reflect the computer world.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Old Wound Level | New Wound Level       |
+|-----------------+-----------------------|
+| Scratch         | Glitch                |
+| Hurt            | Bug                   |
+| Very Hurt       | Program Failure       |
+| Incapacitated   | Crashed               |
+| Near Death      | Connection Terminated |
+
+Recovering from Wounds could be as easy as rebooting the system or as difficult as replacing and rebuilding hardware components, depending on the gamemaster's particular tastes.
+
+Hackers will use Attack, Block, Disarm, Feint, Ready, and even Push and Resist maneuvers to simulate the breaking of passwords, launching of virus programs, and various other computer techniques. In this virtual world, the gamemaster should keep in mind the wide variety of opponents a hacker might encounter, such as other hackers, firewalls, automated "bots," and even monstrous virus programs. In many ways, the cyberworld might even be more exciting and unpredictable than the world of ninja and samurai!
+Repartee
+
+For characters who move in the fashionable and powerful circles of the high court during the 17th century, Reputation means everything and the ability to verbally attack your foes, while winning over your allies, could mean social or financial life or death. Especially appropriate in a swashbuckling campaign, Repartee simulates the character's ability to verbally battle others in public displays of wit. Although mechanically similar to Gossip, Repartee is fine-tuned to represent the class of those involved in such social maneuvering, and should revolve more around immediate verbal dueling than lengthy campaigns against someone's reputation.
+
+Grace (Technique) describes the character's ability to chose appropriate insults and comments, as well as his ability to get off a few "stingers." The character's ability to keep up when word play gets to a furious pitch is simulated by Wit (Speed). And lastly, Status (Stance) is a measure of the character's social class and standing, possibly putting him in better "position" when engaging in a spirited round of Repartee.
+
+It is especially appropriate for a gamemaster to give bonuses for good roleplaying when using the Repartee variation of Fudge Fu. If the player manages to come up with a particularly effective or cunning witticism, the character should receive a +1 or +2 bonus to his roll when "attacking" with his Repartee skills.
+
+As is the case with Chess and Gossip, the Wound Levels should be renamed to better fit the circumstances of Repartee.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Old Wound Level | New Wound Level |
+|-----------------+-----------------|
+| Scratch         | Paused          |
+| Hurt            | Stumbling       |
+| Very Hurt       | Speechless      |
+| Incapacitated   | Shamed          |
+| Near Death      | Ridiculed       |
+
+Wound penalties last for the duration of the verbal duel, and characters who are rendered Speechless in a conversation, or who are even Shamed, often suffer no ill effects other than being entertainment for gossiping nobles for a few days. If they are Ridiculed, however, they may be required to somehow regain their standing by undertaking a particularly noble or difficult task.
+
+Yet another variation of Repartee and Gossip could be Corporate Life, with the characters trying to out position each other in a massive, powerful company. In a cyberpunk setting, with megacorporations as the greatest powers in the world, this adaptation of Fudge Fu could be very welcome and useful.
+
+See Gossip, listed above, for a description of combat maneuvers that are appropriate to the Repartee martial art.

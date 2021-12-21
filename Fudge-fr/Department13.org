@@ -8,7 +8,7 @@ by Carl D. Cravens (raven @ phoenyx .net)
 
 Welcome to the world of Department 13, a secret government agency that very few in the government know of and none will admit to. The conspiracy theorists that suspect Department 13 exists think it's protecting us from the alien menace. They are wrong. Department 13 is protecting us from the Darkness. Not to mention the occasional kook with an axe.
 
-** The Department
+* The Department
 
 /Hello, Mrs. Baskerville? I'm agent Smith of the Food and Drug Administration. I'd like to ask you a few questions about the, um, "biker gang" that trashed your house last night./ -- Agent Alex Smith.
 
@@ -18,7 +18,7 @@ Something of a red-headed stepchild, Department 13 gets shuffled around from bud
 
 Hence, the Department's budget could be described as "slim to non-existent." They don't have a fancy monster-fighting lab, they don't have lots of nifty weapons to fight the monsters with. They don't fight the Darkness with technology, they fight with blood, sweat, and tears. And bad puns. You'd be amazed at how damaging a bad pun can be.
 
-*** The Operatives
+** The Operatives
 
 /Join the Army and see the world, join Department 13 and never see your famil... nevermind. Welcome aboard./ - The Director
 
@@ -30,9 +30,9 @@ Through the other door of opportunity come the more interesting operatives of De
 
 These potential recruits are easier to approach. They're already grounded in a world of supernatural occurences. They're not wary of the recruiter being a foreign spy. But they can be harder to recruit. It takes a lot of convincing to get them to work for "the Man". Already dabbling or immersed in a fringe element, they're outsiders and used to their freedom. What usually brings them around is convincing them of the benefits of working as a team with financial backing. The lone vampire slayer finds benefit in having someone to cover their back. Too bad the bit about "financial backing" was exaggerated.
 
-**** Non-player Operatives
+*** Non-player Operatives
 
-***** Candice Collier
+**** Candice Collier
 
 /Y'know how the first time you learned how sausage was made, it turned you off to the stuff for years? I've seen how the future is made. So don't ask me unless you really need to know. Let me be the one to spend March afraid of her cornflakes./ - Candice, during a recent debriefing
 
@@ -68,7 +68,7 @@ In the midst of all the monster hunting, Candice is trying to rebuild something 
 | Lying           | Good |
 | Detect lies     | Fair |
 
-***** Alex Smith
+**** Alex Smith
 
 /It's not enough that I have to babysit a bunch of kids, now you want me to take them into the field without a sidearm? How am I supposed to threaten them into behaving if I'm not carrying a gun?/ -- Agent Smith to the Director
 
@@ -101,7 +101,7 @@ What's really under Smith's skin is something that he doesn't really recognize. 
 | Breaking and entering | Good |
 | Hadle bureaucracy     | Good |
 
-***** Sofia Martinez
+**** Sofia Martinez
 /"Not so subtle. Still quick to anger."/ -- Sofia's T-Shirt
 
 Sofia is sixteen years old, the daughter of a witch, and a witch herself. She studied the black arts with her mother, until her mother demanded that she sacrifice one of her friends to a demon in exchange for power. Sofia, a good soul at heart, balked, and when her mother pushed her, the resulting contest left her mother's beautiful faced scarred and drove a wedge between them. While her mother vowed vengance upon her daughter, Sofia came to the realization that the arts learned from her mother endangered her soul. When Department 13 came looking for her, she was ready to join their ranks to atone for what she had been doing and to find a safe haven from her mother.
@@ -134,7 +134,8 @@ Sofia loves to hang out with Alex and Candice and wants to be best-buds. Smith, 
 | Bluff       | Fair  |
 | Charm       | Fair  |
 
-***** Antony Brown
+**** Antony Brown
+
 /"It's no big deal."/
 
 /"You took off its head with a hubcap!"/
@@ -174,7 +175,7 @@ He's also very protective of Candice, waffling between being brotherly and somet
 | Surveillance       | Fair     |
 | Socialize          | Mediocre |
 
-*** The Director
+** The Director
 
 /This is a serious job, and it takes serious people to do serious work. Now if you children are finished with your playground scuffle, we've got an operation to run here./ -- The Director.
 
@@ -213,7 +214,7 @@ If you want something more complex, dig deeper, and you'll find that the Martin 
 | Leadership      | Great  |
 | Handling money  | Superb |
 
-*** The Lab
+** The Lab
 
 /Oh, I'll just run this through the DNA analyzer and we'll have your results in a jiffy!/
 
@@ -225,7 +226,7 @@ While they may not have the latest in fancy crime-fighting equipment, the Depart
 
 If any serious work needs done, it gets sent out of house. And analyzing anything suspicious usually requires calling in a marker or two.
 
-*** The Library
+** The Library
 
 /You'd think the Tome of Orisis would be in the computer by now./
 
@@ -233,7 +234,7 @@ If any serious work needs done, it gets sent out of house. And analyzing anythin
 
 The guys in the lab will tell you that the Department spends far more money on books than on proper lab equipment. And they're quite right. Department 13's library is vast and old, full of rare books on all subjects arcane and mystical. A few of the more common works have been scanned into the computer, but library work generally requires late nights poring over old tomes.
 
-*** Equipment
+** Equipment
 
 /I told you, only adult agents get a sidearm./
 
@@ -243,7 +244,7 @@ The guys in the lab will tell you that the Department spends far more money on b
 
 Every agent of eighteen years or older is issued a standard sidearm. Bullet-proof vests are available when necessary. Don't ask for more than that. If you start thinking about silver-nitrate rounds, shotguns that shoot wooden stakes, and high-powered tasers, just remember, you're lucky to get bullets.
 
-*** The Dirty Little Secret
+** The Dirty Little Secret
 
 /Secrets? Everybody's got secrets! Question is, which ones are worth knowing, and which ones would just cause you trouble?/ -- The Director
 
@@ -253,9 +254,9 @@ At the bottom level of the lab, there's a secret staircase. Only the Director an
 
 The Codex isn't satisfied with this situation of course. It yearns to be free and to fulfill its purpose. It calls to the servants of Darkness, and they come. They don't even know why they come, don't even know the Codex is there, they just come. Some know they're being called, but of those, none have deliberately sought the Codex... yet.
 
-** Magic and the Supernatural
+* Magic and the Supernatural
 
-*** Magic
+** Magic
 
 /Why can't I find a book on white magic in the library?/
 
@@ -265,7 +266,7 @@ Magic in the world of Department 13 comes in two flavors, black and blacker. In 
 
 When it comes right down to it, "black and blacker" really isn't a joke. There are two sources of power a witch can call on, and one is a lot uglier in the long run. These two powers are spirits and greater demons.
 
-*** Spirits
+** Spirits
 
 /Have you been calling up evil spirits again?/
 
@@ -285,7 +286,7 @@ Some examples are spirits of fire, anger, death, jealousy, wind, obsession. Some
 
 *Spirits of death*. All too easily summoned, even the worst of black witches will avoid these if they have any sense. Difficult to control, they are more likely to turn on their summoner than any other spirit.
 
-*** Greater Demons
+** Greater Demons
 
 /Hello, Hecate... are you listening? Yoohoo... like, I could use some help today, ya know? ... Pff -- goddesses! Never around when you need them./ -- Sofia
 
@@ -306,9 +307,9 @@ Any moderately powerful magic takes time, a ritual, the proper components, and o
 
 See the sample spells later in this article.
 
-*** Gamemastering Magic
-                                                                                                                                                                    
- The first rule is that magic should be risky, both in the short term and the long term. Every successful casting risks a loss of Light, the basic force of goodness in the soul.
+** Gamemastering Magic
+                            
+The first rule is that magic should be risky, both in the short term and the long term. Every successful casting risks a loss of Light, the basic force of goodness in the soul.
 
 The second rule is that magic is unreliable, unpredictable, and downright under the GM's control. Use magic to make the story more interesting, not to let the players short-circuit the story.
 
@@ -326,7 +327,7 @@ In either case, successful Willpower roll or not, the witch must make a Light ro
 
 Magic should be handled in a very freeform manner. While witches may develop a few quick-cast spells for combat, most spells will be of specialized nature and not see repetitive use. 
 
-*** Casting Spells
+** Casting Spells
 
 The time it takes to call upon the spirits varies depending on how powerful the spirit is, how skilled the witch is, and how large of an effect the witch is trying to accomplish. Small spells involving spirits can be cast quickly enough to be effective in combat.
 
@@ -336,35 +337,35 @@ Any moderately powerful magic takes time, a ritual, the proper components, and o
 
 See the sample spells later in this article.
 
-*** The Sight
+** The Sight
 
  Where magic is an external force to be called upon, some humans possess an internal ability to see things that others cannot, which the Department calls "the Sight." Most often, this ability allows them to see supernatural beings for what they are (invisible ghosts are visible to them, they recognize Type III vampires at a glance, etc). Occasionally, the Sight can extend into the past, usually when it involves a strong psychic imprint, such as seeing the past events of a murder when at the murder scene, or touching some important object or being involved in the murder. Very rarely, the Sight can extend into the future.
 
 Operatives with the Sight are some of the Department's most valuable assets. The Department will go to a lot of expense, and put up with rather obnoxious behavior, to keep a Seer on the team.
 
-*** Gamemastering the Sight
+** Gamemastering the Sight
 
 While there are many ways to represent the Sight in game terms, here are two that work well:
 
-**** Sight as a Gift
+*** Sight as a Gift
 
 Either as a simple Gift (you got it or you don't) or as stackable (multiple levels in the Gift make you stronger at it), this method is pretty straightforward.
 
-**** Sight as an Attribute
+*** Sight as an Attribute
 
 Give every character some kind of "psychic awareness" attribute. High levels (Superb or higher) allow sensing the supernatural and may allow visions of the past and future. Medium levels give a rudimentary ability to sense the supernatural (goosebumps or cold shivers when they are present). Low levels are practically useless... if a player buys his Sight down below Fair, make sure he suffers for it in play by failing to "sense evil" sneaking up behind him, or maybe allowing him to fall in love with a ghost without recognizing it for what it is.
 
-**** Or a Little of Both...
+*** Or a Little of Both...
 
 Use a "psychic awareness" Attribute for basic sensing of nearby supernatural activity, and a Sight Gift for visions of the past and future.
 
-**** Using the Sight
+*** Using the Sight
 
 The gamemaster could work up a "results chart" for unopposed rolls against the Sight when supernatural activity is present, but that may restrict this ability more than you'd like. The Sight is as much a gamemaster plot tool as it is a problem-solving tool for the operatives. By limiting yourself to interpreting die rolls against a chart, you limit your ability to use the Sight as a plot device.
 
 Play the Sight according to your needs to drop clues. Try throwing in the occasional "normal dream" or difficult to interpret vision to keep the Sight from becoming a routine source of reliable information. Visions of the future need not come to be, visions of the past might be through a historical person's eyes and subject to his interpretation of events. 
 
-*** Personal Light
+** Personal Light
 
 Every mortal being possesses a soul, and that soul can be good or evil, full of Light or Darkness. Most mortals have a balance of Light and Darkness in them, possessing neither great good nor terrible evil.
 
@@ -372,7 +373,7 @@ Most people have a Fair Light. The virtuous have a Good or higher Light. The dep
 
 A person's Light can change over time. Consciously going out of one's way to do good will slowly raise one's Light. The fall into Darkness is far easier, and often starts with good intentions.
 
-*** The Forces of Light
+* The Forces of Light
 
 Unfortunately, the balance of power seems to be in favor of the Darkness. As far as the Department knows, there are no greater beings on the side of Light. For the most part, mankind stands alone in this battle. (Maybe. See the section on Religion in Department 13 for an alternative.)
 
@@ -402,7 +403,7 @@ How more Type I vampires are made isn't known, though the Department's current t
 
 When killed, all three vampire types quickly decay into dust, even if they were only hours old, leaving behind only their empty clothes and possessions. 
 
-*** Playing Vampires
+*** Roleplaying Vampires
 
 The exact abilities and weaknesses of the vampires are up to you. Here are some suggestions.
 
@@ -632,5 +633,5 @@ Obviously, this setting wasn't made up of whole cloth. It's a patchwork monster,
 - Movies
   - /Underworld/ (2003). A popular vampire and werewolf roleplaying world crossed with The Matrix look and feel (and sound effects). Despite getting mediocre reviews, this movie is ripe for the picking when it comes to the world of Department 13, and the premise and the plot work well enough. Watch for Type 1 and Type 2 vampires here. 
 
+/(Source: The defunct [[http://web.archive.org/web/20060822022058/http://www.fudgefactor.org/2004/04/department-13.html][fudgefactor.org]])/
 
-Source: [[http://web.archive.org/web/20060822022058/http://www.fudgefactor.org/2004/04/department-13.html][fudgefactor.org]]

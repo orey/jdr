@@ -40,17 +40,19 @@ In a campaign that revolves around the lives of grand-master chess players, Fudg
 Damage results during matches occur normally, with the Wound Levels renamed to reflect loss of chess pieces, rather than bodily harm.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-Old Wound Level 	New Wound Level
-Scratch 	Minor Pieces
-Hurt 	Major Pieces
-Very Hurt 	Queen
-Incapacitated 	Check
-Near Death 	Checkmate
+| Old Wound Level | New Wound Level |
+|-----------------+-----------------|
+| Scratch         | Minor Pieces    |
+| Hurt            | Major Pieces    |
+| Very Hurt       | Queen           |
+| Incapacitated   | Check           |
+| Near Death      | Checkmate       |
 
 Wound results which normally cause penalties to actions, such as the -1 Trait Level penalty a character suffers for being Hurt, still apply, but only for the duration of the conflict. For example, a character who has received a Major Pieces result still suffers the -1 penalty, but in this case, only for the remainder of that particular chess match.
 
 Obviously, only some combat actions will be appropriate for the Chess martial art, such as Attack, Block, Evade, Feint, and Ready, all of which should have self-evident uses in a chess match. Some gamemasters may also allow the Throw maneuver, which can be used to simulate the temporary disruption of an opponent's strategy.
-Gossip
+
+** Gossip
 
 The gamemaster may wish to run a campaign revolving around the activities and problems of a group of high school students. Played either for laughs (Romy and Michelle's Fudge-filled Reunion), wickedness (Fudge Intentions), or played a little more seriously (Dawson's Fudge), Fudge Fu can be used to simulate the struggles of students to achieve and maintain popularity. Like in the Chess example, the gamemaster may wish to alter the names of the Gossip sub-Skills to better fit the particular campaign focus. Chat represents the character's Technique at spreading and deflecting rumors. Networking replaces Speed and simulates the character's ability to move around social circles to both pass on and receive the latest news and information. Finally, Clique replaces Stance, and represents the character's allies and their actions on his behalf.
 
@@ -70,7 +72,8 @@ Unlike the Wounds suffered in the Chess example, shown above, the Wounds in the 
 It's unlikely that the Gossip system will be the primary focus of a high school game, but it could easily be used in tandem with any other dramatic guidelines system, even other variations of Fudge Fu. For example, Gossip could be used with the standard Fudge Fu guidelines, allowing the GM to run a "Martial Arts High" style campaign.
 
 Like Chess, the Gossip martial art will only use certain maneuvers. Attack, Feint, Ready, Block, and Evade are all appropriate combat maneuvers for the art. Disarm could be used to steal the edge from a character who possesses especially damaging information about a foe. And although Throw maneuvers don't seem very appropriate, Grabs and even Chokes might work to simulate a brutal, public berating that the target character just cannot seem to escape.
-Hacking
+
+** Hacking
 
 Outlaw computer hackers and code-writers, both in present day settings and cyberpunk futures, can use the Fudge Fu guidelines to simulate virtual battles between them and the massive computer networks where they roam. The sub-Skills for Hacking could probably keep their default names of Technique, Speed, and Stance, but the Wound Levels will need to be modified to reflect the computer world.
 
@@ -86,7 +89,8 @@ Outlaw computer hackers and code-writers, both in present day settings and cyber
 Recovering from Wounds could be as easy as rebooting the system or as difficult as replacing and rebuilding hardware components, depending on the gamemaster's particular tastes.
 
 Hackers will use Attack, Block, Disarm, Feint, Ready, and even Push and Resist maneuvers to simulate the breaking of passwords, launching of virus programs, and various other computer techniques. In this virtual world, the gamemaster should keep in mind the wide variety of opponents a hacker might encounter, such as other hackers, firewalls, automated "bots," and even monstrous virus programs. In many ways, the cyberworld might even be more exciting and unpredictable than the world of ninja and samurai!
-Repartee
+
+** Repartee
 
 For characters who move in the fashionable and powerful circles of the high court during the 17th century, Reputation means everything and the ability to verbally attack your foes, while winning over your allies, could mean social or financial life or death. Especially appropriate in a swashbuckling campaign, Repartee simulates the character's ability to verbally battle others in public displays of wit. Although mechanically similar to Gossip, Repartee is fine-tuned to represent the class of those involved in such social maneuvering, and should revolve more around immediate verbal dueling than lengthy campaigns against someone's reputation.
 

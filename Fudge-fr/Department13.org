@@ -1,0 +1,296 @@
+* Department 13
+
+by Carl D. Cravens (raven @ phoenyx .net)
+
+/If the world knew the truth, if they knew that the only thing standing between them and their deepest fears, was you bunch of punks, they'd never be able to sleep at night. And they certainly wouldn't walk down to the 7/11 at 2 AM to get a Coke./ -- The Director.
+
+Welcome to the world of Department 13, a secret government agency that very few in the government know of and none will admit to. The conspiracy theorists that suspect Department 13 exists think it's protecting us from the alien menace. They are wrong. Department 13 is protecting us from the Darkness. Not to mention the occasional kook with an axe.
+
+** The Department
+
+/Hello, Mrs. Baskerville? I'm agent Smith of the Food and Drug Administration. I'd like to ask you a few questions about the, um, "biker gang" that trashed your house last night./ -- Agent Alex Smith.
+
+Department 13's job is to fight monsters. It's a never-ending job, slaying vampires, banishing demons, and bashing in the heads of the walking dead. Somebody's got to do it, and while they're at it, they try to keep the world from finding out the truth of the horrors that dwell in the Darkness.
+
+Something of a red-headed stepchild, Department 13 gets shuffled around from budget to budget, landing in the lap of whoever touched it last. The Department is currently a branch of the Food and Drug Administration. Their last job for the FDA involved alchemically modified candy bars, or something like that, and the FDA hasn't been able to get rid of them since. No other agency wants to pick them up, but any time the FDA tries to cut them off entirely, they get a special vistor "from the top" who convinces them of the rashness of such an action.
+
+Hence, the Department's budget could be described as "slim to non-existent." They don't have a fancy monster-fighting lab, they don't have lots of nifty weapons to fight the monsters with. They don't fight the Darkness with technology, they fight with blood, sweat, and tears. And bad puns. You'd be amazed at how damaging a bad pun can be.
+
+*** The Operatives
+
+/Join the Army and see the world, join Department 13 and never see your famil... nevermind. Welcome aboard./ - The Director
+
+There are two recruitment paths into Department 13. Through one door of opportunity come experienced field operatives and soldiers. Ex-CIA, FBI, Green Beret, and black-ops from that other secret branch the government won't admit to. These operatives are easy to come by. The Department recruits the undesirables, those who don't fit in, or otherwise find their careers in jeopardy and are looking for a place to serve that will still provide them a paycheck. Usually provide them a paycheck, at least.
+
+Here recruiting happens in cloak-and-dagger style, with a mysterious agent representing a mysterious government agency approaching the potential recruit with veiled intentions, carefully feeling them out, while at the same time playing out a hook that a recruit with any imagination cannot help but bite. Because the operatives they recruit have to be convinced of the existence of the supernatural, many of these operatives have active, and even over-active, imaginations.
+
+Through the other door of opportunity come the more interesting operatives of Department 13. These are the witches, the seers, the natural-born demon hunters. They come without formal field training, but they bring an essential element to the Department's arsenal, the ability to fight fire with fire. The Department is constantly watching for those rare individuals who have a gift of supernatural power and at least a general leaning toward using it for the good.
+
+These potential recruits are easier to approach. They're already grounded in a world of supernatural occurences. They're not wary of the recruiter being a foreign spy. But they can be harder to recruit. It takes a lot of convincing to get them to work for "the Man". Already dabbling or immersed in a fringe element, they're outsiders and used to their freedom. What usually brings them around is convincing them of the benefits of working as a team with financial backing. The lone vampire slayer finds benefit in having someone to cover their back. Too bad the bit about "financial backing" was exaggerated.
+
+**** Non-player Operatives
+
+***** Candice Collier
+
+/Y'know how the first time you learned how sausage was made, it turned you off to the stuff for years? I've seen how the future is made. So don't ask me unless you really need to know. Let me be the one to spend March afraid of her cornflakes./ - Candice, during a recent debriefing
+
+Candice has seen ghosts since she was nine. She's now seventeen, and has a fairly reliable control over her Sight. What limits her use of it is a fear that she will see how she is going to die. Because of this, she is very closed to seeing future events, whether they relate to her or not.
+
+Candice has led a sheltered life, and isn't as street smart as most girls her age. After her Sight first manifested, she spent several years in a mental institution (where she learned that lying was the best way to get along) before the Department discovered her and arranged her release on the condition that she come to work for them.
+
+She senses that Anthony has feelings for her, but she's reluctant to let him get too close. She trusts him completely, but she's seen something of the future that makes her afraid of a serious relationship. She's built a fragile friendship with Sofia, though her use of magic makes Candice uneasy. She doesn't resent Smith the way the others do, but she resents the way he thinks the Sight is something she can just turn on and off at will.
+
+In the midst of all the monster hunting, Candice is trying to rebuild something of a normal life for herself. She'd like to start dating, but her natural shyness and supernatural ability make it difficult.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |          | 
+|------------+----------|
+| Strength   | Mediocre |
+| Agility    | Fair     |
+| Willpower  | Great    |
+| Light      | Good     |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts     | Faults                      |
+|-----------+-----------------------------|
+| The Sight | Afraid of seeing her future |
+|           | Owes the Department a debt  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills          |      |
+|-----------------+------|
+| Sight control   | Good |
+| Street fighting | Good |
+| Occult lore     | Fair |
+| Research        | Fair |
+| Lying           | Good |
+| Detect lies     | Fair |
+
+***** Alex Smith
+
+/It's not enough that I have to babysit a bunch of kids, now you want me to take them into the field without a sidearm? How am I supposed to threaten them into behaving if I'm not carrying a gun?/ -- Agent Smith to the Director
+
+Agent Alex Smith is a former field agent of the FBI and takes the supernatural in stride as cold, hard facts of life. He's got a job to do, and he's going to do it by the book. That discipline and training are necessary to accomplish the job is just another cold, hard fact of life. What gets Smith's goat is that his team is a bunch of undisciplined teenagers who don't know diddly about running a real operation. There's a war going on, and the soldiers under his command are more than wet behind the ears, they think they know this business better than he does.
+
+Smith will bend the rules and even throw out the book when he thinks it will serve the ultimate goal of the Department, but he's stricter with his team of teens than he would be with experienced agents. Their cockiness and disregard for protocol makes him come down on them all the harder.
+
+What's really under Smith's skin is something that he doesn't really recognize. It's not that they're kids that he resents, it's that every one of them has some supernatural edge that he hasn't got. All he's got is hot lead, and occasionally silver, and deep down he knows that it isn't enough. He knows that the Department needs these kids, and the only thing he has to contribute is his training and self-discipline.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |      |
+|------------+------|
+| Strength   | Fair |
+| Agility    | Good |
+| Willpower  | Good |
+| Light      | Fair |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts               | Faults                                                |
+|---------------------+-------------------------------------------------------|
+| Contacts in the FBI | Resentful of having to "babysit" a team full of teens |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills                |      |
+|-----------------------+------|
+| Gun combat            | Good |
+| Kung Fu               | Good |
+| Police protocol       | Fair |
+| Deduction             | Good |
+| Breaking and entering | Good |
+| Hadle bureaucracy     | Good |
+
+***** Sofia Martinez
+/"Not so subtle. Still quick to anger."/ -- Sofia's T-Shirt
+
+Sofia is sixteen years old, the daughter of a witch, and a witch herself. She studied the black arts with her mother, until her mother demanded that she sacrifice one of her friends to a demon in exchange for power. Sofia, a good soul at heart, balked, and when her mother pushed her, the resulting contest left her mother's beautiful faced scarred and drove a wedge between them. While her mother vowed vengance upon her daughter, Sofia came to the realization that the arts learned from her mother endangered her soul. When Department 13 came looking for her, she was ready to join their ranks to atone for what she had been doing and to find a safe haven from her mother.
+
+Sofia has a Fair Light, which is typical of most people. She used to have a Great Light, but continued use of black magics and invocations of Hecate have gradually diminished the goodness of her soul. If she continues down this path, it won't be long before she joins her mother as a servant of Darkness. As it is now, she is easily tempted by the use of magic, and even though she knows it has harmful effects on her, she often can't resist when the going gets tough. She could reverse the trend by eliminating her use of magic and turning her activities to something more wholesome, but it will likely take another serious to bring her to that.
+
+Sofia loves to hang out with Alex and Candice and wants to be best-buds. Smith, on the other hand, she's contemplated turning into a frog more than once. She's also got a crush on agent Murray, her kickboxing instructor, but she's sure nobody knows. 
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |          |
+|------------+----------|
+| Strength   | Mediocre |
+| Agility    | Fair     |
+| Willpower  | Good     |
+| Light      | Fair     |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts                                                        | Faults                                    |
+|--------------------------------------------------------------+-------------------------------------------|
+| The Crystals of Aurelius (+1 to concentration or meditation) | Turns too easy to mafic to solve problems |
+|                                                              | Mother wants to kill her                  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills      |       |
+|-------------+-------|
+| Occult lore | Great |
+| Herb lore   | Fair  |
+| Kickboxing  | Fair  |
+| Research    | Good  |
+| Bluff       | Fair  |
+| Charm       | Fair  |
+
+***** Antony Brown
+/"It's no big deal." "You took off its head with a hubcap!" "Okay, so I just put a little english on it..."/ -- Anthony and Candice
+
+Anthony is a natural-born demon hunter (see Forces of Light). He grew up in an orphanage and never knew who, or what, his parents were. When he was twelve, he ran away from the orphanage and lived on the streets, hunting vampires until Department 13 recruited him.
+
+Anthony is wary of the Director's attempt to be "fatherly" to him, but his high-than-average Light gives him the gut feeling that the Director, however mysterious, does have his best interests in mind.
+
+He's also very protective of Candice, waffling between being brotherly and something more. He's very cautious about Sofia, and has been contemplating having a serious talk with the Director about what the magic has been doing to her. He senses her slow slide into Darkness and wonders why the others don't see it as well. He tolerates Smith well, though he wishes the guy would go easier on them. 
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |        |
+|------------+--------|
+| Strength   | Superb |
+| Agility    | Good   |
+| Willpower  | Fair   |
+| Light      | Great  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts                | Faults                           |
+|----------------------+----------------------------------|
+| +1 Damage resistance | Compelled to fight the darkness  |
+| Heals rapidly        | Just wants to live a normal life |
+| Inhuman endurance    |                                  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills             |          |
+|--------------------+----------|
+| Streewise          | Fair     |
+| Streetfighting     | Good     |
+| Campaign city lore | Good     |
+| research           | Mediocre |
+| Surveillance       | Fair     |
+| Socialize          | Mediocre |
+
+*** The Director
+
+/This is a serious job, and it takes serious people to do serious work. Now if you children are finished with your playground scuffle, we've got an operation to run here./ -- The Director.
+
+They call him "the Fat Man". Some, just a very few, have earned enough of his respect to call him that to his face. Those who use the moniker behind his back call him "the Director" to his face, as he has revealed no other name. A few, more polite operatives call him "the Old Man." He dislikes this nickname the most.
+
+The Director is almost as mysterious as the Department itself. Nobody knows his name, nobody knows where he lives, nobody knows if he has any family. The senior operatives make sure the new recruits don't try to follow him around. They respect his privacy. If he wants to keep his life a secret, he must have a good reason for it.
+
+He's also as humorless as he is mysterious. He never laughs, unless it's his short, dry bark of irony, and the only humor anyone gets from him comes as sarcasm, usually used to put an unruly operative in his place.
+
+Who is the Director? He's whoever you need him to be. If you want to keep it simple, he's Martin Fess, ex-Green Beret grown fat, driven to do his job unrelentingly by the memory of the night his wife and children were taken from him by a creature of Darkness. He has given up his past and become the Director; that is the only meaning or purpose that he has left.
+
+If you want something more complex, dig deeper, and you'll find that the Martin Fess identity is a mask under the mask. A false face for someone, or some thing, less expected. A supernatural agent of Light, organizing this world to fight the Darkness? Or maybe an agent of Darkness, using the mortals of this world to further its dark ends? Perhaps the real truth is even more sinister. 
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |          |
+|------------+----------|
+| Strength   | Good     |
+| Agility    | Mediocre |
+| Willpower  | Great    |
+| Light      | Great    |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts            | Faults          |
+|------------------+-----------------|
+| Inspires loyalty | Secrets to keep |
+|                  | Overweight      |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills          |        |
+|-----------------+--------|
+| Gun combat      | Fair   |
+| Fighting        | Fair   |
+| Police protocol | Good   |
+| Deduction       | Fair   |
+| research        | Good   |
+| Leadership      | Great  |
+| Handling money  | Superb |
+
+*** The Lab
+
+/Oh, I'll just run this through the DNA analyzer and we'll have your results in a jiffy! ... We have a DNA analyzer?! Nah. I'm really going to let Bruno sniff both samples, and if he thinks they're from the same person, he'll bark twice./ -- Jenkins and Alex
+
+While they may not have the latest in fancy crime-fighting equipment, the Department does have a basic laboratory with enough equipment to analyze blood samples, identify common materials, do basic forensics work, and generally get annoyed at not having enough fancy equipment.
+
+If any serious work needs done, it gets sent out of house. And analyzing anything suspicious usually requires calling in a marker or two.
+
+*** The Library
+
+/You'd think the Tome of Orisis would be in the computer by now./
+
+/What, and miss out on the sun-fun experience of reading a book bound with human skin?/ -- Alex and Sofia
+
+The guys in the lab will tell you that the Department spends far more money on books than on proper lab equipment. And they're quite right. Department 13's library is vast and old, full of rare books on all subjects arcane and mystical. A few of the more common works have been scanned into the computer, but library work generally requires late nights poring over old tomes.
+
+*** Equipment
+
+/I told you, only adult agents get a sidearm./
+
+/You just won't let me have a gun because I'm a girl!/
+
+/That's right, I don't give guns to agents who pout./ -- The Director and Candice
+
+Every agent of eighteen years or older is issued a standard sidearm. Bullet-proof vests are available when necessary. Don't ask for more than that. If you start thinking about silver-nitrate rounds, shotguns that shoot wooden stakes, and high-powered tasers, just remember, you're lucky to get bullets.
+
+*** The Dirty Little Secret
+
+/Secrets? Everybody's got secrets! Question is, which ones are worth knowing, and which ones would just cause you trouble?/ -- The Director
+
+So why does the Department seem to be the center of so much supernatural activity? There aren't branches all over the continent, just one little office and so much Darkness to be found nearby. While the occasional cross-country excursion does happen, the operatives of Department 13 rarely have to look outside their own city limits to keep their hands full. Why is that?
+
+At the bottom level of the lab, there's a secret staircase. Only the Director and two other people know of its existence. At the bottom of the staircase, there's a secret vault made of cold iron. In this secret vault is the Codex of Malloch. It is the ultimate tool of Darkness and it cannot be destroyed by mortal man. If it found its way into the hands of those with evil intent, the utter destruction of mankind would be at hand. So this is the Department's ultimate purpose: to guard the most powerful artifact in the world without even knowing it exists.
+
+The Codex isn't satisfied with this situation of course. It yearns to be free and to fulfill its purpose. It calls to the servants of Darkness, and they come. They don't even know why they come, don't even know the Codex is there, they just come. Some know they're being called, but of those, none have deliberately sought the Codex... yet.
+
+** Magic and the Supernatural
+
+*** Magic
+
+/Why can't I find a book on white magic in the library?/
+
+/Because there's no such thing as white magic./ -- Candice and Alex
+
+Magic in the world of Department 13 comes in two flavors, black and blacker. In order to cast magical spells, a witch must call upon the forces of Darkness to do her bidding. The so-called "white witch" treads a thin line, calling on the Darkness to fight the Darkness. With every incantation, the white witch sells a little piece of her soul. If the black witch works things right, she sells someone else's soul instead of her own. But even she doesn't always get so lucky.
+
+When it comes right down to it, "black and blacker" really isn't a joke. There are two sources of power a witch can call on, and one is a lot uglier in the long run. These two powers are spirits and greater demons.
+
+*** Spirits
+
+/Have you been calling up evil spirits again?/
+
+/What, you think I summon up evil spirits just for fun?/
+
+/You did, didn't you?/
+
+/Well, yeah..../ -- Alex and Sofia
+
+The spirits of Darkness are more a force of nature or personifications of emotion than they are beings. They have no clear will of their own and most are easily summoned. Spirits are generally called upon to control the elements or someone's emotions. A fire spell is easily performed by calling upon a fire spirit to set something ablaze, or a spirit of anger to enrage a target. The price of calling on the spirits to do ones bidding is a potential loss of Light, the basic force of goodness in the soul.
+
+Some examples are spirits of fire, anger, death, jealousy, wind, obsession. Some bear some discussion.
+
+*Spirits of the elements*. These are probably the safest among the spirits, and the closest to being neutral in nature. The white witch will concentrate most of her efforts here, but note that these spirits can be very destructive if the spell goes wrong.
+
+*Spirits of love*. There aren't any, nor are there any spirits of the emotions of Light. The witch foolish enough to call upon the spirits of "love" (and many do, as love spells are much sought after) will instead get a spirit of lust, obsession or jealousy. No love spell is truly successful because of this. The same goes for any spell that tries to make someone act out of an emotion of Light.
+
+*Spirits of death*. All too easily summoned, even the worst of black witches will avoid these if they have any sense. Difficult to control, they are more likely to turn on their summoner than any other spirit.
+
+*** Greater Demons
+
+/Hello, Hecate... are you listening? Yoohoo... like, I could use some help today, ya know? ... Pff -- goddesses! Never around when you need them./ -- Sofia
+
+Hecate, Abraxis, Pan, Amdusias, Loki, Housoku, the Nameless Ones... these are but a few of the known greater demons. Considered gods by the common witch, these beings wield raw power and can lend a portion of it to mortals. (See Demons below.)
+
+The greater demons channel their power through the witch, creating nearly any effect imaginable. Notably, no spell can return the dead to real life.
+
+The greatest danger to most novice witches dealing with the greater demons is that they think these "gods" are relatively harmless or even on their side. This naive view has led many a white witch down the path to the side of Darkness.
+
+The price a greater demon exacts in exchange for its power varies. Some willingly give power to witches whose activites align with the demon's purposes, some will require a sacrifice or other bargain before they will grant power. Regardless of the price exacted, the witch always risks losing Light in the process.
+Casting Spells
+
+The time it takes to call upon the spirits varies depending on how powerful the spirit is, how skilled the witch is, and how large of an effect the witch is trying to accomplish. Small spells involving spirits can be cast quickly enough to be effective in combat.
+
+Calling upon a greater demon always involves a long and complicated ritual. But if the witch is willing to enter into a long-term contract, usually at the cost of her immortal soul, she can call upon the demon's power with simple spells quickly enough to be effective in combat.
+
+Any moderately powerful magic takes time, a ritual, the proper components, and often more than one witch.
+
+See the sample spells later in this article.
+

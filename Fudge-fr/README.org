@@ -6,13 +6,9 @@
 
 ** Fudge settings
 
-*** Fudge Dungeon Crawl
-
-[[FudgeDungeonCrawl.org][Fudge Dungeon Crawl]]
-
-*** Majestic Realm RPG
-
-[[http://www.batintheattic.com/downloads/MajesticRealmsRPG_Fudge_Rev%252016.zip][Majectic Realm RPG for Fudge/Fate]]
+- [[FudgeDungeonCrawl.org][Fudge Dungeon Crawl]]
+- [[http://www.batintheattic.com/downloads/MajesticRealmsRPG_Fudge_Rev%252016.zip][Majectic Realm RPG for Fudge/Fate]]
+- [[Department13.org][Department 13]]
 
 ** Fudge extensions
 

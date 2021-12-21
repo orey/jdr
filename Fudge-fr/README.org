@@ -14,4 +14,8 @@
 
 [[http://www.batintheattic.com/downloads/MajesticRealmsRPG_Fudge_Rev%252016.zip][Majectic Realm RPG for Fudge/Fate]]
 
+** Fudge extensions
+
+- [[OtherUsesForFu.org][Other uses for Fudge Fu]]
+
 

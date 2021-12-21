@@ -16,6 +16,6 @@
 
 ** Fudge extensions
 
-- [[OtherUsesForFu.org][Other uses for Fudge Fu]]
+- [[file:OtherUsesForFu.org][Other uses for Fudge Fu]]
 
 

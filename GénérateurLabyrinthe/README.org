@@ -19,6 +19,6 @@ John Norio a travaillé sur plusieurs versions de générateurs de "donjons", ce
 
 ** Téléchargements
 
-- Le générateur en PDF : : [[https://github.com/orey/jdr/blob/master/G%C3%A9n%C3%A9rateurLabyrinthe/GenerateurDeLabyrinthe-OreyJdr01.pdf][Générateur de labyrinthe pour JDR version PDF]]
-- Le générateur sur GitHub : [[https://github.com/orey/jdr/blob/master/G%C3%A9n%C3%A9rateurLabyrinthe/GenerateurDeLabyrinthe-OreyJdr01.org][Générateur de labyrinthe pour JDR version Github]]
+- Le générateur en PDF : : [[https://github.com/orey/jdr/blob/master/G%C3%A9n%C3%A9rateurLabyrinthe/GenerateurDeLabyrinthe-OreyJdr02.pdf][Générateur de labyrinthe pour JDR version PDF]]
+- Le générateur sur GitHub : [[https://github.com/orey/jdr/blob/master/G%C3%A9n%C3%A9rateurLabyrinthe/GenerateurDeLabyrinthe-OreyJdr02.org][Générateur de labyrinthe pour JDR version Github]]
 

@@ -2,7 +2,7 @@
 
 ** Fudge en une page (French)
 
-- [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge en une page]]
+- [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage/FudgeEnUnePage-ORey05.pdf][Fudge en une page]]
 
 ** Fudge settings
 

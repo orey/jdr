@@ -1,0 +1,676 @@
+#+TITLE: Departement 13
+#+AUTHOR: Olivier Rey
+#+DATE: 2021-12-22
+#+STARTUP: overview
+#+LANGUAGE: fr
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]
+#+LATEX_HEADER: \usepackage{baskervillef}
+#+LATEX_HEADER: \usepackage{geometry}\geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
+#+LATEX_HEADER: \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Department 13, univers en français pour Fudge}, pdfkeywords={jdr, fudge}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={Frenchb}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
+#+LATEX_HEADER: \usepackage[french]{babel}
+#+LATEX_HEADER: \usepackage{titlesec}\titlelabel{\thetitle. \quad}
+#+LATEX_HEADER: \usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
+#+LATEX_HEADER: \usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
+#+EXPORT_FILE_NAME: FudgeDepartment13-VersionFrancaise-OreyJdr05.pdf
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+#+ATTR_LATEX: :width 4cm
+[[file:Fudge_logo.jpg]]
+
+* Department 13 - Version française
+
+Department 13 est un univers pour Fudge publié dans le site fudgefactor.org, désormais fermé.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align ll
+| Concepteur               | (C) Carl D. Cravens (raven @ phoenyx .net)         |
+| Version originale        | Version originale 1984 - Copyright Carl D. Cravens |
+| Website                  | [[http://web.archive.org/web/20060822022058/http://www.fudgefactor.org/2004/04/department-13.html][fudgefactor.org]]                                    |
+| Traduction               | (C) O. Rey 2021                                    |
+| Version                  | 1.0                                                |
+
+Note du traducteur : l'action étant supposée se dérouler aux Etats-Unis, nous avons gardé le nom "Department 13" au lieu de le traduire en français.
+
+* Introduction
+
+/Si le monde connaissait la vérité, s'il savait que la la seule chose qui les sépare de leurs plus grandes peurs est vous, bande de voyous, ils ne pourraient pas dormir de la nuit. Et ils ne descendraient probablement pas au 7/11 à 2 heures du matin pour aller chercher un Coca./ -- Le Directeur.
+
+Bienvenue dans le monde du Department 13, une agence gouvernementale secrète que très peu de gens connaissent au gouvernement et que personne n'admettra connaître. Les théoriciens conspirationnistes qui suspectent l'existence du Department 13 pense qu'il nous protège de la menace extraterrestre. Ils se trompent. Department 13 nous protège des Ténèbres. Mais aussi de l'occasionnel fou avec une hache.
+
+* Le Department
+
+/Allo, Mme Baskerville? Je suis l'agent Smith de la Food and Drug Administration. Je voudrais vous poser quelques questions à propos du, hum, "gang de motards" qui a saccagé votre maison la nuit dernière./ -- Agent Alex Smith.
+
+Le boulot du Department 13 est de combattre les monstres. Cette activité est sans fin, tuer des vampires, bannir des démons, exploser les têtes des morts-vivants. Quelqu'un doit le faire, et pendant que les membres du Department 13 s'en occupe, ils tentent d'empêcher que le monde n'apprenne la vérité sur les horreurs qui résident dans les Ténèbres.
+
+Comme le vilain petit canard, le Department 13 est ballotté de budget en budget, atterrissant sur le dos du dernier qui l'a touché. Au jour d'aujourd'hui, le Department est une branche de la FDA (NdT : administration de régulation de l'alimentation et des médicaments aux Etats-Unis). Leur dernier boulot pour la FDA impliquait des barres de sucreries alchimiquement modifiées, ou quelque chose du genre, et la FDA n'est pas parvenue à se débarrasser d'eux depuis. Aucune autre agence ne veut les récupérer, mais à chaque fois que la FDA veut leur couper définitivement les vivres, un visiteur spécial "venu d'en haut" leur rend visite en les convainquant de l'imprudence d'une telle action.
+
+D'où le fait que le budget du Department puisse être décrit comme "entre fin et non-existant". Ils ne possèdent pas un superbe labo pour lutter contre les monstres et ils n'ont pas de super armes pour se battre. Ils ne luttent pas contre les Ténèbres avec de la technologie, ils luttent avec du sang, de la sueur et des larmes. Et des mauvais jeux de mots. Vous seriez surpris de réaliser les dommages que peuvent causer un mauvais jeu de mots.
+
+** Les opérationnels
+
+/Entrez dans l'armée et visitez le monde ; entrez dans le Department 13 et ne voyez plus jamais votre famil... qu'importe. Bienvenue à bord./ - Le Directeur.
+
+Il y a deux façons d'être recruté dans le Department 13.
+
+La première est celle des opérationnels de terrain et des soldats expérimentés. Ex CIA, FBI, Beret Vert et black-ops de cette autre branche secrète dont le gouvernement n'admet pas l'existence. Ces opérationnels sont faciles à trouver. Le Department recrute les indésirables, ceux qui ne rentrent pas dans le moule, ou ceux qui sont en danger dans leur carrière et qui cherchent un endroit pour servir qui peut encore leur fournir un chèque à la fin du mois.
+
+Dans ce cas, le recrutement est digne des films d'espionnage, avec un mystérieux agent représentant une mystérieuse agence approchant la recrue potentielle avec des intentions vagues, prenant la température, tout en jouant avec son imagination de manière à l'intriguer puis à la convaincre. Comme ces opérationnels, pour être recrutés, doivent être convaincus de l'existence du surnaturel, beaucoup d'entre eux ont des imaginations actives voire très actives.
+
+La seconde manière d'être recruté est celle des opérationnels les plus intéressants du Department 13. Ce sont des sorcières, des voyants, des chasseurs de démons depuis leur naissance. Ils sont recrutés sans formation de terrain formelle, mais ils apportent un élément essentiel à l'arsenal du Department, la possibilité de combattre le feu par le feu. Le Department cherche continuellement ces individus rares qui ont un don surnaturel, et qui ont une tendance à l'utiliser pour le bien.
+
+Ces recrues potentielles sont plus faciles à approcher. Ils vivent déjà dans un monde de faits surnaturels. Ils ne sont pas méfiants que le recruteur soit un espion étranger. Mais ils peuvent être plus difficiles à recruter. Il faut beaucoup d'efforts pour les convaincre de travailler pour "l'Homme". Barbotant ou nageant en marge, ce sont des outsiders habitués à leur liberté. Ce qui peut les convaincre est de bénéficier d'un travail d'équipe avec un support financier. Le tueur de vampire solitaire apprécie d'avoir quelqu'un couvrant ses arrières. Dommage que le discours "support financier" soit un peu exagéré.
+
+-- Reprendre là
+
+
+
+*** Non-player Operatives
+
+**** Candice Collier
+
+/Y'know how the first time you learned how sausage was made, it turned you off to the stuff for years? I've seen how the future is made. So don't ask me unless you really need to know. Let me be the one to spend March afraid of her cornflakes./ - Candice, during a recent debriefing
+
+Candice has seen ghosts since she was nine. She's now seventeen, and has a fairly reliable control over her Sight. What limits her use of it is a fear that she will see how she is going to die. Because of this, she is very closed to seeing future events, whether they relate to her or not.
+
+Candice has led a sheltered life, and isn't as street smart as most girls her age. After her Sight first manifested, she spent several years in a mental institution (where she learned that lying was the best way to get along) before the Department discovered her and arranged her release on the condition that she come to work for them.
+
+She senses that Anthony has feelings for her, but she's reluctant to let him get too close. She trusts him completely, but she's seen something of the future that makes her afraid of a serious relationship. She's built a fragile friendship with Sofia, though her use of magic makes Candice uneasy. She doesn't resent Smith the way the others do, but she resents the way he thinks the Sight is something she can just turn on and off at will.
+
+In the midst of all the monster hunting, Candice is trying to rebuild something of a normal life for herself. She'd like to start dating, but her natural shyness and supernatural ability make it difficult.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |          | 
+|------------+----------|
+| Strength   | Mediocre |
+| Agility    | Fair     |
+| Willpower  | Great    |
+| Light      | Good     |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts     | Faults                      |
+|-----------+-----------------------------|
+| The Sight | Afraid of seeing her future |
+|           | Owes the Department a debt  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills          |      |
+|-----------------+------|
+| Sight control   | Good |
+| Street fighting | Good |
+| Occult lore     | Fair |
+| Research        | Fair |
+| Lying           | Good |
+| Detect lies     | Fair |
+
+**** Alex Smith
+
+/It's not enough that I have to babysit a bunch of kids, now you want me to take them into the field without a sidearm? How am I supposed to threaten them into behaving if I'm not carrying a gun?/ -- Agent Smith to the Director
+
+Agent Alex Smith is a former field agent of the FBI and takes the supernatural in stride as cold, hard facts of life. He's got a job to do, and he's going to do it by the book. That discipline and training are necessary to accomplish the job is just another cold, hard fact of life. What gets Smith's goat is that his team is a bunch of undisciplined teenagers who don't know diddly about running a real operation. There's a war going on, and the soldiers under his command are more than wet behind the ears, they think they know this business better than he does.
+
+Smith will bend the rules and even throw out the book when he thinks it will serve the ultimate goal of the Department, but he's stricter with his team of teens than he would be with experienced agents. Their cockiness and disregard for protocol makes him come down on them all the harder.
+
+What's really under Smith's skin is something that he doesn't really recognize. It's not that they're kids that he resents, it's that every one of them has some supernatural edge that he hasn't got. All he's got is hot lead, and occasionally silver, and deep down he knows that it isn't enough. He knows that the Department needs these kids, and the only thing he has to contribute is his training and self-discipline.
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |      |
+|------------+------|
+| Strength   | Fair |
+| Agility    | Good |
+| Willpower  | Good |
+| Light      | Fair |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts               | Faults                                                |
+|---------------------+-------------------------------------------------------|
+| Contacts in the FBI | Resentful of having to "babysit" a team full of teens |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills                |      |
+|-----------------------+------|
+| Gun combat            | Good |
+| Kung Fu               | Good |
+| Police protocol       | Fair |
+| Deduction             | Good |
+| Breaking and entering | Good |
+| Hadle bureaucracy     | Good |
+
+**** Sofia Martinez
+/"Not so subtle. Still quick to anger."/ -- Sofia's T-Shirt
+
+Sofia is sixteen years old, the daughter of a witch, and a witch herself. She studied the black arts with her mother, until her mother demanded that she sacrifice one of her friends to a demon in exchange for power. Sofia, a good soul at heart, balked, and when her mother pushed her, the resulting contest left her mother's beautiful faced scarred and drove a wedge between them. While her mother vowed vengance upon her daughter, Sofia came to the realization that the arts learned from her mother endangered her soul. When Department 13 came looking for her, she was ready to join their ranks to atone for what she had been doing and to find a safe haven from her mother.
+
+Sofia has a Fair Light, which is typical of most people. She used to have a Great Light, but continued use of black magics and invocations of Hecate have gradually diminished the goodness of her soul. If she continues down this path, it won't be long before she joins her mother as a servant of Darkness. As it is now, she is easily tempted by the use of magic, and even though she knows it has harmful effects on her, she often can't resist when the going gets tough. She could reverse the trend by eliminating her use of magic and turning her activities to something more wholesome, but it will likely take another serious to bring her to that.
+
+Sofia loves to hang out with Alex and Candice and wants to be best-buds. Smith, on the other hand, she's contemplated turning into a frog more than once. She's also got a crush on agent Murray, her kickboxing instructor, but she's sure nobody knows. 
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |          |
+|------------+----------|
+| Strength   | Mediocre |
+| Agility    | Fair     |
+| Willpower  | Good     |
+| Light      | Fair     |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts                                                        | Faults                                    |
+|--------------------------------------------------------------+-------------------------------------------|
+| The Crystals of Aurelius (+1 to concentration or meditation) | Turns too easy to mafic to solve problems |
+|                                                              | Mother wants to kill her                  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills      |       |
+|-------------+-------|
+| Occult lore | Great |
+| Herb lore   | Fair  |
+| Kickboxing  | Fair  |
+| Research    | Good  |
+| Bluff       | Fair  |
+| Charm       | Fair  |
+
+**** Antony Brown
+
+/"It's no big deal."/
+
+/"You took off its head with a hubcap!"/
+
+/"Okay, so I just put a little english on it..."/
+
+-- Anthony and Candice
+
+Anthony is a natural-born demon hunter (see Forces of Light). He grew up in an orphanage and never knew who, or what, his parents were. When he was twelve, he ran away from the orphanage and lived on the streets, hunting vampires until Department 13 recruited him.
+
+Anthony is wary of the Director's attempt to be "fatherly" to him, but his high-than-average Light gives him the gut feeling that the Director, however mysterious, does have his best interests in mind.
+
+He's also very protective of Candice, waffling between being brotherly and something more. He's very cautious about Sofia, and has been contemplating having a serious talk with the Director about what the magic has been doing to her. He senses her slow slide into Darkness and wonders why the others don't see it as well. He tolerates Smith well, though he wishes the guy would go easier on them. 
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |        |
+|------------+--------|
+| Strength   | Superb |
+| Agility    | Good   |
+| Willpower  | Fair   |
+| Light      | Great  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts                | Faults                           |
+|----------------------+----------------------------------|
+| +1 Damage resistance | Compelled to fight the darkness  |
+| Heals rapidly        | Just wants to live a normal life |
+| Inhuman endurance    |                                  |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills             |          |
+|--------------------+----------|
+| Streewise          | Fair     |
+| Streetfighting     | Good     |
+| Campaign city lore | Good     |
+| research           | Mediocre |
+| Surveillance       | Fair     |
+| Socialize          | Mediocre |
+
+** The Director
+
+/This is a serious job, and it takes serious people to do serious work. Now if you children are finished with your playground scuffle, we've got an operation to run here./ -- The Director.
+
+They call him "the Fat Man". Some, just a very few, have earned enough of his respect to call him that to his face. Those who use the moniker behind his back call him "the Director" to his face, as he has revealed no other name. A few, more polite operatives call him "the Old Man." He dislikes this nickname the most.
+
+The Director is almost as mysterious as the Department itself. Nobody knows his name, nobody knows where he lives, nobody knows if he has any family. The senior operatives make sure the new recruits don't try to follow him around. They respect his privacy. If he wants to keep his life a secret, he must have a good reason for it.
+
+He's also as humorless as he is mysterious. He never laughs, unless it's his short, dry bark of irony, and the only humor anyone gets from him comes as sarcasm, usually used to put an unruly operative in his place.
+
+Who is the Director? He's whoever you need him to be. If you want to keep it simple, he's Martin Fess, ex-Green Beret grown fat, driven to do his job unrelentingly by the memory of the night his wife and children were taken from him by a creature of Darkness. He has given up his past and become the Director; that is the only meaning or purpose that he has left.
+
+If you want something more complex, dig deeper, and you'll find that the Martin Fess identity is a mask under the mask. A false face for someone, or some thing, less expected. A supernatural agent of Light, organizing this world to fight the Darkness? Or maybe an agent of Darkness, using the mortals of this world to further its dark ends? Perhaps the real truth is even more sinister. 
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Attributes |          |
+|------------+----------|
+| Strength   | Good     |
+| Agility    | Mediocre |
+| Willpower  | Great    |
+| Light      | Great    |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Gifts            | Faults          |
+|------------------+-----------------|
+| Inspires loyalty | Secrets to keep |
+|                  | Overweight      |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Skills          |        |
+|-----------------+--------|
+| Gun combat      | Fair   |
+| Fighting        | Fair   |
+| Police protocol | Good   |
+| Deduction       | Fair   |
+| research        | Good   |
+| Leadership      | Great  |
+| Handling money  | Superb |
+
+** The Lab
+
+/Oh, I'll just run this through the DNA analyzer and we'll have your results in a jiffy!/
+
+/... We have a DNA analyzer?!/
+
+/Nah. I'm really going to let Bruno sniff both samples, and if he thinks they're from the same person, he'll bark twice./ -- Jenkins and Alex
+
+While they may not have the latest in fancy crime-fighting equipment, the Department does have a basic laboratory with enough equipment to analyze blood samples, identify common materials, do basic forensics work, and generally get annoyed at not having enough fancy equipment.
+
+If any serious work needs done, it gets sent out of house. And analyzing anything suspicious usually requires calling in a marker or two.
+
+** The Library
+
+/You'd think the Tome of Orisis would be in the computer by now./
+
+/What, and miss out on the sun-fun experience of reading a book bound with human skin?/ -- Alex and Sofia
+
+The guys in the lab will tell you that the Department spends far more money on books than on proper lab equipment. And they're quite right. Department 13's library is vast and old, full of rare books on all subjects arcane and mystical. A few of the more common works have been scanned into the computer, but library work generally requires late nights poring over old tomes.
+
+** Equipment
+
+/I told you, only adult agents get a sidearm./
+
+/You just won't let me have a gun because I'm a girl!/
+
+/That's right, I don't give guns to agents who pout./ -- The Director and Candice
+
+Every agent of eighteen years or older is issued a standard sidearm. Bullet-proof vests are available when necessary. Don't ask for more than that. If you start thinking about silver-nitrate rounds, shotguns that shoot wooden stakes, and high-powered tasers, just remember, you're lucky to get bullets.
+
+** The Dirty Little Secret
+
+/Secrets? Everybody's got secrets! Question is, which ones are worth knowing, and which ones would just cause you trouble?/ -- The Director
+
+So why does the Department seem to be the center of so much supernatural activity? There aren't branches all over the continent, just one little office and so much Darkness to be found nearby. While the occasional cross-country excursion does happen, the operatives of Department 13 rarely have to look outside their own city limits to keep their hands full. Why is that?
+
+At the bottom level of the lab, there's a secret staircase. Only the Director and two other people know of its existence. At the bottom of the staircase, there's a secret vault made of cold iron. In this secret vault is the Codex of Malloch. It is the ultimate tool of Darkness and it cannot be destroyed by mortal man. If it found its way into the hands of those with evil intent, the utter destruction of mankind would be at hand. So this is the Department's ultimate purpose: to guard the most powerful artifact in the world without even knowing it exists.
+
+The Codex isn't satisfied with this situation of course. It yearns to be free and to fulfill its purpose. It calls to the servants of Darkness, and they come. They don't even know why they come, don't even know the Codex is there, they just come. Some know they're being called, but of those, none have deliberately sought the Codex... yet.
+
+* Magic and the Supernatural
+
+** Magic
+
+/Why can't I find a book on white magic in the library?/
+
+/Because there's no such thing as white magic./ -- Candice and Alex
+
+Magic in the world of Department 13 comes in two flavors, black and blacker. In order to cast magical spells, a witch must call upon the forces of Darkness to do her bidding. The so-called "white witch" treads a thin line, calling on the Darkness to fight the Darkness. With every incantation, the white witch sells a little piece of her soul. If the black witch works things right, she sells someone else's soul instead of her own. But even she doesn't always get so lucky.
+
+When it comes right down to it, "black and blacker" really isn't a joke. There are two sources of power a witch can call on, and one is a lot uglier in the long run. These two powers are spirits and greater demons.
+
+** Spirits
+
+/Have you been calling up evil spirits again?/
+
+/What, you think I summon up evil spirits just for fun?/
+
+/You did, didn't you?/
+
+/Well, yeah..../ -- Alex and Sofia
+
+The spirits of Darkness are more a force of nature or personifications of emotion than they are beings. They have no clear will of their own and most are easily summoned. Spirits are generally called upon to control the elements or someone's emotions. A fire spell is easily performed by calling upon a fire spirit to set something ablaze, or a spirit of anger to enrage a target. The price of calling on the spirits to do ones bidding is a potential loss of Light, the basic force of goodness in the soul.
+
+Some examples are spirits of fire, anger, death, jealousy, wind, obsession. Some bear some discussion.
+
+*Spirits of the elements*. These are probably the safest among the spirits, and the closest to being neutral in nature. The white witch will concentrate most of her efforts here, but note that these spirits can be very destructive if the spell goes wrong.
+
+*Spirits of love*. There aren't any, nor are there any spirits of the emotions of Light. The witch foolish enough to call upon the spirits of "love" (and many do, as love spells are much sought after) will instead get a spirit of lust, obsession or jealousy. No love spell is truly successful because of this. The same goes for any spell that tries to make someone act out of an emotion of Light.
+
+*Spirits of death*. All too easily summoned, even the worst of black witches will avoid these if they have any sense. Difficult to control, they are more likely to turn on their summoner than any other spirit.
+
+** Greater Demons
+
+/Hello, Hecate... are you listening? Yoohoo... like, I could use some help today, ya know? ... Pff -- goddesses! Never around when you need them./ -- Sofia
+
+Hecate, Abraxis, Pan, Amdusias, Loki, Housoku, the Nameless Ones... these are but a few of the known greater demons. Considered gods by the common witch, these beings wield raw power and can lend a portion of it to mortals. (See Demons below.)
+
+The greater demons channel their power through the witch, creating nearly any effect imaginable. Notably, no spell can return the dead to real life.
+
+The greatest danger to most novice witches dealing with the greater demons is that they think these "gods" are relatively harmless or even on their side. This naive view has led many a white witch down the path to the side of Darkness.
+
+The price a greater demon exacts in exchange for its power varies. Some willingly give power to witches whose activites align with the demon's purposes, some will require a sacrifice or other bargain before they will grant power. Regardless of the price exacted, the witch always risks losing Light in the process.
+Casting Spells
+
+The time it takes to call upon the spirits varies depending on how powerful the spirit is, how skilled the witch is, and how large of an effect the witch is trying to accomplish. Small spells involving spirits can be cast quickly enough to be effective in combat.
+
+Calling upon a greater demon always involves a long and complicated ritual. But if the witch is willing to enter into a long-term contract, usually at the cost of her immortal soul, she can call upon the demon's power with simple spells quickly enough to be effective in combat.
+
+Any moderately powerful magic takes time, a ritual, the proper components, and often more than one witch.
+
+See the sample spells later in this article.
+
+** Gamemastering Magic
+                            
+The first rule is that magic should be risky, both in the short term and the long term. Every successful casting risks a loss of Light, the basic force of goodness in the soul.
+
+The second rule is that magic is unreliable, unpredictable, and downright under the GM's control. Use magic to make the story more interesting, not to let the players short-circuit the story.
+
+To cast a spell, the witch must know (or develop) the proper ritual, have at hand the necessary components, call upon an appropriate power, and then force, coerce or bargain with that power to grant the desired spell.
+
+If the witch doesn't get some portion of the spell correct, such as working from an inaccurate or damaged copy of the instructions, or a component was left out or substituted, there is the possibility that the spell will simply fail. This usually has no effect, but the GM may apply some minor backfire effect if desired. (This is especially encouraged if the players need reminding that magic is dangerous.) If there is the possibility of the spell being performed improperly, the witch may make a roll against her Magic skill to detect and correct for the mistake.
+
+Once it is determined that the casting has been performed properly, the witch has made contact with the desired entity and must make a Willpower roll against the difficulty of the spell. When using spirits, this reflects the willfulness of the spirits; the witch literally bends them to her will. In the case of greater demons, it's not a matter of having a stronger will than the demon, it's a matter of having the willpower to control the energy granted. (A spell's difficulty is set by the gamemaster using whatever manner of determination he desires. Just don't make any magic too easy.)
+
+If the spell fails at this stage, bad things are likely to happen. The spell may backfire with minor to terrible results. The spirits or demon's power may run amok or turn on the caster. The more powerful the spell, the more dangerous will its backlash be.
+
+If the Willpower roll is successful, the spell goes off more or less as planned. The exact effects of a spell are under GM control. Both spirits and demons are mischevious, and the witch cannot count on everything going exactly as expected.
+
+In either case, successful Willpower roll or not, the witch must make a Light roll against the difficulty of the spell. If this roll fails, she permanantly loses one level of Light. (This effect does not occur if the spell was simply cast incorrectly. It is willing contact with Dark forces that cause loss of Light.)
+
+Magic should be handled in a very freeform manner. While witches may develop a few quick-cast spells for combat, most spells will be of specialized nature and not see repetitive use. 
+
+** Casting Spells
+
+The time it takes to call upon the spirits varies depending on how powerful the spirit is, how skilled the witch is, and how large of an effect the witch is trying to accomplish. Small spells involving spirits can be cast quickly enough to be effective in combat.
+
+Calling upon a greater demon always involves a long and complicated ritual. But if the witch is willing to enter into a long-term contract, usually at the cost of her immortal soul, she can call upon the demon's power with simple spells quickly enough to be effective in combat.
+
+Any moderately powerful magic takes time, a ritual, the proper components, and often more than one witch.
+
+See the sample spells later in this article.
+
+** The Sight
+
+ Where magic is an external force to be called upon, some humans possess an internal ability to see things that others cannot, which the Department calls "the Sight." Most often, this ability allows them to see supernatural beings for what they are (invisible ghosts are visible to them, they recognize Type III vampires at a glance, etc). Occasionally, the Sight can extend into the past, usually when it involves a strong psychic imprint, such as seeing the past events of a murder when at the murder scene, or touching some important object or being involved in the murder. Very rarely, the Sight can extend into the future.
+
+Operatives with the Sight are some of the Department's most valuable assets. The Department will go to a lot of expense, and put up with rather obnoxious behavior, to keep a Seer on the team.
+
+** Gamemastering the Sight
+
+While there are many ways to represent the Sight in game terms, here are two that work well:
+
+*** Sight as a Gift
+
+Either as a simple Gift (you got it or you don't) or as stackable (multiple levels in the Gift make you stronger at it), this method is pretty straightforward.
+
+*** Sight as an Attribute
+
+Give every character some kind of "psychic awareness" attribute. High levels (Superb or higher) allow sensing the supernatural and may allow visions of the past and future. Medium levels give a rudimentary ability to sense the supernatural (goosebumps or cold shivers when they are present). Low levels are practically useless... if a player buys his Sight down below Fair, make sure he suffers for it in play by failing to "sense evil" sneaking up behind him, or maybe allowing him to fall in love with a ghost without recognizing it for what it is.
+
+*** Or a Little of Both...
+
+Use a "psychic awareness" Attribute for basic sensing of nearby supernatural activity, and a Sight Gift for visions of the past and future.
+
+*** Using the Sight
+
+The gamemaster could work up a "results chart" for unopposed rolls against the Sight when supernatural activity is present, but that may restrict this ability more than you'd like. The Sight is as much a gamemaster plot tool as it is a problem-solving tool for the operatives. By limiting yourself to interpreting die rolls against a chart, you limit your ability to use the Sight as a plot device.
+
+Play the Sight according to your needs to drop clues. Try throwing in the occasional "normal dream" or difficult to interpret vision to keep the Sight from becoming a routine source of reliable information. Visions of the future need not come to be, visions of the past might be through a historical person's eyes and subject to his interpretation of events. 
+
+** Personal Light
+
+Every mortal being possesses a soul, and that soul can be good or evil, full of Light or Darkness. Most mortals have a balance of Light and Darkness in them, possessing neither great good nor terrible evil.
+
+Most people have a Fair Light. The virtuous have a Good or higher Light. The depraved and evil have a Mediocre or lower Light. The amount of Light a soul possesses dictates how well it resists temptation or domination by Darkness. The further away from Fair a being's Light is, the more sensitive that being is to Light, or lack of light, in others.
+
+A person's Light can change over time. Consciously going out of one's way to do good will slowly raise one's Light. The fall into Darkness is far easier, and often starts with good intentions.
+
+* The Forces of Light
+
+Unfortunately, the balance of power seems to be in favor of the Darkness. As far as the Department knows, there are no greater beings on the side of Light. For the most part, mankind stands alone in this battle. (Maybe. See the section on Religion in Department 13 for an alternative.)
+
+Rarely, there are individual humans the Department calls demon-hunters. Gifted with some combination of great strength, speed, endurance, healing and supernatural senses or abilities, these incredible individuals are called to fight the forces of Darkness. Some respond willingly, others grudgingly, and some not at all, but each of them feels, at a gut level, the call to do battle with the creatures of Darkness.
+
+Just as there are men devoted to Darkness, there are just a very few creatures of Darkness that have switched sides. Most often because they see some kind of gain in it, but occasionally because they are mutants among their own kind, genuinely good, and willing to risk their lives for the welfare of mankind.
+
+* The Forces of Darkness
+
+** The Undead
+
+*** Vampires
+
+/Are you sure Jones over in accounting isn't a vampire?/ - The Director
+
+Vampires in the world of Department 13 come in three flavors.
+
+Type I vampires, or Elders, are the common vampire of legend. They're ancient, powerful undead, who can change forms and mesmerize their victims. Fortunately they're rare, spend long months or even years "asleep", and don't have to feed often. After death, a victim who has tasted the blood of the Type I vampire rises as a Type II under the control of its creator.
+
+Type II vampires are less-powerful versions of their masters, able to be active during the day and not needing the deep "sleep" their masters do.
+
+Type III vampires, or daywalkers, appear entirely human, are cool to the touch but not deathly cold, cast a reflection, and can walk in sunlight (though they dislike it). They crave the taste of human blood, yet are not dependent on it, as they take sustenance from regular food. Like a Type I vampire, they take their prey by mesmerising them. The victim generally doesn't remember the enounter at all, but if pressed by a witness, will remember only a pleasant encounter with a friend or lover whom they can't quite remember. Individually, the Type III vampire doesn't drain enough blood to kill its victim, though if multiple Type III vampires feed from the same victim, death can occur. Type III vampires never create more vampires.
+
+Type III vampires are the most common and the most difficult to detect, but hardly being vampires, they are almost harmless. Their greatest threat is not as vampires, but as the minions of a greater power.
+
+How more Type I vampires are made isn't known, though the Department's current theory is that a Type I can simply make another Type I instead of a Type II when he chooses.
+
+When killed, all three vampire types quickly decay into dust, even if they were only hours old, leaving behind only their empty clothes and possessions. 
+
+*** Roleplaying Vampires
+
+The exact abilities and weaknesses of the vampires are up to you. Here are some suggestions.
+
+**** Type I (Elder)
+
+| Is inhumanly strong (Legendary+ strength).                                                  |
+| Can shift into the form of a rat, wolf, bat or mist.                                        |
+| Can control rats, wolves and bats.                                                          |
+| Regenerates rapidly if fed recently, slowly otherwise.                                      |
+| Can mesmerize its victims, who have no clear recollection of the encounter.                 |
+| Does not cast a reflection.                                                                 |
+| Must drink human blood weekly or fall into a state of lethargy.                             |
+| Must "sleep" during the day.                                                                |
+| Is only active for a few weeks or months, then must sleep for several months or even years. |
+| Can only be killed by a wooden stake through the heart or by cutting off its head.          |
+| Cannot enter a dwelling uninvited. (At the GM's option, this invitation can be revoked.)    |
+| Cannot bear the sight of a holy symbol, is burned by its touch.                             |
+| Cannot bear sunlight, is burned by its touch.                                               |
+
+**** Type II
+
+All the attributes and weaknesses of the Type I vampire, except:
+
+| No shapeshifting and animal control.                                                          |
+| Does not regenerate as fast.                                                                  |
+| Mesmerizing ability is weaker.                                                                |
+| Does not have to "sleep" during the day.                                                      |
+| Does not have to feed as often, won't fall into a stupor until after a month without feeding. |
+| Slightly less affected (lower damage) by holy symbols and sunlight.                           |
+
+**** Type III
+
+Only has the mesmerizing powers at a low level. 
+
+*** Zombies
+
+/Braainnsssss..../ -- Jones over in Accounting
+
+The most familiar of the living dead, zombies never occur "in the wild" the way vampires do. They are always created, either through alchemy or other black magic, to do some evil power's bidding. They can range from the mindless, shambling corpse to the looks-good-enough-to-be-human simulacrum of a living being. The former are good for overwhelming the heroes, the latter for subtle plot twists.
+
+*** Ghosts
+
+/Maybe it was a ghost?/
+
+/Keep up, Eintstein, ghosts don't wear Nikes./ -- Alex and Candice
+
+Ghosts are not very common in this world, and they rarely can cause any harm, poltergeists being the worst of them. When a ghost is encountered, it's usually held here by unfinished business, and nine times out of ten you can bet it was because they were murdered and they're hanging around in hopes to see justice. They often seek out those with the Sight in an attempt to find a champion for their cause. (Don't confuse ghosts with evil spirits. The former are the essense of mortals trapped on this earth, while the latter are insubstantial creatures of Darkness.) 
+
+** Demons
+
+/Euugh... Those squid-face things again?/
+
+/Yeah, those squid-face things again. What, are you alergic or something?/ - Candice and the Director
+
+Demons abound in the universe of Department 13. There are almost as many types of demon as one could dream up. They come in all shapes, sizes and origins, but they can be broken up into two broad categories lesser demons and the greater demons.
+
+*** Lesser Demons
+
+Lesser demons are not unique individuals, but races of demons. They may possess minor magical powers, such as dimension travel, invisibility, or the ability to walk through walls. Generally, they're usually just mean, nasty things with tough hides and lots of muscles and horns.
+
+*** Greater Demons
+
+The "gods" of ancient myth are in reality unique demons of great power. Most of them can manifest in corporeal or non-corporeal forms, can hear their names spoken across the dimensions if the right rituals are performed, and can supply magial power through those rituals. All exact a price for lending their power.
+
+Under normal circumstances, all the greater demons dwell in the outer realms, also known as the underworld, and cannot directly influence this world. Unless they can physically travel through one of the 365 gateways, they won't be encountered in physical form.
+
+Here are just a few...
+
+**** Abraxas
+
+Once considered the Supreme Being by a Gnostic sect, Abraxas is actually the guardian of the 365 gateways to the underworld. His position is rather interesting, because he's as adamant about keeping the greater demons on their side of the gate as he is about keeping mortals on their side. He is obviously as evil as any of the greater demons, yet he must have some compelling reason to guard the gates as he does.
+
+**** Hecate
+
+Patroness of black magic, night and darkness, Hecate is the most common source of dark power among female witches. She gives power readily, but exacts a steep price in the long run.
+
+**** Pan
+
+Patron of strong drink, wild dancing, lust, and wildness. A favorite among the fraternities, of course, Pan is also favored among many nature cults.
+
+**** Amdusias
+
+Demon of war and conflict, Amdusias is quick to lend strength in battle, but is a poor choice in the more subtle arts.
+
+**** Loki
+
+The trickster, patron of chaos and trickery. Loki is called upon by many black male witches, and occasionally by the white witch in hopes of fouling up an enemies plans.
+
+**** Housoku
+
+Demon of magical knowledge, science and astrology. A patron of scholars and more recently, computers and the Internet.
+
+**** The Nameless Ones
+
+Look not upon the faces of the Nameless Ones, for to see them is to invite madness. They will give power beyond your wildest dreams, but those dreams will turn into nightmares of endless, unimaginable terror. If circumstances require that you call upon them, cast yourself into the depths of the Abyss. Better the eternal tortures of the damned than to gaze for even a moment into the depths of those thousand dead eyes.
+
+** Men
+
+Yes, many of mankind are on the side of Darkness as well. These are perhaps the most frightening of foes because they represent the potential for evil in all of us. They're also the most difficult to dispatch out-of-hand, for legal reasons if not for moral. If the operatives of the Department kill the mayor without sufficient evidence that would be believable in a court of law, they may find themselves left high and dry. "Because he was about to turn into the incarnation of Hoshepatawa himself!" is not a valid legal defense.
+
+* Gamemastering Department 13
+
+Something you should note right away is that the operatives of Department 13 are a mixed bag. Here you have seasoned Green Beret's, FBI, and CIA agents working alongside street-smart teen witches, seers and demon hunters. If you don't see the inter-party roleplaying potential in that, you might oughta pack it up and go home now. Here are some other factors you might want to consider...
+
+** Tone
+
+Deparment 13 is meant to be a dash of serious work mixed with a liberal dose of humor. Death of the main characters is extremely rare, death of secondary characters is rare, and death of innocent bystanders can happen almost every episode.
+
+Yet it doesn't have to be played that way. Department 13 can range anywhere from down-and-dirty, no-holds-barred, main-characters-die-regularly, to a campy romp in which the red shirts die but that isn't really important. However you want to run it, pick a direction and stick with it, otherwise you'll confuse and frustrate your players.
+
+** Budget
+
+How much money, and hence what kind of neat gadgets does the Department have? That depends on who is providing them with their budget and how much they can spare. Or for a more practical answer, it depends on just what you want the campaign to look like. Department 13 was written with a low budget in mind, but if you want action-adventure stories where the operatives to wade in with shotguns that shoot silver-tipped wooden stakes, holy water grenades, and sophisticated body armor (complete with neck shields), and you want them to have access to fancy computers and lab equipment, pour on the dough. On the other hand, if you're looking for a more thoughtful, low-key, stakes-and-crosses approach, keep the money tight and make them scramble for their existence.
+
+** Allies
+
+Don't forget that there are forces of Light outside the Department. Some are potential recruits, some have already been approached and chose to stay solo. There's even the occasional creature which has somehow gained a measure of Light and fights on the side of the good guys. Or at least that's what they'd have you think.
+
+** Religion in Department 13
+
+What role does religion play in a setting like this? In our most familiar, traditional vampire lore, it is the holy symbols of the Catholic church, the crucifix, St Andrews medallion, holy water or holy wafers, that harm the vampire. In the Buffy the Vampire Slayer TV series, the vampire is harmed by the Christian cross, but darned if the heroes don't turn to black magic instead of Christian prayer when they need supernatural aid.
+
+If you want vampires (and maybe other forces of darkness... why should vampires cower at the sight of a crucifix while demons laugh at it?) in the more traditional mode, you'll want to consider why the holy symbols have their effect. (And while you're at it, maybe Department 13 is a branch of the Catholic church, and its operatives the equivalent of holy paladins.)
+
+What is the role of the religious faith of the heroes when fighting the forces of darkness? More recent fiction expands from the symbols of the Catholic church so that any holy symbol of any faith will do the trick, so long as the bearer has faith in their religion. Loss or lack of faith makes the symbol useless. Conversely, those with strong faith (perhaps a Gift of True Faith?) may make the symbol more effective.
+
+Or maybe the holy symbols only work because of willpower, and the vampire's psychic mesmerising ability make it vulnerable to psychic attack. So anything could be a "holy symbol" if the weilder really believed it would harm the vampire.
+
+Finally, there's no reason that vampires and demons have to be linked to modern or real religion. Perhaps holy symbols and prayers have no effect on vampires and demons at all.
+
+** Do Your Own Thing
+
+Department 13 is just a springboard, a stepping-off point, for a campaign that should be uniquely yours! Don't feel constrained by anything here; tear it apart and reassemble it to your liking. Make Department 13 your own. Staff it with NPC agents and office personell for the PCs to interact with. Concoct conspiracies, create vampire factions, throw in some sexy demons to lure the heroes to the dark side, do whatever "sharpens your stake." Then go out and kick some vampire butt!
+
+* The Rules
+
+** Suggested Attributes
+
+- Strength - Used to punch and pick up heavy stuff.
+- Agility - Used to dodge and throw things.
+- Willpower - Used to cast and resist the effects of magic.
+- Light - Represents the level of goodness in the soul. 
+
+** Sample Skills
+
+It is suggested that skills detail for Department 13 be kept fairly high-level, to keep character sheets simple and play focused on the action. Feel free to adjust this sample skill list to fit your campaign.
+
+- Academic
+  - Research
+  - Lore (Magic, Creatures of Darkness, or other specialty)
+  - Teaching
+  - Languages
+  - Computers
+  - Science
+  - Area Knowledge 
+- Artistic
+  - Acting
+  - Music
+  - Art 
+- Athletic
+  - Acrobatics
+  - Climbing
+  - Endurance
+  - Jumping
+  - Running
+  - Swimming 
+- Combat
+  - Fighting (Specify style or weapon: Street, Knife, Gun, Kung Fu, etc) 
+- Criminal
+  - Fence (as in stolen goods)
+  - Forgery
+  - Hide
+  - Lockpicking
+  - Pickpocket
+  - Sneak
+  - Streetwise 
+- Perception
+  - Deduction (or "Deduce")
+  - Sense Motive
+  - Surveillance 
+- Professional
+  - Protocol (Police, Military, Other)
+  - Jury-Rig
+  - Driving
+  - First Aid
+  - Medicine
+  - Piloting
+  - Other Profession (Specify)
+  - Handle Bureaucracy 
+- Social
+  - Bluff
+  - Make Connections
+  - Charm
+  - Intimidate
+  - Lie
+  - Seduce 
+- Survival
+  - Tracking (wilderness)
+  - Shadowing (urban)
+  - Wilderness Survival
+  - Scrounge 
+
+** Sample Spells
+
+*** Fires of Hades
+
+Fire, alright, but not really from the netherworld. This simple spell calls on spirits of fire to set flame to the target. Difficulty is Fair, or Mediocre if there is already fire present (which increases the intensity of a backfire should failure occur). Takes one round of concentration and the proper incantation. Failure often results in an out-of-control fire. (So does success.)
+
+*** The Lost is Found
+
+Calling upon the winds of the four directions, this spell gives the witch an "intuitive" understanding of how to find a lost item or person. Requires a personal article of the lost person, a pentacle with appropriate symbols, candles and twenty minutes of incantation. Difficulty is Good. Failure often results in wind damage in the area of casting.
+
+*** Rites of the Zombie
+
+No grimoire would be complete without a recipe for creating the walking dead! This ritual spell requires a corpse (fresh is good, but even an intact skeleton will do in a pinch, raising the difficulty one level), a branch of the yew, an embalming oil of stinging nettles, powdered bone, and oil of cedrium; the proper pentacle drawn on the floor, about three hours of preparation and incantation, and a piece of your immortal soul. Difficulty is Legendary. Failure often results in an out-of-control zombie, intent on killing its creator.
+
+* Sources
+
+Obviously, this setting wasn't made up of whole cloth. It's a patchwork monster, with body parts gleefully stolen from the graveyards of many books and shows. You know most of them (do I have to say /Buffy/...?), so here are a few slightly obscure ones.
+
+- Television Shows
+  - /The Invisible Man/, on SciFi. This show rocked, but it wasn't about monsters. If you want to know how to run the "business" side of the Department and need a role-model for the Director, this is it. 
+- Books
+  - /Salem's Lot/, Stephen King. Not quite your typical vampire novel, and it's view on what a single vampire can do to a small town in a matter of days is frightening. The inspiration for "tiers" of vampire types come from it's sister book, Dark Tower V: Wolves of the Calla.
+  - /Odd Thomas/, Dean Koonts. Odd's got the Sight, and maybe he'd be better off without it. The ending is somewhat unsatisfying, but it's still a good read.
+  - /GURPS Places of Mystery/. Here you go, all the weird places of the real world, all decked out for gaming. 
+- Movies
+  - /Underworld/ (2003). A popular vampire and werewolf roleplaying world crossed with The Matrix look and feel (and sound effects). Despite getting mediocre reviews, this movie is ripe for the picking when it comes to the world of Department 13, and the premise and the plot work well enough. Watch for Type 1 and Type 2 vampires here. 
+
+/(Source: The defunct [[http://web.archive.org/web/20060822022058/http://www.fudgefactor.org/2004/04/department-13.html][fudgefactor.org]])/
+

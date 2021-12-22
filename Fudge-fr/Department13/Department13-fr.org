@@ -65,80 +65,82 @@ La seconde manière d'être recruté est celle des opérationnels les plus inté
 
 Ces recrues potentielles sont plus faciles à approcher. Ils vivent déjà dans un monde de faits surnaturels. Ils ne sont pas méfiants que le recruteur soit un espion étranger. Mais ils peuvent être plus difficiles à recruter. Il faut beaucoup d'efforts pour les convaincre de travailler pour "l'Homme". Barbotant ou nageant en marge, ce sont des outsiders habitués à leur liberté. Ce qui peut les convaincre est de bénéficier d'un travail d'équipe avec un support financier. Le tueur de vampire solitaire apprécie d'avoir quelqu'un couvrant ses arrières. Dommage que le discours "support financier" soit un peu exagéré.
 
--- Reprendre là
-
-
-
-*** Non-player Operatives
+*** Les opérationnels PNJ
 
 **** Candice Collier
 
-/Y'know how the first time you learned how sausage was made, it turned you off to the stuff for years? I've seen how the future is made. So don't ask me unless you really need to know. Let me be the one to spend March afraid of her cornflakes./ - Candice, during a recent debriefing
+/Tu t'rappelles la première fois que tu as su comment les saucisses étaient faites, comme ça t'a secoué? J'ai vu comment était le futur. Alors ne me pose pas de questions sauf si tu veux vraiment savoir. Laisse-moi être celle qui va passer son mois de mars à avoir peur de ses cornflakes./ -- Candice, pendant un debriefing récent.
 
-Candice has seen ghosts since she was nine. She's now seventeen, and has a fairly reliable control over her Sight. What limits her use of it is a fear that she will see how she is going to die. Because of this, she is very closed to seeing future events, whether they relate to her or not.
+Candice voit des fantômes depuis qu'elle a neuf ans. Elle a maintenant dix-sept ans, et possède un contrôle assez fiable sur sa Clairvoyance. L'utilisation de son pouvoir est limitée en raison de sa peur de voir comment elle va mourir. Pour cette raison, elle est très fermée au fait de voir les événements futurs, qu'ils soient ou non reliés à elle.
 
-Candice has led a sheltered life, and isn't as street smart as most girls her age. After her Sight first manifested, she spent several years in a mental institution (where she learned that lying was the best way to get along) before the Department discovered her and arranged her release on the condition that she come to work for them.
+Candice a mené une vie protégée, et elle n'est pas, pour cette raison, aussi à l'aise dans les rues que les filles de son âge. Après que sa Clairvoyance se soit manifestée la première fois, elle a passé plusieurs années en asile psychiatrique (où elle a appris que mentir était la meilleure façon de ne pas avoir d'ennuis) avant d'être découverte par le Department, qui a arrangé sa sortie de l'asile à la condition qu'elle travaille pour lui.
 
-She senses that Anthony has feelings for her, but she's reluctant to let him get too close. She trusts him completely, but she's seen something of the future that makes her afraid of a serious relationship. She's built a fragile friendship with Sofia, though her use of magic makes Candice uneasy. She doesn't resent Smith the way the others do, but she resents the way he thinks the Sight is something she can just turn on and off at will.
+Elle sent qu'Anthony a des sentiments pour elle, mais elle est réticente à le laisser devenir trop proche. Elle a totalement confiance en lui, mais elle a vu quelque chose dans le futur qui fait qu'une relation sérieuse lui fait peur. Elle a bâti une amitié fragile avec Sofia, bien que son utilisation de la magie la rendre mal à l'aise. Elle n'a pas le même ressentiment que les autres pour Smith, mais elle n'apprécie pas sa vison de la Clairvoyance comme quelque chose que l'on peut juste allumer et éteindre à volonté. 
 
-In the midst of all the monster hunting, Candice is trying to rebuild something of a normal life for herself. She'd like to start dating, but her natural shyness and supernatural ability make it difficult.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Attributes |          | 
-|------------+----------|
-| Strength   | Mediocre |
-| Agility    | Fair     |
-| Willpower  | Great    |
-| Light      | Good     |
+Au milieu des chasses aux monstres, Candice tente de reconstruire ce qui pourrait s'apparenter à une vie normale pour elle. Elle aimerait avoir des rendez-vous amoureux, mais sa timidité naturelle et son pouvoir surnaturel rendent cet objectif difficile à atteindre.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Gifts     | Faults                      |
-|-----------+-----------------------------|
-| The Sight | Afraid of seeing her future |
-|           | Owes the Department a debt  |
+#+ATTR_LATEX: :environment longtable :align lc
+| Caractéristiques | Niveau    |
+|-----------+-----------|
+| Force     | Médiocre  |
+| Agilité   | Correct   |
+| Pouvoir   | Excellent |
+| Lumière   | Bon       |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Skills          |      |
-|-----------------+------|
-| Sight control   | Good |
-| Street fighting | Good |
-| Occult lore     | Fair |
-| Research        | Fair |
-| Lying           | Good |
-| Detect lies     | Fair |
+#+ATTR_LATEX: :environment longtable :align ll
+| Dons         | Défauts                                |
+|--------------+----------------------------------------|
+| Clairvoyance | Peur de voir son propre futur          |
+|              | Possède une dette envers le Department |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align lc
+| Compétences                 | Niveau  |
+|-----------------------------+---------|
+| Maîtrise de la Clairvoyance | Bon     |
+| Combat de rue               | Bon     |
+| Tradition occulte           | Correct |
+| Recherche                   | Correct |
+| Mentir                      | Bon     |
+| Détecter les mensonges      | Correct |
 
 **** Alex Smith
 
-/It's not enough that I have to babysit a bunch of kids, now you want me to take them into the field without a sidearm? How am I supposed to threaten them into behaving if I'm not carrying a gun?/ -- Agent Smith to the Director
+/Ce n'est pas le tout d'avoir à jouer la babysitter pour cette bande de gamins, maintenant vous voulez que je les emmène sur le terrain sans une arme de poing ? Comment je suis supposé les menacer pour qu'ils se comportent bien si je ne porte pas de pistolet ?/ -- L'agent Smith au Directeur.
 
-Agent Alex Smith is a former field agent of the FBI and takes the supernatural in stride as cold, hard facts of life. He's got a job to do, and he's going to do it by the book. That discipline and training are necessary to accomplish the job is just another cold, hard fact of life. What gets Smith's goat is that his team is a bunch of undisciplined teenagers who don't know diddly about running a real operation. There's a war going on, and the soldiers under his command are more than wet behind the ears, they think they know this business better than he does.
+L'agent Alex Smith est un ancien agent de terrain du FBI. Il considère le surnaturel comme des faits de la vie, durs et froids. Il doit faire son job et il le fera dans les règles. La discipline et la formation qui est requise pour faire le job n'est qu'un autre fait de la vie, froid et dur. Ce qui prend la tête de Smith est que son équipe est un groupe d'adolescents indisciplinés qui ne connaissent rien à comment mener une opération réelle. Une guerre est en cours, et les soldats sous ses ordres devraient être plus que des blancs-becs ; pour autant, ils pensent qu'ils connaissent ce métier mieux que lui-même.
 
-Smith will bend the rules and even throw out the book when he thinks it will serve the ultimate goal of the Department, but he's stricter with his team of teens than he would be with experienced agents. Their cockiness and disregard for protocol makes him come down on them all the harder.
+Smith tordra les règles et même les oubliera s'il pense que cela sert le but ultime du Department, mais il est plus strict avec son équipe d'adolescents qu'il le serait avec des agents expérimentés. Leur suffisance et mépris pour le protocole le pousse à les punir d'autant plus durement.
 
-What's really under Smith's skin is something that he doesn't really recognize. It's not that they're kids that he resents, it's that every one of them has some supernatural edge that he hasn't got. All he's got is hot lead, and occasionally silver, and deep down he knows that it isn't enough. He knows that the Department needs these kids, and the only thing he has to contribute is his training and self-discipline.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Attributes |      |
-|------------+------|
-| Strength   | Fair |
-| Agility    | Good |
-| Willpower  | Good |
-| Light      | Fair |
+Ce qui énerve le plus Smith est quelque chose qu'il ne reconnaît pas vraiment. Ce n'est pas qu'il n'apprécie pas ces gamins, c'est que chacun d'entre eux a un don surnaturel qu'il ne possède pas. Son truc à lui, c'est des balles, et occasionnellement des balles en argent, et au fond de lui, il sait que ce n'est pas suffisant. Il sait que le Department a besoin de ces gamins, et que la seule chose à laquelle il doit contribuer est leur formation et leur auto-discipline.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Gifts               | Faults                                                |
-|---------------------+-------------------------------------------------------|
-| Contacts in the FBI | Resentful of having to "babysit" a team full of teens |
+#+ATTR_LATEX: :environment longtable :align lc
+| Caractéristiques | Niveau  |
+|------------------+---------|
+| Force            | Correct |
+| Agilité          | Bon     |
+| Pouvoir          | Bon     |
+| Lumière          | Correct |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Skills                |      |
-|-----------------------+------|
-| Gun combat            | Good |
-| Kung Fu               | Good |
-| Police protocol       | Fair |
-| Deduction             | Good |
-| Breaking and entering | Good |
-| Hadle bureaucracy     | Good |
+#+ATTR_LATEX: :environment longtable :align ll
+| Dons            | Défauts                                               |
+|-----------------+-------------------------------------------------------|
+| Contacts au FBI | Irrité d'être le babysitter d'un équipe d'adolescents |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align lc
+| Compétences           | Niveau  |
+|-----------------------+---------|
+| Combat au pistolet    | Bon     |
+| Kung Fu               | Bon     |
+| Protocoles policiers  | Correct |
+| Déduction             | Bon     |
+| Entrer par effraction | Bon     |
+| Gérer la bureaucratie | Bon     |
 
 **** Sofia Martinez
 /"Not so subtle. Still quick to anger."/ -- Sofia's T-Shirt

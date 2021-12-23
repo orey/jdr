@@ -143,37 +143,41 @@ Ce qui énerve le plus Smith est quelque chose qu'il ne reconnaît pas vraiment.
 | Gérer la bureaucratie | Bon     |
 
 **** Sofia Martinez
-/"Not so subtle. Still quick to anger."/ -- Sofia's T-Shirt
 
-Sofia is sixteen years old, the daughter of a witch, and a witch herself. She studied the black arts with her mother, until her mother demanded that she sacrifice one of her friends to a demon in exchange for power. Sofia, a good soul at heart, balked, and when her mother pushed her, the resulting contest left her mother's beautiful faced scarred and drove a wedge between them. While her mother vowed vengance upon her daughter, Sofia came to the realization that the arts learned from her mother endangered her soul. When Department 13 came looking for her, she was ready to join their ranks to atone for what she had been doing and to find a safe haven from her mother.
+/Pas très subtile. Toujours prompte à la colère./ -- Le teeshirt de Sofia.
 
-Sofia has a Fair Light, which is typical of most people. She used to have a Great Light, but continued use of black magics and invocations of Hecate have gradually diminished the goodness of her soul. If she continues down this path, it won't be long before she joins her mother as a servant of Darkness. As it is now, she is easily tempted by the use of magic, and even though she knows it has harmful effects on her, she often can't resist when the going gets tough. She could reverse the trend by eliminating her use of magic and turning her activities to something more wholesome, but it will likely take another serious to bring her to that.
+Sofia a seize ans, elle est la fille d'une sorcière et est une sorcière elle-même. Elle a étudié la magie noire avec sa mère, jusqu'à ce que cette dernière ne lui demande de sacrifier un de ses amis à un démon pour obtenir des pouvoirs. Sofia, qui a une belle âme, a rechigné, et quand sa mère l'a pressé de le faire, le résultat de la confrontation entre les deux a été une balafre sur le beau visage de sa mère, ce qui a signé leur rupture. Alors que sa mère jurait de se venger de sa fille, Sofia en vint à réaliser que la magie apprise de sa mère mettait son âme en danger. Quand le Department 13 vint la trouver, elle était prête à joindre leurs rangs pour expier ce qu'elle avait fait, et pour trouver un refuge pour se protéger de sa mère.
 
-Sofia loves to hang out with Alex and Candice and wants to be best-buds. Smith, on the other hand, she's contemplated turning into a frog more than once. She's also got a crush on agent Murray, her kickboxing instructor, but she's sure nobody knows. 
+Sofia a une Lumière Correcte, ce qui est typique de la plupart des gens. Elle avait une Lumière Excellente, mais l'utilisation continuelle de la magie noire et des invocations à Hécate ont progressivement abîmé la bonté de son âme. Si elle continue sur ce chemin, il ne faudra pas longtemps pour qu'elle rejoigne sa mère en tant que servante des Ténèbres. Pour le moment, elle est facilement tentée par l'utilisation de la magie et, même si elle sait que cela a des effets dommageables sur elle-même, elle ne peut souvent pas résister quand les circonstances deviennent difficiles. Elle pourrait renverser la tendance en arrêtant l'usage de la magie et en tournant ses activités vers quelque chose de plus sain, mais il faudrait sans doute un événement sérieux pour la mener à cela.
 
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Attributes |          |
-|------------+----------|
-| Strength   | Mediocre |
-| Agility    | Fair     |
-| Willpower  | Good     |
-| Light      | Fair     |
+Sofia adore traîner avec Alex et Candice et elle veut qu'ils soient les meilleurs amis du monde. En revanche, elle a considéré plusieurs fois transformer Smith en grenouille. Elle est secrètement amoureuse de l'agent Murray, son instructeur de kickboxing, mais elle est certaine que personne ne le sait.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Gifts                                                        | Faults                                    |
-|--------------------------------------------------------------+-------------------------------------------|
-| The Crystals of Aurelius (+1 to concentration or meditation) | Turns too easy to mafic to solve problems |
-|                                                              | Mother wants to kill her                  |
+#+ATTR_LATEX: :environment longtable :align lc
+| Caractéristiques | Niveau   |
+|------------------+----------|
+| Force            | Médiocre |
+| Agilité          | Correct  |
+| Pouvoir          | Bon      |
+| Lumière          | Correct  |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Skills      |       |
-|-------------+-------|
-| Occult lore | Great |
-| Herb lore   | Fair  |
-| Kickboxing  | Fair  |
-| Research    | Good  |
-| Bluff       | Fair  |
-| Charm       | Fair  |
+#+ATTR_LATEX: :environment longtable :align ll
+| Dons                                                        | Défauts                                                             |
+|-------------------------------------------------------------+---------------------------------------------------------------------|
+| Les Cristaux d'Aurelius (+1 en concentration ou méditation) | Se tourne trop facilement vers la magie pour résoudre les problèmes |
+|                                                             | Sa mère veut la tuer                                                |
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align lc
+| Compétences          | Niveau    |
+|----------------------+-----------|
+| Tradition occulte    | Excellent |
+| Tradition herboriste | Correct   |
+| Kickboxing           | Correct   |
+| Recherche            | Bon       |
+| Bluffer              | Correct   |
+| Charmer              | Correct   |
 
 **** Antony Brown
 

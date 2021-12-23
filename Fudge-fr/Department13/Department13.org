@@ -121,7 +121,7 @@ Sofia loves to hang out with Alex and Candice and wants to be best-buds. Smith, 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Gifts                                                        | Faults                                    |
 |--------------------------------------------------------------+-------------------------------------------|
-| The Crystals of Aurelius (+1 to concentration or meditation) | Turns too easy to mafic to solve problems |
+| The Crystals of Aurelius (+1 to concentration or meditation) | Turns too easy to magic to solve problems |
 |                                                              | Mother wants to kill her                  |
 
 #+ATTR_HTML: :border 2 :rules all :frame border

@@ -531,7 +531,6 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | La voix d'Héort, ressources pour Glorantha | https://heort.wordpress.com/                                                |
 |                                            |                                                                             |
 
-
 ** Magazines en français
 
 #+ATTR_HTML: :border 2 :rules all :frame border
@@ -548,7 +547,6 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | *T*                                      |                                                               |
 | Les vieux "Tangente"                     | https://www.abandonware-magazines.org/affiche_mag.php?mag=326 |
 |                                          |                                                               |
-
 
 * Explorations récentes
 
@@ -605,7 +603,6 @@ A explorer : Fiasco, Nephilim, Fudge.
 | 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].      | 4/5   | N   | N       |
 | 2020 | MiniSix                      | Generic system   |                                                             | -     | N   | Later   |
 | 2020 | Dagger                       | RPG for kids     | Bof                                                         | 2/5   | Y   | N       |
-
 
 * Systèmes de jeux
 

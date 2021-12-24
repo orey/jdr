@@ -181,50 +181,53 @@ Sofia adore traîner avec Alex et Candice et elle veut qu'ils soient les meilleu
 
 **** Antony Brown
 
-/"It's no big deal."/
+/- C'est rien./
 
-/"You took off its head with a hubcap!"/
+/- Tu l'as décapité avec un enjoliveur./
 
-/"Okay, so I just put a little english on it..."/
+/- Ok, c'est vrai que j'ai fait un effort.../ -- Anthony et Candice.
 
--- Anthony and Candice
+Anthony est né chasseur de démons (voir les Forces de la Lumière). Il a grandi dans un orphelinat et n'a jamais su qui ses parents étaient (ou quoi). Quand il avait douze ans, il s'est enfuit de l'orphelinat et a vécu dans la rue, chassant les vampires jusqu'à ce qu'il soit recruté par le Department 13.
 
-Anthony is a natural-born demon hunter (see Forces of Light). He grew up in an orphanage and never knew who, or what, his parents were. When he was twelve, he ran away from the orphanage and lived on the streets, hunting vampires until Department 13 recruited him.
+Anthony est méfiant quant à l' attitude paternelle que le Directeur a avec lui, mais sa Lumière étant plus grande que la moyenne, il sent que le Directeur, quoique mystérieux, pense sincèrement à ce qui est mieux pour lui.
 
-Anthony is wary of the Director's attempt to be "fatherly" to him, but his high-than-average Light gives him the gut feeling that the Director, however mysterious, does have his best interests in mind.
-
-He's also very protective of Candice, waffling between being brotherly and something more. He's very cautious about Sofia, and has been contemplating having a serious talk with the Director about what the magic has been doing to her. He senses her slow slide into Darkness and wonders why the others don't see it as well. He tolerates Smith well, though he wishes the guy would go easier on them. 
+Il est très protecteur de Candice, hésitant entre un sentiment de frère envers sa soeur et quelque chose d'autre. Il est très prudent quant à Sofia, et considère devoir parler sérieusement au Directeur de son problème avec la magie. Il sent qu'elle glisse doucement vers les Ténèbres et se demande pourquoi les autres ne le voient pas. Il tolère Smith, même s'il aimerait que ce denier soit plus sympa avec eux.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Attributes |        |
-|------------+--------|
-| Strength   | Superb |
-| Agility    | Good   |
-| Willpower  | Fair   |
-| Light      | Great  |
+| Caractéristiques | Niveau      |
+|------------------+-------------|
+| Force            | Fantastique |
+| Agilité          | Bon         |
+| Pouvoir          | Correct     |
+| Lumière          | Excellent   |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Gifts                | Faults                           |
-|----------------------+----------------------------------|
-| +1 Damage resistance | Compelled to fight the darkness  |
-| Heals rapidly        | Just wants to live a normal life |
-| Inhuman endurance    |                                  |
+| Dons                            | Défauts                              |
+|---------------------------------+--------------------------------------|
+| +1 à la résistance aux dommages | Obligé de lutter contre les Ténèbres |
+| Guérit rapidement               | Veut juste vivre une vie normale     |
+| Endurance inhumaine             |                                      |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Skills             |          |
-|--------------------+----------|
-| Streewise          | Fair     |
-| Streetfighting     | Good     |
-| Campaign city lore | Good     |
-| research           | Mediocre |
-| Surveillance       | Fair     |
-| Socialize          | Mediocre |
+| Compétences                  | Niveau   |
+|------------------------------+----------|
+| Débrouillardise              | Correct  |
+| Combat de rue                | Bon      |
+| Mener des campagnes en ville | Bon      |
+| Recherche                    | Médiocre |
+| Surveillance                 | Correct  |
+| Se faire des connaissances   | Médiocre |
 
 ** The Director
 
-/This is a serious job, and it takes serious people to do serious work. Now if you children are finished with your playground scuffle, we've got an operation to run here./ -- The Director.
+/C'est un travail sérieux et il faut des gens sérieux pour le faire. Maintenant, les enfants, si vous avez terminé avec vos petites chamailleries, nous avons une opération à réaliser, maintenant./ -- Le Directeur.
 
-They call him "the Fat Man". Some, just a very few, have earned enough of his respect to call him that to his face. Those who use the moniker behind his back call him "the Director" to his face, as he has revealed no other name. A few, more polite operatives call him "the Old Man." He dislikes this nickname the most.
+Ils le surnomment "le Gros". Certains, seulement quelques uns, l'appellent comme cela devant lui, tant ils ont mérité son respect. Ceux qui utilisent ce sobriquet dans son dos l'appellent "le Directeur" quand ils sont en face de lui. Il n'a jamais dit son vrai nom. Quelques opérationnels plus polis le surnomment "le Vieux". C'est le surnom qui lui déplaît le plus.
+
+Le Directeur est aussi mystérieux que le Department.
+
+--- reprendre ici
+
 
 The Director is almost as mysterious as the Department itself. Nobody knows his name, nobody knows where he lives, nobody knows if he has any family. The senior operatives make sure the new recruits don't try to follow him around. They respect his privacy. If he wants to keep his life a secret, he must have a good reason for it.
 

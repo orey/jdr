@@ -224,18 +224,16 @@ Il est très protecteur de Candice, hésitant entre un sentiment de frère enver
 
 Ils le surnomment "le Gros". Certains, seulement quelques uns, l'appellent comme cela devant lui, tant ils ont mérité son respect. Ceux qui utilisent ce sobriquet dans son dos l'appellent "le Directeur" quand ils sont en face de lui. Il n'a jamais dit son vrai nom. Quelques opérationnels plus polis le surnomment "le Vieux". C'est le surnom qui lui déplaît le plus.
 
-Le Directeur est aussi mystérieux que le Department.
+Le Directeur est aussi mystérieux que le Department. Personne ne connaît son nom, ne sait où il habite et ne sait s'il a de la famille. Les opérationnels senior s'assurent que les recrues ne tentent pas de le suivre. Ils respectent sa vie privée. S'il veut garder sa vie secrète, c'est qu'il doit avoir une bonne raison pour cela.
+
+Il a aussi peu d'humour qu'il est mystérieux. Il ne rit jamais, sauf de ses propres remarques ironiques ou de ses propres sarcasmes, habituellement faites pour recadrer un opérationnel.
+
+Qui est le Directeur ? Il est celui dont vous avez besoin. Si vous voulez faire simple, il est Martin Fess, ex Béret Vert devenu gros, poussé à faire son job de manière implacable poussé par la mémoire de la nuit où les créatures des Ténèbres ont pris sa femme et ses enfants. Il a laissé son passé de côté pour devenir le Directeur, car c'est le seul but et sens qui lui reste.
+
+Si vous voulez quelque chose de plus compliqué, creusez plus profondément, et vous trouverez que l'identité Martin Fess est en fait un masque sous le masque, un faux visage pour quelqu'un ou quelque chose, plus inattendu. Un super agent de la Lumière, organisant ce monde pour lutter contre les Ténèbres ? Ou peut-être un agent des Ténèbres utilisant les mortels de ce monde à des fins obscures ? Peut-être que la vérité est plus sinistre encore.
 
 --- reprendre ici
 
-
-The Director is almost as mysterious as the Department itself. Nobody knows his name, nobody knows where he lives, nobody knows if he has any family. The senior operatives make sure the new recruits don't try to follow him around. They respect his privacy. If he wants to keep his life a secret, he must have a good reason for it.
-
-He's also as humorless as he is mysterious. He never laughs, unless it's his short, dry bark of irony, and the only humor anyone gets from him comes as sarcasm, usually used to put an unruly operative in his place.
-
-Who is the Director? He's whoever you need him to be. If you want to keep it simple, he's Martin Fess, ex-Green Beret grown fat, driven to do his job unrelentingly by the memory of the night his wife and children were taken from him by a creature of Darkness. He has given up his past and become the Director; that is the only meaning or purpose that he has left.
-
-If you want something more complex, dig deeper, and you'll find that the Martin Fess identity is a mask under the mask. A false face for someone, or some thing, less expected. A supernatural agent of Light, organizing this world to fight the Darkness? Or maybe an agent of Darkness, using the mortals of this world to further its dark ends? Perhaps the real truth is even more sinister. 
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Attributes |          |

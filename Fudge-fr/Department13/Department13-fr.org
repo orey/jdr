@@ -218,7 +218,7 @@ Il est très protecteur de Candice, hésitant entre un sentiment de frère enver
 | Surveillance                 | Correct  |
 | Se faire des connaissances   | Médiocre |
 
-** The Director
+** Le Directeur
 
 /C'est un travail sérieux et il faut des gens sérieux pour le faire. Maintenant, les enfants, si vous avez terminé avec vos petites chamailleries, nous avons une opération à réaliser, maintenant./ -- Le Directeur.
 
@@ -232,33 +232,30 @@ Qui est le Directeur ? Il est celui dont vous avez besoin. Si vous voulez faire 
 
 Si vous voulez quelque chose de plus compliqué, creusez plus profondément, et vous trouverez que l'identité Martin Fess est en fait un masque sous le masque, un faux visage pour quelqu'un ou quelque chose, plus inattendu. Un super agent de la Lumière, organisant ce monde pour lutter contre les Ténèbres ? Ou peut-être un agent des Ténèbres utilisant les mortels de ce monde à des fins obscures ? Peut-être que la vérité est plus sinistre encore.
 
---- reprendre ici
-
+#+ATTR_HTML: :border 2 :rules all :frame border
+| Caractéristiques | Niveau    |
+|------------------+-----------|
+| Force            | Bon       |
+| Agilité          | Médiocre  |
+| Pouvoir          | Excellent |
+| Lumière          | Excellent |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Attributes |          |
-|------------+----------|
-| Strength   | Good     |
-| Agility    | Mediocre |
-| Willpower  | Great    |
-| Light      | Great    |
+| Dons                | Défauts              |
+|---------------------+----------------------|
+| Provoque la loyauté | Des secrets à garder |
+|                     | Surpoids             |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Gifts            | Faults          |
-|------------------+-----------------|
-| Inspires loyalty | Secrets to keep |
-|                  | Overweight      |
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Skills          |        |
-|-----------------+--------|
-| Gun combat      | Fair   |
-| Fighting        | Fair   |
-| Police protocol | Good   |
-| Deduction       | Fair   |
-| research        | Good   |
-| Leadership      | Great  |
-| Handling money  | Superb |
+| Compétences               | Niveau      |
+|---------------------------+-------------|
+| Combat à l'arme de poings | Correct     |
+| Combat                    | Correct     |
+| Protocol de police        | Bon         |
+| Déduction                 | Correct     |
+| Recherche                 | Bon         |
+| Leadership                | Excellent   |
+| Gestion de l'argent       | Fantastique |
 
 ** The Lab
 

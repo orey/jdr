@@ -1,0 +1,205 @@
+* Pouvoirs psioniques dans Fudge
+
+** Références
+
+- [[https://fudgerpg.com/goodies/fudge-files/download/3-core/54-fudge-1995-pdf-bookmarked.html][Le livre de règles de Fudge]] en anglais (page 92 à 96),
+- Pour inspiration, la [[https://fudge.ouvaton.org/index.html][traduction française]] du site fudge.ouvaton.org.
+
+** Un méta-jeu
+
+Fudge est un méta-jeu permettant au MJ de construire ses propres options. Dans cet article, nous allons synthétiser les règles des pouvoirs psioniques et les implémenter dans le cadre de l'univers [[Department13-fr.org][Department 13]].
+
+** Questions de vocabulaire
+
+D'un point de vue vocabulaire, nous gardons dans cet article l'adjectif "psionique" pour parler des pouvoirs, bien que nous puissions aussi utiliser l'adjectif "psychique", plus usité en français.
+
+Pour faire référence à la personne possédant des pouvoirs psioniques, nous utiliserons le nom "psionique", même si ce nom n'existe pas en français.
+
+Un certain nombre de pouvoirs décrits ci-après ne possède pas d'équivalent réel en français. Nous utiliserons dans ce cas des néologismes venus de l'anglais tout en donnant une explication de ces pouvoirs pour éviter les ambiguïtés.
+
+Nous reprenons les conventions américaines sur les genres :
+- le joueur est au masculin,
+- la MJ est au féminin.
+
+** Un système orienté "effets"
+
+Les systèmes de magie de Fudge sont orientés sur les effets réels plus que sur la catégorisation des différents pouvoirs. Cela permet aux joueurs d'exprimer l'effet qu'ils désirent plus que de citer l'utilisation d'un pouvoir.
+
+** Les trois dimensions des pouvoirs psioniques
+
+Trois dimensions sont à considérer dans les pouvoirs psioniques :
+- les pouvoirs psioniques : les règles d'acquisition des pouvoirs pour les PJ ;
+- les compétences : comment utiliser les pouvoirs psioniques ;
+- le réservoir psychique : les conséquences de l'utilisation des pouvoirs psioniques.
+
+* Les pouvoirs psioniques
+
+** Echelle à laquelle les PJ peuvent choisir leurs pouvoirs
+
+La première décision que la MJ doit prendre est l'échelle à laquelle les PJ peuvent choisir leurs pouvoirs psioniques. Plus cette échelle sera grande, plus forts seront les personnages.
+
+_Note_ : Ces règles ressemblent aux règles utilisées dans le cadre de /Fudge 5 points/ d'utilisation des groupes de compétences.
+
+Les règles proposent trois niveaux comme indiqué dans la table ci-dessous.
+
+| Groupe de pouvoirs très étendu     | Groupe de pouvoirs moyennement étendu | Pouvoirs               | Niveau (Department 13) |
+|------------------------------------+---------------------------------------+------------------------+------------------------|
+| Altération des  pouvoirs psi       |                                       | Distorsion             | Lamentable (1)         |
+|                                    |                                       | Annulation             | Correct (4)            |
+|                                    |                                       | Résistance             | Lamentable (1)         |
+| Perception extra-sensorielle (ESP) | Projection astrale                    |                        | Lamentable (1)         |
+|                                    | Perceptions à distance                | Clairaudience          | Lamentable (1)         |
+|                                    |                                       | Clairvoyance           | Mauvais (2)            |
+|                                    |                                       | Localiser un objet     | Lamentable (1)         |
+|                                    |                                       | Localiser une personne | Lamentable (1)         |
+|                                    |                                       | Percevoir l'aura       | Lamentable (1)         |
+|                                    | Révélations temporelles               | Postcognition          | Lamentable (1)         |
+|                                    |                                       | Précognition           |                        |
+|                                    |                                       |                        |                        |
+
+** Niveaux de pouvoirs psioniques
+
+Les règles suivantes s'appliquent :
+
+- Chaque pouvoir psionique choisi par le joueur (à l'échelle décidée par la MJ) coûte *1 Pouvoir Surnaturel*, soit *2 Dons*.
+- Chaque pouvoir psionique est à ranger dans la catégorie des dons.
+- Pour posséder un pouvoir psionique, il faut lui attribuer des niveaux de compétences. Le minimum est d'attribuer un niveau pour passer le pouvoir au niveau Lamentable. On appelle cela le "niveau du pouvoir". Il peut être représenté par un chiffre allant de 1 (Lamentable) à 7 (
+- Chaque niveau de pouvoir donne la possibilité d'utiliser des pouvoirs. La classification des niveaux de pouvoirs requis pour utiliser un pouvoir est à la discrétion de la MJ. Un exemple est donné par la table ci-dessus dans le contexte du Department 13. Si le psionique ne possède pas le niveau de pouvoir requis, il ne peut pas utiliser le pouvoir.
+- Le niveau de pouvoir maximum que devrait autoriser une MJ est le niveau Correct.
+
+| Niveau de pouvoir |   | Points de compétences requis |
+|-------------------+---+------------------------------|
+| Lamentable        | 1 |                            1 |
+| Mauvais           | 2 |                            3 |
+| Médiocre          | 3 |                            5 |
+| Correct           | 4 |                            7 |
+| Bon               | 5 |     Si autorisé par la MJ, 9 |
+| Excellent         | 6 |    Si autorisé par la MJ, 11 |
+| Fantastique       | 7 |    Si autorisé par la MJ, 13 |
+
+/Table des niveaux de pouvoir et points de compétences requis/
+
+** Description des pouvoirs
+
+*** Groupe "altération des pouvoirs psioniques"
+
+Cette catégorie regroupe des pouvoirs permettant d'altérer d'autres pouvoirs psioniques, que ces derniers s'appliquent au p
+
+- *Distorsion*
+  - Ce pouvoir sert à modifier un pouvoir déjà présent dans un lieu, ou sur une personne, etc. Cette modification est une modification des effets du pouvoir.
+- *Annulation*
+  - Ce pouvoir permet d'annuler les effets d'un pouvoir déjà présent ou appliqué.
+- *Résistance*
+  - Ce pouvoir permet de résister à une attaque psionique ou à un pouvoir psionique présent dans un lieu et s'appliquant au psionique.
+
+*** Groupe "perceptions extra-sensorielles" (ESP)
+
+**** Projection astrale
+
+- *Projection astrale*
+  - Ce pouvoir permet de projeter son esprit dans d'autres plans.
+
+**** Perceptions à distance
+
+- *Clairaudience*
+  - Ce pouvoir permet d'entendre des voix, des sons, des musiques, etc. correspondant à des choses se déroulant ailleurs.
+- *Clairvoyance*
+  - Ce pouvoir permet de voir des personnes, des objets et des événements qui sont distants physiquement et/ou dans le temps.
+- *Localiser un objet*
+  - Ce pouvoir permet de localiser des objets.
+- *Localiser une personne*
+  - Ce pouvoir permet de localiser une personne.
+- *Percevoir l'aura*
+  - Ce pouvoir permet de percevoir les auras des personnes, notamment leur couleur.
+
+| Couleur de l'aura | Commentaires                                                                                                       |
+|-------------------+--------------------------------------------------------------------------------------------------------------------|
+| Rouge sombre      | Colère, frustration, traumatisme, épuisement, surmenage                                                            |
+| Rouge             | Passions matérielles, aventures, adrénaline, monde physique, sensualité                                            |
+| Rose              | Douceur, personne aimante, guérison, sensibilité, créativité, intuition                                            |
+| Magenta           | Monde physique et créativité, originalité, innovation, excentricité, iconoclasme, individualisme                   |
+| Orange            | Créativité, sensualité, émotion, échanges, relations, amitié, joie, sociabilité, soif de sensations                |
+| Jaune             | Leader, confiance en soi, intelligence, ouverture d'esprit, capacités psychiques, joie, générosité                 |
+| Tan/Bronzage      | Logique, analytique, pratique, intériorité des sentiments, orienté sur les détails, stabilité                      |
+| Vert              | Croissance, guérison, amour, nature, animaux, paix, repos, dévotion                                                |
+| Bleu              | Dons psychiques, communication, attention, nourrice, protecteur, servir, aider, aimer, enseignement, amour         |
+| Turquoise         | Communication, empathie, multi-tâches, guérisseur, guide, infuenceur                                               |
+| Indigo            | Intuition, inspiration, spiritualité, médium, oracle, chercheur, discernement                                      |
+| Violet            | Dynamique, charismatique, visionnaire, direction, inspiration, guide, futuriste, connaissance, intuition, empathie |
+| Blanc             | Ange, pureté, transcendance                                                                                        |
+| Gris              | Découverte, dépression, tristesse, chagrin, secret                                                                 |
+| Noire             | Néfaste, vampire, consomme la lumière, chagrin, jalousie, rancoeur, problèmes de santé                             |
+
+/Table des couleurs des auras/
+
+  - Dans le cadre du Deparment 13, le pouvoir "Percevoir l'aura" permet de connaître le niveau de Lumière d'une personne.
+
+**** Révélations temporelles
+
+- *Postcognition*
+  - Ce pouvoir permet de voir des événements passés, soit concernant des objets, soit concernant des personnes.
+
+
+
+Très Grand
+Groupe
+Le comportement du demandeur n'était pas en accord avec les
+désirs de sa divinité : -1 ou pire
+Antipsi
+Le demandeur essaie de réaliser ce que sa divinité désire : +1
+Le demandeur va à l'encontre des désir de sa divinité : -1 ou pire
+Grand Groupe
+Groupes Réduits
+Déforme
+Annule
+Résiste
+PES
+Projection Astrale
+Télésens
+Clairaudience
+Clairvoyance
+Localiser un Objet
+Localiser une Personne
+Sentir l'Aura
+Révélation Temp. Postcognition
+Précognition
+Psychométrie
+Psychokinésie Contrôler Créature Guérison
+Lévitation
+Contrôle Métabolisme
+Changeforme
+Contrôler Matière Champ de Force
+Photokinésie
+Sonarkinésie
+Télékinésie
+Transmodifier un Objet
+Electrokinésie
+Modifie Electricité
+Contrôle Machines Elect.
+Cyberpsi
+Rafale Electrique
+Contrôle Température Cryokinésie
+Pyrokinésie
+Télépathie
+Empathie
+Contrôle des Emotions
+Sentir les Emotions
+Bouclier Mental
+Communication Lecture d'Esprit
+Envoi de Pensées
+Contrôle Mental Modifier la Mémoire
+Persuasion
+Empêcher Penser Clairement
+Envoyer Energie Violente
+Téléhypnose
+Vampirisme
+Emprunter Compétence
+Drainer Réserve Psychique
+Drainer la Santé
+Drainer l'Energie
+Téléportation
+Se Téléporter
+Téléporter Autrui
+Téléporter un Objet
+Voyage Planaire
+Ouvrir Portail Dimensionnel

@@ -1,4 +1,4 @@
-#+TITLE: Departement 13
+#+TITLE: Division 13
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-12-22
 #+STARTUP: overview
@@ -21,7 +21,7 @@
 #+ATTR_LATEX: :width 4cm
 [[file:Fudge_logo.jpg]]
 
-* Department 13 - Version française
+* Division 13 - Version française du "Department 13"
 
 Department 13 est un univers pour Fudge publié dans le site fudgefactor.org, désormais fermé.
 
@@ -30,40 +30,43 @@ Department 13 est un univers pour Fudge publié dans le site fudgefactor.org, d�
 | Concepteur               | (C) Carl D. Cravens (raven @ phoenyx .net)         |
 | Version originale        | Version originale 1984 - Copyright Carl D. Cravens |
 | Website                  | [[http://web.archive.org/web/20060822022058/http://www.fudgefactor.org/2004/04/department-13.html][fudgefactor.org]]                                    |
-| Traduction               | (C) O. Rey 2021                                    |
+| Traduction et adaptation | (C) O. Rey 2021                                    |
 | Version                  | 1.0                                                |
 
-Note du traducteur : l'action étant supposée se dérouler aux Etats-Unis, nous avons gardé le nom "Department 13" au lieu de le traduire en français.
+Notes du traducteur :
+- Nous avons traduit "Department 13" en "Division 13". En effet, le département 13 évoque plus le département des Bouches-du-Rhône en français.
+- L'action est transposée en France. Ainsi, les organisations et les noms sont francisés.
+- Certaines règles sont clarifiées par rapport au texte original, et certains paragraphes ont été réordonnés.
 
 * Introduction
 
-/Si le monde connaissait la vérité, s'il savait que la la seule chose qui les sépare de leurs plus grandes peurs est vous, bande de voyous, ils ne pourraient pas dormir de la nuit. Et ils ne descendraient probablement pas au 7/11 à 2 heures du matin pour aller chercher un Coca./ -- Le Directeur.
+/Si le monde connaissait la vérité, s'il savait que la la seule chose qui les sépare de leurs plus grandes peurs est vous, bande de voyous, ils ne pourraient pas dormir de la nuit. Et ils ne descendraient probablement pas chez l'épicier du coin à 2 heures du matin pour aller chercher un Coca./ -- Le Directeur.
 
-Bienvenue dans le monde du Department 13, une agence gouvernementale secrète que très peu de gens connaissent au gouvernement et que personne n'admettra connaître. Les théoriciens conspirationnistes qui suspectent l'existence du Department 13 pense qu'il nous protège de la menace extraterrestre. Ils se trompent. Department 13 nous protège des Ténèbres. Mais aussi de l'occasionnel fou avec une hache.
+Bienvenue dans le monde de la Division 13, une agence gouvernementale secrète que très peu de gens connaissent au gouvernement et que personne n'admettra connaître. Les conspirationnistes qui suspectent l'existence de la Division 13 pensent qu'elle nous protège de la menace extraterrestre. Ils se trompent. La Division 13 nous protège des Ténèbres. Mais aussi des occasionnels fous armés de haches.
 
-* Le Department
+* La Division
 
-/Allo, Mme Baskerville? Je suis l'agent Smith de la Food and Drug Administration. Je voudrais vous poser quelques questions à propos du, hum, "gang de motards" qui a saccagé votre maison la nuit dernière./ -- Agent Alex Smith.
+/Allo, Mme Bonnemaison ? Je suis l'agent Martin de la DGCCRF. Je voudrais vous poser quelques questions à propos du, hum, "gang de motards" qui a saccagé votre maison la nuit dernière./ -- Agent Alex Smith.
 
-Le boulot du Department 13 est de combattre les monstres. Cette activité est sans fin, tuer des vampires, bannir des démons, exploser les têtes des morts-vivants. Quelqu'un doit le faire, et pendant que les membres du Department 13 s'en occupe, ils tentent d'empêcher que le monde n'apprenne la vérité sur les horreurs qui résident dans les Ténèbres.
+La responsabilité de la Division 13 est de combattre les monstres. Cette activité est sans fin, tuer des vampires, bannir des démons, exploser les têtes des morts-vivants. Quelqu'un doit le faire, et pendant que les membres de la Division 13 s'en occupent, ces derniers tentent d'empêcher que le monde n'apprenne la vérité sur les horreurs qui résident dans les Ténèbres.
 
-Comme le vilain petit canard, le Department 13 est ballotté de budget en budget, atterrissant sur le dos du dernier qui l'a touché. Au jour d'aujourd'hui, le Department est une branche de la FDA (NdT : administration de régulation de l'alimentation et des médicaments aux Etats-Unis). Leur dernier boulot pour la FDA impliquait des barres de sucreries alchimiquement modifiées, ou quelque chose du genre, et la FDA n'est pas parvenue à se débarrasser d'eux depuis. Aucune autre agence ne veut les récupérer, mais à chaque fois que la FDA veut leur couper définitivement les vivres, un visiteur spécial "venu d'en haut" leur rend visite en les convainquant de l'imprudence d'une telle action.
+Comme le vilain petit canard, la Division 13 est ballottée de budget en budget, atterrissant dans le giron de la dernière organisation qui a eu besoin de ses services. Au jour d'aujourd'hui, la Division est une branche de la DGCCRF (Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes). Leur dernier dossier pour la DGCCRF impliquait des barres de sucreries alchimiquement modifiées, ou quelque chose du genre. Depuis, la DGCCRF n'est pas parvenue à se débarrasser d'eux. Aucune autre agence ne veut les récupérer, mais à chaque fois que la DGCCRF veut couper définitivement les vivres à la Division 13, un visiteur très spécial "venu d'en haut" leur rend visite en les convainquant de l'imprudence d'une telle action.
 
-D'où le fait que le budget du Department puisse être décrit comme "entre fin et non-existant". Ils ne possèdent pas un superbe labo pour lutter contre les monstres et ils n'ont pas de super armes pour se battre. Ils ne luttent pas contre les Ténèbres avec de la technologie, ils luttent avec du sang, de la sueur et des larmes. Et des mauvais jeux de mots. Vous seriez surpris de réaliser les dommages que peuvent causer un mauvais jeu de mots.
+D'où le fait que le budget de la Division puisse être décrit comme "entre minuscule et inexistant". La Division 13 ne possède pas de superbe laboratoire pour lutter contre les monstres, et ses membres n'ont pas de super armes pour se battre. Ils ne luttent pas contre les Ténèbres avec de la technologie, ils luttent avec du sang, de la sueur et des larmes. Et des mauvais jeux de mots. car vous seriez surpris de réaliser les dommages que peuvent causer un mauvais jeu de mots.
 
 ** Les opérationnels
 
-/Entrez dans l'armée et visitez le monde ; entrez dans le Department 13 et ne voyez plus jamais votre famil... qu'importe. Bienvenue à bord./ - Le Directeur.
+/Entrez dans l'armée et visitez le monde ; entrez dans la Division 13 et ne voyez plus jamais votre famil... Qu'importe ! Bienvenue à bord./ - Le Directeur.
 
-Il y a deux façons d'être recruté dans le Department 13.
+Il y a deux façons d'être recruté dans la Division 13.
 
-La première est celle des opérationnels de terrain et des soldats expérimentés. Ex CIA, FBI, Beret Vert et black-ops de cette autre branche secrète dont le gouvernement n'admet pas l'existence. Ces opérationnels sont faciles à trouver. Le Department recrute les indésirables, ceux qui ne rentrent pas dans le moule, ou ceux qui sont en danger dans leur carrière et qui cherchent un endroit pour servir qui peut encore leur fournir un chèque à la fin du mois.
+La première est celle des opérationnels de terrain et des soldats expérimentés. Ex BRI, RAID, GIGN, Fusiliers Marins, ou  black ops d'une autre organisation secrète dont le gouvernement n'admet pas l'existence, ces opérationnels sont faciles à trouver. Le Division recrute les indésirables, ceux qui ne rentrent pas dans le moule, ou ceux qui sont en danger dans leur carrière et qui cherchent un endroit pour servir, ainsi qu'une organisation qui peut encore leur fournir un chèque à la fin du mois.
 
 Dans ce cas, le recrutement est digne des films d'espionnage, avec un mystérieux agent représentant une mystérieuse agence approchant la recrue potentielle avec des intentions vagues, prenant la température, tout en jouant avec son imagination de manière à l'intriguer puis à la convaincre. Comme ces opérationnels, pour être recrutés, doivent être convaincus de l'existence du surnaturel, beaucoup d'entre eux ont des imaginations actives voire très actives.
 
-La seconde manière d'être recruté est celle des opérationnels les plus intéressants du Department 13. Ce sont des sorcières, des voyants, des chasseurs de démons depuis leur naissance. Ils sont recrutés sans formation de terrain formelle, mais ils apportent un élément essentiel à l'arsenal du Department, la possibilité de combattre le feu par le feu. Le Department cherche continuellement ces individus rares qui ont un don surnaturel, et qui ont une tendance à l'utiliser pour le bien.
+La seconde manière d'être recruté est celle des opérationnels les plus intéressants de la Division 13. Ce sont des sorcières, des voyants, des chasseurs de démons depuis leur naissance. Ils sont recrutés sans formation de terrain formelle, mais ils apportent un élément essentiel à l'arsenal du Division, la possibilité de combattre le feu par le feu. La Division cherche continuellement ces individus rares qui ont un don surnaturel, et qui ont une tendance à l'utiliser pour le bien.
 
-Ces recrues potentielles sont plus faciles à approcher. Ils vivent déjà dans un monde de faits surnaturels. Ils ne sont pas méfiants que le recruteur soit un espion étranger. Mais ils peuvent être plus difficiles à recruter. Il faut beaucoup d'efforts pour les convaincre de travailler pour "l'Homme". Barbotant ou nageant en marge, ce sont des outsiders habitués à leur liberté. Ce qui peut les convaincre est de bénéficier d'un travail d'équipe avec un support financier. Le tueur de vampire solitaire apprécie d'avoir quelqu'un couvrant ses arrières. Dommage que le discours "support financier" soit un peu exagéré.
+Ces recrues potentielles sont plus faciles à approcher. Ils vivent déjà dans un monde de faits surnaturels. Ils ne sont pas méfiants que le recruteur soit un espion étranger. Mais ils peuvent être plus difficiles à recruter. Il faut beaucoup d'efforts pour les convaincre de travailler une organisation. Barbotant ou nageant en marge, ce sont des outsiders habitués à leur liberté. Ce qui peut les convaincre est de bénéficier d'un travail d'équipe avec un support financier. Le tueur de vampire solitaire apprécie d'avoir quelqu'un couvrant ses arrières. Dommage que le discours "support financier" soit quelque peu exagéré.
 
 *** Les opérationnels PNJ
 
@@ -73,9 +76,9 @@ Ces recrues potentielles sont plus faciles à approcher. Ils vivent déjà dans 
 
 Candice voit des fantômes depuis qu'elle a neuf ans. Elle a maintenant dix-sept ans, et possède un contrôle assez fiable sur sa Clairvoyance. L'utilisation de son pouvoir est limitée en raison de sa peur de voir comment elle va mourir. Pour cette raison, elle est très fermée au fait de voir les événements futurs, qu'ils soient ou non reliés à elle.
 
-Candice a mené une vie protégée, et elle n'est pas, pour cette raison, aussi à l'aise dans les rues que les filles de son âge. Après que sa Clairvoyance se soit manifestée la première fois, elle a passé plusieurs années en asile psychiatrique (où elle a appris que mentir était la meilleure façon de ne pas avoir d'ennuis) avant d'être découverte par le Department, qui a arrangé sa sortie de l'asile à la condition qu'elle travaille pour lui.
+Candice a mené une vie protégée, et elle n'est pas, pour cette raison, aussi à l'aise dans les rues que les filles de son âge. Après que sa Clairvoyance se soit manifestée la première fois, elle a passé plusieurs années en asile psychiatrique (où elle a appris que mentir était la meilleure façon de ne pas avoir d'ennuis) avant d'être découverte par la Division, qui a arrangé sa sortie de l'asile à la condition qu'elle travaille pour elle.
 
-Elle sent qu'Anthony a des sentiments pour elle, mais elle est réticente à le laisser devenir trop proche. Elle a totalement confiance en lui, mais elle a vu quelque chose dans le futur qui fait qu'une relation sérieuse lui fait peur. Elle a bâti une amitié fragile avec Sofia, bien que son utilisation de la magie la rendre mal à l'aise. Elle n'a pas le même ressentiment que les autres pour Smith, mais elle n'apprécie pas sa vison de la Clairvoyance comme quelque chose que l'on peut juste allumer et éteindre à volonté. 
+Elle sent qu'Anthony a des sentiments pour elle, mais elle est réticente à le laisser devenir trop proche. Elle a totalement confiance en lui, mais elle a vu quelque chose dans le futur qui fait qu'une relation sérieuse lui fait peur. Elle a bâti une amitié fragile avec Sofia, bien que son utilisation de la magie la rendre mal à l'aise. Elle n'a pas le même ressentiment que les autres pour Martin, mais elle n'apprécie pas sa vison de la Clairvoyance comme quelque chose que l'on peut juste allumer et éteindre à volonté.
 
 Au milieu des chasses aux monstres, Candice tente de reconstruire ce qui pourrait s'apparenter à une vie normale pour elle. Elle aimerait avoir des rendez-vous amoureux, mais sa timidité naturelle et son pouvoir surnaturel rendent cet objectif difficile à atteindre.
 
@@ -93,7 +96,7 @@ Au milieu des chasses aux monstres, Candice tente de reconstruire ce qui pourrai
 | Dons         | Défauts                                |
 |--------------+----------------------------------------|
 | Clairvoyance | Peur de voir son propre futur          |
-|              | Possède une dette envers le Department |
+|              | Possède une dette envers le Division |
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align lc
@@ -106,15 +109,15 @@ Au milieu des chasses aux monstres, Candice tente de reconstruire ce qui pourrai
 | Mentir                      | Bon     |
 | Détecter les mensonges      | Correct |
 
-**** Alex Smith
+**** Alexandre Martin
 
-/Ce n'est pas le tout d'avoir à jouer la babysitter pour cette bande de gamins, maintenant vous voulez que je les emmène sur le terrain sans une arme de poing ? Comment je suis supposé les menacer pour qu'ils se comportent bien si je ne porte pas de pistolet ?/ -- L'agent Smith au Directeur.
+/Ce n'est pas le tout d'avoir à jouer la babysitter pour cette bande de gamins, maintenant vous voulez que je les emmène sur le terrain sans une arme de poing ? Comment je suis supposé les menacer pour qu'ils se comportent bien si je ne porte pas de pistolet ?/ -- L'agent Martin au Directeur.
 
-L'agent Alex Smith est un ancien agent de terrain du FBI. Il considère le surnaturel comme des faits de la vie, durs et froids. Il doit faire son job et il le fera dans les règles. La discipline et la formation qui est requise pour faire le job n'est qu'un autre fait de la vie, froid et dur. Ce qui prend la tête de Smith est que son équipe est un groupe d'adolescents indisciplinés qui ne connaissent rien à comment mener une opération réelle. Une guerre est en cours, et les soldats sous ses ordres devraient être plus que des blancs-becs ; pour autant, ils pensent qu'ils connaissent ce métier mieux que lui-même.
+L'agent Alexandre Martin est un ancien agent de terrain de la DGSE. Il considère le surnaturel comme des faits de la vie, durs et froids. Il doit faire son métier et il le fera dans les règles. La discipline et la formation qui est requise pour faire le job n'est qu'un autre fait de la vie, froid et dur. Ce qui prend la tête de Martin est que son équipe est un groupe d'adolescents indisciplinés qui ne connaissent rien à comment mener une opération réelle. Une guerre est en cours, et les soldats sous ses ordres devraient être plus que des blancs-becs ; pour autant, ils pensent qu'ils connaissent ce métier mieux que lui-même.
 
-Smith tordra les règles et même les oubliera s'il pense que cela sert le but ultime du Department, mais il est plus strict avec son équipe d'adolescents qu'il le serait avec des agents expérimentés. Leur suffisance et mépris pour le protocole le pousse à les punir d'autant plus durement.
+Martin tordra les règles et même les oubliera s'il pense que cela sert le but ultime de la Division, mais il est plus strict avec son équipe d'adolescents qu'il le serait avec des agents expérimentés. Leur suffisance et leur mépris du protocole le pousse à les punir d'autant plus durement.
 
-Ce qui énerve le plus Smith est quelque chose qu'il ne reconnaît pas vraiment. Ce n'est pas qu'il n'apprécie pas ces gamins, c'est que chacun d'entre eux a un don surnaturel qu'il ne possède pas. Son truc à lui, c'est des balles, et occasionnellement des balles en argent, et au fond de lui, il sait que ce n'est pas suffisant. Il sait que le Department a besoin de ces gamins, et que la seule chose à laquelle il doit contribuer est leur formation et leur auto-discipline.
+Ce qui énerve le plus Martin est quelque chose qu'il a du mal à admettre. Ce n'est pas qu'il n'apprécie pas ces gamins, c'est que chacun d'entre eux a un don surnaturel qu'il ne possède pas. Son truc à lui, c'est des balles, et occasionnellement des balles en argent, et au fond de lui, il sait que ce n'est pas suffisant. Il sait que la Division a besoin de ces gamins, et que la seule chose à laquelle il doit contribuer est leur formation et le fait de leur inculquer une certaine auto-discipline.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align lc
@@ -146,11 +149,11 @@ Ce qui énerve le plus Smith est quelque chose qu'il ne reconnaît pas vraiment.
 
 /Pas très subtile. Toujours prompte à la colère./ -- Le teeshirt de Sofia.
 
-Sofia a seize ans, elle est la fille d'une sorcière et est une sorcière elle-même. Elle a étudié la magie noire avec sa mère, jusqu'à ce que cette dernière ne lui demande de sacrifier un de ses amis à un démon pour obtenir des pouvoirs. Sofia, qui a une belle âme, a rechigné, et quand sa mère l'a pressé de le faire, le résultat de la confrontation entre les deux a été une balafre sur le beau visage de sa mère, ce qui a signé leur rupture. Alors que sa mère jurait de se venger de sa fille, Sofia en vint à réaliser que la magie apprise de sa mère mettait son âme en danger. Quand le Department 13 vint la trouver, elle était prête à joindre leurs rangs pour expier ce qu'elle avait fait, et pour trouver un refuge pour se protéger de sa mère.
+Sofia a seize ans, elle est la fille d'une sorcière et est une sorcière elle-même. Elle a étudié la magie noire avec sa mère, jusqu'à ce que cette dernière ne lui demande de sacrifier un de ses amis à un démon pour obtenir des pouvoirs. Sofia, qui a une belle âme, a rechigné, et quand sa mère l'a pressé de le faire, le résultat de la confrontation entre les deux a été une balafre sur le beau visage de sa mère, ce qui a signé leur rupture. Alors que sa mère jurait de se venger de sa fille, Sofia en vint à réaliser que la magie apprise de sa mère mettait son âme en danger. Quand la Division 13 vint la trouver, elle était prête à joindre leurs rangs pour expier ce qu'elle avait fait, et pour trouver un refuge pour se protéger de sa mère.
 
 Sofia a une Lumière Correcte, ce qui est typique de la plupart des gens. Elle avait une Lumière Excellente, mais l'utilisation continuelle de la magie noire et des invocations à Hécate ont progressivement abîmé la bonté de son âme. Si elle continue sur ce chemin, il ne faudra pas longtemps pour qu'elle rejoigne sa mère en tant que servante des Ténèbres. Pour le moment, elle est facilement tentée par l'utilisation de la magie et, même si elle sait que cela a des effets dommageables sur elle-même, elle ne peut souvent pas résister quand les circonstances deviennent difficiles. Elle pourrait renverser la tendance en arrêtant l'usage de la magie et en tournant ses activités vers quelque chose de plus sain, mais il faudrait sans doute un événement sérieux pour la mener à cela.
 
-Sofia adore traîner avec Alex et Candice et elle veut qu'ils soient les meilleurs amis du monde. En revanche, elle a considéré plusieurs fois transformer Smith en grenouille. Elle est secrètement amoureuse de l'agent Murray, son instructeur de kickboxing, mais elle est certaine que personne ne le sait.
+Sofia adore traîner avec Anthony et Candice et elle veut qu'ils soient les meilleurs amis du monde. En revanche, elle a considéré plusieurs fois transformer Martin en grenouille. Elle est secrètement amoureuse de l'agent Braque, son instructeur de kickboxing, mais elle est certaine que personne ne le sait.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align lc
@@ -179,7 +182,7 @@ Sofia adore traîner avec Alex et Candice et elle veut qu'ils soient les meilleu
 | Bluffer              | Correct   |
 | Charmer              | Correct   |
 
-**** Antony Brown
+**** Anthony Lazare
 
 /- C'est rien./
 
@@ -187,11 +190,11 @@ Sofia adore traîner avec Alex et Candice et elle veut qu'ils soient les meilleu
 
 /- Ok, c'est vrai que j'ai fait un effort.../ -- Anthony et Candice.
 
-Anthony est né chasseur de démons (voir les Forces de la Lumière). Il a grandi dans un orphelinat et n'a jamais su qui ses parents étaient (ou quoi). Quand il avait douze ans, il s'est enfuit de l'orphelinat et a vécu dans la rue, chassant les vampires jusqu'à ce qu'il soit recruté par le Department 13.
+Anthony est né chasseur de démons (voir les Forces de la Lumière). Il a grandi dans un orphelinat et n'a jamais su qui ses parents étaient (ou quoi). Quand il avait douze ans, il s'est enfuit de l'orphelinat et a vécu dans la rue, chassant les vampires jusqu'à ce qu'il soit recruté par la Division 13.
 
 Anthony est méfiant quant à l' attitude paternelle que le Directeur a avec lui, mais sa Lumière étant plus grande que la moyenne, il sent que le Directeur, quoique mystérieux, pense sincèrement à ce qui est mieux pour lui.
 
-Il est très protecteur de Candice, hésitant entre un sentiment de frère envers sa soeur et quelque chose d'autre. Il est très prudent quant à Sofia, et considère devoir parler sérieusement au Directeur de son problème avec la magie. Il sent qu'elle glisse doucement vers les Ténèbres et se demande pourquoi les autres ne le voient pas. Il tolère Smith, même s'il aimerait que ce denier soit plus sympa avec eux.
+Il est très protecteur de Candice, hésitant entre un sentiment de frère envers sa soeur et quelque chose d'autre. Il est très prudent quant à Sofia, et considère devoir parler sérieusement au Directeur de son problème avec la magie. Il sent qu'elle glisse doucement vers les Ténèbres et se demande pourquoi les autres ne le voient pas. Il tolère Martin, même s'il aimerait que ce denier soit plus sympa avec eux.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Caractéristiques | Niveau      |
@@ -222,15 +225,15 @@ Il est très protecteur de Candice, hésitant entre un sentiment de frère enver
 
 /C'est un travail sérieux et il faut des gens sérieux pour le faire. Maintenant, les enfants, si vous avez terminé avec vos petites chamailleries, nous avons une opération à réaliser, maintenant./ -- Le Directeur.
 
-Ils le surnomment "le Gros". Certains, seulement quelques uns, l'appellent comme cela devant lui, tant ils ont mérité son respect. Ceux qui utilisent ce sobriquet dans son dos l'appellent "le Directeur" quand ils sont en face de lui. Il n'a jamais dit son vrai nom. Quelques opérationnels plus polis le surnomment "le Vieux". C'est le surnom qui lui déplaît le plus.
+Ils le surnomment "le Gros". Certains, seulement quelques uns, osent l'appeler comme cela devant lui, car ils ont mérité son respect. Ceux qui utilisent ce sobriquet dans son dos l'appellent "le Directeur" quand ils sont en face de lui. Lui n'a jamais dit son vrai nom. Quelques opérationnels plus polis le surnomment "le Vieux". C'est le surnom qui lui déplaît le plus.
 
-Le Directeur est aussi mystérieux que le Department. Personne ne connaît son nom, ne sait où il habite et ne sait s'il a de la famille. Les opérationnels senior s'assurent que les recrues ne tentent pas de le suivre. Ils respectent sa vie privée. S'il veut garder sa vie secrète, c'est qu'il doit avoir une bonne raison pour cela.
+Le Directeur est aussi mystérieux que la Division. Personne ne connaît son nom, nul ne sait où il habite ni ne sait s'il a de la famille. Les opérationnels senior s'assurent que les jeunes recrues ne tentent pas de le suivre, car ils respectent sa vie privée. S'il veut garder sa vie secrète, c'est qu'il doit avoir une bonne raison pour cela.
 
-Il a aussi peu d'humour qu'il est mystérieux. Il ne rit jamais, sauf de ses propres remarques ironiques ou de ses propres sarcasmes, habituellement faites pour recadrer un opérationnel.
+Il a aussi peu d'humour qu'il est mystérieux. Il ne rit jamais, sauf de ses propres remarques ironiques ou de ses propres sarcasmes, habituellement faites pour recadrer un opérationnel étant sorti des clous.
 
-Qui est le Directeur ? Il est celui dont vous avez besoin. Si vous voulez faire simple, il est Martin Fess, ex Béret Vert devenu gros, poussé à faire son job de manière implacable poussé par la mémoire de la nuit où les créatures des Ténèbres ont pris sa femme et ses enfants. Il a laissé son passé de côté pour devenir le Directeur, car c'est le seul but et sens qui lui reste.
+Qui est le Directeur ? Il est celui dont vous avez besoin. Si vous voulez faire simple, il est Marcel Bataille, ex Fusilier Marin devenu gros, poussé à faire son job de manière implacable poussé par la mémoire de la nuit où les créatures des Ténèbres ont pris sa femme et ses enfants. Il a laissé son passé de côté pour devenir le Directeur, car c'est le seul but dans la vie et tout ce qui lui reste.
 
-Si vous voulez quelque chose de plus compliqué, creusez plus profondément, et vous trouverez que l'identité Martin Fess est en fait un masque sous le masque, un faux visage pour quelqu'un ou quelque chose, plus inattendu. Un super agent de la Lumière, organisant ce monde pour lutter contre les Ténèbres ? Ou peut-être un agent des Ténèbres utilisant les mortels de ce monde à des fins obscures ? Peut-être que la vérité est plus sinistre encore.
+Si vous voulez quelque chose de plus compliqué, creusez plus profondément, et vous trouverez que l'identité Marcel bataille est en fait un masque sous le masque, un faux visage pour quelqu'un ou quelque chose, plus inattendu. Un super agent de la Lumière, organisant ce monde pour lutter contre les Ténèbres ? Ou peut-être un agent des Ténèbres utilisant les mortels de ce monde à des fins obscures ? Peut-être que la vérité est plus sinistre encore.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Caractéristiques | Niveau    |
@@ -257,7 +260,9 @@ Si vous voulez quelque chose de plus compliqué, creusez plus profondément, et 
 | Leadership                | Excellent   |
 | Gestion de l'argent       | Fantastique |
 
-** The Lab
+** Le laboratoire
+
+--- reprendre ici
 
 /Oh, I'll just run this through the DNA analyzer and we'll have your results in a jiffy!/
 
@@ -265,7 +270,7 @@ Si vous voulez quelque chose de plus compliqué, creusez plus profondément, et 
 
 /Nah. I'm really going to let Bruno sniff both samples, and if he thinks they're from the same person, he'll bark twice./ -- Jenkins and Alex
 
-While they may not have the latest in fancy crime-fighting equipment, the Department does have a basic laboratory with enough equipment to analyze blood samples, identify common materials, do basic forensics work, and generally get annoyed at not having enough fancy equipment.
+While they may not have the latest in fancy crime-fighting equipment, the Division does have a basic laboratory with enough equipment to analyze blood samples, identify common materials, do basic forensics work, and generally get annoyed at not having enough fancy equipment.
 
 If any serious work needs done, it gets sent out of house. And analyzing anything suspicious usually requires calling in a marker or two.
 
@@ -275,7 +280,7 @@ If any serious work needs done, it gets sent out of house. And analyzing anythin
 
 /What, and miss out on the sun-fun experience of reading a book bound with human skin?/ -- Alex and Sofia
 
-The guys in the lab will tell you that the Department spends far more money on books than on proper lab equipment. And they're quite right. Department 13's library is vast and old, full of rare books on all subjects arcane and mystical. A few of the more common works have been scanned into the computer, but library work generally requires late nights poring over old tomes.
+The guys in the lab will tell you that the Division spends far more money on books than on proper lab equipment. And they're quite right. Division 13's library is vast and old, full of rare books on all subjects arcane and mystical. A few of the more common works have been scanned into the computer, but library work generally requires late nights poring over old tomes.
 
 ** Equipment
 
@@ -291,9 +296,9 @@ Every agent of eighteen years or older is issued a standard sidearm. Bullet-proo
 
 /Secrets? Everybody's got secrets! Question is, which ones are worth knowing, and which ones would just cause you trouble?/ -- The Director
 
-So why does the Department seem to be the center of so much supernatural activity? There aren't branches all over the continent, just one little office and so much Darkness to be found nearby. While the occasional cross-country excursion does happen, the operatives of Department 13 rarely have to look outside their own city limits to keep their hands full. Why is that?
+So why does the Division seem to be the center of so much supernatural activity? There aren't branches all over the continent, just one little office and so much Darkness to be found nearby. While the occasional cross-country excursion does happen, the operatives of Division 13 rarely have to look outside their own city limits to keep their hands full. Why is that?
 
-At the bottom level of the lab, there's a secret staircase. Only the Director and two other people know of its existence. At the bottom of the staircase, there's a secret vault made of cold iron. In this secret vault is the Codex of Malloch. It is the ultimate tool of Darkness and it cannot be destroyed by mortal man. If it found its way into the hands of those with evil intent, the utter destruction of mankind would be at hand. So this is the Department's ultimate purpose: to guard the most powerful artifact in the world without even knowing it exists.
+At the bottom level of the lab, there's a secret staircase. Only the Director and two other people know of its existence. At the bottom of the staircase, there's a secret vault made of cold iron. In this secret vault is the Codex of Malloch. It is the ultimate tool of Darkness and it cannot be destroyed by mortal man. If it found its way into the hands of those with evil intent, the utter destruction of mankind would be at hand. So this is the Division's ultimate purpose: to guard the most powerful artifact in the world without even knowing it exists.
 
 The Codex isn't satisfied with this situation of course. It yearns to be free and to fulfill its purpose. It calls to the servants of Darkness, and they come. They don't even know why they come, don't even know the Codex is there, they just come. Some know they're being called, but of those, none have deliberately sought the Codex... yet.
 
@@ -305,7 +310,7 @@ The Codex isn't satisfied with this situation of course. It yearns to be free an
 
 /Because there's no such thing as white magic./ -- Candice and Alex
 
-Magic in the world of Department 13 comes in two flavors, black and blacker. In order to cast magical spells, a witch must call upon the forces of Darkness to do her bidding. The so-called "white witch" treads a thin line, calling on the Darkness to fight the Darkness. With every incantation, the white witch sells a little piece of her soul. If the black witch works things right, she sells someone else's soul instead of her own. But even she doesn't always get so lucky.
+Magic in the world of Division 13 comes in two flavors, black and blacker. In order to cast magical spells, a witch must call upon the forces of Darkness to do her bidding. The so-called "white witch" treads a thin line, calling on the Darkness to fight the Darkness. With every incantation, the white witch sells a little piece of her soul. If the black witch works things right, she sells someone else's soul instead of her own. But even she doesn't always get so lucky.
 
 When it comes right down to it, "black and blacker" really isn't a joke. There are two sources of power a witch can call on, and one is a lot uglier in the long run. These two powers are spirits and greater demons.
 
@@ -382,9 +387,9 @@ See the sample spells later in this article.
 
 ** The Sight
 
- Where magic is an external force to be called upon, some humans possess an internal ability to see things that others cannot, which the Department calls "the Sight." Most often, this ability allows them to see supernatural beings for what they are (invisible ghosts are visible to them, they recognize Type III vampires at a glance, etc). Occasionally, the Sight can extend into the past, usually when it involves a strong psychic imprint, such as seeing the past events of a murder when at the murder scene, or touching some important object or being involved in the murder. Very rarely, the Sight can extend into the future.
+ Where magic is an external force to be called upon, some humans possess an internal ability to see things that others cannot, which the Division calls "the Sight." Most often, this ability allows them to see supernatural beings for what they are (invisible ghosts are visible to them, they recognize Type III vampires at a glance, etc). Occasionally, the Sight can extend into the past, usually when it involves a strong psychic imprint, such as seeing the past events of a murder when at the murder scene, or touching some important object or being involved in the murder. Very rarely, the Sight can extend into the future.
 
-Operatives with the Sight are some of the Department's most valuable assets. The Department will go to a lot of expense, and put up with rather obnoxious behavior, to keep a Seer on the team.
+Operatives with the Sight are some of the Division's most valuable assets. The Division will go to a lot of expense, and put up with rather obnoxious behavior, to keep a Seer on the team.
 
 ** Gamemastering the Sight
 
@@ -418,9 +423,9 @@ A person's Light can change over time. Consciously going out of one's way to do 
 
 * The Forces of Light
 
-Unfortunately, the balance of power seems to be in favor of the Darkness. As far as the Department knows, there are no greater beings on the side of Light. For the most part, mankind stands alone in this battle. (Maybe. See the section on Religion in Department 13 for an alternative.)
+Unfortunately, the balance of power seems to be in favor of the Darkness. As far as the Division knows, there are no greater beings on the side of Light. For the most part, mankind stands alone in this battle. (Maybe. See the section on Religion in Division 13 for an alternative.)
 
-Rarely, there are individual humans the Department calls demon-hunters. Gifted with some combination of great strength, speed, endurance, healing and supernatural senses or abilities, these incredible individuals are called to fight the forces of Darkness. Some respond willingly, others grudgingly, and some not at all, but each of them feels, at a gut level, the call to do battle with the creatures of Darkness.
+Rarely, there are individual humans the Division calls demon-hunters. Gifted with some combination of great strength, speed, endurance, healing and supernatural senses or abilities, these incredible individuals are called to fight the forces of Darkness. Some respond willingly, others grudgingly, and some not at all, but each of them feels, at a gut level, the call to do battle with the creatures of Darkness.
 
 Just as there are men devoted to Darkness, there are just a very few creatures of Darkness that have switched sides. Most often because they see some kind of gain in it, but occasionally because they are mutants among their own kind, genuinely good, and willing to risk their lives for the welfare of mankind.
 
@@ -432,7 +437,7 @@ Just as there are men devoted to Darkness, there are just a very few creatures o
 
 /Are you sure Jones over in accounting isn't a vampire?/ - The Director
 
-Vampires in the world of Department 13 come in three flavors.
+Vampires in the world of Division 13 come in three flavors.
 
 Type I vampires, or Elders, are the common vampire of legend. They're ancient, powerful undead, who can change forms and mesmerize their victims. Fortunately they're rare, spend long months or even years "asleep", and don't have to feed often. After death, a victim who has tasted the blood of the Type I vampire rises as a Type II under the control of its creator.
 
@@ -442,7 +447,7 @@ Type III vampires, or daywalkers, appear entirely human, are cool to the touch b
 
 Type III vampires are the most common and the most difficult to detect, but hardly being vampires, they are almost harmless. Their greatest threat is not as vampires, but as the minions of a greater power.
 
-How more Type I vampires are made isn't known, though the Department's current theory is that a Type I can simply make another Type I instead of a Type II when he chooses.
+How more Type I vampires are made isn't known, though the Division's current theory is that a Type I can simply make another Type I instead of a Type II when he chooses.
 
 When killed, all three vampire types quickly decay into dust, even if they were only hours old, leaving behind only their empty clothes and possessions. 
 
@@ -501,7 +506,7 @@ Ghosts are not very common in this world, and they rarely can cause any harm, po
 
 /Yeah, those squid-face things again. What, are you alergic or something?/ - Candice and the Director
 
-Demons abound in the universe of Department 13. There are almost as many types of demon as one could dream up. They come in all shapes, sizes and origins, but they can be broken up into two broad categories lesser demons and the greater demons.
+Demons abound in the universe of Division 13. There are almost as many types of demon as one could dream up. They come in all shapes, sizes and origins, but they can be broken up into two broad categories lesser demons and the greater demons.
 
 *** Lesser Demons
 
@@ -545,31 +550,31 @@ Look not upon the faces of the Nameless Ones, for to see them is to invite madne
 
 ** Men
 
-Yes, many of mankind are on the side of Darkness as well. These are perhaps the most frightening of foes because they represent the potential for evil in all of us. They're also the most difficult to dispatch out-of-hand, for legal reasons if not for moral. If the operatives of the Department kill the mayor without sufficient evidence that would be believable in a court of law, they may find themselves left high and dry. "Because he was about to turn into the incarnation of Hoshepatawa himself!" is not a valid legal defense.
+Yes, many of mankind are on the side of Darkness as well. These are perhaps the most frightening of foes because they represent the potential for evil in all of us. They're also the most difficult to dispatch out-of-hand, for legal reasons if not for moral. If the operatives of the Division kill the mayor without sufficient evidence that would be believable in a court of law, they may find themselves left high and dry. "Because he was about to turn into the incarnation of Hoshepatawa himself!" is not a valid legal defense.
 
-* Gamemastering Department 13
+* Gamemastering Division 13
 
-Something you should note right away is that the operatives of Department 13 are a mixed bag. Here you have seasoned Green Beret's, FBI, and CIA agents working alongside street-smart teen witches, seers and demon hunters. If you don't see the inter-party roleplaying potential in that, you might oughta pack it up and go home now. Here are some other factors you might want to consider...
+Something you should note right away is that the operatives of Division 13 are a mixed bag. Here you have seasoned Green Beret's, FBI, and CIA agents working alongside street-smart teen witches, seers and demon hunters. If you don't see the inter-party roleplaying potential in that, you might oughta pack it up and go home now. Here are some other factors you might want to consider...
 
 ** Tone
 
 Deparment 13 is meant to be a dash of serious work mixed with a liberal dose of humor. Death of the main characters is extremely rare, death of secondary characters is rare, and death of innocent bystanders can happen almost every episode.
 
-Yet it doesn't have to be played that way. Department 13 can range anywhere from down-and-dirty, no-holds-barred, main-characters-die-regularly, to a campy romp in which the red shirts die but that isn't really important. However you want to run it, pick a direction and stick with it, otherwise you'll confuse and frustrate your players.
+Yet it doesn't have to be played that way. Division 13 can range anywhere from down-and-dirty, no-holds-barred, main-characters-die-regularly, to a campy romp in which the red shirts die but that isn't really important. However you want to run it, pick a direction and stick with it, otherwise you'll confuse and frustrate your players.
 
 ** Budget
 
-How much money, and hence what kind of neat gadgets does the Department have? That depends on who is providing them with their budget and how much they can spare. Or for a more practical answer, it depends on just what you want the campaign to look like. Department 13 was written with a low budget in mind, but if you want action-adventure stories where the operatives to wade in with shotguns that shoot silver-tipped wooden stakes, holy water grenades, and sophisticated body armor (complete with neck shields), and you want them to have access to fancy computers and lab equipment, pour on the dough. On the other hand, if you're looking for a more thoughtful, low-key, stakes-and-crosses approach, keep the money tight and make them scramble for their existence.
+How much money, and hence what kind of neat gadgets does the Division have? That depends on who is providing them with their budget and how much they can spare. Or for a more practical answer, it depends on just what you want the campaign to look like. Division 13 was written with a low budget in mind, but if you want action-adventure stories where the operatives to wade in with shotguns that shoot silver-tipped wooden stakes, holy water grenades, and sophisticated body armor (complete with neck shields), and you want them to have access to fancy computers and lab equipment, pour on the dough. On the other hand, if you're looking for a more thoughtful, low-key, stakes-and-crosses approach, keep the money tight and make them scramble for their existence.
 
 ** Allies
 
-Don't forget that there are forces of Light outside the Department. Some are potential recruits, some have already been approached and chose to stay solo. There's even the occasional creature which has somehow gained a measure of Light and fights on the side of the good guys. Or at least that's what they'd have you think.
+Don't forget that there are forces of Light outside the Division. Some are potential recruits, some have already been approached and chose to stay solo. There's even the occasional creature which has somehow gained a measure of Light and fights on the side of the good guys. Or at least that's what they'd have you think.
 
-** Religion in Department 13
+** Religion in Division 13
 
 What role does religion play in a setting like this? In our most familiar, traditional vampire lore, it is the holy symbols of the Catholic church, the crucifix, St Andrews medallion, holy water or holy wafers, that harm the vampire. In the Buffy the Vampire Slayer TV series, the vampire is harmed by the Christian cross, but darned if the heroes don't turn to black magic instead of Christian prayer when they need supernatural aid.
 
-If you want vampires (and maybe other forces of darkness... why should vampires cower at the sight of a crucifix while demons laugh at it?) in the more traditional mode, you'll want to consider why the holy symbols have their effect. (And while you're at it, maybe Department 13 is a branch of the Catholic church, and its operatives the equivalent of holy paladins.)
+If you want vampires (and maybe other forces of darkness... why should vampires cower at the sight of a crucifix while demons laugh at it?) in the more traditional mode, you'll want to consider why the holy symbols have their effect. (And while you're at it, maybe Division 13 is a branch of the Catholic church, and its operatives the equivalent of holy paladins.)
 
 What is the role of the religious faith of the heroes when fighting the forces of darkness? More recent fiction expands from the symbols of the Catholic church so that any holy symbol of any faith will do the trick, so long as the bearer has faith in their religion. Loss or lack of faith makes the symbol useless. Conversely, those with strong faith (perhaps a Gift of True Faith?) may make the symbol more effective.
 
@@ -579,7 +584,7 @@ Finally, there's no reason that vampires and demons have to be linked to modern 
 
 ** Do Your Own Thing
 
-Department 13 is just a springboard, a stepping-off point, for a campaign that should be uniquely yours! Don't feel constrained by anything here; tear it apart and reassemble it to your liking. Make Department 13 your own. Staff it with NPC agents and office personell for the PCs to interact with. Concoct conspiracies, create vampire factions, throw in some sexy demons to lure the heroes to the dark side, do whatever "sharpens your stake." Then go out and kick some vampire butt!
+Division 13 is just a springboard, a stepping-off point, for a campaign that should be uniquely yours! Don't feel constrained by anything here; tear it apart and reassemble it to your liking. Make Division 13 your own. Staff it with NPC agents and office personell for the PCs to interact with. Concoct conspiracies, create vampire factions, throw in some sexy demons to lure the heroes to the dark side, do whatever "sharpens your stake." Then go out and kick some vampire butt!
 
 * The Rules
 
@@ -592,7 +597,7 @@ Department 13 is just a springboard, a stepping-off point, for a campaign that s
 
 ** Sample Skills
 
-It is suggested that skills detail for Department 13 be kept fairly high-level, to keep character sheets simple and play focused on the action. Feel free to adjust this sample skill list to fit your campaign.
+It is suggested that skills detail for Division 13 be kept fairly high-level, to keep character sheets simple and play focused on the action. Feel free to adjust this sample skill list to fit your campaign.
 
 - Academic
   - Research
@@ -668,13 +673,13 @@ No grimoire would be complete without a recipe for creating the walking dead! Th
 Obviously, this setting wasn't made up of whole cloth. It's a patchwork monster, with body parts gleefully stolen from the graveyards of many books and shows. You know most of them (do I have to say /Buffy/...?), so here are a few slightly obscure ones.
 
 - Television Shows
-  - /The Invisible Man/, on SciFi. This show rocked, but it wasn't about monsters. If you want to know how to run the "business" side of the Department and need a role-model for the Director, this is it. 
+  - /The Invisible Man/, on SciFi. This show rocked, but it wasn't about monsters. If you want to know how to run the "business" side of the Division and need a role-model for the Director, this is it. 
 - Books
   - /Salem's Lot/, Stephen King. Not quite your typical vampire novel, and it's view on what a single vampire can do to a small town in a matter of days is frightening. The inspiration for "tiers" of vampire types come from it's sister book, Dark Tower V: Wolves of the Calla.
   - /Odd Thomas/, Dean Koonts. Odd's got the Sight, and maybe he'd be better off without it. The ending is somewhat unsatisfying, but it's still a good read.
   - /GURPS Places of Mystery/. Here you go, all the weird places of the real world, all decked out for gaming. 
 - Movies
-  - /Underworld/ (2003). A popular vampire and werewolf roleplaying world crossed with The Matrix look and feel (and sound effects). Despite getting mediocre reviews, this movie is ripe for the picking when it comes to the world of Department 13, and the premise and the plot work well enough. Watch for Type 1 and Type 2 vampires here. 
+  - /Underworld/ (2003). A popular vampire and werewolf roleplaying world crossed with The Matrix look and feel (and sound effects). Despite getting mediocre reviews, this movie is ripe for the picking when it comes to the world of Division 13, and the premise and the plot work well enough. Watch for Type 1 and Type 2 vampires here. 
 
 /(Source: The defunct [[http://web.archive.org/web/20060822022058/http://www.fudgefactor.org/2004/04/department-13.html][fudgefactor.org]])/
 

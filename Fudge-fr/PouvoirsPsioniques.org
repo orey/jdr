@@ -23,14 +23,16 @@ Nous reprenons les conventions américaines sur les genres :
 
 ** Un système orienté "effets"
 
-Les systèmes de magie de Fudge sont orientés sur les effets réels plus que sur la catégorisation des différents pouvoirs. Cela permet aux joueurs d'exprimer l'effet qu'ils désirent plus que de citer l'utilisation d'un pouvoir.
+Les systèmes de magie de Fudge sont orientés sur les /effets/ réels plus que sur la catégorisation des différents pouvoirs. Cela permet aux joueurs d'exprimer l'effet qu'ils désirent plus que de citer l'utilisation d'un pouvoir.
+
+Les effets de certains pouvoirs peuvent être temporaires ou permanents, s'appliquer sur le psionique, sur d'autres personnes ou sur des objets ou des lieux. En fonction de ces paramètres, ainsi que de l'ampleur de l'effet désiré, la MJ déterminera les modificateurs /ad hoc/.
 
 ** Les trois dimensions des pouvoirs psioniques
 
 Trois dimensions sont à considérer dans les pouvoirs psioniques :
-- les pouvoirs psioniques : les règles d'acquisition des pouvoirs pour les PJ ;
-- les compétences : comment utiliser les pouvoirs psioniques ;
-- le réservoir psychique : les conséquences de l'utilisation des pouvoirs psioniques.
+- Les *pouvoirs psioniques* : les règles d'acquisition des pouvoirs pour les PJ ;
+- Les *compétences psioniques* : comment utiliser les pouvoirs psioniques ;
+- L'*énergie psychique* : les conséquences de l'utilisation des pouvoirs psioniques.
 
 * Les pouvoirs psioniques
 
@@ -42,20 +44,54 @@ _Note_ : Ces règles ressemblent aux règles utilisées dans le cadre de /Fudge 
 
 Les règles proposent trois niveaux comme indiqué dans la table ci-dessous.
 
-| Groupe de pouvoirs très étendu     | Groupe de pouvoirs moyennement étendu | Pouvoirs               | Niveau (Department 13) |
-|------------------------------------+---------------------------------------+------------------------+------------------------|
-| Altération des  pouvoirs psi       |                                       | Distorsion             | Lamentable (1)         |
-|                                    |                                       | Annulation             | Correct (4)            |
-|                                    |                                       | Résistance             | Lamentable (1)         |
-| Perception extra-sensorielle (ESP) | Projection astrale                    |                        | Lamentable (1)         |
-|                                    | Perceptions à distance                | Clairaudience          | Lamentable (1)         |
-|                                    |                                       | Clairvoyance           | Mauvais (2)            |
-|                                    |                                       | Localiser un objet     | Lamentable (1)         |
-|                                    |                                       | Localiser une personne | Lamentable (1)         |
-|                                    |                                       | Percevoir l'aura       | Lamentable (1)         |
-|                                    | Révélations temporelles               | Postcognition          | Lamentable (1)         |
-|                                    |                                       | Précognition           |                        |
-|                                    |                                       |                        |                        |
+| Groupe de pouvoirs très étendu      | Groupe de pouvoirs moyennement étendu | Pouvoirs                            | Niveau (Department 13) |
+|-------------------------------------+---------------------------------------+-------------------------------------+------------------------|
+| Altération des pouvoirs psi         | Altération des pouvoirs psi           | Distorsion                          | Lamentable (1)         |
+|                                     |                                       | Annulation                          | Correct (4)            |
+|                                     |                                       | Résistance                          | Lamentable (1)         |
+| [[https://fr.wikipedia.org/wiki/Perception_extrasensorielle][Perceptions extrasensorielles]] (ESP) | Projection astrale                    |                                     | Lamentable (1)         |
+|                                     | Perceptions à distance                | Clairaudience                       | Lamentable (1)         |
+|                                     |                                       | Clairvoyance                        | Mauvais (2)            |
+|                                     |                                       | Localiser un objet                  | Lamentable (1)         |
+|                                     |                                       | Localiser une personne              | Lamentable (1)         |
+|                                     |                                       | Percevoir l'aura                    | Lamentable (1)         |
+|                                     | Révélations temporelles               | Postcognition                       | Lamentable (1)         |
+|                                     |                                       | Précognition                        | Mauvais (2)            |
+|                                     |                                       | Psychométrie                        | Lamentable (1)         |
+| [[https://fr.wikipedia.org/wiki/Psychokin%25C3%25A8se][Psychokinésie]]                       | Contrôle des êtres vivants            | Guérison                            | Lamentable (1)         |
+|                                     |                                       | Lévitation                          | Mauvais (2)            |
+|                                     |                                       | Contrôle du métabolisme             | Médiocre (3)           |
+|                                     |                                       | Changement de forme                 | Mauvais (2)            |
+|                                     | Contrôle des choses                   | Champ de force                      | Lamentable (1)         |
+|                                     |                                       | Photokinésie                        | Mauvais (2)            |
+|                                     |                                       | Sonokinésie                         | Mauvais (2)            |
+|                                     |                                       | Télékinésie                         | Lamentable (1)         |
+|                                     |                                       | Transformer un objet                | Lamentable (1)         |
+|                                     | Electrokinésie                        | Modifier courant électrique         | Lamentable (1)         |
+|                                     |                                       | Contrôler les appareils électriques | Lamentable (1)         |
+|                                     |                                       | Cyberpsi                            |                        |
+|                                     |                                       | Éclair                              | Lamentable (1)         |
+|                                     | Contrôle de la température            | Cryokinésie                         | Lamentable (1)         |
+|                                     |                                       | Pyrokynésie                         | Lamentable (1)         |
+| Télépathie                          | Empathie                              | Contrôle des émotions               | Mauvais (2)            |
+|                                     |                                       | Sentir les émotions                 | Lamentable (1)         |
+|                                     | Bouclier mental                       | Bouclier mental                     | Lamentable (1)         |
+|                                     | Communication mentale                 | Télépathie                          | Lamentable (1)         |
+|                                     |                                       | Projection de pensées               | Mauvais (2)            |
+|                                     | Contrôle mental                       | Modifier les souvenirs              | Mauvais (2)            |
+|                                     |                                       | Persuasion                          | Lamentable (1)         |
+|                                     |                                       | Rendre confus                       | Lamentable (1)         |
+|                                     |                                       | Violenter l'esprit                  | Lamentable (1)         |
+|                                     |                                       | Téléhypnose                         | Mauvais (2)            |
+|                                     | Vampirisme                            | Emprunter une compétence            | Mauvais (2)            |
+|                                     |                                       | Drainer l'énergie psychique         | Mauvais (2)            |
+|                                     |                                       | Drainer la vie                      | Correct (4)            |
+|                                     |                                       | Drainer l'énergie                   | Médiocre (3)           |
+| Téléportation                       | Téléportation                         | Se téléporter                       | Correct (4)            |
+|                                     |                                       | Téléporter quelqu'un d'autre        | Correct (4)            |
+|                                     |                                       | Téléporter un objet                 | Mauvais (2)            |
+|                                     |                                       | Voyage inter plans                  | Bon (5)                |
+|                                     |                                       | Ouvrir un portail dimensionnel      | Excellent (6)          |
 
 ** Niveaux de pouvoirs psioniques
 
@@ -63,7 +99,7 @@ Les règles suivantes s'appliquent :
 
 - Chaque pouvoir psionique choisi par le joueur (à l'échelle décidée par la MJ) coûte *1 Pouvoir Surnaturel*, soit *2 Dons*.
 - Chaque pouvoir psionique est à ranger dans la catégorie des dons.
-- Pour posséder un pouvoir psionique, il faut lui attribuer des niveaux de compétences. Le minimum est d'attribuer un niveau pour passer le pouvoir au niveau Lamentable. On appelle cela le "niveau du pouvoir". Il peut être représenté par un chiffre allant de 1 (Lamentable) à 7 (
+- Pour posséder un pouvoir psionique, il faut lui attribuer des niveaux de compétences. Le minimum est d'attribuer un niveau pour passer le pouvoir au niveau Lamentable. On appelle cela le "niveau du pouvoir". Il peut être représenté par un chiffre allant de 1 (Lamentable) à 7 (Fantastique), quoique la MJ est encouragée à ne pas laisser les joueurs obtenir des niveaux de pouvoir supérieurs à Correct au tirage des PJ.
 - Chaque niveau de pouvoir donne la possibilité d'utiliser des pouvoirs. La classification des niveaux de pouvoirs requis pour utiliser un pouvoir est à la discrétion de la MJ. Un exemple est donné par la table ci-dessus dans le contexte du Department 13. Si le psionique ne possède pas le niveau de pouvoir requis, il ne peut pas utiliser le pouvoir.
 - Le niveau de pouvoir maximum que devrait autoriser une MJ est le niveau Correct.
 
@@ -81,7 +117,9 @@ Les règles suivantes s'appliquent :
 
 ** Description des pouvoirs
 
-*** Groupe "altération des pouvoirs psioniques"
+La plupart des pouvoirs décrits ci-dessous mériteraient une description détaillée ainsi que des règles propres.
+
+*** Groupe Altération des pouvoirs psioniques
 
 Cette catégorie regroupe des pouvoirs permettant d'altérer d'autres pouvoirs psioniques, que ces derniers s'appliquent au p
 
@@ -92,7 +130,7 @@ Cette catégorie regroupe des pouvoirs permettant d'altérer d'autres pouvoirs p
 - *Résistance*
   - Ce pouvoir permet de résister à une attaque psionique ou à un pouvoir psionique présent dans un lieu et s'appliquant au psionique.
 
-*** Groupe "perceptions extra-sensorielles" (ESP)
+*** Groupe Perceptions extrasensorielles (ESP)
 
 **** Projection astrale
 
@@ -138,68 +176,95 @@ Cette catégorie regroupe des pouvoirs permettant d'altérer d'autres pouvoirs p
 
 - *Postcognition*
   - Ce pouvoir permet de voir des événements passés, soit concernant des objets, soit concernant des personnes.
+- *Précognition*
+  - Ce pouvoir permet de voir des événements futurs.
+  - Une variation de ce pouvoir est la précognition par contact physique (comme dans le livre /Deadzone/ de Stephen King).
+- *Psychométrie*
+  - Ce pouvoir permet de lire les objets, leur histoire et les événements qui leur sont rattachés.
+  - Une variation de ce pouvoir est la précognition par contact physique (comme dans le livre /Deadzone/ de Stephen King).
 
+*** Groupe Psychokinésie
 
+La psychokinésie (aussi dénommée "psychokinèse" en français) est un ensemble de disciplines psioniques permettant à un psionique d'influencer la matière à l'aide de son esprit.
 
-Très Grand
-Groupe
-Le comportement du demandeur n'était pas en accord avec les
-désirs de sa divinité : -1 ou pire
-Antipsi
-Le demandeur essaie de réaliser ce que sa divinité désire : +1
-Le demandeur va à l'encontre des désir de sa divinité : -1 ou pire
-Grand Groupe
-Groupes Réduits
-Déforme
-Annule
-Résiste
-PES
-Projection Astrale
-Télésens
-Clairaudience
-Clairvoyance
-Localiser un Objet
-Localiser une Personne
-Sentir l'Aura
-Révélation Temp. Postcognition
-Précognition
-Psychométrie
-Psychokinésie Contrôler Créature Guérison
-Lévitation
-Contrôle Métabolisme
-Changeforme
-Contrôler Matière Champ de Force
-Photokinésie
-Sonarkinésie
-Télékinésie
-Transmodifier un Objet
-Electrokinésie
-Modifie Electricité
-Contrôle Machines Elect.
-Cyberpsi
-Rafale Electrique
-Contrôle Température Cryokinésie
-Pyrokinésie
-Télépathie
-Empathie
-Contrôle des Emotions
-Sentir les Emotions
-Bouclier Mental
-Communication Lecture d'Esprit
-Envoi de Pensées
-Contrôle Mental Modifier la Mémoire
-Persuasion
-Empêcher Penser Clairement
-Envoyer Energie Violente
-Téléhypnose
-Vampirisme
-Emprunter Compétence
-Drainer Réserve Psychique
-Drainer la Santé
-Drainer l'Energie
-Téléportation
-Se Téléporter
-Téléporter Autrui
-Téléporter un Objet
-Voyage Planaire
-Ouvrir Portail Dimensionnel
+**** Contrôle des êtres vivants
+
+- *Guérison*
+  - Ce pouvoir permet de guérir les blessures. L'importance de la blessure guérie détermine la difficulté.
+- *Lévitation*
+  - Ce pouvoir permet de léviter.
+- *Contrôle du métabolisme*
+  - Ce pouvoir permet de contrôler le métabolisme des êtres vivants, que ce soit pour le réparer ou pour le faire dysfonctionner.
+- *Changement de forme*
+  - Ce pouvoir permet de changer la forme des êtres vivants, comme changer son visage ou le visage d'une autre personne. Ce pouvoir peut avoir des effets permanents ou provisoires.
+
+**** Contrôle des choses
+
+- *Champ de force*
+  - Ce pouvoir permet d'établir un champ de force autour de personnes ou de choses.
+- *Photokinésie*
+  - Ce pouvoir permet de manipuler la lumière de manière mentale. Il peut être utilisé de manière offensive pour aveugler.
+- *Sonokinésie*
+  - Ce pouvoir permet de manipuler le son de manière mentale. Il peut être utilisé de manière offensive pour perturber l'ouïe d'un ennemi (voire plus).
+- *Télékinésie*
+  - Ce pouvoir permet de faire bouger ou de déformer des objets avec son esprit.
+- *Transformer un objet*
+  - Ce pouvoir permet de transformer un objet.
+  - La composition chimique de l'objet doit être respectée. 
+
+**** Electrokinésie
+
+- *Modifier un courant électrique*
+- *Contrôler les appareils électriques*
+- *Cyberpsi*
+- *Éclair*
+  - Ce pouvoir permet de créer des éclairs électriques dans un but offensif.
+
+**** Contrôle de la température
+
+- *Cryokinésie*
+  - Ce pouvoir permet de créer de la glace ou de geler des choses avec son esprit.
+- *Pyrokinésie*
+  - ce pouvoir permet d'enflammer des choses avec son esprit.
+
+*** Groupe Télépathie
+
+**** Empathie
+
+- *Contrôle des émotions*
+- *Sentir les émotions*
+
+**** Bouclier mental
+
+- *Bouclier mental*
+
+**** Communication mentale
+
+- *Télépathie*
+- *Projection de pensées*
+
+**** Contrôle mental
+
+- *Modifier les souvenirs*
+- *Persuasion*
+- *Rendre confus*
+- *Violenter l'esprit*
+- *Téléhypnose*
+
+**** Vampirisme
+
+- *Utiliser une compétence de quelqu'un d'autre*
+- *Drainer l'énergie psychique*
+- *Absorber la vie*
+- *Absorber l'énergie*
+
+*** Groupe Téléportation
+
+**** Téléportation
+
+- *Se téléporter*
+- *Téléporter quelqu'un d'autre*
+- *Téléporter un objet*
+- *Voyage inter plans*
+- *Ouvrir un portail dimensionnel*
+

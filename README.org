@@ -156,14 +156,19 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 ** SRD - System Reference Documents
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-| Site                                                                            | Game                      |
-|---------------------------------------------------------------------------------+---------------------------|
-| https://archive.org/details/d20modernsrd                                        | D20 Modern                |
-| https://www.chaosium.com/brp-system-reference-document/                         | Basic Role Playing System |
-| https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/ | Gumshoe                   |
-| https://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/      | 13th Age                  |
-| http://www.wizards.com/default.asp?x=d20/article/srd35                          | D&D SRD 3.5 WoC           |
-|                                                                                 |                           |
+| Game                      | Site                                                                            |
+|---------------------------+---------------------------------------------------------------------------------|
+| *Numbers*                 |                                                                                 |
+| 13th Age                  | https://site.pelgranepress.com/index.php/the-archmage-engine-13th-age-srd/      |
+| *B*                       |                                                                                 |
+| Basic Role Playing System | https://www.chaosium.com/brp-system-reference-document/                         |
+| Blades in the dark        | https://github.com/amazingrando/blades-in-the-dark-srd-content                  |
+| *D*                                                                                                         |
+| D20 Modern                | https://archive.org/details/d20modernsrd                                        |
+| D&D SRD 3.5 WoC           | http://www.wizards.com/default.asp?x=d20/article/srd35                          |
+| *G*                                                                                                         |
+| Gumshoe                   | https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/ |
+|                           |                                                                                 |
 
 ** Huge collection of gaming blogs in English
 
@@ -555,7 +560,9 @@ A explorer : Fiasco, Nephilim, Fudge.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                     | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+-------------------------------------------------------------+-------+-----+---------|
-| 2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An impressive system. I particularly like the scales.       | *5/5* | N   | *Y*     |
+| 2021 | Lasers and Feelings          | Sci-Fi           |                                                             |       |     |         |
+| 2021 | GURPS                        | Generic system   | A great classical system with great supplements             | 4/5   | N   | *Y*     |
+| 2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An "open Gurps" with ladder and scales. Desappointing       | 3/5   | N   | *Y*     |
 | 2021 | [[http://komajdr.free.fr/fichiers/BiTs.rar][Bits ]]                        | Generic system   | In French, a one page generic system                        | -     | N   | N       |
 | 2021 | [[http://storygame.free.fr/][Trucs trop bizarres]]          | Modern kids      | In French, a very simple game system                        | 3/5   | N   | N       |
 | 2021 | Advanced Fighting Fantasy    | Heroic Fantasy   | To play with children                                       | -     | N   | Later   |

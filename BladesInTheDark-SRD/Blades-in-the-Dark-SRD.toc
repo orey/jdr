@@ -1,0 +1,262 @@
+\contentsline {part}{I\hspace {1em}The Basics}{5}{part.1}% 
+\contentsline {section}{\numberline {0.1}The Game}{6}{section.0.1}% 
+\contentsline {section}{\numberline {0.2}The Players}{6}{section.0.2}% 
+\contentsline {section}{\numberline {0.3}The Characters}{6}{section.0.3}% 
+\contentsline {section}{\numberline {0.4}The Crew}{6}{section.0.4}% 
+\contentsline {section}{\numberline {0.5}The Game Master}{6}{section.0.5}% 
+\contentsline {section}{\numberline {0.6}Playing A Session}{6}{section.0.6}% 
+\contentsline {chapter}{\numberline {1}The Core System}{7}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Judgment Calls}{7}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Rolling the Dice}{7}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}The Game Structure}{8}{section.1.3}% 
+\contentsline {chapter}{\numberline {2}Actions \& Attributes}{9}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Action Ratings}{9}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Action Roll}{9}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Attribute Ratings}{10}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Resistance Roll}{10}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Actions}{10}{section.2.5}% 
+\contentsline {chapter}{\numberline {3}Stress \& Trauma}{12}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Stress}{12}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Pushing Yourself}{12}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Trauma}{12}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Trauma Conditions}{12}{subsection.3.3.1}% 
+\contentsline {chapter}{\numberline {4}Progress clocks}{14}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Simple Obstacles}{14}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Danger Clocks}{14}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Racing Clocks}{14}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Linked Clocks}{15}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Mission Clocks}{15}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Tug-of-war Clocks}{15}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}Long-term Project}{15}{section.4.7}% 
+\contentsline {section}{\numberline {4.8}Faction Clocks}{15}{section.4.8}% 
+\contentsline {chapter}{\numberline {5}Action Roll}{16}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}1. The Player States Their Goal}{16}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}2. The Player Chooses the Action Rating}{16}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}3. The GM Sets the Position}{16}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}4. The GM Sets the Effect Level}{17}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}5. Add Bonus Dice}{17}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}The Devil\IeC {\textquoteright }s Bargain}{17}{subsection.5.5.1}% 
+\contentsline {section}{\numberline {5.6}6. Roll the Dice and Judge the Result}{17}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Action Roll Summary}{18}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}Double-duty Rolls}{18}{section.5.8}% 
+\contentsline {chapter}{\numberline {6}Effect}{19}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Assessing Factors}{19}{section.6.1}% 
+\contentsline {subsection}{\numberline {6.1.1}Potency}{19}{subsection.6.1.1}% 
+\contentsline {subsection}{\numberline {6.1.2}Quality/Tier}{19}{subsection.6.1.2}% 
+\contentsline {subsection}{\numberline {6.1.3}Scale}{19}{subsection.6.1.3}% 
+\contentsline {section}{\numberline {6.2}Trading Position for Effect}{20}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Consequences}{20}{section.6.3}% 
+\contentsline {chapter}{\numberline {7}Setting Position \& Effect}{21}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}Consequences and Harm}{22}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Reduced Effect}{22}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Complication}{22}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Lost Opportunity}{22}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Worse Position}{23}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}Harm}{23}{section.8.5}% 
+\contentsline {subsection}{\numberline {8.5.1}Harm examples}{23}{subsection.8.5.1}% 
+\contentsline {chapter}{\numberline {9}Resistance \& Armor}{24}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Armor}{25}{section.9.1}% 
+\contentsline {section}{\numberline {9.2}Death}{25}{section.9.2}% 
+\contentsline {chapter}{\numberline {10}Fortune Roll}{26}{chapter.10}% 
+\contentsline {chapter}{\numberline {11}Gathering Information}{28}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}Investigation}{28}{section.11.1}% 
+\contentsline {section}{\numberline {11.2}Examples \& Questions}{28}{section.11.2}% 
+\contentsline {chapter}{\numberline {12}Coin and Stash}{30}{chapter.12}% 
+\contentsline {section}{\numberline {12.1}Coin}{30}{section.12.1}% 
+\contentsline {subsection}{\numberline {12.1.1}Monetary values}{30}{subsection.12.1.1}% 
+\contentsline {subsection}{\numberline {12.1.2}Coin Use}{30}{subsection.12.1.2}% 
+\contentsline {section}{\numberline {12.2}Stash \& Retirement}{31}{section.12.2}% 
+\contentsline {subsection}{\numberline {12.2.1}Removing coin from your stash}{31}{subsection.12.2.1}% 
+\contentsline {chapter}{\numberline {13}The Faction Game}{32}{chapter.13}% 
+\contentsline {section}{\numberline {13.1}Tier}{32}{section.13.1}% 
+\contentsline {subsection}{\numberline {13.1.1}Gang scale by tier}{32}{subsection.13.1.1}% 
+\contentsline {section}{\numberline {13.2}Hold}{32}{section.13.2}% 
+\contentsline {section}{\numberline {13.3}Development}{32}{section.13.3}% 
+\contentsline {section}{\numberline {13.4}Turf}{33}{section.13.4}% 
+\contentsline {subsection}{\numberline {13.4.1}Reducing hold}{33}{subsection.13.4.1}% 
+\contentsline {section}{\numberline {13.5}Faction Status}{33}{section.13.5}% 
+\contentsline {subsection}{\numberline {13.5.1}Faction status changes}{33}{subsection.13.5.1}% 
+\contentsline {subsection}{\numberline {13.5.2}Faction status levels}{33}{subsection.13.5.2}% 
+\contentsline {section}{\numberline {13.6}Claims}{34}{section.13.6}% 
+\contentsline {subsection}{\numberline {13.6.1}Seizing a claim}{34}{subsection.13.6.1}% 
+\contentsline {subsection}{\numberline {13.6.2}Losing a claim}{34}{subsection.13.6.2}% 
+\contentsline {chapter}{\numberline {14}Advancement}{35}{chapter.14}% 
+\contentsline {section}{\numberline {14.1}PC Advancement}{35}{section.14.1}% 
+\contentsline {section}{\numberline {14.2}Crew Advancement}{36}{section.14.2}% 
+\contentsline {subsection}{\numberline {14.2.1}Profits}{36}{subsection.14.2.1}% 
+\contentsline {part}{II\hspace {1em}The Characters}{37}{part.2}% 
+\contentsline {chapter}{\numberline {15}Characters}{38}{chapter.15}% 
+\contentsline {chapter}{\numberline {16}Character creation}{39}{chapter.16}% 
+\contentsline {section}{\numberline {16.1}Create playbooks}{39}{section.16.1}% 
+\contentsline {section}{\numberline {16.2}Choose a heritage}{39}{section.16.2}% 
+\contentsline {section}{\numberline {16.3}Choose a background}{39}{section.16.3}% 
+\contentsline {section}{\numberline {16.4}Assign four action dots}{39}{section.16.4}% 
+\contentsline {section}{\numberline {16.5}Choose a special ability}{40}{section.16.5}% 
+\contentsline {subsection}{\numberline {16.5.1}Special Armor}{40}{subsection.16.5.1}% 
+\contentsline {section}{\numberline {16.6}Choose one close friend and one rival}{40}{section.16.6}% 
+\contentsline {section}{\numberline {16.7}Choose your vice}{40}{section.16.7}% 
+\contentsline {section}{\numberline {16.8}Record your name, alias, \& look}{40}{section.16.8}% 
+\contentsline {section}{\numberline {16.9}Review your details}{40}{section.16.9}% 
+\contentsline {section}{\numberline {16.10}Character creation summary}{41}{section.16.10}% 
+\contentsline {section}{\numberline {16.11}Loadout}{41}{section.16.11}% 
+\contentsline {chapter}{\numberline {17}Character playbook}{42}{chapter.17}% 
+\contentsline {section}{\numberline {17.1}Short Descriptor of Character}{42}{section.17.1}% 
+\contentsline {section}{\numberline {17.2}Starting builds}{42}{section.17.2}% 
+\contentsline {section}{\numberline {17.3}Friends, rivals}{42}{section.17.3}% 
+\contentsline {section}{\numberline {17.4}Special abilities}{42}{section.17.4}% 
+\contentsline {subsection}{\numberline {17.4.1}Battleborn}{42}{subsection.17.4.1}% 
+\contentsline {subsection}{\numberline {17.4.2}Bodyguard}{43}{subsection.17.4.2}% 
+\contentsline {subsection}{\numberline {17.4.3}Arcane fighter}{43}{subsection.17.4.3}% 
+\contentsline {subsection}{\numberline {17.4.4}Leader}{43}{subsection.17.4.4}% 
+\contentsline {subsection}{\numberline {17.4.5}Mule}{43}{subsection.17.4.5}% 
+\contentsline {subsection}{\numberline {17.4.6}Not to be trifled with}{43}{subsection.17.4.6}% 
+\contentsline {subsection}{\numberline {17.4.7}Savage}{44}{subsection.17.4.7}% 
+\contentsline {subsection}{\numberline {17.4.8}Vigorous}{44}{subsection.17.4.8}% 
+\contentsline {subsection}{\numberline {17.4.9}Sharpshooter}{44}{subsection.17.4.9}% 
+\contentsline {subsection}{\numberline {17.4.10}Focused}{44}{subsection.17.4.10}% 
+\contentsline {subsection}{\numberline {17.4.11}Scout}{44}{subsection.17.4.11}% 
+\contentsline {subsection}{\numberline {17.4.12}Tough as nails}{44}{subsection.17.4.12}% 
+\contentsline {subsection}{\numberline {17.4.13}Vengeful}{45}{subsection.17.4.13}% 
+\contentsline {subsection}{\numberline {17.4.14}Alchemist}{45}{subsection.17.4.14}% 
+\contentsline {subsection}{\numberline {17.4.15}Analyst}{45}{subsection.17.4.15}% 
+\contentsline {subsection}{\numberline {17.4.16}Artificer}{45}{subsection.17.4.16}% 
+\contentsline {section}{\numberline {17.5}Fortitude}{45}{section.17.5}% 
+\contentsline {subsection}{\numberline {17.5.1}Supernatural ward}{45}{subsection.17.5.1}% 
+\contentsline {subsection}{\numberline {17.5.2}Saboteur}{45}{subsection.17.5.2}% 
+\contentsline {subsection}{\numberline {17.5.3}Infiltrator}{46}{subsection.17.5.3}% 
+\contentsline {subsection}{\numberline {17.5.4}Ambush}{46}{subsection.17.5.4}% 
+\contentsline {subsection}{\numberline {17.5.5}Daredevil}{46}{subsection.17.5.5}% 
+\contentsline {subsection}{\numberline {17.5.6}The devil\IeC {\textquoteright }s footsteps}{46}{subsection.17.5.6}% 
+\contentsline {subsection}{\numberline {17.5.7}Expertise}{46}{subsection.17.5.7}% 
+\contentsline {subsection}{\numberline {17.5.8}Reflexes}{46}{subsection.17.5.8}% 
+\contentsline {subsection}{\numberline {17.5.9}Shadow}{47}{subsection.17.5.9}% 
+\contentsline {subsection}{\numberline {17.5.10}Rook\IeC {\textquoteright }s gambit}{47}{subsection.17.5.10}% 
+\contentsline {subsection}{\numberline {17.5.11}Like looking into a mirror}{47}{subsection.17.5.11}% 
+\contentsline {subsection}{\numberline {17.5.12}A little something on the side}{47}{subsection.17.5.12}% 
+\contentsline {subsection}{\numberline {17.5.13}Mesmerism}{47}{subsection.17.5.13}% 
+\contentsline {subsection}{\numberline {17.5.14}Subterfuge}{47}{subsection.17.5.14}% 
+\contentsline {subsection}{\numberline {17.5.15}Trust in me}{47}{subsection.17.5.15}% 
+\contentsline {subsection}{\numberline {17.5.16}Foresight}{48}{subsection.17.5.16}% 
+\contentsline {subsection}{\numberline {17.5.17}Calculating}{48}{subsection.17.5.17}% 
+\contentsline {subsection}{\numberline {17.5.18}Connected}{48}{subsection.17.5.18}% 
+\contentsline {subsection}{\numberline {17.5.19}Mastermind}{48}{subsection.17.5.19}% 
+\contentsline {subsection}{\numberline {17.5.20}Weaving the web}{48}{subsection.17.5.20}% 
+\contentsline {subsection}{\numberline {17.5.21}Arcane mind}{48}{subsection.17.5.21}% 
+\contentsline {subsection}{\numberline {17.5.22}Iron will}{48}{subsection.17.5.22}% 
+\contentsline {subsection}{\numberline {17.5.23}Ritual}{49}{subsection.17.5.23}% 
+\contentsline {subsection}{\numberline {17.5.24}Strange methods}{49}{subsection.17.5.24}% 
+\contentsline {subsection}{\numberline {17.5.25}Warded}{49}{subsection.17.5.25}% 
+\contentsline {section}{\numberline {17.6}Character items}{49}{section.17.6}% 
+\contentsline {part}{III\hspace {1em}The Crew}{50}{part.3}% 
+\contentsline {chapter}{\numberline {18}Crew creation}{51}{chapter.18}% 
+\contentsline {section}{\numberline {18.1}Choose a crew type}{51}{section.18.1}% 
+\contentsline {section}{\numberline {18.2}Choose an initial reputation \& lair}{51}{section.18.2}% 
+\contentsline {section}{\numberline {18.3}Establish your hunting grounds}{52}{section.18.3}% 
+\contentsline {section}{\numberline {18.4}Choose a special ability}{52}{section.18.4}% 
+\contentsline {section}{\numberline {18.5}Assign crew upgrades}{52}{section.18.5}% 
+\contentsline {section}{\numberline {18.6}Choose a favorite contact}{53}{section.18.6}% 
+\contentsline {section}{\numberline {18.7}Crew upgrade Examples}{53}{section.18.7}% 
+\contentsline {section}{\numberline {18.8}Cohorts}{54}{section.18.8}% 
+\contentsline {subsection}{\numberline {18.8.1}Creating a gang}{54}{subsection.18.8.1}% 
+\contentsline {subsection}{\numberline {18.8.2}Creating an expert}{54}{subsection.18.8.2}% 
+\contentsline {subsection}{\numberline {18.8.3}Edges \& flaws}{54}{subsection.18.8.3}% 
+\contentsline {subsection}{\numberline {18.8.4}Modifying a cohort}{55}{subsection.18.8.4}% 
+\contentsline {subsection}{\numberline {18.8.5}Using a cohort}{55}{subsection.18.8.5}% 
+\contentsline {section}{\numberline {18.9}Cohort harm \& Healing}{55}{section.18.9}% 
+\contentsline {section}{\numberline {18.10}Crew creation summary}{55}{section.18.10}% 
+\contentsline {chapter}{\numberline {19}Crew playbook}{57}{chapter.19}% 
+\contentsline {section}{\numberline {19.1}Starting upgrades}{57}{section.19.1}% 
+\contentsline {section}{\numberline {19.2}Favored Operations}{57}{section.19.2}% 
+\contentsline {section}{\numberline {19.3}Contacts}{57}{section.19.3}% 
+\contentsline {section}{\numberline {19.4}Crew upgrades}{57}{section.19.4}% 
+\contentsline {subsection}{\numberline {19.4.1}Make a Claim Map for the Crew. Sample claims include:}{58}{subsection.19.4.1}% 
+\contentsline {section}{\numberline {19.5}Crew special abilities}{59}{section.19.5}% 
+\contentsline {subsection}{\numberline {19.5.1}Deadly}{59}{subsection.19.5.1}% 
+\contentsline {subsection}{\numberline {19.5.2}Death veil}{59}{subsection.19.5.2}% 
+\contentsline {subsection}{\numberline {19.5.3}No traces}{59}{subsection.19.5.3}% 
+\contentsline {subsection}{\numberline {19.5.4}Patron}{59}{subsection.19.5.4}% 
+\contentsline {subsection}{\numberline {19.5.5}Predators}{59}{subsection.19.5.5}% 
+\contentsline {subsection}{\numberline {19.5.6}Fiends}{60}{subsection.19.5.6}% 
+\contentsline {subsection}{\numberline {19.5.7}Forged in the fire}{60}{subsection.19.5.7}% 
+\contentsline {subsection}{\numberline {19.5.8}War dogs}{60}{subsection.19.5.8}% 
+\contentsline {subsection}{\numberline {19.5.9}Anointed}{60}{subsection.19.5.9}% 
+\contentsline {subsection}{\numberline {19.5.10}Accord}{60}{subsection.19.5.10}% 
+\contentsline {subsection}{\numberline {19.5.11}High society}{60}{subsection.19.5.11}% 
+\contentsline {subsection}{\numberline {19.5.12}Pack rats}{60}{subsection.19.5.12}% 
+\contentsline {subsection}{\numberline {19.5.13}Second story}{60}{subsection.19.5.13}% 
+\contentsline {subsection}{\numberline {19.5.14}Synchronized}{60}{subsection.19.5.14}% 
+\contentsline {subsection}{\numberline {19.5.15}All hands}{61}{subsection.19.5.15}% 
+\contentsline {subsection}{\numberline {19.5.16}Just passing through}{61}{subsection.19.5.16}% 
+\contentsline {part}{IV\hspace {1em}The Score}{62}{part.4}% 
+\contentsline {chapter}{\numberline {20}Planning \& engagement}{64}{chapter.20}% 
+\contentsline {section}{\numberline {20.1}The Detail}{64}{section.20.1}% 
+\contentsline {section}{\numberline {20.2}Item Loadouts}{64}{section.20.2}% 
+\contentsline {section}{\numberline {20.3}Engagement Roll}{64}{section.20.3}% 
+\contentsline {subsection}{\numberline {20.3.1}Major Advantages / Disadvantages}{64}{subsection.20.3.1}% 
+\contentsline {subsection}{\numberline {20.3.2}Outcomes}{65}{subsection.20.3.2}% 
+\contentsline {subsection}{\numberline {20.3.3}How long does it last?}{66}{subsection.20.3.3}% 
+\contentsline {section}{\numberline {20.4}Linked Plans}{66}{section.20.4}% 
+\contentsline {section}{\numberline {20.5}Flashbacks}{66}{section.20.5}% 
+\contentsline {subsection}{\numberline {20.5.1}Limits of flashbacks}{67}{subsection.20.5.1}% 
+\contentsline {subsection}{\numberline {20.5.2}flashback examples}{67}{subsection.20.5.2}% 
+\contentsline {section}{\numberline {20.6}Giving up on a score}{68}{section.20.6}% 
+\contentsline {chapter}{\numberline {21}Teamwork}{69}{chapter.21}% 
+\contentsline {section}{\numberline {21.1}Teamwork}{69}{section.21.1}% 
+\contentsline {subsection}{\numberline {21.1.1}Assist}{69}{subsection.21.1.1}% 
+\contentsline {subsection}{\numberline {21.1.2}Lead a group action}{69}{subsection.21.1.2}% 
+\contentsline {subsection}{\numberline {21.1.3}Protect}{70}{subsection.21.1.3}% 
+\contentsline {subsection}{\numberline {21.1.4}Set up}{70}{subsection.21.1.4}% 
+\contentsline {section}{\numberline {21.2}Do We Have to Use Teamwork?}{70}{section.21.2}% 
+\contentsline {part}{V\hspace {1em}Downtime}{71}{part.5}% 
+\contentsline {chapter}{\numberline {22}Payoff}{73}{chapter.22}% 
+\contentsline {chapter}{\numberline {23}Heat}{74}{chapter.23}% 
+\contentsline {section}{\numberline {23.1}Incarceration}{74}{section.23.1}% 
+\contentsline {section}{\numberline {23.2}Prison claims}{75}{section.23.2}% 
+\contentsline {subsection}{\numberline {23.2.1}Allied claim}{75}{subsection.23.2.1}% 
+\contentsline {subsection}{\numberline {23.2.2}Cell block control}{75}{subsection.23.2.2}% 
+\contentsline {subsection}{\numberline {23.2.3}Guard payoff}{75}{subsection.23.2.3}% 
+\contentsline {subsection}{\numberline {23.2.4}Hardcase}{75}{subsection.23.2.4}% 
+\contentsline {subsection}{\numberline {23.2.5}Parole influence}{75}{subsection.23.2.5}% 
+\contentsline {subsection}{\numberline {23.2.6}Smuggling}{75}{subsection.23.2.6}% 
+\contentsline {chapter}{\numberline {24}Entanglements}{76}{chapter.24}% 
+\contentsline {section}{\numberline {24.1}Arrest}{76}{section.24.1}% 
+\contentsline {section}{\numberline {24.2}Cooperation}{77}{section.24.2}% 
+\contentsline {section}{\numberline {24.3}Demonic notice}{77}{section.24.3}% 
+\contentsline {section}{\numberline {24.4}Flipped}{77}{section.24.4}% 
+\contentsline {section}{\numberline {24.5}Gang trouble}{77}{section.24.5}% 
+\contentsline {section}{\numberline {24.6}Interrogation}{77}{section.24.6}% 
+\contentsline {section}{\numberline {24.7}Questioning}{77}{section.24.7}% 
+\contentsline {section}{\numberline {24.8}Reprisals}{77}{section.24.8}% 
+\contentsline {section}{\numberline {24.9}Rivals}{78}{section.24.9}% 
+\contentsline {section}{\numberline {24.10}Show of force}{78}{section.24.10}% 
+\contentsline {section}{\numberline {24.11}Unquiet dead}{78}{section.24.11}% 
+\contentsline {section}{\numberline {24.12}The usual suspects}{78}{section.24.12}% 
+\contentsline {chapter}{\numberline {25}Downtime activities}{79}{chapter.25}% 
+\contentsline {section}{\numberline {25.1}Acquire asset}{79}{section.25.1}% 
+\contentsline {section}{\numberline {25.2}Long-term project}{80}{section.25.2}% 
+\contentsline {section}{\numberline {25.3}Recover}{80}{section.25.3}% 
+\contentsline {section}{\numberline {25.4}Reduce heat}{81}{section.25.4}% 
+\contentsline {section}{\numberline {25.5}Train}{81}{section.25.5}% 
+\contentsline {section}{\numberline {25.6}Indulge vice}{81}{section.25.6}% 
+\contentsline {chapter}{\numberline {26}Vice}{82}{chapter.26}% 
+\contentsline {section}{\numberline {26.1}Stress Relief}{82}{section.26.1}% 
+\contentsline {section}{\numberline {26.2}Indulging Your Vice}{82}{section.26.2}% 
+\contentsline {subsection}{\numberline {26.2.1}Overindulgence}{82}{subsection.26.2.1}% 
+\contentsline {subsection}{\numberline {26.2.2}Ignoring your vice}{83}{subsection.26.2.2}% 
+\contentsline {subsection}{\numberline {26.2.3}Roleplaying \& XP}{83}{subsection.26.2.3}% 
+\contentsline {chapter}{\numberline {27}Downtime Activities in Play}{84}{chapter.27}% 
+\contentsline {section}{\numberline {27.1}NPC \& faction downtime}{84}{section.27.1}% 
+\contentsline {section}{\numberline {27.2}Downtime Activities Summary}{84}{section.27.2}% 
+\contentsline {chapter}{\numberline {28}Magnitude}{85}{chapter.28}% 
+\contentsline {chapter}{\numberline {29}Rituals}{86}{chapter.29}% 
+\contentsline {section}{\numberline {29.1}Finding a ritual source}{86}{section.29.1}% 
+\contentsline {section}{\numberline {29.2}Learning a ritual}{86}{section.29.2}% 
+\contentsline {subsection}{\numberline {29.2.1}Ritual Questions}{86}{subsection.29.2.1}% 
+\contentsline {subsection}{\numberline {29.2.2}Example Ritual Answers}{86}{subsection.29.2.2}% 
+\contentsline {section}{\numberline {29.3}Performing a Ritual}{87}{section.29.3}% 
+\contentsline {chapter}{\numberline {30}Crafting}{88}{chapter.30}% 
+\contentsline {section}{\numberline {30.1}Inventing}{88}{section.30.1}% 
+\contentsline {subsection}{\numberline {30.1.1}Creation Questions}{88}{subsection.30.1.1}% 
+\contentsline {section}{\numberline {30.2}Crafting}{88}{section.30.2}% 
+\contentsline {subsection}{\numberline {30.2.1}Modifying an item}{89}{subsection.30.2.1}% 
+\contentsline {subsection}{\numberline {30.2.2}Drawbacks}{89}{subsection.30.2.2}% 

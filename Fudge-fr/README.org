@@ -58,7 +58,8 @@ Je pense que Fudge est un toolkit pour les vieux hackers qui veulent un système
 Règles :
 
 - [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage/FudgeEnUnePage-ORey05.pdf][Fudge en une page]]
-- Division 13
+- Les [[https://github.com/orey/jdr/blob/master/Fudge-fr/PouvoirsPsioniques.org][pouvoirs psioniques]] dans Fudge
+- [[https://github.com/orey/jdr/tree/master/Fudge-fr/Division13][Division 13]]
 
 ** English resources in this repo
 

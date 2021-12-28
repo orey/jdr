@@ -12,7 +12,7 @@
 #+LATEX_HEADER: \usepackage{titlesec}\titlelabel{\thetitle. \quad}
 #+LATEX_HEADER: \usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
 #+LATEX_HEADER: \usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
-#+EXPORT_FILE_NAME: FudgeDepartment13-VersionFrancaise-OreyJdr05.pdf
+#+EXPORT_FILE_NAME: FudgeDivision13-VersionFrancaise-OreyJdr05.pdf
 
 #+BEGIN_EXPORT latex
 \newpage
@@ -23,7 +23,7 @@
 
 * Division 13 - Version française du "Department 13"
 
-Department 13 est un univers pour Fudge publié dans le site fudgefactor.org, désormais fermé.
+[[https://github.com/orey/jdr/blob/master/Fudge-fr/Division13/Department13.org][Department 13]] est un univers pour Fudge publié dans le site fudgefactor.org, désormais fermé.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align ll
@@ -34,7 +34,7 @@ Department 13 est un univers pour Fudge publié dans le site fudgefactor.org, d�
 | Version                  | 1.0                                                |
 
 Notes du traducteur :
-- Nous avons traduit "Department 13" en "Division 13". En effet, le département 13 évoque plus le département des Bouches-du-Rhône en français.
+- Nous avons traduit "Department 13" en "Division 13". En effet, le département 13 évoque plus le département des Bouches-du-Rhône en français qu'une agence gouvernementale luttant contre les forces des Ténèbres.
 - L'action est transposée en France. Ainsi, les organisations et les noms sont francisés.
 - Certaines règles sont clarifiées par rapport au texte original, et certains paragraphes ont été réordonnés.
 
@@ -262,13 +262,13 @@ Si vous voulez quelque chose de plus compliqué, creusez plus profondément, et 
 
 ** Le laboratoire
 
---- reprendre ici
+/Oh, je vais juste mettre ça dans l'analyseur d'ADN et nous aurons les résultats dans un instant !/
 
-/Oh, I'll just run this through the DNA analyzer and we'll have your results in a jiffy!/
+/Nous avons un analyseur d'ADN ?!/
 
-/... We have a DNA analyzer?!/
+/Nan, je vais juste laisser Bruno reniffler les deux exemples et s'il pense que c'est la même personne, il jappera deux fois./ -- Jean-Jacques et Alexandre. 
 
-/Nah. I'm really going to let Bruno sniff both samples, and if he thinks they're from the same person, he'll bark twice./ -- Jenkins and Alex
+--- reprendre ici 
 
 While they may not have the latest in fancy crime-fighting equipment, the Division does have a basic laboratory with enough equipment to analyze blood samples, identify common materials, do basic forensics work, and generally get annoyed at not having enough fancy equipment.
 

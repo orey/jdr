@@ -55,6 +55,7 @@ Please explore the folders / N'hésitez pas à explorer les dossiers.
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]            | PDF    |     | Ecran complémentaire MJ                             |
 | 2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur          | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]                     | PDF    |     | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
 | 2021 | Tous                | Aide de jeu      | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]]         | PNG    |     | A intégrer dans une synthèse d'aides de jeu pour MJ |
+| 2021 | [[https://github.com/orey/jdr/tree/master/Risus-fr/][Risus]]               | Flowchart        | [[https://github.com/orey/jdr/blob/master/Risus-fr/risus-flowchart.pdf][Flowchart complet du jeu]]           | PDF    |     | Peut servir d'éran                                  |
 | 2021 | [[https://github.com/orey/DandD][D&D 5e]]              | Couverture       | [[https://github.com/orey/DandD/blob/master/DandD_5e_BasicEditionLuluCover/Cover.pdf][Couverture pour D&D 5e Basic Rules]] | PDF    |     | Pour Lulu.com                                       |
 
 Mais aussi : 
@@ -511,6 +512,7 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | *E*                                        |                                                                             |
 | Echecs: Check & Strategy, site en français | https://www.chess-and-strategy.com                                          |
 | Empire Galactique JDR, un classique        | https://sites.google.com/site/empiregalact                                  |
+| Egrégore, un JDR fantastique               | https://business.facebook.com/EgregoreJdR/?business_id=456290144533916      |
 | Epées et Sorcellerie JDR                   | https://sites.google.com/site/wizardinabottle/epeesetsorcellerie            |
 | *F*                                        |                                                                             |
 | Une traduction française du RPG "FU"       | https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/                    |
@@ -519,6 +521,7 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | *G*                                        |                                                                             |
 | Giannirateur de scénarios                  | http://loukoum.online.fr/jdr/adj/gianni1.htm                                |
 |                                            | http://loukoum.online.fr/jdr/scenars/defi2012.htm#47                        |
+| Le Grog                                    | http://www.legrog.org/                                                      |
 | *H*                                        |                                                                             |
 | Harry Potter JDR, un très beau travail     | https://www.geek-it.org/harry-potter-jdr                                    |
 | Heroquest, un site de fan                  | https://www.heroquest-revival.com                                           |
@@ -560,9 +563,11 @@ A explorer : Fiasco, Nephilim.
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                                | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+------------------------------------------------------------------------+-------+-----+---------|
-| 2021 | [[http://www.onesevendesign.com/laserfeelings/][Lasers and Feelings]]          | Sci-Fi           | Great simple RPG                                                       | 4/5   | N   | *N*     |
+| 2021 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system   | Irony and D6 with difficulty factors                                   | 3/5   | N   | N       |
+| 2021 | FU                           | Generic system   | Very basic system for roleplay                                         | 3/5   | N   | N       |
+| 2021 | [[http://www.onesevendesign.com/laserfeelings/][Lasers and Feelings]]          | Sci-Fi           | Great simple RPG                                                       | 4/5   | N   | N       |
 | 2021 | GURPS                        | Generic system   | A great classical system with great supplements                        | 4/5   | N   | *Y*     |
-| 2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An "open GURPS" with a 7-levels ladder and scales. Very GURPS inspired | 3/5   | N   | *Y*     |
+| 2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An "open GURPS" with a 7-levels ladder and scales. Very GURPS inspired | *5/5* | N   | *Y*     |
 | 2021 | [[http://komajdr.free.fr/fichiers/BiTs.rar][Bits ]]                        | Generic system   | In French, a one page generic system                                   | -     | N   | N       |
 | 2021 | [[http://storygame.free.fr/][Trucs trop bizarres]]          | Modern kids      | In French, a very simple game system                                   | 3/5   | N   | N       |
 | 2021 | Advanced Fighting Fantasy    | Heroic Fantasy   | To play with children                                                  | -     | N   | Later   |
@@ -604,11 +609,11 @@ A explorer : Fiasco, Nephilim.
 | 2020 | Mythic                       | GM Emulator      | Great! [[https://github.com/orey/jdr/tree/master/Mythic-fr][Resources in French]] (un écran !)                                | *5/5* | N   | Later   |
 | 2020 | PIP system                   | Generic system   |                                                                        | -     | N   | Later   |
 | 2020 | QAGS - Quick Ass Game System | Generic system   | Simple and funny dynamic system                                        | 4/5   | N   | Later   |
-| 2020 | Gateway                      | Heroic fantasy   | Based on D&D                                                           | 3/5   | Y   | N       |
-| 2020 | FU - Freeform Universal      | Generic system   | JDR basé sur le "Yes but.../No but..."                                 | -     | N   | Later   |
-| 2020 | Risus                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart                       | 4/5   | N   | Later   |
+| 2020 | Gateway                      | Heroic fantasy   | Based on D&D                                                           | 2/5   | Y   | N       |
+| 2020 | FU - Freeform Universal      | Generic system   | JDR basé sur le "Yes but.../No but..."                                 | 3/5   | N   | N       |
+| 2020 | Risus                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart                       | 3/5   | N   | N       |
 | 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].                 | 4/5   | N   | N       |
-| 2020 | MiniSix                      | Generic system   |                                                                        | -     | N   | Later   |
+| 2020 | [[https://www.drivethrurpg.com/product/144558/Mini-Six-Bare-Bones-Edition][MiniSix]]                      | Generic system   | D6                                                                     | -     | N   | Later   |
 | 2020 | Dagger                       | RPG for kids     | Bof                                                                    | 2/5   | Y   | N       |
 
 * Systèmes de jeux

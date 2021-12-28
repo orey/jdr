@@ -53,17 +53,19 @@ La gamme Fate a pris un chemin un peu différent. Capitalisant sur les notions d
 Je pense que Fudge est un toolkit pour les vieux hackers qui veulent un système simple et souple et très adaptable à ce qu'ils veulent jouer, souvent du contenu personnel ou trouvé dans un autre jeu.
 
 
-** Les ressources sur ce site
+** Les ressources en français sur ce site
 
 Règles :
 
 - [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage/FudgeEnUnePage-ORey05.pdf][Fudge en une page]]
+- Division 13
+
+** English resources in this repo
 
 Fudge settings:
 
 - [[FudgeDungeonCrawl.org][Fudge Dungeon Crawl]]
 - [[http://www.batintheattic.com/downloads/MajesticRealmsRPG_Fudge_Rev%252016.zip][Majectic Realm RPG for Fudge/Fate]]
-- [[Department13.org][Department 13]]
 
 Fudge extensions:
 

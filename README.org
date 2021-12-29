@@ -164,10 +164,11 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 | *B*                       |                                                                                 |
 | Basic Role Playing System | https://www.chaosium.com/brp-system-reference-document/                         |
 | Blades in the dark        | https://github.com/amazingrando/blades-in-the-dark-srd-content                  |
-| *D*                                                                                                         |
+| *D*                       |                                                                                 |
 | D20 Modern                | https://archive.org/details/d20modernsrd                                        |
 | D&D SRD 3.5 WoC           | http://www.wizards.com/default.asp?x=d20/article/srd35                          |
-| *G*                                                                                                         |
+| Dungeon World             | https://www.dungeonworldsrd.com/                                                |
+| *G*                       |                                                                                 |
 | Gumshoe                   | https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/ |
 |                           |                                                                                 |
 

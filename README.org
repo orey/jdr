@@ -559,12 +559,14 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 
 * Explorations récentes
 
+** Table
+
 A explorer : Fiasco, Nephilim.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                                | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+------------------------------------------------------------------------+-------+-----+---------|
-| 2021 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system   | Irony and D6 with difficulty factors                                   | 3/5   | N   | N       |
+| 2021 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system   | Irony with Clichés and D6 with difficulty factors                      | 3/5   | N   | N       |
 | 2021 | FU                           | Generic system   | Very basic system for roleplay                                         | 3/5   | N   | N       |
 | 2021 | [[http://www.onesevendesign.com/laserfeelings/][Lasers and Feelings]]          | Sci-Fi           | Great simple RPG                                                       | 4/5   | N   | N       |
 | 2021 | GURPS                        | Generic system   | A great classical system with great supplements                        | 4/5   | N   | *Y*     |
@@ -612,10 +614,63 @@ A explorer : Fiasco, Nephilim.
 | 2020 | QAGS - Quick Ass Game System | Generic system   | Simple and funny dynamic system                                        | 4/5   | N   | Later   |
 | 2020 | Gateway                      | Heroic fantasy   | Based on D&D                                                           | 2/5   | Y   | N       |
 | 2020 | FU - Freeform Universal      | Generic system   | JDR basé sur le "Yes but.../No but..."                                 | 3/5   | N   | N       |
-| 2020 | Risus                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart                       | 3/5   | N   | N       |
+| 2020 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system   | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart                       | 3/5   | N   | N       |
 | 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].                 | 4/5   | N   | N       |
 | 2020 | [[https://www.drivethrurpg.com/product/144558/Mini-Six-Bare-Bones-Edition][MiniSix]]                      | Generic system   | D6                                                                     | -     | N   | Later   |
 | 2020 | Dagger                       | RPG for kids     | Bof                                                                    | 2/5   | Y   | N       |
+
+** A propos des JDR modernes
+
+*** Caractéristiques critiquées sur les JDR "anciens"
+
+- Règles trop complexes, trop simulationnistes, trop spécifiques (une règle différente par cas), trop incohérentes (pas de ligne directrice globale), trop "crunchy" comme disent les américains. Les règles des anciens jeux font trop appel à des lancers de dés incessants, et à des modificateurs qui s'empilent de manière complexe, à des centaines de pages de règles.
+- Le MJ est trop directif et il ne met pas en place un univers collaboratif où les joueurs peuvent co-construire l'univers avec lui, où la surprise vient de la collaboration des joueurs.
+- Le temps de préparation est trop long, trop important. L'investissement du MJ est trop important. L'investissement demandé n'est plus adapté à notre monde moderne.
+- Certaines variantes de jeu ont permis de voir les choses différemment (JDR solo avec "gamemaster emulator", JDR sans MJ, etc.). 
+
+*** Des PJ structurés avec des caractéristiques, des compétences et des nombres
+
+La première composante du JDR est la composante PJ. Selon comment ces derniers sont structurés, les joueurs auront plus ou moins de possibilités. Le reste des règles règle les interactions entre les PJ et le monde, ainsi qu'avec les PNJ.
+
+Les jeux de rôles de la première génération (D&D, Cthulhu, GURPS, Rolemaster, etc.) étaient basés sur une possibilité de comparaison objective entre les PJ, et d'une manière de construire des PNJ permettant de dimensionner un adversaire (voir mes [[https://github.com/orey/DandD][commentaires sur D&D]]).
+
+*** Des PJ plus ou moins structurés avec des mots ou des expressions
+
+Avec l'apparition de jeux comme Hurlements (1989) ou [[https://github.com/orey/jdr/tree/master/Fudge-fr][Fudge]] (1992), un "pont" est dressé entre les valeurs (de -3 à +3) et des descriptifs qualificatifs portant une "valeur". Même si la mécanique sous-jacente est encore à base de nombres et de modificateurs, les mots vont prendre progressivement une importance énorme dans le monde des JDR, jusqu'à prendre la place d'attributs, de compétences ou même de "super attributs".
+
+Les mots s'imposent dans les créations des PJ au travers des "aspects", des "clichés", des "archétypes", des "avatars", des "concepts de personnages", etc.
+
+Or, au travers de cette irruption des mots dans les mécaniques des JDR, les problèmes relatifs à l'ambiguïté des mots entrent dans le monde du JDR :
+
+- Il faut une certaine expérience du JDR pour pouvoir définir des mots utiles au jeu ; en un sens, le JDR s'adresse implicitement à des vétérans, voire à des vétérans dans un mode jeu ironique (voire cynique).
+- Les mots ou phrases introduisent une incertitude autour des personnages, incertitude à laquelle le MJ doit s'adapter. En effet, les mots sont vagues, soumis à des interprétations et parfois en recouvrement sémantique partiel, ce qui rend compliqué leur usage.
+- Ils introduisent aussi une incertitude dans l'équilibre des PJ entre eux, ainsi qu'avec les PNJ, et donc une possibilité d'arbitraire pour les MJ.
+- Ils favorisent les joueurs extravertis qui pourront interpréter de manière libre un "cliché" alors que les introvertis seront desservis par des règles basées sur des mots et sur une certaine mauvaise foi pour les interpréter.
+- Ils créent des jeux très spécifiques dans lesquels le MJ doit investir pour comprendre comment utiliser ces mots ou expressions plus ou moins libres et plus ou moins contraintes par le game designer ; le plus souvent, il existe une mécanique sous-jacente à base de dés, mais moins présente que dans les anciens JDR.
+
+Cette omniprésence des mots et des expressions dans les PJ a un effet pervers : elle construit des JDR où les personnages ont tendance à être des caricatures. Cette culture semble clairement influencée par :
+  - Les films et séries,
+  - Les jeux vidéos,
+  - Les comics et les mangas.
+
+Or, jouer des caricatures ou des archétypes de personnages de films ou de BD est très limité et, pour toi, assez loin de la notion de jeu de rôle.
+
+Dans certains jeux relativement récents, les mots sont devenus les "move". Le game designer impose en plus une certaine manière de joueur en imposant les "move" par type de personnage ou pour tous. Généralement, ces moves sont spécifiques, peu faciles à comprendre, et en recouvrement sémantique. Vous avez dit des personnages "déstructurés" ?
+
+*** Sommes-nous vraiment tous des game designers ?
+
+Avec l'arrivée de plate-formes comme [[https://www.kickstarter.com][Kickstarter]] ou [[https://itch.io][itch]], beaucoup de game designers se sont révélés, offrant beaucoup de diversité au JDR. Pour autant, la multiplication de l'offre fait apparaître des jeux dispensables qui font se poser la question : est-ce que tous les bons MJs sont aussi de bons game designer ? Humm, non bien sûr.
+
+*** Le règne de D&D 5e... et de l'OSR
+
+Alors, oui, dans tout cette offre pléthorique, D&D 5e règne en maître et, semble-t-il, dans la durée. D&D, c'est un peu l'anti-jeu moderne.
+
+La mode OSR (Old-School Revival) est aussi un genre de réaction à tout cela. J'ai lu dans des forums que les OSR-guys cherchaient une façon de jouer moins complexe, mais je ne suis pas d'accord. Ils veulent du "crunchy" de la grande époque, le sommet que nous aurons du mal à dépasser AD&D 1e ! Des règles énormes et pleines de cas particuliers, des tables à tiroirs comme Gary Gygax les aimait, des tas et des tas d'informations de toutes sortes un peu en vrac, une certaine inventivité pour les monstres et les pièges, un sommet du genre.
+
+*** Le Graal
+
+Le Graal serait pour moi un jeu de rôle classique avec un peu de mécanique mais pas trop, mais pouvant être pris en mains rapidement dans tous les univers... Ahaha, oui, c'est impossible. Fudge, peut-être, quoiqu'il faille le customiser pas mal pour en faire quelque chose d'utilisable.
+
 
 * Systèmes de jeux
 

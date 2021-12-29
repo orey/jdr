@@ -559,15 +559,14 @@ See also the =links.opml= consolidated feed file at the root of the repo.
 
 * Explorations récentes
 
-** Table
-
 A explorer : Fiasco, Nephilim.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 | Date | Game                         | Type             | Comment                                                                | Note  | OSR | Ongoing |
 |------+------------------------------+------------------+------------------------------------------------------------------------+-------+-----+---------|
+| 2021 | [[https://github.com/orey/jdr/tree/master/BladesInTheDark-SRD][Blades in the Dark SRD]]       | Heroic Fantasy   |                                                                        | -     | N   | *Y*     |
 | 2021 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system   | Irony with Clichés and D6 with difficulty factors                      | 3/5   | N   | N       |
-| 2021 | FU                           | Generic system   | Very basic system for roleplay                                         | 3/5   | N   | N       |
+| 2021 | [[https://www.drivethrurpg.com/product/89534/FU-The-Freeform-Universal-RPG-Classic-rules][FU]]                           | Generic system   | Very basic system for roleplay                                         | 3/5   | N   | N       |
 | 2021 | [[http://www.onesevendesign.com/laserfeelings/][Lasers and Feelings]]          | Sci-Fi           | Great simple RPG                                                       | 4/5   | N   | N       |
 | 2021 | GURPS                        | Generic system   | A great classical system with great supplements                        | 4/5   | N   | *Y*     |
 | 2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An "open GURPS" with a 7-levels ladder and scales. Very GURPS inspired | *5/5* | N   | *Y*     |
@@ -618,6 +617,9 @@ A explorer : Fiasco, Nephilim.
 | 2020 | PremièreFable (FirstFable)   | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].                 | 4/5   | N   | N       |
 | 2020 | [[https://www.drivethrurpg.com/product/144558/Mini-Six-Bare-Bones-Edition][MiniSix]]                      | Generic system   | D6                                                                     | -     | N   | Later   |
 | 2020 | Dagger                       | RPG for kids     | Bof                                                                    | 2/5   | Y   | N       |
+
+
+* Systèmes de jeux
 
 ** A propos des JDR modernes
 
@@ -670,9 +672,6 @@ La mode OSR (Old-School Revival) est aussi un genre de réaction à tout cela. J
 *** Le Graal
 
 Le Graal serait pour moi un jeu de rôle classique avec un peu de mécanique mais pas trop, mais pouvant être pris en mains rapidement dans tous les univers... Ahaha, oui, c'est impossible. Fudge, peut-être, quoiqu'il faille le customiser pas mal pour en faire quelque chose d'utilisable.
-
-
-* Systèmes de jeux
 
 ** Système de jeu idéal
 

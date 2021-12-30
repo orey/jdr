@@ -32,6 +32,7 @@ Please explore the folders / N'hésitez pas à explorer les dossiers.
     - [[#Magazines-en-fran%C3%A7ais][Magazines en français]]
 - [[#Explorations-r%C3%A9centes][Explorations récentes]]
 - [[#Syst%C3%A8mes-de-jeux][Systèmes de jeux]]
+    - [[#a-propos-des-jdr-modernes][A propos des JDR modernes]]
     - [[#Syst%C3%A8me-de-jeu-id%C3%A9al][Système de jeu idéal]]
     - [[#Num%C3%A9ro-1---Basic-Roleplaying-System---BRS][Numéro 1 - Basic Roleplaying System - BRS]]
     - [[#Num%C3%A9ro-2---Mal%C3%A9fices][Numéro 2 - Maléfices]]

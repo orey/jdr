@@ -645,34 +645,73 @@ Les mots s'imposent dans les créations des PJ au travers des "aspects", des "cl
 
 Or, au travers de cette irruption des mots dans les mécaniques des JDR, les problèmes relatifs à l'ambiguïté des mots entrent dans le monde du JDR :
 
-- Il faut une certaine expérience du JDR pour pouvoir définir des mots utiles au jeu ; en un sens, le JDR s'adresse implicitement à des vétérans, voire à des vétérans dans un mode jeu ironique (voire cynique).
+- Il faut une certaine expérience du JDR pour pouvoir définir des mots utiles au jeu ; en un sens, le JDR s'adresse implicitement à des vétérans, voire à des vétérans dans un mode jeu ironique (voire cynique) ; ou à des débutants qui n'ont pas de point de comparaison.
 - Les mots ou phrases introduisent une incertitude autour des personnages, incertitude à laquelle le MJ doit s'adapter. En effet, les mots sont vagues, soumis à des interprétations et parfois en recouvrement sémantique partiel, ce qui rend compliqué leur usage.
 - Ils introduisent aussi une incertitude dans l'équilibre des PJ entre eux, ainsi qu'avec les PNJ, et donc une possibilité d'arbitraire pour les MJ.
 - Ils favorisent les joueurs extravertis qui pourront interpréter de manière libre un "cliché" alors que les introvertis seront desservis par des règles basées sur des mots et sur une certaine mauvaise foi pour les interpréter.
 - Ils créent des jeux très spécifiques dans lesquels le MJ doit investir pour comprendre comment utiliser ces mots ou expressions plus ou moins libres et plus ou moins contraintes par le game designer ; le plus souvent, il existe une mécanique sous-jacente à base de dés, mais moins présente que dans les anciens JDR.
+
+*** La structuration du "backgound" des personnages
+
+Le JDR narratif apporte une obsession étrange : celle de la structuration du background. Dans la plupart des jeux anciens, même s'il était recommandé de créer un background à son personnage, cela était plus ou moins fait, et disons que le background s'enrichissait au fur et à mesure des parties, par exemple lors des démarrages d'aventures.
+
+Beaucoup de jeux plus récents établissent une vraie dictature du background en le structurant de manière schématique (voire caricaturale) en termes de jeu. Ainsi, on voit apparaître, en plus de la notion de "cliché" ou d'"archétype"  :
+
+- Une certaine obsession pour les défauts des personnages, souvent utiles pour gagner des points dans le processus de création, parfois obligatoires dans le processus, souvent en pendant de dons ;
+- Des contacts sociaux obligatoires,
+- Un ennemi juré obligatoire,
+- Etc.
+
+Cette schématisation à outrance du background des personnages concourt à en faire des caricatures issues du même moule, et à rendre suffocant l'univers des personnages. Dans une conception ancienne, le PJ doit être libre avant tout et n'a pas à être "backgroundisé" arbitrairement au travers de dimensions caricaturales.
+
+*** Vers des caricatures de PJ 
 
 Cette omniprésence des mots et des expressions dans les PJ a un effet pervers : elle construit des JDR où les personnages ont tendance à être des caricatures. Cette culture semble clairement influencée par :
   - Les films et séries,
   - Les jeux vidéos,
   - Les comics et les mangas.
 
-Or, jouer des caricatures ou des archétypes de personnages de films ou de BD est très limité et, pour toi, assez loin de la notion de jeu de rôle.
+Or, jouer des caricatures ou des archétypes de personnages de films ou de BD est très limité et, pour moi, assez loin de la notion de jeu de rôle. Il y a un côté stressant à cette approche. En fait, c'est comme si les jeux de super-héros avaient gagné en esprit sur le reste du JDR : il semble qu'il faille jouer des caricatures standardisées dans les jeux modernes.
 
-Dans certains jeux relativement récents, les mots sont devenus les "move". Le game designer impose en plus une certaine manière de joueur en imposant les "move" par type de personnage ou pour tous. Généralement, ces moves sont spécifiques, peu faciles à comprendre, et en recouvrement sémantique. Vous avez dit des personnages "déstructurés" ?
+*** Les "move" ou un degré de plus vers le jeu de plateau
+
+Dans certains jeux relativement récents, les mots sont devenus les "move". Le game designer impose, en plus de tout ce que nous avons vu, une certaine manière de jouer en déterminant les "move" par type de personnage ou pour tous les types. Généralement, ces moves sont spécifiques au jeu, peu faciles à comprendre et à utiliser, et en recouvrement sémantique les uns avec les autres.
+
+Pour moi, nous entrons là dans le jeu de plateau. Si mon personnage caricatural n'a droit qu'à un certain nombre de moves au cours du jeu (ou disons que seuls les moves du designer font progresser l'aventure), alors oui, nous sommes dans une forme de jeu de plateau sans plateau. D'un autre côté, il semble que la logique de la caricature ait été poussée à son extrême : un jeu de caricatures menant des aventures avec des moves standardisés.
+
+Je ne parle pas des modes de résolution de certains jeux qui sont, pour le moins, expéditifs. Parce que les modificateurs de difficulté sont "mauvais", alors les joueurs ne peuvent plus mesurer les risques qu'ils prennent... 
 
 *** Sommes-nous vraiment tous des game designers ?
 
-Avec l'arrivée de plate-formes comme [[https://www.kickstarter.com][Kickstarter]] ou [[https://itch.io][itch]], beaucoup de game designers se sont révélés, offrant beaucoup de diversité au JDR. Pour autant, la multiplication de l'offre fait apparaître des jeux dispensables qui font se poser la question : est-ce que tous les bons MJs sont aussi de bons game designer ? Humm, non bien sûr.
+Avec l'arrivée de plate-formes comme [[https://www.kickstarter.com][Kickstarter]] ou [[https://itch.io][itch]], beaucoup de game designers se sont révélés, offrant beaucoup de diversité au JDR. Pour autant, la multiplication de l'offre fait apparaître des jeux dispensables qui font se poser la question : est-ce qu'il y a autant de bons game designers sur le marché ?
+
+Je n'en suis pas certain. Pour PbtA par exemple, les règles me semblent affreusement complexes et touffues, pleines de "trous dans la raquette" et nécessitant un investissement important pour tous les anciens MJ. Et pour quoi ? Pour faire du JDR narratif ? Mais on peut en faire facilement avec BRS ou même avec D&D, dans des univers où les PJ sont moins caricaturaux et ont plus de possibilités de faire des choses et de s'adapter à la situation.
+
+Pour ce qui est des scénarios ouverts, il faut se souvenir que bon nombre de scénarios anciens étaient très ouverts. Ils décrivaient l'univers de jeu, les PNJ, leurs motivations, le timing des événements et les PJ devaient s'insérer (voire bousculer) ces événements. Pour faire cela, il faut un système ouvert qui laisse la place belle aux inventions des joueurs, inventions qui ne manquaient pas d'arriver, souvent à la surprise du MJ.
+
+Je ne suis pas certain que les bons game designers soient plus nombreux aujourd'hui qu'hier, malgré le fait que Itch ou Kickstarter permette à de mauvais game designers de pousser leurs produits.
+
+*** La manne des JDR PDF à l'heure de l'impression à la demande
+
+Est-ce que le fait de lancer des systèmes complexes comme PbtA et de pouvoir lever de l'argent facilement ne rend pas plus facile l'arrivée sur le marché de produits immatures, pris dans l'engrenage financier de l'industrie du JDR ?
+
+De plus, est-ce que les réseaux sociaux ne permettent pas de lancer des jeux dont les coûts de production sont très faibles et les revenus potentiellement très importants ? Vendre des PDF plus quelques impressions à la demande est une facilité qui collabore à mettre sur le marché des jeux bancals et à pousser des visions caricaturales des différents jeux.
+
+Même chez les plus grands, le phénomène est réel. Comparons les suppléments GURPS 3e avec ceux de la 4e et vous verrez. Le digital a diminué la qualité, globalement, en poussant à la présence de suppléments, à l'exploitation du filon des suppléments sur une période courte, pendant la phase durant laquelle un jeu est à la mode. Plus de perspective long terme dans le monde du jeu de rôles.
+
+Nous sommes entrés dans l'ère du consommable.
 
 *** Le règne de D&D 5e... et de l'OSR
 
-Alors, oui, dans tout cette offre pléthorique, D&D 5e règne en maître et, semble-t-il, dans la durée. D&D, c'est un peu l'anti-jeu moderne.
+Alors, oui, dans tout cette offre pléthorique, D&D 5e règne en maître et, semble-t-il, dans la durée. D&D, c'est un peu l'anti-jeu moderne. Même si son système de jeu a gagné en cohérence et a pris certains éléments des nouvelles tendances, D&D n'est pas encore au niveau de tous ces jeux niveaux.
 
-La mode OSR (Old-School Revival) est aussi un genre de réaction à tout cela. J'ai lu dans des forums que les OSR-guys cherchaient une façon de jouer moins complexe, mais je ne suis pas d'accord. Ils veulent du "crunchy" de la grande époque, le sommet que nous aurons du mal à dépasser AD&D 1e ! Des règles énormes et pleines de cas particuliers, des tables à tiroirs comme Gary Gygax les aimait, des tas et des tas d'informations de toutes sortes un peu en vrac, une certaine inventivité pour les monstres et les pièges, un sommet du genre.
+La mode OSR (Old-School Revival) pourrait être vu comme un genre de réaction à toutes ces innovations. J'ai lu dans des forums que les OSR-guys cherchaient une façon de jouer moins complexe, mais je ne suis pas d'accord. Ils veulent du "crunchy" de la grande époque, le sommet que nous aurons du mal à dépasser : AD&D 1e ! Des règles énormes et pleines de cas particuliers, des tables à tiroirs comme Gary Gygax les aimait, des tas et des tas d'informations de toutes sortes un peu en vrac, une certaine inventivité pour les PJ, les monstres et les pièges, un sommet du genre.
 
 *** Le Graal
 
-Le Graal serait pour moi un jeu de rôle classique avec un peu de mécanique mais pas trop, mais pouvant être pris en mains rapidement dans tous les univers... Ahaha, oui, c'est impossible. Fudge, peut-être, quoiqu'il faille le customiser pas mal pour en faire quelque chose d'utilisable.
+Le Graal serait pour moi un jeu de rôle classique avec un peu de mécanique mais pas trop, mais pouvant être pris en mains rapidement dans tous les univers... Ahaha, oui, c'est impossible.
+
+A part BRS, Maléfices, et D&D, Fudge, peut-être, quoiqu'il faille le customiser pas mal pour en faire quelque chose d'utilisable.
 
 ** Système de jeu idéal
 

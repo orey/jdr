@@ -262,29 +262,21 @@ Avec l'arrivée de plate-formes comme [[https://www.kickstarter.com][Kickstarter
 
 Je n'en suis pas certain. Pour PbtA par exemple, les règles me semblent affreusement complexes et touffues, pleines de "trous dans la raquette" et nécessitant un investissement important pour tous les anciens MJ. Et pour quoi ? Pour faire du JDR narratif ? Mais on peut en faire facilement avec BRS ou même avec D&D, dans des univers où les PJ sont moins caricaturaux et ont plus de possibilités de faire des choses et de s'adapter à la situation.
 
-Pour ce qui est des scénarios ouverts, il faut se souvenir que bon nombre de scénarios anciens étaient très ouverts. Ils décrivaient l'univers de jeu, les PNJ, leurs motivations, le timing des événements et les PJ devaient s'insérer (voire bousculer) ces événements. Pour faire cela, il faut un système ouvert qui laisse la place belle aux inventions des joueurs, inventions qui ne manquaient pas d'arriver, souvent à la surprise du MJ.
+Pour ce qui est des scénarios ouverts, il faut se souvenir que bon nombre de scénarios anciens étaient très fouillés et très ouverts. Ils décrivaient l'univers de jeu, les PNJ, leurs motivations, le timing des événements et les PJ devaient s'insérer (voire bousculer) ces événements. Pour faire cela, il faut un système ouvert qui laisse la place belle aux inventions des joueurs, inventions qui ne manquaient pas d'arriver, souvent à la surprise du MJ.
 
 *** La manne des JDR PDF à l'heure de l'impression à la demande
 
 Est-ce que le fait de lancer des systèmes complexes comme PbtA et de pouvoir lever de l'argent facilement ne rend pas plus facile l'arrivée sur le marché de produits immatures, pris dans l'engrenage financier de l'industrie du JDR ?
 
-De plus, est-ce que les réseaux sociaux ne permettent pas de lancer des jeux dont les coûts de production sont très faibles et les revenus potentiellement très importants ? Vendre des PDF plus quelques impressions à la demande est une facilité qui collabore à mettre sur le marché des jeux bancals et à pousser des visions caricaturales des différents jeux.
+De plus, est-ce que les réseaux sociaux ne permettent pas de lancer des jeux dont les coûts de production sont très faibles et les revenus potentiellement très importants ? Vendre des PDF plus quelques impressions à la demande est une facilité qui collabore à mettre sur le marché des jeux parfois inaboutis.
 
-Même chez les plus grands, le phénomène est réel. Comparons les suppléments GURPS 3e avec ceux de la 4e et vous verrez. Le digital a diminué la qualité, globalement, en poussant à la présence de suppléments, à l'exploitation du filon des suppléments sur une période courte, pendant la phase durant laquelle un jeu est à la mode. Plus de perspective long terme dans le monde du jeu de rôles.
-
-Nous sommes entrés dans l'ère du consommable.
+Même chez les plus grands, le phénomène est réel. Comparons les suppléments GURPS 3e avec ceux de la 4e et vous verrez. Le digital a diminué la qualité, globalement, en poussant à la présence de suppléments, à l'exploitation du filon des suppléments sur une période courte, pendant la phase durant laquelle un jeu est à la mode.
 
 *** Le règne de D&D 5e... et de l'OSR
 
-Alors, oui, dans tout cette offre pléthorique, D&D 5e règne en maître et, semble-t-il, dans la durée. D&D, c'est un peu l'anti-jeu moderne. Même si son système de jeu a gagné en cohérence et a pris certains éléments des nouvelles tendances, D&D n'est pas encore au niveau de tous ces jeux niveaux.
+Alors, oui, dans tout cette offre pléthorique, D&D 5e règne en maître et, semble-t-il, dans la durée. D&D, c'est un peu l'anti-jeu moderne. Même si son système de jeu a gagné en cohérence et a pris certains éléments des nouvelles tendances, D&D est encore D&D.
 
 La mode OSR (Old-School Revival) pourrait être vu comme un genre de réaction à toutes ces innovations. J'ai lu dans des forums que les OSR-guys cherchaient une façon de jouer moins complexe, mais je ne suis pas d'accord. Ils veulent du "crunchy" de la grande époque, le sommet que nous aurons du mal à dépasser : AD&D 1e ! Des règles énormes et pleines de cas particuliers, des tables à tiroirs comme Gary Gygax les aimait, des tas et des tas d'informations de toutes sortes un peu en vrac, une certaine inventivité pour les PJ, les monstres et les pièges, un sommet du genre.
-
-*** Le Graal
-
-Le Graal serait pour moi un jeu de rôle classique avec un peu de mécanique mais pas trop, mais pouvant être pris en mains rapidement dans tous les univers... Ahaha, oui, c'est impossible.
-
-A part BRS, Maléfices, et D&D, Fudge, peut-être, quoiqu'il faille le customiser pas mal pour en faire quelque chose d'utilisable.
 
 ** Système de jeu idéal
 
@@ -295,14 +287,15 @@ Un équilibre entre :
 
 Par exemple, pour les charactéristiques, il est important qu'elles soient intuitives pour le MJ. Là dessus, D&D et BRS sont au dessus du lot.
 
-** Numéro 1 - Basic Roleplaying System - BRS
+** Numéro 1 - Basic Role Playing system - BRP
 
-Le système Basic RPS ([[https://www.chaosium.com/brp-system-reference-document/][SRD ici]]) est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers historiques et contemporains.
+Le système Basic RP ([[https://www.chaosium.com/brp-system-reference-document/][SRD ici]]), ou BRP, est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers fantasy, historiques et contemporains. Je ne connais pas d'implémentation du BRP en monde SF, en tous cas pas chez Chaosium.
 
 ** Numéro 2 - Maléfices
 
-- Un système de jeu très adapté à l'univers.
+- Un système de jeu Steampunk très adapté à l'univers.
 - Tarot très utile dans le jeu.
+- Un système un peu oublié.
 
 ** Numéro 3 - Donjons et Dragons
 
@@ -316,12 +309,11 @@ Voir [[https://github.com/orey/jdr/tree/master/DandD][la page dédiée]].
 - Une analyse des probabilités de l'étrange système de jeu de IronSworn : voir [[https://github.com/orey/jdr/tree/master/IronSworn][le folder IronSworn]]
 
 ** Eléments de systèmes de jeu intéressants
-
 *** Fudge
 
 Deux éléments sont vraiment originaux :
 - Le premier est l'usage de mots pour décrire les niveaux des caractéristiques et des skills. Fudge est sans doute un des premiers jeux à avoir fait cela (même si en fait, la mécanique de jeux reste sous-jacente et basé sur des nombres).
-- Le second est la gestion des échelles, qui est une vraie originalité de Fudge. Il est, en effet, possible de faire lutter des PJ et PNJ appartenant à des échelles différents. Une innovation très intéressante.
+- Le second est la gestion des échelles, qui est une vraie originalité de Fudge. Il est, en effet, possible de faire lutter des PJ et PNJ appartenant à des échelles différents. Une innovation très intéressante car, sur ce point, la mécanique est bien aboutie.
 
 Voir l'[[https://github.com/orey/jdr/tree/master/Fudge-fr][article détaillé]].
 

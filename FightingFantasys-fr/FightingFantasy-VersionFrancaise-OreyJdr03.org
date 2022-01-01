@@ -12,7 +12,7 @@
 #+LATEX_HEADER: \usepackage{titlesec}\titlelabel{\thetitle. \quad}
 #+LATEX_HEADER: \usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
 #+LATEX_HEADER: \usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
-#+EXPORT_FILE_NAME: FightingFantasy-VersionFrancaise-OreyJdr02.pdf
+#+EXPORT_FILE_NAME: FightingFantasy-VersionFrancaise-OreyJdr03.pdf
 
 #+BEGIN_EXPORT latex
 \newpage
@@ -25,9 +25,11 @@
 
 ** Introduction
 
-Fighting Fantasy est une série de livres de jeux de rôles pour un seul joueur créée par Steve Jackson et Ian Livingstone. Le premier volume de la série fut publié en livre de poche par Pufin en 1982. Cette série propose un système de jeu de rôles très simple qui fut ensuite complété de diverses façons, notamment dans le livre /Dungeoneer, Advanced Fighting Fantasy/.
+Fighting Fantasy est une série de livres de jeux de rôles pour un seul joueur créée par Steve Jackson (le [[https://en.wikipedia.org/wiki/Steve_Jackson_(British_game_designer)][Steve Jackson]] anglais et non [[https://en.wikipedia.org/wiki/Steve_Jackson_(American_game_designer)][celui de GURPS]] qui est américain) et [[https://en.wikipedia.org/wiki/Ian_Livingstone][Ian Livingstone]]. Le premier volume de la série fut publié en livre de poche par Pufin en 1982.
 
-Nous avons repris les principales règles de ce dernier livre pour proposer un jeu très simple, jouable avec tous les types de joueurs, spécialement les enfants.
+Cette série propose un système de jeu de rôles très simple qui fut ensuite complété de diverses façons, notamment dans le livre /Dungeoneer, Advanced Fighting Fantasy/. Récemment, le système a été repris et customisé dans le jeu de rôles [[https://melsonian-arts-council.itch.io/troika-numinous-edition][Troika!]].
+
+Nous avons repris les principales règles de  /Dungeoneer, Advanced Fighting Fantasy/ pour proposer un jeu très simple, jouable avec tous les types de joueurs, noamment les joueurs débutants et les enfants.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align ll
@@ -35,7 +37,7 @@ Nous avons repris les principales règles de ce dernier livre pour proposer un j
 | Version originale        | Version originale 1984 - Copyright Steve Jackson                |
 | Website                  | [[https://www.fightingfantasy.com/][https://www.fightingfantasy.com/]]                                |
 | Traduction et adaptation | (C) O. Rey 2021                                                 |
-| Version                  | 1.0                                                             |
+| Version                  | 1.1                                                             |
 | Octobre 2021             | Corrections diverses                                            |
 |                          | Mise en place des tags pour génération Latex/PDF                |
 
@@ -56,65 +58,64 @@ Vous pouvez utiliser ce jeu avec d'autres ressources :
 
 ** Caractéristiques
 
-Un personnage a trois caractéristiques : *compétence* (skill), *points de vie* (stamina)  et *chance* (luck).
+Un personnage possède trois caractéristiques : *Compétences* (Skill), *Points de Vie* (Stamina)  et *Chance* (Luck).
 
-#+ATTR_HTML: :border 2 :rules all :frame border
-#+ATTR_LATEX: :environment longtable :align lcc
-| *Caractéristique* | *Création* | *Acronyme* |
-| Compétence        |      1D6+6 | CPT        |
-| Points de vie     |     2D6+12 | PV         |
-| Chance            |      1D6+6 | CHA        |
-
-S'il tombe à 0 PV ou moins, le PJ meurt.
+_Note_ : Dans les /Livres Dont Vous Etes le Héros/, "Skill" est traduit par "Habileté" et "Stamina" par "Constitution". Nous préférons la traduction "Compétences" pour "Skill" car elle plus large que la seule notion d'habileté ; elle est au centre des combats, et couvre les autres compétences. Pour ce qui est de "Stamina", même si la traduction "Constitution" est fidèle, la notion de "Point de Vie" est plus idiomatique du jeu de rôle français.
 
 #+BEGIN_EXPORT latex
 \newpage
 #+END_EXPORT
 
-** Test de compétence
-
-Pour réussir un test de compétence, lancer 2D6 :
-
 #+ATTR_HTML: :border 2 :rules all :frame border
-#+ATTR_LATEX: :environment longtable :align cl
-| *Test de compétence* | *Résultat*                |
-| 2D6 < CPT            | Test de compétence réussi |
-| 2D6 >= CPT           | Test de compétence échoué |
+#+ATTR_LATEX: :environment longtable :align lcc
+| *Caractéristique* | *Création* | *Acronyme* |
+| Compétences       |      1D6+6 | COMP       |
+| Points de vie     |     2D6+12 | PV         |
+| Chance            |      1D6+6 | CHA        |
 
-Ainsi, même avec 12 en CPT, un double 6 sera un échec.
+S'il tombe à 0 PV ou moins, le PJ meurt.
 
 ** Test de chance
 
-Il en va de même pour la chance :
+Pour faire un test de Chance, jetez 2D6.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align cl
-| *Test de chance* | *Résultat*            |
-| 2D6 < CHA        | Test de chance réussi |
-| 2D6 >= CHA       | Test de chance échoué |
+| *Test de chance* | *Résultat*                    |
+| 2D6 <= CHA       | Test de chance réussi, -1 CHA |
+| 2D6 > CHA        | Test de chance échoué, -1 CHA |
 
-Ainsi, même avec 12 en CHA, un double 6 sera un échec.
+Après chaque test de Chance, enlevez 1 point à la Chance.
 
-** Equipement
+** Restaurer les caractéristiques
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cll
+| *Caractéristique* | *Moyen*               | *Effet*                                     |
+| Compétences       | Potion de Compétences | Retour à la valeur initiale                 |
+| Points de Vie     | Potion de Vie         | Retour à la valeur initiale                 |
+| Chance            | Potion de Chance      | Restaure à la valeur initiale + 1 point CHA |
+
+* Equipement
 
 Tous les personnages démarrent avec les objets suivants :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align lcl
-| *Objet*        | *Points/Doses* | *Commentaires*                                                  |
-| Une épée       | -             | -                                                               |
-| Un sac à dos   | -             | Pour mettre les trésors                                         |
-| Une lanterne   | -             | Une lanterne et son combustible suffisent pour une aventure     |
-| Des provisions | 2 à 10 points | Les provisions restorent les points de vie d'autant de points   |
-|                |               | On ne peut pas consommer les provisions pendant un combat       |
-| Une potion     | 2 doses       | Une potion de compétence, de vie ou de chance (choix du joueur) |
-|                |               | Une potion restore le score concerné à son niveau original      |
+| *Objet*        | *Points/Doses* | *Commentaires*                                                      |
+| Une épée       | -              | -                                                                   |
+| Un sac à dos   | -              | Pour mettre les trésors                                             |
+| Une lanterne   | -              | Une lanterne et son combustible suffisent pour une aventure         |
+| Des provisions | 10 repas       | Chaque repas (-1 repas) restaure 4 PV                               |
+|                |                | On ne peut pas consommer les provisions pendant un combat           |
+| Une potion     | 2 doses        | Une potion de Compétences, de Vie ou de Chance (au choix du joueur) |
+|                |                | Voir la section "restaurer les compétences"                         |
 
 * Monstres
 
 ** Attaques
 
-Les montres ont aussi ont des caractéristiques *Compétence* et *Constitution*, mais ils n'ont pas de chance.
+Les montres ont aussi ont des caractéristiques *Compétences* et *Points de Vie*, mais ils n'ont pas de caractéristique Chance.
 
 Ils ont une autre caractéristique : *Attaques* (ATT) qui représente le nombre de joueurs que les monstres peuvent attaquer /en même temps/.
 
@@ -122,41 +123,53 @@ Ils ont une autre caractéristique : *Attaques* (ATT) qui représente le nombre 
 
 Le loup-garou est un monstre à deux ATT : il est donc capable d'attaquer au plus 2 PJ dans un même round de combat.
 
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align lccc
-|            | *CPT* | *PV* | *ATT* |
-| Loup-garou |     8 |    9 |     2 |
+|            | *COMP* | *PV* | *ATT* |
+| Loup-garou |      8 |    9 |     2 |
 
 * Combats
+
+** Modificateurs de Compétences
+
+Certains objets (comme une épée magique) peuvent apporter des modificateurs aux Compétences.
+
+Certaines règles s'appliquent :
+- On ne peut utiliser qu'une seule arme en combat (et donc potentiellement un seul bonus).
+- La valeur de Compétences ne peut jamais excéder sa valeur initiale.
 
 ** Combat simple
 
 Un round de combat se passe comme suit :
-1. Les joueurs et les monstres attaquent en même temps en calculant leur score en *combat* (COMB) ;
+1. Les joueurs et les monstres attaquent en même temps en calculant leur score en *Attaque* (ATT) ;
+  - ATT monstre = 2D6 + COMP
+  - ATT PJ = 2D6 + COMP
 2. Les attaques sont ensuite comparées entre elles.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-#+ATTR_LATEX: :environment longtable :align clcc
-| *Séquence* | *Action*                  | *Effet*               | *Jet de chance (option joueur)* |
-|          1 | COMB monstre = 2D6 + CPT  | -                     | -                               |
-|            | COMB PJ = 2D6 + CPT       | -                     | -                               |
-|          2 | Si COMB monstre > COMB PJ | -2 PV pour le PJ      | Voir table suivante cas 1       |
-|            | Si COMB PJ > COMB monstre | -2 PV pour le monstre | Voir table suivante cas 2       |
-|            | Si COMB PJ = COMB monstre | Aucun effet           | -                               |
+#+ATTR_LATEX: :environment longtable :align lcc
+| *Action*                | *Effet*               | *Option joueur : Jet de chance* |
+| Si ATT monstre > ATT PJ | -2 PV pour le PJ      | Voir table suivante cas 1       |
+| Si ATT PJ > ATT monstre | -2 PV pour le monstre | Voir table suivante cas 2       |
+| Si ATT PJ = ATT monstre | Aucun effet           | -                               |
 
 Le joueur peut décider d'utiliser sa chance, soit pour éviter un coup donné par un monstre (cas d'un échec du PJ en combat), soit pour aggraver la blessure du monstre (cas du succès du PJ en combat).
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align ccl
-| *Cas* | *Jet de chance* | *Effet*                                |
-|     1 | Réussi          | -1 PV au lieu de -2 PV pour le PJ      |
-|     1 | Raté            | -3 PV au lieu de -2 PV pour le PJ      |
-|     2 | Réussi          | -4 PV au lieu de -2 PV pour le monstre |
-|     2 | Raté            | -1 PV au lieu de -2 PV pour le monstre |
+| *Cas* | *Jet de chance* | *Effet*                                        |
+|     1 | Réussi          | -1 PV au lieu de -2 PV pour le PJ, -1 CHA      |
+|     1 | Raté            | -3 PV au lieu de -2 PV pour le PJ, -1 CHA      |
+|     2 | Réussi          | -4 PV au lieu de -2 PV pour le monstre, -1 CHA |
+|     2 | Raté            | -1 PV au lieu de -2 PV pour le monstre, -1 CHA |
 
 Le combat s'arrête quand l'un des deux adversaire est mort (PV = 0) ou s'enfuit.
 
-Si un PJ s'enfuit, il perd automatiquement 2 PV (dernière blessure infligée par le monstre). La chance peut être utilisée pour réduire les dommages (voir table ci-dessus).
+Si un PJ s'enfuit, il perd automatiquement 2 PV (dernière blessure infligée par le monstre). La chance peut être utilisée pour réduire les dommages (voir table ci-dessus cas 1).
 
 ** Combat multiple
 
@@ -169,27 +182,26 @@ Le combat multiple est assez amusant et logique. Nous l'exposons au travers d'ex
 | *Séquence* | *Action*                                                            |
 |          1 | Le MJ tire au sort le PJ qui sera attaqué (ou le choisit), disons C |
 |          2 | Combat simple entre le PJ et le monstre                             |
-|            | Le MJ note le score de COMB du monstre pour ce tour                 |
+|            | Le MJ note le score de ATT du monstre pour ce tour                  |
 |          3 | Les autres PJ peuvent attaquer le monstre (ici A et B)              |
-|            | Si COMB PJ > COMB monstre : -2 PV pour le monstre                   |
-|            | Si COMB PJ <= COMB monstre : le monstre n'a rien                    |
+|            | Si ATT PJ > ATT monstre : -2 PV pour le monstre                     |
+|            | Si ATT PJ <= ATT monstre : le monstre n'a rien                      |
 |            | A et B ne peuvent pas prennent aucun dommage                        |
 
-On appelle les attaques de A et B, des *attaques protégées*, car ils ne peuvent pas prendre de dommages.
+On appelle les attaques de A et B, des *attaques protégées*, car ces derniers ne peuvent pas prendre de dommages.
 
 Au round suivant, le processus recommence.
 
 *** Cas d'un monstre à 8 ATT contre quatre PJ (A, B, C et D)
 
-_Note_: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela ne signifie pas que le monstre a des attaques gratuites. Le nombre d'attaques correspond au nombre maximum de PJ que le monstre peut attaquer. Dans le cas présent, le monstre ne pourra attaquer que les 4 PJ.
+_Note_: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela ne signifie pas que le monstre a des attaques supplémentaires. Le nombre d'attaques correspond au nombre maximum de PJ que le monstre peut attaquer. Dans le cas présent, le monstre ne pourra attaquer que les 4 PJ.
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align cl
 | *Séquence* | *Action*                                                                    |
-|          1 | Le MJ calcule le COMB du monstre (2D6 + CPT)                                |
+|          1 | Le MJ calcule le score ATT du monstre (2D6 + COMP)                          |
 |            | Ce nombre  est valable pour le round pour tous les combats avec tous les PJ |
 |          2 | Chaque combat est résolu normalement.                                       |
-
 
 *** Cas de deux PJ (A et B) contre deux monstres (X ayant 2 ATT et Y ayant 1 ATT)
 
@@ -202,7 +214,7 @@ _Note_: si le nombre d'attaques du monstre est supérieure au nombre de PJ, cela
 |          2 | Résoudre les combats A-X et B-Y.                                                |
 |          3 | X a une seconde attaque, il peut donc attaquer B en mode attaque protégée.      |
 
- Tout monstre supplémentaire attaquera de manière aléatoire l'un des deux PJ.
+Tout monstre supplémentaire attaquera de manière aléatoire l'un des deux PJ.
 
 * Situations communes
 ** Soudoyer/corrompre
@@ -220,17 +232,21 @@ Les PJ ne peuvent pas transporter un nombre illimité de choses. Un PJ ne devrai
 | *Type*                     | *Commentaire*                                                           |
 | Porte magique              | Ont besoin d'un sort pour être ouvertes (ou sous contrôle d'un sorcier) |
 | Porte ordinaire            | Jeter 1D6 : 1-2 la porte est fermée ; 3-6 la porte est ouverte          |
-| Casser une porte ordinaire | Jet réussi de 2D6 strictement sous CPT ; -1 PV                          |
-|                            | Si le jet est supérieur ou égal à CPT, la porte résiste ; -1 PV         |
-|                            | Deuxième tentative : 2D6 + 1 strictement sous CPT pour réussir ; -1 PV  |
+| Casser une porte ordinaire | Jet réussi de 2D6 strictement sous COMP ; -1 PV                         |
+|                            | Si le jet est supérieur ou égal à COMP, la porte résiste ; -1 PV        |
+|                            | Deuxième tentative : 2D6 + 1 strictement sous COMP pour réussir ; -1 PV |
 |                            | Troisième tentative : 2D6 + 2 strictement... (etc.)                     |
-| Portes secrètes            | Le PJ doit chercher ; le MJ jette 2D6 sous la CPT du PJ                 |
+| Portes secrètes            | Le PJ doit chercher ; le MJ jette 2D6 sous la COMP du PJ                |
 |                            | Si le jet est réussi, la porte est trouvée (mais pas ouverte)           |
 |                            | Jet de CHA pour trouver comment l'ouvrir                                |
 
 ** Fuite
 
 Le MJ doit décider si la fuite est possible (par exemple PJ acculé). Si la fuite est possible, la règle ci-dessus (combat simple) s'applique. Idem pour les monstres (intelligents) qui fuient.
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 
 ** Chute
 
@@ -244,7 +260,7 @@ Le MJ doit décider si la fuite est possible (par exemple PJ acculé). Si la fui
 
 ** Perte d'un arme
 
-Si un PJ perd son arme, sa CPT est diminuée de 4 jusqu'à ce qu'il trouve une autre arme.
+Si un PJ perd son arme, sa COMP est diminuée de 4 jusqu'à ce qu'il trouve une autre arme.
 
 ** Mouvement
 
@@ -254,14 +270,14 @@ Laissé à l'arbitrage du MJ et suivant les situations (longs couloirs avec piè
 
 Similaire aux portes :
 - Un coffre a 5 chances sur 6 d'être fermé.
-- Pour ouvrir le coffre : 2D6 strictement sous CPT
-- Si le PJ retente, à chaque essai, son arme s'abîme et le PJ perd un point de CPT par tentative jusqu'à ce qu'il trouve une autre arme.
+- Pour ouvrir le coffre : 2D6 strictement sous COMP
+- Si le PJ retente, à chaque essai, son arme s'abîme et le PJ perd un point de COMP par tentative jusqu'à ce qu'il trouve une autre arme.
 
 Pour trouver les compartiments secrets dans les coffres, le PJ doit chercher le compartiment. La règle des portes secrètes s'applique.
 
 ** Pickpocket
 
-Un jet de CPT strictement réussi est un succès. Le MJ peut donner un malus (6-8 est un malus acceptable si la situation ne se prête pas à jouer au pickpocket).
+Un jet de COMP strictement réussi est un succès. Le MJ peut donner un malus (6-8 est un malus acceptable si la situation ne se prête pas à jouer au pickpocket).
 
 ** Provision 
 
@@ -278,39 +294,43 @@ Le nombre de provisions dont bénéficient les PJ au départ de l'aventure dépe
 
 ** Chercher
 
-Le PJ doit dire ce qu'il cherche. Le MJ fait les jets de dés : 2D6 strictement sous CPT pour trouver.
+Le PJ doit dire ce qu'il cherche. Le MJ fait les jets de dés : 2D6 strictement sous COMP pour trouver.
 
 ** Se déplacer en silence
 
-2D6 strictement sous CPT. Le MJ peut ajouter des malus.
+2D6 strictement sous COMP. Le MJ peut ajouter des malus.
 
 ** Monstres errants
 
 Si les PJ s'attardent trop dans un lieu, il est possible de générer une rencontre avec un monstre errant. le MJ lance 1D6 régulièrement. Si c'est un 1, un monstre a repéré les PJ.
 
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
 En souterrain :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align clccc
-| *1D6* | *Créature* | *CPT* | *PV* | *ATT* |
-|     1 | Goblin     |     5 |    3 |     1 |
-|     2 | Orc        |     6 |    3 |     1 |
-|     3 | Gremlin    |     6 |    3 |     1 |
-|     4 | Rat géant  |     5 |    4 |     1 |
-|     5 | Squelette  |     6 |    5 |     1 |
-|     6 | Troll      |     8 |    7 |     3 |
+| *1D6* | *Créature* | *COMP* | *PV* | *ATT* |
+|     1 | Goblin     |      5 |    3 |     1 |
+|     2 | Orc        |      6 |    3 |     1 |
+|     3 | Gremlin    |      6 |    3 |     1 |
+|     4 | Rat géant  |      5 |    4 |     1 |
+|     5 | Squelette  |      6 |    5 |     1 |
+|     6 | Troll      |      8 |    7 |     3 |
 
 En extérieur :
 
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align clccc
-| *1D6* | *Créature*           | *CPT* | *PV* | *ATT* |
-|     1 | Goblin               |     5 |    3 |     1 |
-|     2 | Chauve-souris géante |     5 |    4 |     1 |
-|     3 | Rat Géant            |     5 |    4 |     1 |
-|     4 | Chien de guerre      |     7 |    6 |     1 |
-|     5 | Loup-garou           |     8 |    9 |     2 |
-|     6 | Ogre                 |     8 |   10 |     2 |
+| *1D6* | *Créature*           | *COMP* | *PV* | *ATT* |
+|     1 | Goblin               |      5 |    3 |     1 |
+|     2 | Chauve-souris géante |      5 |    4 |     1 |
+|     3 | Rat Géant            |      5 |    4 |     1 |
+|     4 | Chien de guerre      |      7 |    6 |     1 |
+|     5 | Loup-garou           |      8 |    9 |     2 |
+|     6 | Ogre                 |      8 |   10 |     2 |
 
 
 #+BEGIN_EXPORT latex

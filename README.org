@@ -73,6 +73,7 @@ Ce repo est le premier d'un cycle de 3. Voici les deux suivants :
 | Heroquest, un site de fan                  | https://www.heroquest-revival.com                                           |
 | *I*                                        |                                                                             |
 | Imaginos                                   | https://blogs.bl0rg.net/imaginos/                                           |
+| L'insoutenable légèreté du joueur          | [[http://linsoutenablelegeretedujoueur.over-blog.com/][linsoutenablelegeretedujoueur.over-blog.com]]                                                                            |
 | *K*                                        |                                                                             |
 | Koma JDR et autres jeux de Xavier Raoult   | http://komajdr.free.fr/?page_id=96                                          |
 | *L*                                        |                                                                             |
@@ -81,6 +82,8 @@ Ce repo est le premier d'un cycle de 3. Voici les deux suivants :
 | Maléfices vieux suppléments                | https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS               |
 | *O*                                        |                                                                             |
 | Osric JDR                                  | https://osric.fr                                                            |
+| *P*                                        |                                                                             |
+| Les meilleurs articles TTRPG traduits      | [[https://ptgptb.fr][ptgptb.fr]]                                                                   |
 | *V*                                        |                                                                             |
 | La voix d'Héort, ressources pour Glorantha | https://heort.wordpress.com/                                                |
 |                                            |                                                                             |
@@ -104,17 +107,18 @@ Ce repo est le premier d'un cycle de 3. Voici les deux suivants :
 
 * Explorations récentes
 
-A explorer : Fiasco, Nephilim, DCC.
-
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align cp{2cm}p{1.5cm}p{7cm}ccc
 | *Date* | *Game*                       | *Type*           | *Comment*                                                              | *Note* | *OSR* | *Ongoing* |
-|   2021 | [[https://github.com/orey/jdr/tree/master/BladesInTheDark-SRD][Blades in the Dark SRD]]       | Heroic Fantasy   |                                                                        | -      | N     | *Y*       |
+|   2022 | [[https://www.drivethrurpg.com/product/186894/Cepheus-Engine-System-Reference-Document][Cepheus engine]]               | Sci-Fi           | The SRD of the Traveller TTRPG                                         | -      | N     | *Y*       |
+|   2022 | [[https://www.chaosium.com/runequest-starter-set/][Runequest Starter Set]]        | Heroic Fantasy   | A great game                                                           | *5/5*  | N     | *Y*       |
+|   2022 | Hurlements (1989)            | Middle-Age       | Strange French game, at the center of the narrativist French trend     | 2/5    | N     | *Y*       |
+|   2021 | [[https://github.com/orey/jdr/tree/master/BladesInTheDark-SRD][Blades in the Dark SRD]]       | Heroic Fantasy   |                                                                        | -      | N     | Later     |
 |   2021 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system   | Irony with Clichés and D6 with difficulty factors                      | 3/5    | N     | N         |
 |   2021 | [[https://www.drivethrurpg.com/product/89534/FU-The-Freeform-Universal-RPG-Classic-rules][FU]]                           | Generic system   | Very basic system for roleplay                                         | 3/5    | N     | N         |
 |   2021 | [[http://www.onesevendesign.com/laserfeelings/][Lasers and Feelings]]          | Sci-Fi           | Great simple RPG                                                       | 4/5    | N     | N         |
-|   2021 | GURPS                        | Generic system   | A great classical system with great supplements                        | 4/5    | N     | *Y*       |
-|   2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An "open GURPS" with a 7-levels ladder and scales. Very GURPS inspired | *5/5*  | N     | *Y*       |
+|   2021 | GURPS                        | Generic system   | A great classical system with great supplements                        | 4/5    | N     | Later     |
+|   2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system   | An "open GURPS" with a 7-levels ladder and scales. Very GURPS inspired | 4/5    | N     | *Y*       |
 |   2021 | [[http://komajdr.free.fr/fichiers/BiTs.rar][Bits ]]                        | Generic system   | In French, a one page generic system                                   | -      | N     | N         |
 |   2021 | [[http://storygame.free.fr/][Trucs trop bizarres]]          | Modern kids      | In French, a very simple game system                                   | 3/5    | N     | N         |
 |   2021 | Advanced Fighting Fantasy    | Heroic Fantasy   | To play with children                                                  | -      | N     | Later     |
@@ -138,7 +142,7 @@ A explorer : Fiasco, Nephilim, DCC.
 |   2021 | Légendes                     | Historic Fantasy | Great game for the universes. Hyper complex game system                | 4/5    | N     | Later     |
 |   2021 | Tékumel                      | Heroic Fantasy   | Author's world                                                         | 3/5    | N     | N         |
 |   2021 | Microlite                    | Generic System   | [[https://github.com/orey/jdr/tree/master/Microlite20-fr][French translation]] done. Not playable as-is.                           | 3/5    | N     | N         |
-|   2021 | Fortunes Wheel               | -                | Very interesting with tarot cards                                      | -      | N     | Later     |
+|   2021 | [[http://www.fortuneswheel.co.uk/][Fortunes Wheel]]               | Witching Tales   | Very interesting with tarot cards                                      | 4/5    | N     | Later     |
 |   2021 | Maléfices                    | French Steampunk | Un des meilleurs JDR français                                          | *5/5*  | N     | Later     |
 |   2021 | GURPS                        | Generic System   | To investigate                                                         | -      | N     | N         |
 |   2021 | Traveller 1e                 | Sci-Fi           | Seducing                                                               | -      | N     | Later     |
@@ -308,7 +312,31 @@ Voir [[https://github.com/orey/jdr/tree/master/DandD][la page dédiée]].
 - Une analyse des problèmes de probabilités du système D6 : voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]]
 - Une analyse des probabilités de l'étrange système de jeu de IronSworn : voir [[https://github.com/orey/jdr/tree/master/IronSworn][le folder IronSworn]]
 
-** Eléments de systèmes de jeu intéressants
+** Quelques commentaires sur quelques jeux
+*** Hurlements (1989)
+
+Hurlements (1989) a quelque peu défrayé la chronique en proposant un jeu très narratif à la belle époque des jeux d'Heroic Fantasy, notamment AD&D bien entendu. Pour autant, ce jeu ne m'a jamais convaincu, en raison, non de la pauvreté de son système de jeu, mais au niveau de la *pauvreté de sa vision du Moyen-Age*.
+
+En effet, le jeu est centré sur la lycanthropie, mais il est très pauvre à bien des égards.
+
+Tout d'abord, il propose une vision obscurantiste du Moyen-Age :
+- Comme toute bonne vision caricaturale française actuelle, la religion y est caricaturée et n'est pas comprise comme un élément structurant de la société ;
+- Il n'y a aucun mot sur la chevalerie et les passions qui y sont associées, et qui sont dans la littérature française du Moyen-Age.
+
+D'un point de vue de l'univers magique, l'univers de Hurlements est incroyablement pauvre :
+- Ainsi, on n'y trouve pas de magie ni de sorcellerie, alors que ces éléments sont au coeur de l'univers mental de cette période ;
+- Les pouvoirs de la religion n'y sont pas évoqués.
+
+Ainsi il aurait été intelligent de considérer qu'une certaine partie du Clergé était au courant des manifestations lycanthropiques et magiques, et que sans doute tous ne le voyaient pas forcément d'un mauvais oeil. Il aurait été intéressant par exemple de situer des abbayes comme des ponts entre les lycanthropes et certains religieux.
+
+Concernant la magie et la sorcellerie, cette dernière était au centre de la société médiévale, tout comme l'était la chevalerie.
+
+La vie dans la caravane est une mise en scène en mode "sandbox" qui est pourtant intéressante, mais beaucoup trop schématique (les PJ contre le reste du monde).
+
+Je passerai sur la prétention de l'écriture qui est souvent un peu soûlante quoique très française.
+
+Au final, ce jeu est un vrai grand raté, malgré la grosse campagne de soutien de Casus Belli et de Dragon Radieux à l'époque. Hurlements aurait pu devenir le /Pendragon/ français (jeu beaucoup plus mûr dans tous ses aspects) et il a sombré - assez justement - dans l'oubli.
+
 *** Fudge
 
 Deux éléments sont vraiment originaux :

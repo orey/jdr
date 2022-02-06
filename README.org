@@ -110,7 +110,8 @@ Ce repo est le premier d'un cycle de 3. Voici les deux suivants :
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align cp{2cm}p{1.5cm}p{7cm}ccc
 | *Date* | *Game*                       | *Type*           | *Comment*                                                              | *Note* | *OSR* | *Ongoing* |
-|   2022 | The Void                     | Horror Sci-Fi    | Interesting Cthulu Saga                                                | -      | N     | *Y*       |
+|   2022 | [[https://www.cortexrpg.com/compendium/explore-the-rules/][Cortex]]                       | Generic System   |                                                                        | -      | N     | *Y*       |
+|   2022 | [[https://www.drivethrurpg.com/product/117563][The Void]]                     | Horror Sci-Fi    | Interesting Cthulu Saga                                                | -      | N     | *Y*       |
 |   2022 | Troika!                      | Generic system   | A reinterpretation of the [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][Fighting Fantasy]] rules with funny elements   | 4/5    | ?     | *Y*       |
 |   2022 | 1PG Star Legion              | Sci-Fi           | A sci-Fi small RPG                                                     | -      | N     | *Y*       |
 |   2022 | [[https://www.drivethrurpg.com/product/186894/Cepheus-Engine-System-Reference-Document][Cepheus engine]]               | Sci-Fi           | The SRD of the Traveller TTRPG                                         | -      | N     | N         |

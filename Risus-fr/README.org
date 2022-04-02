@@ -1,0 +1,141 @@
+* Règles Risus résumées
+
+** Intro
+
+| Version originale      | [[https://www.drivethrurpg.com/product/170294/Risus-The-Anything-RPG][Risus the RPG]]                        |
+| Version française      | [[file:risus.fr][Risus, traduction de Tristan Lhomme]]] |
+| Site américain         | [[http://www.risusiverse.com/][risuiverse]]                           |
+| Compression des règles | Olivier Rey                          |
+| Copyleft               | 2020-2022                            |
+
+
+** V1 du flowchart Risus : création de perso + système de jeu
+
+[[file:thumbnail-risus-flowchart.png]]
+
+Publié sur [[https://rouboudou.itch.io/risus-flowchart][itch.io]].
+
+Versions :
+
+- [[file:risus-flowchart.pdf][En PDF]],
+- [[risus-flowchart.png][En PNG taille normale]]
+- [[file:risus-flowchart-big.png][En PNG taille maxi]]
+
+** Création du personnage
+
+*** Les clichés
+
+Chaque personnage a un crédit de 10D6 à répartir sur des Chichés (entre 3 et 10) librement choisi.
+
+Pour information :
+
+| Niveau | Nombre de dés |
+| Newbie |            1D |
+| Pro    |            3D |
+| Maître |            6D |
+
+Les clichés n'ont pas tous le même coût :
+
+| Type de cliché | Coût du cliché             | Gonflette | Double gonflette | Effet gonflette                                    | Notation          |
+| Normal         | 1D investi = 1D de cliché  | Accord MJ | Non              | +1D en combat, -1D sur le cliché au round suivant  | Entre parenthèses |
+| Magique        | 2D investis = 1D de cliché | Accord MJ | Oui              | +2nD en combat, -nD sur le cliché au round suivant | Entre crochets    |
+
+Note : Les clichés magiques peuvent être "double-gonflés" en combat (voir partie combat).
+
+*** Matériel
+
+Inclus quand dans cela reste dans le raisonnable.
+
+*** Coup de bol (option)
+
+1D permet d'acheter 3 coups de bol :
+- 1 coup de bol = +1D sur une action
+- 1D = 3 coups de bols
+
+*** Point faible (nommé "Amorce")
+
++1D de création si validation du point faible par le MJ.
+
+*** Historique
+
+S'il est bien fait, le MJ peut donner +1D.
+
+** Action simple : jet contre un facteur de difficulté
+
+| Seuil à dépasser | Difficulté de l'action        |
+|                5 | Facile                        |
+|               10 | Défi même pour un pro         |
+|               15 | Défi héroïque                 |
+|               20 | Difficulté presque surhumaine |
+|               30 | Difficulté surhumaine         |
+
+
+** Combat : basé sur le système du duel
+
+*** Types de combats
+
+Exemples de cas d'utilisation :
+
+| Débat                      |
+| Courses de chevaux         |
+| Duel aérien                |
+| Duels astraux / psychiques |
+| Duels magiques             |
+| Duels de Banjos            |
+| Séduction                  |
+| Tribunal                   |
+| Combat physique            |
+
+Généralement, l'agresseur détermine le type de combat. Du type de combat dépend le type de cliché utilisé.
+
+*** Round de combat
+
+| Etape | Obligatoire | Description                                   | Conséquence                                           |
+|     1 | Oui         | Choisir le cliché                             | Le MJ détermine si le cliché est adapté ou pas (1)(2) |
+|     2 | Non         | Gonflette                                     | +nD au jet / -nD sur le cliché à la fin du round      |
+|       |             | Double gonflette (magie)                      | +2nD au jet / -nD sur le cliché à la fin du round     |
+|     3 | Oui         | Lancer les dés                                |                                                       |
+|     4 | Oui         | Perdant du round                              | Cliché adapté : -1D                                   |
+|       |             |                                               | Cliché inadapté : -3D                                 |
+|     5 | Oui         | Si un combattant a un cliché à 0D, il a perdu | Le vainqueur fait ce qu'il veut du perdant            |
+
+(1) Notes sur les clichés inadaptés :
+- Le roleplay permet de l'utiliser (donc même tiré par les cheveux, ce doit être utilisable) ;
+- -3D si le cliché inadapté gagne.
+
+(2) Porte de sortie : 2D par défaut en cas d'absence totale de cliché adapté.
+
+*** Récupération
+
+On récupère les dés avec de la guérison (contextuelle au type de duel).
+
+*** Conflit à action unique (actions très rapides)
+
+Un seul jet sur le Cliché approprié.
+
+** Groupes
+
+*** Groupe de PNJ
+
+Le groupe de PNJ se comporte comme un PNJ mais avec plus de dés.
+
+*** Groupe de PJ
+  
+Groupe de PJ :
+
+- Le Chef de Groupe est celui dont le le Cliché s'applique et qui a le plus de dés.
+- Les jets des autres ne comptent en plus du Chef de groupe que s'ils font 6.
+- Les clichés inadaptés ne triplent pas les pertes de dés.
+- Si tous les clichés sont inadaptés et perdent, discuter avec le MJ.
+- Si le Groupe perd, le Cliché d'un seul membre est diminué (nommé par le Chef de Groupe). Si quelqu'un veut bien prendre les dommages à sa place, ce quelqu'un perd 2D sur son Chiché mais le Chef de Groupe a le droit de lancer /deux fois plus de dés/ pour la prochaine attaque (bonus de vengeance).
+
+Si quelqu'un sort du Groupe, tous les membres du Groupe perdent un dé et celui qui sort du Groupe, passe à 0D. Si le Chef qui part, consulter les règles.
+
+** Expérience
+
+A la fin, jet de Cliché: si tous les dés sont pairs, +1D au cliché (6D max par cliché). Ou nouveau Cliché à 1D.
+
+Ce jet peut être fait en cas d'action exceptionnelle durant le jeu.
+
+
+

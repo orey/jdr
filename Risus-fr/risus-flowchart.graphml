@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.20-->
+  <!--Created by yEd 3.19.1.1-->
   <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
   <key for="port" id="d1" yfiles.type="portgraphics"/>
   <key for="port" id="d2" yfiles.type="portgeometry"/>
@@ -13,20 +13,14 @@
   <key attr.name="description" attr.type="string" for="edge" id="d9"/>
   <key for="edge" id="d10" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
-    <data key="d0"/>
+    <data key="d0" xml:space="preserve"/>
     <node id="n0">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="80.0" width="80.0" x="39.0" y="545.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="11.359375">Problème à l'issue incertaine<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="13.046875">Problème à l'issue incertaine<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="ellipse"/>
         </y:ShapeNode>
       </data>
@@ -37,18 +31,12 @@
           <y:Geometry height="103.0" width="202.0" x="422.00000000000006" y="-30.48408096280093"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="102.5625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="-5.6843418860808015E-14" y="0.21875">Facteur de Difficulté
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="109.78125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="-5.6843418860808015E-14" xml:space="preserve" y="-3.390625">Facteur de Difficulté
 * 5 : facile,
 * 10 : défi même pour un pro,
 * 15 : défi héroïque,
 * 20 : difficulté presque surhumaine,
-* 30 : difficulté surhumaine.<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+* 30 : difficulté surhumaine.<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -59,13 +47,7 @@
           <y:Geometry height="90.0" width="90.0" x="226.0" y="540.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="31.453125">Choix<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="32.015625">Choix<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -76,7 +58,7 @@
           <y:Geometry height="176.75" width="202.0" x="422.0" y="496.625"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="162.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="6.90625">Exemples de cas d'utilisation
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="151.6875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="12.53125">Exemples de cas d'utilisation
 * Débat,
 * Courses de chevaux,
 * Duel aérien,
@@ -85,13 +67,7 @@
 * Duels de Banjos,
 * Séduction,
 * Tribunal,
-* Combat physique.<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+* Combat physique.<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -102,13 +78,7 @@
           <y:Geometry height="80.0" width="80.0" x="755.9375" y="545.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="26.453125">Début Duel<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="27.015625">Début Duel<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="ellipse"/>
         </y:ShapeNode>
       </data>
@@ -119,13 +89,7 @@
           <y:Geometry height="47.5" width="146.0" x="880.9566017505471" y="561.25"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" y="10.203125">Choisir le Cliché<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" xml:space="preserve" y="10.765625">Choisir le Cliché<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -136,15 +100,9 @@
           <y:Geometry height="80.0" width="202.0" x="1540.9696799781184" y="408.75"/>
           <y:Fill color="#CCFFCC" transparent="false"/>
           <y:BorderStyle color="#003300" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="72.375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="3.8125">Option
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="67.875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="6.0625">Option
 Gonflette (Cliché normal)
-Pour chaque +1D au jet, -1D obligatoire après<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+Pour chaque +1D au jet, -1D obligatoire après<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -155,15 +113,9 @@ Pour chaque +1D au jet, -1D obligatoire après<y:LabelModel>
           <y:Geometry height="80.0" width="202.0" x="1540.9696799781184" y="681.25"/>
           <y:Fill color="#CCFFCC" transparent="false"/>
           <y:BorderStyle color="#003300" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="72.375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="3.8125">Option
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="81.84375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="-0.921875">Option
 Double Gonflette(Cliché magique)
-Pour chaque +2D au jet, -1D obligatoire après<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+Pour chaque +2D au jet, -1D obligatoire après<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -174,13 +126,7 @@ Pour chaque +2D au jet, -1D obligatoire après<y:LabelModel>
           <y:Geometry height="90.0" width="90.0" x="1596.9696799781184" y="540.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="31.453125">Choix<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="32.015625">Choix<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -191,13 +137,7 @@ Pour chaque +2D au jet, -1D obligatoire après<y:LabelModel>
           <y:Geometry height="47.5" width="146.0" x="1755.2196799781184" y="561.25"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" y="10.203125">Lancer les dés<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" xml:space="preserve" y="10.765625">Lancer les dés<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -208,15 +148,9 @@ Pour chaque +2D au jet, -1D obligatoire après<y:LabelModel>
           <y:Geometry height="63.26735929978122" width="191.57752297593015" x="2136.607658669585" y="473.297698905908"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="191.57752297593015" x="0.0" y="2.9930546498906097">Le plus petit scope prend -1D
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="191.57752297593015" x="0.0" xml:space="preserve" y="4.680554649890553">Le plus petit scope prend -1D
 au Cliché
-(+ les potentielles Gonflettes)<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+(+ les potentielles Gonflettes)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -227,13 +161,7 @@ au Cliché
           <y:Geometry height="90.0" width="90.0" x="2381.644643247265" y="540.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="31.453125">Cliché à zéro?<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="25.03125">Cliché à zéro?<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -244,13 +172,7 @@ au Cliché
           <y:Geometry height="80.0" width="80.0" x="2567.9362013391697" y="545.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="26.453125">Fin Duel<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="27.015625">Fin Duel<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="ellipse"/>
         </y:ShapeNode>
       </data>
@@ -261,15 +183,9 @@ au Cliché
           <y:Geometry height="80.0" width="202.0" x="422.0" y="229.7874288840262"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="72.375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="3.8125">Conflit à action unique
+          <y:NodeLabel alignment="left" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="67.875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="6.0625">Conflit à action unique
 --
-1 seul jet sur Cliché approprié, le plus élevé gagne<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+1 seul jet sur Cliché approprié, le plus élevé gagne<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -280,13 +196,7 @@ au Cliché
           <y:Geometry height="80.0" width="202.0" x="422.0" y="933.6846280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="26.453125">Combat de Groupe<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="27.015625">Combat de Groupe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -297,13 +207,7 @@ au Cliché
           <y:Geometry height="80.0" width="80.0" x="740.0512131838072" y="933.6846280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="11.359375">Début Combat de Groupe<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="13.046875">Début Combat de Groupe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="ellipse"/>
         </y:ShapeNode>
       </data>
@@ -314,13 +218,7 @@ au Cliché
           <y:Geometry height="63.75" width="146.0" x="881.9420617067833" y="941.8096280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" y="3.234375">Le chef de Groupe est celui qui a le Cliché le plus élevé<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" xml:space="preserve" y="4.921875">Le chef de Groupe est celui qui a le Cliché le plus élevé<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -331,14 +229,8 @@ au Cliché
           <y:Geometry height="63.75" width="174.3319737417944" x="1297.7237587527352" y="941.8096280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="174.3319737417944" x="0.0" y="10.78125">Tous les joueurs
-lancent les dés<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="174.3319737417944" x="0.0" xml:space="preserve" y="11.90625">Tous les joueurs
+lancent les dés<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -349,13 +241,7 @@ lancent les dés<y:LabelModel>
           <y:Geometry height="47.5" width="146.0" x="1265.4815686378558" y="561.25"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" y="10.203125">Choisir le Cliché<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" xml:space="preserve" y="10.765625">Choisir le Cliché<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -366,14 +252,8 @@ lancent les dés<y:LabelModel>
           <y:Geometry height="90.0" width="90.0" x="1063.9029540153174" y="540.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="23.90625">Cliché
-adapté?<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="25.03125">Cliché
+adapté?<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -384,13 +264,7 @@ adapté?<y:LabelModel>
           <y:Geometry height="47.5" width="146.0" x="1265.4815686378558" y="467.4564372866521"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" y="10.203125">Cliché inadapté<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" xml:space="preserve" y="10.765625">Cliché inadapté<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -401,28 +275,21 @@ adapté?<y:LabelModel>
           <y:Geometry height="47.5" width="146.0" x="1265.4815686378558" y="760.9578956323849"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" y="10.203125">2D<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" xml:space="preserve" y="10.765625">2D<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
     </node>
     <node id="n22" yfiles.foldertype="group">
-      <data key="d4"/>
-      <data key="d5"/>
+      <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="292.11083984375" width="736.0000000000002" x="1098.4815686378556" y="-138.09492080655093"/>
+              <y:Geometry height="295.3671875" width="736.0000000000005" x="1460.2196799781182" y="-126.66767471280093"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="736.0000000000002" x="0.0" y="0.0">Création de personnage</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="736.0000000000005" x="0.0" xml:space="preserve" y="0.0">Création de personnage</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -432,7 +299,7 @@ adapté?<y:LabelModel>
               <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.02685546875" x="-4.513427734375" y="0.0">Folder 1</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" xml:space="preserve" y="0.0">Folder 1</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
@@ -445,16 +312,10 @@ adapté?<y:LabelModel>
         <node id="n22::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="80.0" width="80.0" x="1113.4815686378556" y="-18.98408096280093"/>
+              <y:Geometry height="80.0" width="80.0" x="1475.2196799781182" y="-4.300487212800931"/>
               <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
               <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="26.453125">Début<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="27.015625">Début<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="ellipse"/>
             </y:ShapeNode>
           </data>
@@ -462,16 +323,10 @@ adapté?<y:LabelModel>
         <node id="n22::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="80.0" width="92.0" x="1292.4815686378556" y="-96.98408096280093"/>
+              <y:Geometry height="80.0" width="92.0" x="1654.2196799781182" y="-82.30048721280093"/>
               <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
               <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="92.0" x="0.0" y="18.90625">10 D6 à répartir<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="92.0" x="0.0" xml:space="preserve" y="20.03125">10 D6 à répartir<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -479,18 +334,12 @@ adapté?<y:LabelModel>
         <node id="n22::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="80.0" width="121.0" x="1570.4815686378556" y="-96.98408096280093"/>
+              <y:Geometry height="80.0" width="121.0" x="1932.2196799781182" y="-82.30048721280093"/>
               <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
               <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="87.46875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="121.0" x="0.0" y="-3.734375">1D = 1D de Cliché normal
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="95.8125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="121.0" x="0.0" xml:space="preserve" y="-7.90625">1D = 1D de Cliché normal
 ---
- Newbie : 1D /  Pro : 3D /  Maître : 6D<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+ Newbie : 1D /  Pro : 3D /  Maître : 6D<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -498,17 +347,11 @@ adapté?<y:LabelModel>
         <node id="n22::n3">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="61.0" width="92.0" x="1292.4815686378556" y="-9.484080962800931"/>
+              <y:Geometry height="61.0" width="92.0" x="1654.2196799781182" y="5.199512787199069"/>
               <y:Fill color="#CCFFCC" transparent="false"/>
               <y:BorderStyle color="#003300" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="92.0" x="0.0" y="1.859375">Option
-Point faible = +1D<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="92.0" x="0.0" xml:space="preserve" y="3.546875">Option
+Point faible = +1D<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -516,17 +359,11 @@ Point faible = +1D<y:LabelModel>
         <node id="n22::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="80.0" width="92.0" x="1292.4815686378556" y="59.01591903719907"/>
+              <y:Geometry height="80.0" width="92.0" x="1654.2196799781182" y="73.69951278719907"/>
               <y:Fill color="#CCFFCC" transparent="false"/>
               <y:BorderStyle color="#003300" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="72.375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="92.0" x="0.0" y="3.8125">Option
-Beau background = +1D<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="67.875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="92.0" x="0.0" xml:space="preserve" y="6.0625">Option
+Beau background = +1D<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -534,18 +371,12 @@ Beau background = +1D<y:LabelModel>
         <node id="n22::n5">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="61.0" width="121.0" x="1570.4815686378556" y="-9.484080962800931"/>
+              <y:Geometry height="61.0" width="121.0" x="1932.2196799781182" y="5.199512787199069"/>
               <y:Fill color="#CCFFCC" transparent="false"/>
               <y:BorderStyle color="#003300" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="121.0" x="0.0" y="1.859375">Option
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="67.875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#003300" topInset="5" verticalTextPosition="bottom" visible="true" width="121.0" x="0.0" xml:space="preserve" y="-3.4375">Option
 1D de Coups de bol
-= 3 Coups de bol<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+= 3 Coups de bol<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -553,17 +384,11 @@ Beau background = +1D<y:LabelModel>
         <node id="n22::n6">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="90.0" width="90.0" x="1432.4815686378556" y="-23.98408096280093"/>
+              <y:Geometry height="90.0" width="90.0" x="1794.2196799781182" y="-9.300487212800931"/>
               <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
               <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="23.90625">10/11/12 D
-à répartir<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="25.03125">10/11/12 D
+à répartir<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="diamond"/>
             </y:ShapeNode>
           </data>
@@ -571,16 +396,10 @@ Beau background = +1D<y:LabelModel>
         <node id="n22::n7">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="80.0" width="121.0" x="1570.4815686378556" y="59.01591903719907"/>
+              <y:Geometry height="80.0" width="121.0" x="1932.2196799781182" y="73.69951278719907"/>
               <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
               <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="121.0" x="0.0" y="18.90625">2D = 1D de Cliché magique<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="121.0" x="0.0" xml:space="preserve" y="20.03125">2D = 1D de Cliché magique<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -588,16 +407,10 @@ Beau background = +1D<y:LabelModel>
         <node id="n22::n8">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="80.0" width="80.0" x="1739.4815686378558" y="-18.98408096280093"/>
+              <y:Geometry height="80.0" width="80.0" x="2101.2196799781186" y="-4.300487212800931"/>
               <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
               <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="26.453125">Fin<y:LabelModel>
-                  <y:SmartNodeLabelModel distance="4.0"/>
-                </y:LabelModel>
-                <y:ModelParameter>
-                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-                </y:ModelParameter>
-              </y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="27.015625">Fin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
               <y:Shape type="ellipse"/>
             </y:ShapeNode>
           </data>
@@ -610,13 +423,7 @@ Beau background = +1D<y:LabelModel>
           <y:Geometry height="27.11958336980308" width="202.0" x="422.0" y="-57.60366433260401"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="0.01291668490154052">DEFI<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="0.5754166849015405">DEFI<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -627,13 +434,7 @@ Beau background = +1D<y:LabelModel>
           <y:Geometry height="27.11958336980308" width="202.0" x="422.0" y="202.66784551422313"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="0.01291668490154052">CONFLIT A ACTION UNIQUE<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="0.5754166849015405">CONFLIT A ACTION UNIQUE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -644,13 +445,7 @@ Beau background = +1D<y:LabelModel>
           <y:Geometry height="27.11958336980308" width="202.0" x="422.0" y="469.5054166301969"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="0.01291668490154052">DUEL<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="0.5754166849015405">DUEL<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -661,13 +456,7 @@ Beau background = +1D<y:LabelModel>
           <y:Geometry height="27.11958336980308" width="202.0" x="422.0" y="906.5650446389498"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" y="0.012916684901597364">COMBAT DE GROUPE<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="202.0" x="0.0" xml:space="preserve" y="0.5754166849014837">COMBAT DE GROUPE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -678,14 +467,8 @@ Beau background = +1D<y:LabelModel>
           <y:Geometry height="90.0" width="90.0" x="1963.9600846345734" y="540.0"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="23.90625">Cliché
-adapté ?<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="25.03125">Cliché
+adapté ?<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -696,13 +479,7 @@ adapté ?<y:LabelModel>
           <y:Geometry height="63.26735929978122" width="191.57752297593015" x="2136.607658669585" y="629.2374634573303"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="191.57752297593015" x="0.0" y="10.53992964989061">Si le Cliché inadapté gagne, alors l'attaquant prend -3D au Cliché<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="191.57752297593015" x="0.0" xml:space="preserve" y="4.68055464989061">Si le Cliché inadapté gagne, alors l'attaquant prend -3D au Cliché<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -713,13 +490,7 @@ adapté ?<y:LabelModel>
           <y:Geometry height="63.75" width="174.3319737417944" x="1512.3057324945296" y="941.8096280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="174.3319737417944" x="0.0" y="3.234375">Ajouter au dé du chef de Groupe si les dés des autres si ces derniers font des 6<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="67.875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="174.3319737417944" x="2.2737367544323206E-13" xml:space="preserve" y="-2.0625">Ajouter au dé du chef de Groupe si les dés des autres si ces derniers font des 6<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -730,15 +501,9 @@ adapté ?<y:LabelModel>
           <y:Geometry height="90.0" width="174.3319737417944" x="1726.887706236324" y="928.6846280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="72.375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="174.3319737417944" x="0.0" y="8.8125">Prendre les pénalités
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="81.84375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="174.3319737417944" x="0.0" xml:space="preserve" y="4.078125">Prendre les pénalités
 ---
-Les Clichés inadaptés ne triplent pas les pertes de dés<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+Les Clichés inadaptés ne triplent pas les pertes de dés<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -749,13 +514,7 @@ Les Clichés inadaptés ne triplent pas les pertes de dés<y:LabelModel>
           <y:Geometry height="90.0" width="90.0" x="1941.4696799781184" y="928.6846280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="31.453125">Choix<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.96875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="32.015625">Choix<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -766,13 +525,7 @@ Les Clichés inadaptés ne triplent pas les pertes de dés<y:LabelModel>
           <y:Geometry height="56.34896105032817" width="222.6946590809623" x="2081.8202791028452" y="880.2113326039388"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="222.6946590809623" x="0.0" y="7.0807305251640855">Un seul prend les pénalités (-1D) nommé par Chef de Groupe<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="222.6946590809623" x="0.0" xml:space="preserve" y="8.205730525164086">Un seul prend les pénalités (-1D) nommé par Chef de Groupe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -783,13 +536,7 @@ Les Clichés inadaptés ne triplent pas les pertes de dés<y:LabelModel>
           <y:Geometry height="56.34896105032817" width="222.6946590809623" x="2081.8202791028452" y="1023.3614840262583"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="222.6946590809623" x="0.0" y="7.0807305251640855">Quelqu'un prend les dommages à la place (-2D)<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="222.6946590809623" x="0.0" xml:space="preserve" y="8.205730525163972">Quelqu'un prend les dommages à la place (-2D)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -800,15 +547,9 @@ Les Clichés inadaptés ne triplent pas les pertes de dés<y:LabelModel>
           <y:Geometry height="56.34896105032817" width="222.69465908096186" x="2363.7466273041573" y="1023.3614840262583"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="222.69465908096186" x="-2.2737367544323206E-13" y="-0.46614447483602817">Le Chef de Groupe lance 2 fois
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="222.69465908096186" x="0.0" xml:space="preserve" y="1.2213555251639718">Le Chef de Groupe lance 2 fois
 plus de dés
-(Bonus de vengeance)<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+(Bonus de vengeance)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -819,13 +560,7 @@ plus de dés
           <y:Geometry height="90.0" width="90.0" x="2638.0607771597392" y="928.6846280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.09375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" y="31.453125">Cliché à zéro?<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="90.0" x="0.0" xml:space="preserve" y="25.03125">Cliché à zéro?<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -836,14 +571,8 @@ plus de dés
           <y:Geometry height="80.0" width="80.0" x="2983.0113882056917" y="833.1677124726482"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="18.90625">Fin Combat
-Groupe<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="20.03125">Fin Combat
+Groupe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="ellipse"/>
         </y:ShapeNode>
       </data>
@@ -854,14 +583,8 @@ Groupe<y:LabelModel>
           <y:Geometry height="80.0" width="80.0" x="2983.0113882056917" y="933.6846280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" y="18.906249999999886">Fin Combat
-PJ<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="39.9375" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="80.0" x="0.0" xml:space="preserve" y="20.03125">Fin Combat
+PJ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="ellipse"/>
         </y:ShapeNode>
       </data>
@@ -872,14 +595,21 @@ PJ<y:LabelModel>
           <y:Geometry height="63.75" width="146.0" x="1089.8329102297594" y="941.8096280087528"/>
           <y:Fill color="#FFFFFF" color2="#99CCFF" transparent="false"/>
           <y:BorderStyle color="#000080" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="42.1875" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" y="10.78125">Les joueurs choississent leur Cliché<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" bottomInset="5" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.90625" horizontalTextPosition="center" iconTextGap="4" leftInset="5" modelName="custom" rightInset="5" textColor="#000080" topInset="5" verticalTextPosition="bottom" visible="true" width="146.0" x="0.0" xml:space="preserve" y="4.921875">Les joueurs choississent leur Cliché<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n39">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="286.14786143746824" x="61.902646153846945" y="1112.9728553846198"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#808080" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="10" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.28125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#808080" verticalTextPosition="bottom" visible="true" width="208.7021484375" x="38.72285649998412" xml:space="preserve" y="1.359375">Copyleft O. Rey - Under GNU FDL licence
+https://github.com/orey/jdr<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
@@ -1011,14 +741,7 @@ PJ<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000080" topInset="3" verticalTextPosition="bottom" visible="true" width="23.783203125" x="55.16259765625" y="-528.1189076229572">Défi<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000080" topInset="3" verticalTextPosition="bottom" visible="true" width="26.1513671875" x="53.386474609375" xml:space="preserve" y="-527.8137318417072">Défi<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1039,14 +762,7 @@ PJ<y:LabelModel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="64.359375" x="20.81591796875" y="-9.12548828125">Combat Duel<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="71.3857421875" x="17.302734375" xml:space="preserve" y="-8.8203125">Combat Duel<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1156,14 +872,7 @@ PJ<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="24.3447265625" x="-757.377352574402" y="-205.80012682491122">Non<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="25.9365234375" x="-758.173251011902" xml:space="preserve" y="-205.49495104366122">Non<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1184,14 +893,7 @@ PJ<y:LabelModel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="21.5615234375" x="37.35194573071749" y="-9.12548828125">Oui<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="22.9873046875" x="36.63905510571749" xml:space="preserve" y="-8.8203125">Oui<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1204,15 +906,8 @@ PJ<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="30.501953125" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="72.1474609375" x="18.889404296875" y="-285.48265168238004">Conflit à action
-unique<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="29.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="81.703125" x="11.72265625" xml:space="preserve" y="-284.87230011988004">Conflit à action
+unique<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1225,14 +920,7 @@ unique<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="91.048828125" x="4.71337890625" y="334.5321011532841">Combat de Groupe<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="100.912109375" x="-2.68408203125" xml:space="preserve" y="334.8372769345341">Combat de Groupe<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1273,14 +961,7 @@ unique<y:LabelModel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="21.5615234375" x="45.028809178149004" y="-9.12548828125">Oui<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="22.9873046875" x="44.315918553149004" xml:space="preserve" y="-8.8203125">Oui<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1293,15 +974,8 @@ unique<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="30.501953125" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="68.802734375" x="45.080107378239745" y="-67.03507989916466">Si MJ accepte
-le roleplay<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.6783012606269693" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="29.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="72.7578125" x="41.76120107670704" xml:space="preserve" y="-66.45160596475182">Si MJ accepte
+le roleplay<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.6783012606269693" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1314,15 +988,8 @@ le roleplay<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="30.501953125" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="87.71875" x="34.245752215962966" y="139.45435559332236">Absence totale
-de cliché plausible<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.7250805666276345" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="29.28125" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="98.7587890625" x="24.723273795198565" xml:space="preserve" y="140.06470715582236">Absence totale
+de cliché plausible<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.7250805666276345" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1370,14 +1037,7 @@ de cliché plausible<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="21.5615234375" x="34.48489765784507" y="-44.194598006701426">Oui<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.4046388451819155" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="22.9873046875" x="33.483543793603985" xml:space="preserve" y="-43.889422225451426">Oui<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.4046388451819155" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1390,14 +1050,7 @@ de cliché plausible<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="24.3447265625" x="48.992730855605714" y="21.73418021659586">Non<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.553654454178192" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="25.9365234375" x="47.75617970311032" xml:space="preserve" y="22.03935599784586">Non<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.553654454178192" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1486,14 +1139,7 @@ de cliché plausible<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="91.048828125" x="73.62130205973472" y="-83.89503166797681">Oui pour le Groupe<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5177155237021925" segment="-1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="101.185546875" x="65.92897435659597" xml:space="preserve" y="-83.58985588672681">Oui pour le Groupe<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5177155237021925" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1531,14 +1177,7 @@ de cliché plausible<y:LabelModel>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="24.3447265625" x="-892.0038308596854" y="117.44436347138708">Non<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="false" position="center" ratio="0.5787497209213268" segment="1"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="25.9365234375" x="-892.7997292971854" xml:space="preserve" y="117.74953925263708">Non<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="false" position="center" ratio="0.5787497209213268" segment="1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -1549,14 +1188,7 @@ de cliché plausible<y:LabelModel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="18.2509765625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="69.3642578125" x="92.76801627646546" y="-9.125491620153412">Oui pour le PJ<y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" bottomInset="3" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="10" fontStyle="plain" height="17.640625" horizontalTextPosition="center" iconTextGap="4" leftInset="3" lineColor="#000080" modelName="custom" preferredPlacement="anywhere" ratio="0.5" rightInset="3" textColor="#000000" topInset="3" verticalTextPosition="bottom" visible="true" width="73.3486328125" x="90.77582877646546" xml:space="preserve" y="-8.820315838903412">Oui pour le PJ<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="center" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>

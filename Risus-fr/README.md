@@ -8,7 +8,8 @@
 
 ## V1 du flowchart Risus : création de perso + système de jeu
 
-![Risus flowchart](risus-flowchart-small.png)
+* ![Risus flowchart](thumbnail-risus-flowchart.png)
+* Publié sur [itch.io](https://rouboudou.itch.io/risus-flowchart)
 
 Sinon :
 
@@ -122,4 +123,6 @@ Si quelqu'un sort du Groupe, tous les membres du Groupe perdent un dé et celui 
 A la fin, jet de Cliché: si tous les dés sont pairs, +1D au cliché (6D max par cliché). Ou nouveau Cliché à 1.
 
 Ce jet peut être fait en cas d'action exceptionnelle.
+
+
 

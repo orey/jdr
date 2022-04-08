@@ -1,6 +1,6 @@
 #+TITLE: Ressources pour JDR
 #+AUTHOR: rey.olivier@gmail.com
-#+DATE: 2022-01-01
+#+DATE: 2022-04-08
 #+STARTUP: content
 #+LANGUAGE: fr
 #+LATEX_CLASS: article

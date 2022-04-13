@@ -360,10 +360,23 @@ Parfois, le changement est innocent et naturel. Par exemple, /Ne mangez pas les 
 
 Parfois, le changement est plus sinistre et délibéré, avec des PNJs vendant une aventure qui en est en réalité une autre. Cela peut toujours être innocent si les PNJs ont été dupés, ou s'ils sont juste si désespérément en recherche d'aide qu'ils pensent que personne n'aura le courage de s'attaquer au vrai problème.
 
-** Throw yourself a curve
+** Lancez-vous un défi
 
-Your players will, anyway, so practice early. Pick two
-random entries from the Big List and make your adventure on those, no matter
-what comes up - the first one is the hook layer; the second is the meat of
-the adventure. If the same entry comes up both times, go with it! Two layers
-can have a similar structure but very different roots or details.
+Vos joueurs doivent pratiquer le plus tôt possible. Choisissez deux aventures aléatoires dans la Grande Liste et faites votre aventure de cela, quelque soit ce qui sorte : la première est le niveau d'amorce ; la seconde est la chair de l'aventure. Si la même entrée vient à deux reprises, alors faites avec ! Deux niveaux peuvent avoir la même structure mais de très différentes origines ou détails.
+
+** Le doublé, deuxième partie
+
+Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue physique et une intrigue personnelle.
+
+Some very satisfying adventures weave two separate (or
+thematically-related) plots together. An easy way to make this work is to
+make one plot physical and the other plot personal. 
+
+That way just one of the
+plots puts demand on the PCs' location, while the other one can tag along
+anywhere. For example: the PCs are hired to escort a prince to a summit so
+he can appear before the masses and end a war (a physical and simple example
+of Escort Service), but on the way, they realize that the poor guy is suicidal
+because state obligations have ruined his love life, and must prevent his
+self-destruction by either fixing the problem or convincing him to shoulder
+the burden (a personal and metaphorical example of Ounces of Prevention).

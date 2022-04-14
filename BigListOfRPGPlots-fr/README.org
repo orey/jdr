@@ -1,4 +1,4 @@
-#+TITLE: La grande liste des intrigues des JDR
+#+TITLE: La Grande Liste des intrigues des JDR
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-04-25
 #+STARTUP: overview
@@ -366,17 +366,46 @@ Vos joueurs doivent pratiquer le plus tôt possible. Choisissez deux aventures a
 
 ** Le doublé, deuxième partie
 
-Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue physique et une intrigue personnelle.
+Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue /physique/ et une intrigue /personnelle/. Ainsi une seule intrigue pose des contraintes sur la localisation des PJs, alors que la seconde peut intervenir partout.
 
-Some very satisfying adventures weave two separate (or
-thematically-related) plots together. An easy way to make this work is to
-make one plot physical and the other plot personal. 
+Par exemple : les PJs sont embauchés pour escorter un prince à un sommet de sorte qu'il puisse apparaître devant les foules et faire cesser une guerre (un exemple simple et physique de /Service d'escorte/. Mais au cours de l'aventure, les PJs réalisent que le pauvre homme est suicidaire parce que les obligations d'état ont ruiné sa vie amoureuse. Ils doivent empêcher qu'il se suicide soit en résolvant le problème, soit en le convainquant qu'il doit porter cette charge (un example métaphorique et personnel de /Des onces de prévention/).
 
-That way just one of the
-plots puts demand on the PCs' location, while the other one can tag along
-anywhere. For example: the PCs are hired to escort a prince to a summit so
-he can appear before the masses and end a war (a physical and simple example
-of Escort Service), but on the way, they realize that the poor guy is suicidal
-because state obligations have ruined his love life, and must prevent his
-self-destruction by either fixing the problem or convincing him to shoulder
-the burden (a personal and metaphorical example of Ounces of Prevention).
+** Ne paniquez pas
+
+Beaucoup de MJs utilisent la Grande Liste une fois seulement qu'ils ont commencé à paniquer. Ne vous crucifiez pas encore ! En particulier, ne faites pas toute une histoire de l'intrigue, comme beaucoup de MJs font. Toutes les intrigues de cette liste peuvent fournir une structure simple et validée, et la structure est tout ce dont vous avez besoin dans un jeu de rôles.
+
+Le MJ doit jouer de toutes les cordes à sa disposition, la plupart étant des personnages, et non une intrigue. Ce n'est que dans un JDR que vous pouvez expérimenter un personnage fictionnel à un niveau personnel, de première main. Construisez vos aventures pour valoriser le plus possible ce point. Toute intrigue qui contient plus qu'une structure basique a de grandes chances d'attirer l'attention sur autre chose que les personnages, et c'est du gâchis.
+
+Tout ce que vous devez faire est d'être prêt à vous faire porter par l'intrigue et à vous amuser en lui donnant de l'épaisseur. Relaxes-vous. Jouez.
+
+
+
+** And finally...
+
+...voici /La petite liste des intrigues presque universelles qui marchent avec presque n'importe quelle intrigue/ :
+- Les PJs doivent travailler avec un PNJ ou une organisation avec qui ils ne devraient pas devenie proches (ceux qui sont normalement des rivaux ou des méchants, ou juste un expert prétentieux envoyé pour les "aider", etc.).
+- Les victimes sont des méchants et les méchants sont les véritables victimes.
+- Les PJs rencontrent des gens qui peuvent les aider, mais qui ne le feront pas, à moins que les PJs les aident aussi dans leurs propres déboires.
+- Le méchant est quelqu'un que les PJs connaissent personnellement, ou respectent, ou aiment (ou quelqu'un dont ils sont tombés amoureux au milieu de l'histoire).
+- Les PJs doivent réussir sans violence et avec une discrétion spéciale.
+- Les PJs doivent réussir sans avoir accès à des pouvoirs, de l'équipement ou une quelconque ressource qu'ils avaient généralement à leur disposition.
+- Le méchant est, de manière récurrente, un faire-valoir.
+- Un autre groupe
+
+
+ Another group comparable to the PCs has already failed to succeed,
+and their bodies/equipment/etc provide clues to help the PCs do better.
+There are innocents nearby that the PCs must keep safe while dealing with
+the adventure. The adventure begins suddenly and without warning or
+buildup; the PCs are tossed into the fire of action in scene one. The PCs must
+pretend to be someone else, or pretend to be themselves but with very differ-
+ent allegiances, values or tastes. The PCs can't do everything and must
+choose: which evil to thwart? Which innocents to rescue? Which value or
+ideal to uphold? The PCs must make a personal sacrifice or others will suffer.
+The PCs aren't asked to solve the problem, just to render aid against a back-
+drop of larger trouble: get in a shipment of supplies, sneak out a patient that
+needs medical help, or so on. One of the PCs is (or is presumed to be) a lost
+heir, fulfillment of a prophecy, a volcano god, or some other savior and/or
+patsy, which is why the PCs must do whatever the adventure is about. There
+is another group of PC-like characters "competing" on the same adventure,
+possibly with very different goals for the outcome.

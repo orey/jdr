@@ -366,7 +366,6 @@ Vos joueurs doivent pratiquer le plus tôt possible. Choisissez deux aventures a
 
 ** Le doublé, deuxième partie
 
-<<<<<<< HEAD
 Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue /physique/ et une intrigue /personnelle/. Ainsi une seule intrigue pose des contraintes sur la localisation des PJs, alors que la seconde peut intervenir partout.
 
 Par exemple : les PJs sont embauchés pour escorter un prince à un sommet de sorte qu'il puisse apparaître devant les foules et faire cesser une guerre (un exemple simple et physique de /Service d'escorte/. Mais au cours de l'aventure, les PJs réalisent que le pauvre homme est suicidaire parce que les obligations d'état ont ruiné sa vie amoureuse. Ils doivent empêcher qu'il se suicide soit en résolvant le problème, soit en le convainquant qu'il doit porter cette charge (un example métaphorique et personnel de /Des onces de prévention/).
@@ -410,18 +409,3 @@ heir, fulfillment of a prophecy, a volcano god, or some other savior and/or
 patsy, which is why the PCs must do whatever the adventure is about. There
 is another group of PC-like characters "competing" on the same adventure,
 possibly with very different goals for the outcome.
-=======
-Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue physique et une intrigue personnelle. Cela implique que juste une des intrigues pose une contrainte sur la localisation des PJs, tandis que la seconde peut les suivre partout.
-
-Par exemple, les Pjs sont embauchés pour escorter un prince à un sommet de sorte qu'il puisse apparaître devant les masses pour annoncer la fin d'une guerre (une intrigue physique et un exemple simple de /Service d'escorte/). Mais au cours de l'aventure, les PJs réalisent que le pauvre garçon est suicidaire, parce que les obligations de l'état ont ruiné sa vie sentimentale ; ils doivent alors l'empêcher de s'autodétruire soit en résolvant le problème, soit en le convainquant d'accepter le poids des responsabilités (une intrigue personnelle et un exemple métaphorique de /Des onces de prévention/).
-
-** Pas de panique
-
-Un grand nombre de MJs utilisent la Grande Liste une fois qu'ils ont commencé à paniquer. Ne vous flagellez pas trop rapidement ! En particulier, n'accordez pas trop d'importance à l'intrigue comme beaucoup de MJs le font.
-
-Toutes les intrigues de cette liste peuvent fournir une structure qui fonctionne, et la structure est tout ce vous avez besoin pour une intrigue de jeu de rôles. Souvenez-vous d'exploiter les points forts du jeu de rôles, la plupart étant à propos des personnages, et non de l'intrigue. Ce n'est que dans un JDR que vous pouvez expérimenter un personnage fictionnel sur un plan personnel et direct. Mettez l'accent dans vos aventures sur ce point pour en tirer le maximum.
-
-Toute intrigue qui contient plus qu'une structure basique risque de détourner l'attention vers quelque chose d'autre que les personnages, ce qui est un vrai gâchis. Tout ce dont vous avez besoin est de jouer avec les inflexions de l'histoire et de vous amusez en en rajoutant.
-
-Relaxez-vous. Jouez.
->>>>>>> b712e1f7624c25758c82b22e12edb321f306533d

@@ -1,4 +1,4 @@
-#+TITLE: La Grande Liste des intrigues des JDR
+#+TITLE: La grande liste des intrigues de JDR
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-04-25
 #+STARTUP: overview
@@ -366,22 +366,21 @@ Vos joueurs doivent pratiquer le plus tôt possible. Choisissez deux aventures a
 
 ** Le doublé, deuxième partie
 
-<<<<<<< HEAD
-Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue /physique/ et une intrigue /personnelle/. Ainsi une seule intrigue pose des contraintes sur la localisation des PJs, alors que la seconde peut intervenir partout.
+Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue physique et une intrigue personnelle. Cela implique que juste une des intrigues pose une contrainte sur la localisation des PJs, tandis que la seconde peut les suivre partout.
 
-Par exemple : les PJs sont embauchés pour escorter un prince à un sommet de sorte qu'il puisse apparaître devant les foules et faire cesser une guerre (un exemple simple et physique de /Service d'escorte/. Mais au cours de l'aventure, les PJs réalisent que le pauvre homme est suicidaire parce que les obligations d'état ont ruiné sa vie amoureuse. Ils doivent empêcher qu'il se suicide soit en résolvant le problème, soit en le convainquant qu'il doit porter cette charge (un example métaphorique et personnel de /Des onces de prévention/).
+Par exemple, les Pjs sont embauchés pour escorter un prince à un sommet de sorte qu'il puisse apparaître devant les masses pour annoncer la fin d'une guerre (une intrigue physique et un exemple simple de /Service d'escorte/). Mais au cours de l'aventure, les PJs réalisent que le pauvre garçon est suicidaire, parce que les obligations de l'état ont ruiné sa vie sentimentale ; ils doivent alors l'empêcher de s'autodétruire soit en résolvant le problème, soit en le convainquant d'accepter le poids des responsabilités (une intrigue personnelle et un exemple métaphorique de /Des onces de prévention/).
 
-** Ne paniquez pas
+** Pas de panique
 
-Beaucoup de MJs utilisent la Grande Liste une fois seulement qu'ils ont commencé à paniquer. Ne vous crucifiez pas encore ! En particulier, ne faites pas toute une histoire de l'intrigue, comme beaucoup de MJs font. Toutes les intrigues de cette liste peuvent fournir une structure simple et validée, et la structure est tout ce dont vous avez besoin dans un jeu de rôles.
+Un grand nombre de MJs utilisent la Grande Liste une fois seulement qu'ils ont commencé à paniquer. Ne vous flagellez pas trop rapidement ! En particulier, n'accordez pas trop d'importance à l'intrigue comme beaucoup de MJs le font.
 
-Le MJ doit jouer de toutes les cordes à sa disposition, la plupart étant des personnages, et non une intrigue. Ce n'est que dans un JDR que vous pouvez expérimenter un personnage fictionnel à un niveau personnel, de première main. Construisez vos aventures pour valoriser le plus possible ce point. Toute intrigue qui contient plus qu'une structure basique a de grandes chances d'attirer l'attention sur autre chose que les personnages, et c'est du gâchis.
+Toutes les intrigues de cette liste peuvent fournir une structure qui fonctionne, et la structure est tout ce dont vous avez besoin pour une intrigue de jeu de rôles. Souvenez-vous d'exploiter les points forts du jeu de rôles, la plupart étant à propos des personnages, et non de l'intrigue. Ce n'est que dans un JDR que vous pouvez expérimenter un personnage fictionnel sur un plan personnel et direct. Mettez l'accent dans vos aventures sur ce point pour en tirer le maximum.
 
-Tout ce que vous devez faire est d'être prêt à vous faire porter par l'intrigue et à vous amuser en lui donnant de l'épaisseur. Relaxes-vous. Jouez.
+Toute intrigue qui contient plus qu'une structure basique risque de détourner l'attention vers quelque chose d'autre que les personnages, ce qui est un vrai gâchis. Tout ce dont vous avez besoin est de jouer avec les inflexions de l'histoire et de vous amusez en en rajoutant.
 
+Relaxez-vous. Jouez.
 
-
-** And finally...
+** Et au final...
 
 ...voici /La petite liste des intrigues presque universelles qui marchent avec presque n'importe quelle intrigue/ :
 - Les PJs doivent travailler avec un PNJ ou une organisation avec qui ils ne devraient pas devenie proches (ceux qui sont normalement des rivaux ou des méchants, ou juste un expert prétentieux envoyé pour les "aider", etc.).
@@ -391,37 +390,24 @@ Tout ce que vous devez faire est d'être prêt à vous faire porter par l'intrig
 - Les PJs doivent réussir sans violence et avec une discrétion spéciale.
 - Les PJs doivent réussir sans avoir accès à des pouvoirs, de l'équipement ou une quelconque ressource qu'ils avaient généralement à leur disposition.
 - Le méchant est, de manière récurrente, un faire-valoir.
-- Un autre groupe
+- Un autre groupe, comparable à celui des PJs, a déjà échoué, et leurs corps/équipements/etc. fournissent des indices pour aider les PJs à faire mieux.
+- Les PJs doivent protéger des innocents pendant l'aventure.
+- L'aventure démarre soudainement et sans avertissement préalable. Les PJs sont jetés dans le feu de l'action dès la première scène.
+- Les PJs doivent prétendre être d'autres personnes, ou ils restent qui ils sont mais doivent prétendre qu'ils ont des allégeances, des valeurs ou des goûts très différents. 
+- Les PJs ne peuvent pas tout faire et sont obligés de choisir le mal qu'ils vont contrecarrer, les innocents qu'ils vont secourir, les valeurs ou l'idéal qu'ils vont défendre.
+- Les PJs doivent faire un sacrifice personnel ou d'autres vont souffrir.
+- On ne demande pas aux PJs de résoudre le problème, mais juste de fournir de l'aide dans le contexte d'un plus grand problème : prendre part à un transport de vivres, faire sortir en cachette un patient ayant besoin d'assistance médicale, etc.
+- Un des PJ est (ou est présumé être) un héritier perdu, l'accomplissement d'une prophétie, un dieu volcan, ou une autre forme de sauveur et/ou de bouc-émissaire, ce qui est la cause de l'aventure.
+- Un autre groupe de personnages, ressemblant aux PJs, sont en compétition avec eux, possiblement avec des buts différents quand à l'aboutissement.
+
+* A propos de la liste
+
+Cette révision de la Grande Liste est le fruit de plusieurs années supplémentaires de jeux, de conception de jeux, et, avec un peu de chance, de sagesse accumulée. C'est aussi le fruit de lettres de lecteurs qui m'ont titillé quand j'avais négligé quelque chose d'important !
+
+Toutes les suggestions pour étendre cette liste doivent m'être envoyées par email. Elles seront accueillies à bras ouverts avec des bisous baveux. Vous pouvez aussi télécharger cet article sous la forme d'un fichier PDF très classe en visitant la page des téléchargements [insert link here]. Si vous avez aimé cet article, baladez-vous sur le site ou visitez le site de ma société Cumberland Games & Diversions. Le site contient plus d'une centaine de pages parlant de sujets liés au jeux et contient les tonnes de fichiers gratuits à télécharger.
+
+La Grande Liste des intrigues de JDR est dédiée à tous les fans qui m'ont fait savoir à quel point elle avait été utile, et spécialement à ceux qui m'ont aidé à la rendre meilleure : Peter Barnard, Glen Barnett, Colin Clark, David Lott, Jason Puckett, Marc Rees, Carrie Schutrick, et Jeff Yaus, plus quelques mystérieux héros qui ne m'ont jamais donné leur véritable identité. Cette liste est dédiée à tous les MJs qui donnent à leur joueurs de longues et agréables heures de jeux.
+
+Le contenu de cette page est Copyright ©1999, 2002 - S. John Ross.
 
 
- Another group comparable to the PCs has already failed to succeed,
-and their bodies/equipment/etc provide clues to help the PCs do better.
-There are innocents nearby that the PCs must keep safe while dealing with
-the adventure. The adventure begins suddenly and without warning or
-buildup; the PCs are tossed into the fire of action in scene one. The PCs must
-pretend to be someone else, or pretend to be themselves but with very differ-
-ent allegiances, values or tastes. The PCs can't do everything and must
-choose: which evil to thwart? Which innocents to rescue? Which value or
-ideal to uphold? The PCs must make a personal sacrifice or others will suffer.
-The PCs aren't asked to solve the problem, just to render aid against a back-
-drop of larger trouble: get in a shipment of supplies, sneak out a patient that
-needs medical help, or so on. One of the PCs is (or is presumed to be) a lost
-heir, fulfillment of a prophecy, a volcano god, or some other savior and/or
-patsy, which is why the PCs must do whatever the adventure is about. There
-is another group of PC-like characters "competing" on the same adventure,
-possibly with very different goals for the outcome.
-=======
-Certaines aventures très plaisantes sont tissées de deux intrigues séparées ou reliées par le thème. Une façon facile de faire marcher un tel dispositif est de créer une intrigue physique et une intrigue personnelle. Cela implique que juste une des intrigues pose une contrainte sur la localisation des PJs, tandis que la seconde peut les suivre partout.
-
-Par exemple, les Pjs sont embauchés pour escorter un prince à un sommet de sorte qu'il puisse apparaître devant les masses pour annoncer la fin d'une guerre (une intrigue physique et un exemple simple de /Service d'escorte/). Mais au cours de l'aventure, les PJs réalisent que le pauvre garçon est suicidaire, parce que les obligations de l'état ont ruiné sa vie sentimentale ; ils doivent alors l'empêcher de s'autodétruire soit en résolvant le problème, soit en le convainquant d'accepter le poids des responsabilités (une intrigue personnelle et un exemple métaphorique de /Des onces de prévention/).
-
-** Pas de panique
-
-Un grand nombre de MJs utilisent la Grande Liste une fois qu'ils ont commencé à paniquer. Ne vous flagellez pas trop rapidement ! En particulier, n'accordez pas trop d'importance à l'intrigue comme beaucoup de MJs le font.
-
-Toutes les intrigues de cette liste peuvent fournir une structure qui fonctionne, et la structure est tout ce vous avez besoin pour une intrigue de jeu de rôles. Souvenez-vous d'exploiter les points forts du jeu de rôles, la plupart étant à propos des personnages, et non de l'intrigue. Ce n'est que dans un JDR que vous pouvez expérimenter un personnage fictionnel sur un plan personnel et direct. Mettez l'accent dans vos aventures sur ce point pour en tirer le maximum.
-
-Toute intrigue qui contient plus qu'une structure basique risque de détourner l'attention vers quelque chose d'autre que les personnages, ce qui est un vrai gâchis. Tout ce dont vous avez besoin est de jouer avec les inflexions de l'histoire et de vous amusez en en rajoutant.
-
-Relaxez-vous. Jouez.
->>>>>>> b712e1f7624c25758c82b22e12edb321f306533d

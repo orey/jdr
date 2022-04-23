@@ -1,4 +1,4 @@
-#+TITLE: La grande liste des intrigues de JDR
+#+TITLE: La Grande Liste des intrigues de JDR
 #+AUTHOR: Olivier Rey
 #+DATE: 2021-04-25
 #+STARTUP: overview
@@ -10,43 +10,53 @@
 | Traduction et adaptation | O. Rey Avril 2021                                  |
 
 
-* Une aide aux MJ, par John Ross, Version 2
+* Une aide aux MJs, par John Ross, Version 2
 
-Ce qui suit est un ensemble de sujets divers... ma collection d'intrigues de JDR, dans une forme abstraite. J'ai construit cela en examinant les démarrages de centaines d'aventures publiées pour toues les systèmes de jeu (en incluant les systèmes chers à mon coeur n'étant plus imprimés), en tentant de les réduire à des dénominateurs communs. Les résultats sont publiés ici : arbitraires et parfois redondants. Néanmoins, je me retourne vers cette liste quand je sèche sur un nouveau démarrage pour la prochaine session hebdomadaire de ma campagne, quelque soit la campagne. Cela m'aide à ne pas tomber dans les ornières thématiques (ce que je préfère le moins). Avec un peu de chance, cela remplira la même fonction pour vous.
+Ce qui suit est un ensemble de diverses choses... ma collection d'intrigues de JDR, dans une forme abstraite. J'ai construit cela en examinant les démarrages de centaines d'aventures publiées pour tous les systèmes de jeu (en incluant les systèmes chers à mon coeur n'étant plus imprimés), en tentant de les réduire à des dénominateurs communs.
 
-/Note/ : Les intrigues sont arrangées par titre et par ordre alphabétique. Comme les titres sont arbitraires, l'ordre n'a pas d'importance particulière. Et si vous voulez du blabla shakespearien en cinq actes, des intrigues complexes, l'Homme contre Lui-Même ou d'autres stupidités littéraires, essayez le [[https://www.writersdigest.com/][Writer's Digest]]. On n'est pas à Oxford, mec.
+Les résultats sont publiés ici : arbitraires et parfois redondants. Néanmoins, je me retourne vers cette liste quand je sèche sur un nouveau démarrage pour la prochaine session hebdomadaire de ma campagne, quelque soit la campagne. Cela m'aide à ne pas tomber dans les ornières thématiques (ce que je préfère le moins). Avec un peu de chance, cette liste remplira la même fonction pour vous.
+
+/Note/ : Les intrigues sont arrangées par titre et par ordre alphabétique. Comme les titres sont arbitraires, l'ordre n'a pas d'importance particulière. Et si vous voulez du blabla shakespearien en cinq actes, des intrigues complexes, l'Homme contre Lui-Même ou d'autres stupidités littéraires, essayez le [[https://www.writersdigest.com/][Writer's Digest]]. On n'est pas à la Sorbonne, mec.
 
 * 1. Tout vieux port dans une tempête
 
-Les PJ cherchent un abri contre les éléments ou contre une autre menace, et trouvent un endroit pour se terrer. Ils s'aperçoivent qu'ils sont tombés sur quelque chose de dangereux, de secret, ou de surnaturel, et donc doivent y faire face afin de trouver un peu de repos.
+Titre original : /Any Old Port in a Storm/ 
+
+Les PJs cherchent un abri contre les éléments ou contre une autre menace, et trouvent un endroit pour se terrer. Ils s'aperçoivent qu'ils sont tombés sur quelque chose de dangereux, de secret, ou de surnaturel, et donc doivent y faire face afin de trouver un peu de repos.
 
 /Thèmes et rebondissements courants/ :
-- L'abri contient la cause de la menace que les PJ tentaient d'éviter.
+- L'abri contient la cause de la menace que les PJs tentaient d'éviter.
 - L'abri cache une base cachée.
-- Les PJ ne doivent pas seulement se battre pour un abri, mais ils doivent se battre pour survivre.
-- L'endroit est un véritable abri d'un certain genre, mais les PJ ne sont pas les bienvenus et ils doivent gagner les coeurs ou les intellects pour gagner leur lit pour la nuit.
+- Les PJs ne doivent pas seulement se battre pour un abri, mais ils doivent se battre pour survivre.
+- L'endroit est un véritable abri d'un certain genre, mais les PJs ne sont pas les bienvenus et ils doivent gagner les coeurs ou les intellects pour gagner leur lit pour la nuit.
 
 * 2. Mieux vaut tard que jamais
 
-Des méchants sont arrivés et ils ont fait des trucs de méchants. Les PJ n'ont rien compris au film. Les méchants ont décidé de se faire la malle, et les PJ en ont entendu parler à temps pour se lancer à leur poursuite avant qu'ils ne rejoignent leur repaire, leur pays, leurs lignes ennemies, etc.
+Titre original : /Better Late than Never/
+
+Des méchants sont arrivés et ils ont fait des trucs de méchants. Les PJs n'ont rien compris au film. Les méchants ont décidé de se faire la malle, et les PJs en ont entendu parler à temps pour se lancer à leur poursuite avant qu'ils ne rejoignent leur repaire, leur pays, les lignes ennemies, etc.
 
 /Thèmes et rebondissements courants/ :
-- Les méchants se sont enfuis en volant un moyen de transport que les PJ maîtrisent mieux qu'eux.
-- Les méchants empruntent une voie détournée (métaphoriquement ou réellement), tentant de se cacher ou de se fondre dans l'environnement (souvent hostile aux PJ).
+- Les méchants se sont enfuis en volant un moyen de transport que les PJs maîtrisent mieux qu'eux.
+- Les méchants empruntent une voie détournée (métaphoriquement ou réellement), tentant de se cacher ou de se fondre dans l'environnement (souvent hostile aux PJs).
 - Si les méchants passent la "ligne d'arrivée" de l'aventure (passer la frontière, passer en vitesse lumière, etc.), il n'est plus possible de les poursuivre au delà.
 
 * 3. Chantage
 
-Habituellement, en usant de tricherie (et parfois en fouillant dans le passé des PJ), un adversaire possède quelque chose qui est susceptible de faire obéir les PJ. La menace peut être de n'importe quel type depuis une menace physique jusqu'à une menace sociale, mais l'intrigue dépend du fait que le méchant possède quelque chose - même si ce n'est une information - que ne possède pas les autres. Avec cela, il contrôle les PJ en leur disant de faire des choses qu'ils ne veulent pas faire. Les PJ doivent briser le cercle du chantage, priver le méchant de son avantage et le rendre temporairement satisfait tandis qu'ils le font.
+Titre original : /Blackmail/
+
+Habituellement, en usant de tricherie (et parfois en fouillant dans le passé des PJs), un adversaire possède quelque chose qui est susceptible de faire obéir les PJs. La menace peut être de n'importe quel type depuis une menace physique jusqu'à une menace sociale, mais l'intrigue dépend du fait que le méchant possède quelque chose - même si ce n'est une information - que ne possèdent pas les autres. Avec cela, il contrôle les PJs en leur disant de faire des choses qu'ils ne veulent pas faire. Les PJs doivent briser le cercle du chantage, priver le méchant de son avantage et le rendre temporairement satisfait tandis qu'ils le font.
 
 /Thèmes et rebondissements courants/ :
 - L'accroche de l'aventure implique que les personnages doivent d'abord aider le méchant, ce qui permet à ce dernier de les faire chanter (situation cynique).
-- Pour réussir à se sortir du chantage, les PJ doivent contacter d'autres victimes.
-- Les PJ ne sont pas les victimes mais la victime est quelqu'un qu'ils apprécient ou qu'ils sont chargés de protéger.
+- Pour réussir à se sortir du chantage, les PJs doivent contacter d'autres victimes.
+- Les PJs ne sont pas les victimes mais la victime est quelqu'un qu'ils apprécient ou qu'ils sont chargés de protéger.
 
 * 4. Cambriolage
 
-Objectif de la mission : pénétrer dans un endroit dangereux, et rapporter quelque chose  vital ou ramener une personne. Surmonter toutes les difficultés de l'endroit pour y parvenir.
+Titre original : /Breaking and Entering/
+
+Objectif de la mission : pénétrer dans un endroit dangereux, et rapporter quelque chose de vital ou ramener une personne. Surmonter toutes les difficultés de l'endroit pour y parvenir.
 
 /Thèmes et rebondissements courants/ :
 - L'objectif n'est pas de rapporter quelque chose, mais de détruire quelque chose, ou d'interférer dans un processus en cours :
@@ -59,35 +69,41 @@ Objectif de la mission : pénétrer dans un endroit dangereux, et rapporter quel
 - L'objectif a changé de place.
 - L'objectif est une information qui doit être diffusée ou publiée dans le secteur dès qu'elle a été trouvée.
 - Le travail doit être fait dans la plus grande discrétion.
-- Les PJ ne savent pas que l'endroit est dangereux.
-- Les PJ doivent remplacer une chose par une autre chose.
+- Les PJs ne savent pas que l'endroit est dangereux.
+- Les PJs doivent remplacer une chose par une autre chose.
 
-* 5. Conquérir le drapeau
+* 5. Capturez le drapeau
 
-Les PJ doivent sécuriser une cible militaire pour le compte des gentils. Des méchants sont là qui préfèrent ne pas être sécurisés. C'est le scénario tactique par excellence.
+Titre original : /Capture the Flag/
+
+Les PJs doivent sécuriser une cible militaire pour le compte des gentils. Des méchants sont là qui préfèrent ne pas être sécurisés. C'est le scénario tactique par excellence.
 
 /Thèmes et rebondissements courants/ :
-- Les PJ doivent former et/ou entraîner un groupe pour faire le travail à leurs côtés.
-- Les PJ travaillent avec de fausses informations et la zone visée n'est pas telle que décrite dans ces informations.
-- Les PJ doivent se coordonner avec un groupe allié (en mettant possiblement leurs rivalités de côté pour y parvenir).
+- Les PJs doivent former et/ou entraîner un groupe pour faire le travail à leurs côtés.
+- Les PJs travaillent avec de fausses informations et la zone visée n'est pas telle que décrite dans ces informations.
+- Les PJs doivent se coordonner avec un groupe allié (en mettant possiblement leurs rivalités de côté pour y parvenir).
 - La zone visée contient :
   + Une population de gens fragiles ne devant pas être blessés dans la bataille ;
   + Des biens fragiles ou d'autres choses précieuses qui ne doivent pas être endommagés dans les tirs croisés.
 
 * 6. Nettoyer la malédiction
 
-Il existe un endroit où des choses mauvaises vivent. Les PJ doivent sécuriser la zone pour le compte de personnes gentilles, et éradiquer systématiquement tout danger.
+Titre original : /Clearing the Hex/
+
+Il existe un endroit où des choses mauvaises vivent. Les PJs doivent sécuriser la zone pour le compte de personnes gentilles, et éradiquer systématiquement tout danger.
 
 /Thèmes et rebondissements courants/ :
 - Les mauvaises choses ne peuvent pas être battues au travers d'un combat direct.
-- Les PJ doivent apprendre des choses sur ces mauvaises choses pour pouvoir résoudre le problème.
+- Les PJs doivent apprendre des choses sur ces mauvaises choses pour pouvoir résoudre le problème.
 - La maison hantée.
 - La zone est infestée d'extraterrestres.
 - La forêt sauvage.
 
 * 7. Le régal du chercheur de trésors
 
-Les PJ sont des chasseurs de trésors qui ont eu vent de l'existence d'une ruine chargée de trésors. Ils vont l'explorer, et ils doivent faire face à ses habitants surnaturels pour gagner leurs trésors et en sortir vivants.
+Titre original : /Delver's Delight/ 
+
+Les PJs sont des chasseurs de trésors qui ont eu vent de l'existence d'une ruine chargée de trésors. Ils vont l'explorer, et ils doivent faire face à ses habitants surnaturels pour gagner leurs trésors et en sortir vivants.
 
 /Thèmes et rebondissements courants/ :
 - Le trésor lui-même est dangereux.
@@ -95,44 +111,52 @@ Les PJ sont des chasseurs de trésors qui ont eu vent de l'existence d'une ruine
 - Le trésor est la propriété légitime de quelqu'un d'autre.
 - Le trésor a une volonté propre.
 
-* 8. Ne mangez pas les violets (survie)
+* 8. Ne mangez pas les trucs violets
 
-Les PJ échouent dans un endroit étrange, et doivent survivre en trouvant de la nourriture et un abri. Ils doivent ensuite s'inquiéter de comment rentrer chez eux.
+Titre original : /Don't Eat The Purple Ones/ 
+
+Les PJs échouent dans un endroit étrange, et doivent survivre en trouvant de la nourriture et un abri. Ils doivent ensuite s'inquiéter de comment rentrer chez eux.
 
 /Thèmes et rebondissements courants/ :
-- Les PJ ne doivent survivre que pour une courte période de temps en attendant que :
+- Les PJs ne doivent survivre que pour une courte période de temps en attendant que :
   + L'aide arrive,
   + Le navire et/ou la radio ou autre chose soi(en)t réparé(s). Dans les scénarios de "réparation", les PJ doivent parfois découvrir certains faits relatifs à l'environnement qui vont leur permettre de faire les réparations nécessaires.
 
 * 9. Élémentaire, mon cher Watson
 
-Un crime ou une atrocité a été commis(e) ; les PJ doivent le résoudre. Ils doivent interroger les témoins (et s'assurer qu'ils ne font pas tuer), rassembler des indices (et s'assurer qu'elles ne seront pas volées ou détruites). Ils doivent alors assembler des preuves à livrer aux autorités, ou faire la justice eux-mêmes.
+Titre original : /Elementary, My Dear Watson/
+
+Un crime ou une atrocité a été commis(e) ; les PJs doivent le/la résoudre. Ils doivent interroger les témoins (et s'assurer qu'ils ne font pas tuer), rassembler des indices (et s'assurer qu'elles ne seront pas volées ou détruites). Ils doivent alors assembler des preuves à livrer aux autorités, ou faire la justice eux-mêmes.
 
 /Thèmes et rebondissements courants/ :
-- Les PJ travaillent à innocenter quelqu'un qui a été accusé (possiblement eux-mêmes).
-- Les PJ doivent travailler aux côtés d'un enquêteur spécial, ou ils sont obligés de travailler avec un allié dont ils ne voulaient pas.
-- Au milieu de l'aventure, les PJ sont retirés de l'affaire. La demande ou l'autorité pour enquêter est retirée (souvent du fait des manoeuvres politiques d'un adversaire).
+- Les PJs travaillent à innocenter quelqu'un qui a été accusé (possiblement eux-mêmes).
+- Les PJs doivent travailler aux côtés d'un enquêteur spécial, ou ils sont obligés de travailler avec un allié dont ils ne voulaient pas.
+- Au milieu de l'aventure, les PJs sont retirés de l'affaire. La demande ou l'autorité pour enquêter est retirée (souvent du fait des manoeuvres politiques d'un adversaire).
 - Le point culminant de l'histoire se passe dans un tribunal ou dans un autre endroit où l'on rend les jugements.
 - L'échelle de ce genre d'aventures est variable, depuis un meurtre dans une petite ville jusqu'au scandale d'une pollution planétaire.
 
 * 10. Service d'escorte
 
-Les PJ disposent d'un objet de valeur ou sont en charge d'une personne importante. Ils doivent rapporter cet objet à son propriétaire légitime, ramener la personne dans un lieu protégé, etc. Ils doivent entreprendre un voyage dangereux dans lequel une ou plusieurs factions (et la chance et la malchance) vont tenter de leur soustraire la personne sous leur protection ou la chose en leur possession.
+Titre original : /Escort Service/
+
+Les PJs disposent d'un objet de valeur ou sont en charge d'une personne importante. Ils doivent rapporter cet objet à son propriétaire légitime, ramener la personne dans un lieu protégé, etc. Ils doivent entreprendre un voyage dangereux dans lequel une ou plusieurs factions (et la chance et la malchance) vont tenter de leur soustraire la personne sous leur protection ou la chose en leur possession.
 
 /Thèmes et rebondissements courants/ :
-- La chose ou la personne est génératrice de problèmes, elle tente de s'évader ou de se détourner des PJ.
-- La destination a été détruite ou s'est rendue au camp ennemi, et les PJ doivent prendre sur eux de résoudre le problème de la destination ou le problème de la chose ou de la personne elle-même.
+- La chose ou la personne est génératrice de problèmes, elle tente de s'évader ou de se détourner des PJs.
+- La destination a été détruite ou s'est rendue au camp ennemi, et les PJs doivent prendre sur eux de résoudre le problème de la destination ou le problème de la chose ou de la personne elle-même.
 - La personne protégée est un dissident politique.
-- L'arrivée à la destination n'arrête pas l'histoire ; les PJ doivent alors négocier la personne ou la chose comme une marchandise (échange d'argent contre un otage par exemple).
-- Les PJ doivent protéger leur cible sans que le cible ne soit au courant.
+- L'arrivée à la destination n'arrête pas l'histoire ; les PJs doivent alors négocier la personne ou la chose comme une marchandise (échange d'argent contre un otage par exemple).
+- Les PJs doivent protéger leur cible sans que le cible ne soit au courant.
 
 * 11. Une maison en ordre
 
-Les PJ sont placés à la tête d'une grande opération (une compagnie commerciale, une baronnie féodale, la CIA, etc.) et doivent, malgré leur manque d'expérience dans ce domaine, la faire fonctionner et prospérer.
+Titre original : /Good Housekeeping/
+
+Les PJs sont placés à la tête d'une grande opération (une compagnie commerciale, une baronnie féodale, la CIA, etc.) et doivent, malgré leur manque d'expérience dans ce domaine, la faire fonctionner et prospérer.
 
 /Thèmes et rebondissements courants/ :
-- Les PJ sont embarqués dans cette histoire parce que quelque chose d'important se prépare et l'ancienne garde se ménage une change de d'enfuir.
-- Les paysans, voisins, employés, etc., en veulent aux PJ parce qu'ils n'apprécient pas leurs méthodes et que tout le monde aimait l'ancien patron.
+- Les PJs sont embarqués dans cette histoire parce que quelque chose d'important se prépare et l'ancienne équipe se ménage une chance de d'enfuir.
+- Les paysans, voisins, employés, etc., en veulent aux PJs parce qu'ils n'apprécient pas leurs méthodes et que tout le monde aimait l'ancien patron.
 
 * 12. La cavalerie arrive
 
@@ -333,9 +357,11 @@ Les PJs sont des explorateurs et leur but est d'entrer dans un territoire inconn
 
 /Thèmes et rebondissements courants/ :
 - L'endroit est soit menaçant en lui-même (auquel cas les PJs doivent à la fois jouer au photographe de Geo et tenter de s'en échapper vivants, sains d'esprit et crédibles), soit l'endroit est de grande valeur et merveilleux, et quelque chose d'autres est là qui doit s'assurer que les PJs ne pourront pas propager l'information.
-- D'autres conflits potentiels impliquent des dommages au moyen de transport des PJs et à leur équipement, auquel cas le scénario se transforme en /Ne mangez pas les violets/
+- D'autres conflits potentiels impliquent des dommages au moyen de transport des PJs et à leur équipement, auquel cas le scénario se transforme en /Ne mangez pas les trucs violets/
 
-* 34. Nous sommes en dehors regardant dedans
+* 34. Renversement de perspective
+
+Titre original : /We're On The Outside Looking In/
 
 Toutes les intrigues basiques de cette liste peuvent être remodelées avec les PJs en dehors. Les PJs peuvent accompagner d'autres personnages qui sont au milieu de telles intrigues (ayant souvent été appelés pour résoudre l'intrigue de l'extérieur) ; ou ils peuvent être en train de se méler de leurs propres affaires lorsque ceux qui sont impliqués dans l'intrigue arrivent, forçant les PJs à prendre partie ou à simplement résister.
 
@@ -356,7 +382,7 @@ J'ai écrit des intrigues dans la langue (tipyque très physique) du genre actio
 
 Une méthode basique amusante est le jeu du caméléon, où une aventure se présente comme un type d'histoire dans le niveau d'amorçage, puis se révèle être quelque chose d'autre.
 
-Parfois, le changement est innocent et naturel. Par exemple, /Ne mangez pas les violets/ est un bon démarrage pour /L'affrontement/, et /Très étrange maman/ est une piste logique pour /La boîte de Pandore/.
+Parfois, le changement est innocent et naturel. Par exemple, /Ne mangez pas les trucs violets/ est un bon démarrage pour /L'affrontement/, et /Très étrange maman/ est une piste logique pour /La boîte de Pandore/.
 
 Parfois, le changement est plus sinistre et délibéré, avec des PNJs vendant une aventure qui en est en réalité une autre. Cela peut toujours être innocent si les PNJs ont été dupés, ou s'ils sont juste si désespérément en recherche d'aide qu'ils pensent que personne n'aura le courage de s'attaquer au vrai problème.
 

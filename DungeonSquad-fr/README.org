@@ -1,43 +1,6 @@
-#+TITLE: Dungeon Squad! - Version Française
-#+AUTHOR: Olivier Rey
-#+EMAIL: rey.olivier@gmail.com
-#+DATE: 2021-10-03
-#+STARTUP: overview
+* Dungeon Squad, version française
 
-[[file:logo.png]]
-
-** Introduction
-
-   Dungeon Squad est un jeux de rôles conçu pour les jeunes joueurs qui ont des plages d'attention réduites et qui demandent de l'action et du fun. Il faut jeter beaucoup de dés et il est possible de faire des choses amusantes comme du shopping ou des calculs. Les personnages peuvent être créés en 30 secondes.
-
-#+ATTR_HTML: :border 2 :rules all :frame border
-| Concepteur                   | (C) Jason Morningstar                                           |
-| Version traduite             | 2005                                                            |
-| PDF original                 | [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/dungeon_squad.pdf][dungeonsquad.pdf]]                                                |
-| Version                      | 1.0                                                             |
-| Traduction et adaptation     | (C) O. Rey 2021                                                 |
-|                              | Le jeu a été remanié dans sa présentation pour être plus clair. |
-|                              | Les règles ajoutées ont été signalées.                          |
-| Octobre 2021                 | Corrections diverses                                            |
-|                              | Intégration du générateur de rencontres                         |
-|                              | Mise en place des tags pour génération Latex/PDF                |
-
-** Téléchargements
-
-*** Les règles + un générateur de rencontres
-
-- Les règles en PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.pdf][DungeonSquad! Version Française]]
-- Les règles sur GitHub : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquad-VersionFrancaise-OreyJdr01.org][DungeonSquad! Version Française]]
-
-*** Feuille de personnage
-
-- Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.pdf][Feuille de perso PDF]]
-- Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-FeuillePerso.odp][Feuille de perso ODP]]
-
-*** Ecran
-
-- Version PDF : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.pdf][Ecran PDF]]
-- Version ODP : [[https://github.com/orey/jdr/blob/master/DungeonSquad-fr/DungeonSquadFr-Ecran.odp][Ecran ODP]]
-
-[[file:logo-orey.png]]
+Voir :
+- Sur Itch : https://rouboudou.itch.io/dungeonsquad-fr
+- Repo dédié : https://github.com/orey/jdr-dungeon-squad-fr
 

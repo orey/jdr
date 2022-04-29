@@ -1,0 +1,120 @@
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+
+% TODO Vérifier la géométrie
+% centering
+% marginratio=1:1
+% vcentering
+%\usepackage[a4paper,margin=1in,portrait]{geometry}
+\usepackage[a4paper,left=1.5cm,right=1.5cm,top=1cm,bottom=1cm,includeheadfoot,centering,vcentering,portrait]{geometry}
+
+% couleur pour les tables
+\usepackage[table]{xcolor}
+\definecolor{lightgray}{gray}{0.90}
+\definecolor{verylightgray}{gray}{0.99}
+\let\oldtabular\tabular
+\let\endoldtabular\endtabular
+\renewenvironment{tabular}{\rowcolors{1}{lightgray}{verylightgray}\oldtabular}{\endoldtabular}
+
+% Pour le bas de page
+\newcommand{\mysmallgray}[1]{\scriptsize\color{gray}#1}
+
+\usepackage{comment}
+
+% TODO vérifier l'espace entre les colonnes
+\usepackage{multicol}
+\setlength{\columnsep}{0.7cm}
+
+\usepackage{wrapfig}
+
+\usepackage{graphicx}
+
+% TODO Remplir les champs
+\newcommand{\mytitle}{La Grande Liste des intrigues de JDR}
+\newcommand{\myauthor}{S. John Ross/Olivier Rey}
+\newcommand{\mysubject}{Jeu de rôles}
+\newcommand{\mykeywords}{JDR,TTRPG,RPG,AideDeJeu,orey,GrandeListe,BigList}
+
+% PDF
+\usepackage{hyperref}
+\hypersetup{
+  a4paper=true,
+  pdftitle={\mytitle},
+  pdfauthor={\myauthor},
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  pdfsubject={\mysubject},
+  pdfkeywords ={\mykeywords},
+  pdfstartview={FitH},
+  bookmarksopen={false},
+  bookmarksnumbered={true}
+}
+
+% TODO Header and footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[L]{}
+\fancyhead[C]{{\color{violet}\textbf{{\Huge L}{\LARGE a} {\Huge G}{\LARGE RANDE} {\Huge L}{\LARGE ISTE des intrigues de JDR}}}}
+\fancyhead[R]{}
+
+\fancyfoot[L]{\scriptsize Version 1.0}
+\fancyfoot[C]{\scriptsize \thepage}
+\fancyfoot[R]{\scriptsize \copyright\ \href{https://ghalev.itch.io/}{S. John Ross}/\href{https://github.com/orey/jdr-biglist-fr}{Olivier Rey}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Sections avec points après les numéros
+\usepackage{titlesec}
+\titlelabel{\thetitle.\quad}
+\titleformat*{\section}{\color{violet}\bfseries\Large}
+\titleformat*{\subsection}{\color{violet}\bfseries\large}
+\usepackage[dotinlabels]{titletoc}
+
+\AtBeginDocument{
+  \addtocontents{toc}{\footnotesize}
+  \addtocontents{lof}{\footnotesize}
+}
+
+% Enlève l'indentation pour tout le documnt (équivalent de \noindent sur toutes les lignes)
+%\setlength\parindent{0pt}
+
+% Mes macros
+\newcommand{\mysection}[1]{
+\vspace{0.2cm}
+\noindent{\color{violet}\large\textbf{#1}}
+}
+
+\newcommand{\mysubsection}[1]{
+\vspace{0.1cm}
+\noindent{\textit{\textbf{#1}}}
+}
+
+%\renewcommand{\section}[1]{
+%\vspace{0.2cm}
+%\noindent{\color{violet}\large\textbf{#1}}
+%}
+
+
+%\newcommand{\titreoriginal}[1]{\noindent Titre original : \textit{#1}}
+\newcommand{\titreoriginal}[1]{\noindent\begin{tabular}{lp{5.35cm}}
+Titre original : & \emph{#1} \\
+\end{tabular}}
+
+
+%\newcommand{\themes}{\noindent \textit{Thèmes et rebondissements courants :}}
+\newcommand{\themes}{\vspace{.3cm}\noindent\begin{tabular}{p{8.25cm}}
+Thèmes et rebondissements courants : \\
+\end{tabular}}
+
+%=======================================DOC
+\begin{document}
+
+
+\input{biglist-fr}
+
+
+
+\end{document}

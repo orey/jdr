@@ -26,7 +26,8 @@ Ce repo est le premier d'un cycle de 3. Voici les deux suivants :
 #+name: Part1
 
 #+ATTR_HTML: :border 2 :rules all :frame border
-#+ATTR_LATEX: :environment longtable :align p{0.6cm}p{2cm}p{1.5cm}p{4cm}cccp{3.8cm}
+#+ATTR_LATEX: :environment longtable :align p{0.6cm}p{2cm}p{1.5cm}p{4cm}cccp{3.8
+cm}
 | *Date* | *JDR-RPG*           | *Type*           | *Livrable*                           | *Format* | *Ref* | *Itch* | *Commentaire*                                       |
 |   2022 | [[https://github.com/orey/jdr-risus][Risus]]               | Ecran du MJ      | [[https://rouboudou.itch.io/risus][Traduction écran américain]]           | PDF      |    09 | Y      | L'écran américain traduit                           |
 |   2022 | [[https://github.com/orey/jdr-risus][Risus]]               | Ecran du MJ      | [[https://rouboudou.itch.io/risus][Un écran avec toutes les règles]]      | PDF      |    05 | Y      | Ecran original pour Risus                           |

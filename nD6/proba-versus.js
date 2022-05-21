@@ -1,7 +1,9 @@
 "use strict";
 
-const VERBOSE=true;
+const VERBOSE = true;
 //const VERBOSE=false;
+
+const PERCENTAGE_FIGURE_NUMBER = 2;
 
 let myconsole = {
     log : function(s) {
@@ -35,7 +37,7 @@ myconsole.log(  number1.toString() + " - " + faces1.toString() + " - "
               + number2.toString() + " - " + faces2.toString() );
 
 function myPercentFormat(i){
-    return (i*100).toFixed(3).toString() + "%";
+    return (i*100).toFixed(PERCENTAGE_FIGURE_NUMBER).toString() + "%";
 }
 
 
@@ -47,7 +49,7 @@ class Fighter {
         this.combinb = [];
         // current combi - starts at 0, 
         this.combi = new Array(this.number).fill(1);
-        myconsole.log(this.combi);
+        //myconsole.log(this.combi);
     }
 
     // takes combi as global variable
@@ -89,6 +91,10 @@ class Fighter {
         }
     }
 
+    equalTargetNumber(tn){
+        return this.combinb[tn] / Math.pow(this.faces,this.number);  
+    }
+
     moreOrEqualThanTargetNumber(tn){
         if (tn > this.number*this.faces)
             return 0;
@@ -103,6 +109,8 @@ class Fighter {
     strictlyMoreThanTargetNumber(tn){
         if (tn >= this.number*this.faces)
             return 0;
+        if (tn < this.number)
+            return 1; // 100%
         let siz = this.combinb.length;
         let sub = this.combinb.slice(tn+1,siz);
         if (sub.length == 0) return NaN;
@@ -119,7 +127,7 @@ class Fighter {
     }
 
     lessOrEqualThanTargetNumber(tn){
-        if (tn > this.number*this.faces)
+        if (tn < this.number)
             return 0;
         let siz = this.combinb.length;
         let sub = this.combinb.slice(this.number,tn+1);
@@ -143,7 +151,7 @@ class Fighter {
     calculate() {
         this.takeCombiIntoAccount(); // 1,1,...,1 the first
         while (this.nextcombi(this.number-1)){
-            myconsole.log(this.combi);
+            //myconsole.log(this.combi);
             this.takeCombiIntoAccount()
         }
         myconsole.log(this.check());
@@ -167,28 +175,37 @@ fighter2.calculate();
 // seen from fighter1
 let win=0, loose=0;
 console.log("--------------------------------------------");
-console.log("--- Seen from fighter 1 ---");
+console.log("--- Seen from fighter 1: strict WIN, loose or equal ---");
 
 let max = number1 * faces1;
 for (let tn=number1;tn<=max;tn++){
     // real win
-    let a = fighter1.moreOrEqualThanTargetNumber(tn);
-    let b = fighter2.strictlyLessThanTargetNumber(tn);
-    console.log("WIN");
-    console.log(a);
-    console.log(b);
-    let temp1 = a*b;
+    let temp1 = fighter1.equalTargetNumber(tn) * fighter2.strictlyLessThanTargetNumber(tn);
+    // loose or ex-aequo
+    let temp2 = fighter1.equalTargetNumber(tn) * fighter2.moreOrEqualThanTargetNumber(tn);
+    console.log("TN = " + tn + " - Win = " + myPercentFormat(temp1) + " - Loose = " + myPercentFormat(temp2));
     win += temp1;
-    //real loose
-    a = fighter1.strictlyLessThanTargetNumber(tn);
-    b = fighter2.moreOrEqualThanTargetNumber(tn);
-    console.log("LOOSE");
-    console.log(a);
-    console.log(b);
-    let temp2 =  a*b;
-    myconsole.log("TN = " + tn.toString() + " - WIN % : " +  myPercentFormat(temp1) + " - LOOSE % : " + myPercentFormat(temp2));
     loose += temp2;
 }
+
+console.log("WIN = " + myPercentFormat(win) + " - LOOSE = " +  myPercentFormat(loose));
+console.log( myPercentFormat(win+loose));
+
+win =0;
+loose = 0;
+console.log("--- Seen from fighter 1: win or equal, strict loose ---");
+for (let tn=number1;tn<=max;tn++){
+    // real win
+    let temp1 = fighter1.equalTargetNumber(tn) * fighter2.lessOrEqualThanTargetNumber(tn);
+    // loose or ex-aequo
+    let temp2 = fighter1.equalTargetNumber(tn) * fighter2.strictlyMoreThanTargetNumber(tn);
+    console.log("TN = " + tn + " - Win = " + myPercentFormat(temp1) + " - Loose = " + myPercentFormat(temp2));
+    win += temp1;
+    loose += temp2;
+}
+
+console.log("WIN = " + myPercentFormat(win) + " - LOOSE = " +  myPercentFormat(loose));
+console.log( myPercentFormat(win+loose));
 
 
 

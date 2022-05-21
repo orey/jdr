@@ -32,9 +32,9 @@ if (isNaN(number) || isNaN(faces)){
 myconsole.log(number);
 myconsole.log(faces);
 
-// values starts at 1
+// combinb - values starts at "number"
 let combinb = [];
-// starts at 0, current combi
+// current combi - starts at 0, 
 let combi = new Array(number).fill(1);
 myconsole.log(combi);
 
@@ -84,7 +84,31 @@ myconsole.log(check());
 console.log("=> " + Math.pow(faces,number).toString() + " combinations");
 printCombiNb();
 
+function moreThanOrEqualToTargetNumber(tn){
+    if (tn > number*faces)
+        return 0;
+    let siz = combinb.length;
+    let sub = combinb.slice(tn,siz);
+    return sub.reduce(function(a, b){return a+b;}) / Math.pow(faces,number);    
+}
 
+function percentageMoreThanOrEqualToTargetNumber(format=1){
+    let max = number*faces;
+    for (let tn=number;tn<=max;tn++){
+        if (format !=1)
+            console.log("TN = "
+                        + tn.toString()
+                        + " - "
+                        + (moreThanOrEqualToTargetNumber(tn)*100).toFixed(2).toString()
+                        + "%");
+        else
+            console.log(tn.toString()
+                        + ","
+                        + (moreThanOrEqualToTargetNumber(tn)*100).toFixed(2).toString()
+                        + "%");
+    }
+}
 
+percentageMoreThanOrEqualToTargetNumber();
 
 

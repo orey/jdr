@@ -2,7 +2,7 @@
 
 ## Contexte
 
-En jouant avec [Risus](https://github.io/orey/jdr-risus), JDR dans lequel les PJs ont un certain nombre de D6 dans un Cliché et font des combats en jetant les dés de leur Clichés en tentant de faire plus que leur adversaire, on peut se poser la question de la probabilité de succès d'un des joueurs ayant un ou plusieurs dés de moins que son adversaire.
+En jouant avec [Risus](https://github.com/orey/jdr-risus), JDR dans lequel les PJs ont un certain nombre de D6 dans un Cliché et font des combats en jetant les dés de leur Clichés en tentant de faire plus que leur adversaire, on peut se poser la question de la probabilité de succès d'un des joueurs ayant un ou plusieurs dés de moins que son adversaire.
 
 En effet, le jet de plusieurs dés donné des courbes en cloche (comme [expliqué ici](https://github.com/orey/jdr/tree/master/D6-System)). Quid donc de *l'intersection* de deux courbes en cloches décalée d'un ou plusieurs dés ?
 

@@ -1,6 +1,0 @@
-* Readme
-
-[[file:nD6-versus-mD6.png]]
-
-Un petit blabla est disponible sur mon blog : https://cthulhu-fhtagn-a-lot.blogspot.com/2022/05/enfin-les-probabilites-de-x-d6-contre-y.html
-

@@ -51,50 +51,8 @@ Ce repo est le premier d'un cycle de 3. Voici les deux suivants :
 
 ** Sites de jeux en français
 
-#+ATTR_HTML: :border 2 :rules all :frame border
-#+ATTR_LATEX: :environment longtable :align p{7cm}p{7cm}
-| *Type*                                               | *Site*                                                                      |
-| *C*                                                  |                                                                             |
-| Le cénotaphe                                         | http://casquenoir.free.fr/index.php                                         |
-| Créatures légendaires                                | https://fr.wikipedia.org/wiki/Liste_de_cr%C3%A9atures_l%C3%A9gendaires      |
-| *D*                                                  |                                                                             |
-| Blog de Jérôme Darmont                               | http://darmont.free.fr/                                                     |
-| Discussions de Rôlistes Ouvertes et Libres           | https://www.facebook.com/groups/254213402190606                             |
-| *E*                                                  |                                                                             |
-| Echecs: Check & Strategy, site en français           | https://www.chess-and-strategy.com                                          |
-| Empire Galactique JDR, un classique                  | https://sites.google.com/site/empiregalact                                  |
-| Egrégore, un JDR fantastique                         | https://business.facebook.com/EgregoreJdR/?business_id=456290144533916      |
-| Epées et Sorcellerie JDR                             | https://sites.google.com/site/wizardinabottle/epeesetsorcellerie            |
-| *F*                                                  |                                                                             |
-| Une traduction française du RPG "FU"                 | https://brunobord.gitbooks.io/fu-rpg-libre-et-universel/                    |
-| Faenix                                               | https://chezfaenyx.blogspot.com/2021/11/20-jeux-20-questions-episode-3.html |
-| Traduction française de Fudge                        | http://fudge.ouvaton.org/                                                   |
-| *G*                                                  |                                                                             |
-| Giannirateur de scénarios                            | http://loukoum.online.fr/jdr/adj/gianni1.htm                                |
-|                                                      | http://loukoum.online.fr/jdr/scenars/defi2012.htm#47                        |
-| Le Grog, répertoire de JDR et news                   | http://www.legrog.org/                                                      |
-| *H*                                                  |                                                                             |
-| Harry Potter JDR, un très beau travail               | https://www.geek-it.org/harry-potter-jdr                                    |
-| Heroquest, un site de fan                            | https://www.heroquest-revival.com                                           |
-| *I*                                                  |                                                                             |
-| Imaginos                                             | https://blogs.bl0rg.net/imaginos/                                           |
-| L'insoutenable légèreté du joueur                    | [[http://linsoutenablelegeretedujoueur.over-blog.com/][linsoutenablelegeretedujoueur.over-blog.com]]                                 |
-| *K*                                                  |                                                                             |
-| Koma JDR et autres jeux de Xavier Raoult             | http://komajdr.free.fr/?page_id=96                                          |
-| *L*                                                  |                                                                             |
-| Les jeux d'Olivier Legrand                           | http://storygame.free.fr/                                                   |
-| *M*                                                  |                                                                             |
-| Maléfices vieux suppléments                          | https://www.scribd.com/user/381722775/Jean-Charles-BLANGENOIS               |
-| Méga 1, le jeu complet                               | https://archive.org/details/jeux-et-strategie-hs-1                          |
-| Méga 2, le jeu complet                               | https://archive.org/details/jeux-et-strategie-hs-2                          |
-| Méga 4, un site avec des suppléments exceptionnels ! | [[https://www.messagers-galactiques.com][messagers-galactiques.com]]                                                   |
-| *O*                                                  |                                                                             |
-| Osric JDR                                            | https://osric.fr                                                            |
-| *P*                                                  |                                                                             |
-| Les meilleurs articles TTRPG traduits                | [[https://ptgptb.fr][ptgptb.fr]]                                                                   |
-| *V*                                                  |                                                                             |
-| La voix d'Héort, ressources pour Glorantha           | https://heort.wordpress.com/                                                |
-|                                                      |                                                                             |
+Voir [[https://orey.github.io/blog/links/][orey.github.io/blog/links/]]
+
 
 ** Magazines en français
 

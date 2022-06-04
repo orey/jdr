@@ -1,4 +1,3 @@
-cls
 @echo off
 
 if "%1" == "" ( 

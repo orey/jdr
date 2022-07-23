@@ -77,9 +77,10 @@ Voir [[https://orey.github.io/blog/links/][orey.github.io/blog/links/]]
 #+ATTR_HTML: :border 2 :rules all :frame border
 #+ATTR_LATEX: :environment longtable :align cp{2cm}p{1.5cm}p{7cm}ccc
 | *Date* | *Game*                       | *Type*           | *Comment*                                                                      | *Note* | *OSR* | *Ongoing* |
-|   2022 | Ghostbusters 1984 & 1986     | Fantômes         | Un système de jeu hyper simple, à la source de la vague D6 avec pools          | *5/5*  | N     | *Y*       |
-|   2022 | Méga                         | Sci-Fi           | Un jeu fantastique par son univers. Procurez-vous l'univers de Méga 4 !        | *5/5*  | N     | *Y*       |
-|   2022 | Risus                        | Generic system   | Bon, je me ravise, c'est un bon jeu. Se procurer l'écran pour les probas.      | 4/5    | N     | *Y*       |
+|   2002 | [[https://www.colostle.com/][Coloste]]                      | Science Fantasy  | Un JDR solo assez amusant un peu poétique avec jeu de 64 cartes                | 4/5    | N     | *Y*       |
+|   2022 | Ghostbusters 1984 & 1986     | Fantômes         | Un système de jeu hyper simple, à la source de la vague D6 avec pools          | *5/5*  | N     | Later     |
+|   2022 | Méga                         | Sci-Fi           | Un jeu fantastique par son univers. Procurez-vous l'univers de Méga 4 !        | *5/5*  | N     | Later     |
+|   2022 | Risus                        | Generic system   | Bon, je me ravise, c'est un bon jeu. Se procurer l'écran pour les probas.      | 4/5    | N     | Later     |
 |   2022 | AD&D 1e, version US          | Heroic Fantasy   | Un travail colossal, un Gary Gygax au sommet de sa forme ! La matrice du JDR ! | *5/5*  | -     | Later     |
 |   2022 | [[https://www.cortexrpg.com/compendium/explore-the-rules/][Cortex]]                       | Generic System   |                                                                                | -      | N     | Later     |
 |   2022 | [[https://www.drivethrurpg.com/product/117563][The Void]]                     | Horror Sci-Fi    | Interesting Cthulu Saga in space                                               | -      | N     | N         |

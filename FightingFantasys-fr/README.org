@@ -25,6 +25,5 @@ Nous avons repris les principales règles de ce dernier livre pour proposer un j
 
 ** Téléchargements
 
-- Règles du jeu en PDF : [[https://github.com/orey/jdr/blob/master/FightingFantasys-fr/FightingFantasy-VersionFrancaise-OreyJdr03.pdf][Fighting Fantasy - Version Française]]
-- Règles du jeu sur Github : [[https://github.com/orey/jdr/blob/master/FightingFantasys-fr/FightingFantasy-VersionFrancaise-OreyJdr03.org][Fighting Fantasy - Version Française]]
+Veuillez vous reporter au repo dédié : https://github.com/orey/jdr-ff
 

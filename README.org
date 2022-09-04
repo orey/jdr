@@ -1,0 +1,356 @@
+#+TITLE: Ressources pour JDR
+#+AUTHOR: rey.olivier@gmail.com
+#+DATE: 2022-04-08
+#+STARTUP: content
+#+LANGUAGE: fr
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt, twoside]
+#+LATEX_HEADER: \usepackage{baskervillef}
+#+LATEX_HEADER: \usepackage{geometry}\geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm,}
+#+LATEX_HEADER: \usepackage{hyperref}\hypersetup{pdfauthor={Olivier Rey}, pdftitle={Ressources pour JDR}, pdfkeywords={jdr, ressources, orey-jdr}, pdfsubject={jeu de rôles}, pdfcreator={Emacs 26.1 (Org mode 9.1.9)}, pdflang={French}, colorlinks=true, linkcolor={blue}, urlcolor={blue}}
+#+LATEX_HEADER: \usepackage{titlesec}\titlelabel{\thetitle. \quad}
+#+LATEX_HEADER: \usepackage[table,svgnames]{xcolor}\rowcolors{1}{Gainsboro}{WhiteSmoke}
+#+LATEX_HEADER: \usepackage{etoolbox}\AtBeginEnvironment{longtable}{\small}
+#+EXPORT_FILE_NAME: RessourcesPourJDR-ORey.pdf
+
+#+ATTR_LATEX: :width 4cm
+[[file:logo-orey.png]]
+
+Les différents dossiers de ce repo contiennent des ressources en français pour JDR ou des traductions (voir aussi la [[file:RessourcesPourJDR-ORey.pdf][version PDF de cette page]]).
+
+Ce repo est le premier d'un cycle de 3. Voici les deux suivants :
+- [[https://github.com/orey/DandD][github.com/orey/DandD]] : Un repo en anglais dédié à D&D, tout spécialement aux vieilles choses (0e et 1e),
+- [[https://github.com/orey/ttrpg][github.com/orey/ttrpg]] : Un repo en anglais dédié à de nombreux jeux de rôles et contenant une grande liste de liens.
+
+* Dernières livraisons
+#+name: Part1
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align p{0.6cm}p{2cm}p{1.5cm}p{4cm}cccp{3.8cm}
+| *Date* | *JDR-RPG*           | *Type*            | *Livrable*                           | *Format* | *Ref* | *Itch* | *Commentaire*                                       |
+|   2022 | [[https://github.com/orey/jdr-risus][Risus]]               | JDR + aide de jeu | [[https://rouboudou.itch.io/risus][Ecran complet jeu + écran]]            | PDF      |    12 | Y      | Un travail de meilleur qualité                      |
+|   2022 | [[https://github.com/orey/cthulhu-dark-fr][Cthulhu Dark]]        | JDR               | [[https://rouboudou.itch.io][Traduction et mise en page]]           | PDF      |    11 | Y      | Le premier PDF avec une couverture !                |
+|   2022 | [[https://github.com/orey/jdr-risus][Risus]]               | Ecran du MJ       | [[https://rouboudou.itch.io/risus][Traduction écran américain]]           | PDF      |    09 | Y      | L'écran américain traduit                           |
+|   2022 | [[https://github.com/orey/jdr-risus][Risus]]               | Ecran du MJ       | [[https://rouboudou.itch.io/risus][Un écran avec toutes les règles]]      | PDF      |    05 | Y      | Ecran original pour Risus                           |
+|   2022 | Tous                | Aide de jeu       | [[https://rouboudou.itch.io/la-grande-liste-des-intrigues-de-jdr][La Grande Liste des intrigues de JDR]] | PDF      |    06 | Y      | Traduction originale de la liste de S. John Ross    |
+|   2022 | [[https://github.com/orey/jdr/tree/master/Mythic-fr][Mythic]]              | GM Emulator       | [[https://github.com/orey/jdr/blob/master/Mythic-fr/MythicGME-EcranMJ-VersionFrancaise-OreyJdr05.pdf][Ecran en français pour Mythic GME]]    | PDF      |    05 | N      | Traduction originale                                |
+|   2021 | [[https://github.com/orey/jdr/tree/master/Fudge-fr][Fudge]] Department 13 | JDR               | [[https://github.com/orey/jdr/blob/master/Fudge-fr/Division13/Department13-FeuillePerso.pdf][Feuille de perso Department 13]]       | PDF      |       | N      | Pour le setting Department 13                       |
+|   2021 | [[https://github.com/orey/jdr-fudge][Fudge]]               | JDR               | [[https://rouboudou.itch.io/fudge][Fudge en une page]]                    | PDF      |    04 | Y      | Traduction originale                                |
+|   2021 | [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][Fighting Fantasy VF]] | JDR               | [[https://github.com/orey/jdr/blob/master/FightingFantasys-fr/FightingFantasy-VersionFrancaise-OreyJdr03.pdf][Fighting Fantasy Version Française]]   | PDF      |    03 | N      | Traduction et adaptation originale                  |
+|   2021 | Tous                | Aide de jeu       | [[https://rouboudou.itch.io/dungeonsquad-fr][Générateur de labyrinthe pour JDR]]    | PDF      |    02 | Y      | Traduction et adaptation originale                  |
+|   2021 | [[https://github.com/orey/jdr-dungeon-squad-fr][DungeonSquad! VF]]    | JDR pour enfants  | [[https://rouboudou.itch.io/dungeonsquad-fr][DungeonSquad! Version Française]]      | PDF      |    01 | Y      | Traduction et adaptation originale                  |
+|   2021 | [[https://github.com/orey/jdr-dungeon-squad-fr][DungeonSquad! VF]]    | JDR pour enfants  | [[https://rouboudou.itch.io/dungeonsquad-fr][Feuille de perso]]                     | PDF      |       | Y      | Pour fille et garçon                                |
+|   2021 | [[https://github.com/orey/jdr-dungeon-squad-fr][DungeonSquad! VF]]    | JDR pour enfants  | [[https://rouboudou.itch.io/dungeonsquad-fr][Ecran]]                                | PDF      |       | Y      | Un outil indispensable                              |
+|   2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur           | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-EcranComplementaire.pdf][Ecran complémentaire MJ]]              | PDF      |       | N      | Ecran complémentaire MJ                             |
+|   2021 | [[https://github.com/orey/jdr/tree/master/AppelDeCthulhu][Appel de Cthulhu]]    | Horreur           | [[https://github.com/orey/jdr/blob/master/AppelDeCthulhu/AppelDeCthulhu-FicheDeTemps.pdf][Fiche de temps]]                       | PDF      |       | N      | Pour l'Appel de Cthulhu ou autre jeu Basic RPS      |
+|   2021 | Tous                | Aide de jeu       | [[https://github.com/orey/jdr/blob/master/Aftermath/LocalisationDesBlessures.png][Localisation des blessures]]           | PNG      |       | N      | A intégrer dans une synthèse d'aides de jeu pour MJ |
+|   2021 | [[https://github.com/orey/jdr-risus][Risus]]               | Flowchart         | [[https://rouboudou.itch.io/risus-ressources][Flowchart complet du jeu]]             | PDF      |    10 | Y      | Peut servir d'éran                                  |
+|   2021 | [[https://github.com/orey/DandD][D&D 5e]]              | Couverture        | [[https://github.com/orey/DandD/blob/master/DandD_5e_BasicEditionLuluCover/Cover.pdf][Couverture pour D&D 5e Basic Rules]]   | PDF      |       | N      | Pour Lulu.com                                       |
+
+* Liens
+
+** Sites de jeux en français
+
+Voir [[https://orey.github.io/blog/links/][orey.github.io/blog/links/]]
+
+
+** Magazines en français
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align p{7cm}p{7cm}
+| *Type*                                   | *Site*                                                                      |
+| *B*                                      |                                                                             |
+| Les anciens "Backstab"                   | https://www.abandonware-magazines.org/affiche_mag.php?mag=199               |
+| *C*                                      |                                                                             |
+| Les anciens "Casus Belli"                | https://www.abandonware-magazines.org/affiche_mag.php?mag=188               |
+| *G*                                      |                                                                             |
+| Quelques vieux "Graal"                   | https://www.abandonware-magazines.org/affiche_mag.php?mag=402               |
+| *J*                                      |                                                                             |
+| Les anciens "Jeux et Stratégie", un must | https://archive.org/search.php?query=creator%3A%22Excelsior+Publications%22 |
+|                                          | https://www.abandonware-magazines.org/affiche_mag.php?mag=185               |
+| *T*                                      |                                                                             |
+| Les vieux "Tangente"                     | https://www.abandonware-magazines.org/affiche_mag.php?mag=326               |
+|                                          |                                                                             |
+
+* Explorations récentes
+
+** Ongoing
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cp{2cm}p{1.5cm}p{7cm}cc
+|    *Date* | *Game*                    | *Type*             | *Comment*                                                            | *Note* |
+|      2022 | GURPS 3e Psionics         | Generic system     | Une vraie bible                                                      | *5/5*  |
+|      2022 | Ars Magica                | Middle-Age Fantasy | Un système de jeu et de magie fascinant                              | *5/5*  |
+| 2021-2022 | Advanced Fighting Fantasy | Heroic Fantasy     | To play with children                                                | *5/5*  |
+|      2022 | Troika!                   | Generic system     | A reinterpretation of the [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][Fighting Fantasy]] rules with funny elements | *5/5*  |
+
+** Palmarès
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+#+ATTR_LATEX: :environment longtable :align cp{2cm}p{1.5cm}p{7cm}cc
+|    *Date* | *Game*                   | *Type*           | *Comment*                                                                      | *Note* |
+| 2020-2022 | L'appel de Cthulhu       | Horror           | The best                                                                       | *5/5*  |
+|      2022 | Ghostbusters 1984 & 1986 | Fantômes         | Un système de jeu hyper simple, à la source de la vague D6 avec pools          | *5/5*  |
+|      2022 | Méga                     | Sci-Fi           | Un jeu fantastique par son univers. Procurez-vous l'univers de Méga 4 !        | *5/5*  |
+|      2022 | AD&D 1e, version US      | Heroic Fantasy   | Un travail colossal, un Gary Gygax au sommet de sa forme ! La matrice du JDR ! | *5/5*  |
+|      2022 | [[https://www.chaosium.com/runequest-starter-set/][Runequest Starter Set]]    | Heroic Fantasy   | A great game                                                                   | *5/5*  |
+|      2021 | Alternity 98             | Modern (Generic) | A very good system abandonned by WotC for the crappy D20 Modern                | *5/5*  |
+|      2021 | Maléfices                | French Steampunk | Un des meilleurs JDR français                                                  | *5/5*  |
+|      2020 | Warhammer FR 1e          | Heroic Fantasy   | A very good game, surtout pour la Campagne Impériale                           | *5/5*  |
+| 2020-2022 | Mythic                   | GM Emulator      | Great! [[https://github.com/orey/jdr/tree/master/Mythic-fr][Resources in French]] (un écran !)                                        | *5/5*  |
+| 2021-2022 | The Esoterrorists 2e     | Modern           | The first Gumshoe system                                                       | *5/5*  |
+|      2022 | [[https://www.colostle.com/][Coloste]]                  | Science Fantasy  | Un JDR solo assez amusant un peu poétique avec jeu de 64 cartes                | 4/5    |
+| 2020-2022 | [[https://github.com/orey/jdr-risus][Risus]]                    | Generic system   | Bon, je me ravise, c'est un bon jeu. Se procurer l'écran pour les probas.      | 4/5    |
+| 2020-2022 | Méga                     | Sci-Fi           | A French success                                                               | 4/5    |
+| 2021-2022 | GURPS                    | Generic system   | A great classical system with great supplements                                | 4/5    |
+| 2021-2022 | Fighting Fantasy         | Generic System   | From Steve Jackson & Ian Livingstone : [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][French translation]]                      | 4/5    |
+|      2021 | Basic Roleplaying System | Generic System   | The best, especially for CoC, free ed. is great                                | 4/5    |
+|      2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)      | Generic system   | An "open GURPS" with a 7-levels ladder and scales. Very GURPS inspired         | 4/5    |
+|      2021 | Tunnels & Trolls 1e      | Heroic Fantasy   | Interesting                                                                    | 4/5    |
+|      2021 | DCC                      | Heroic Fantasy   | A whole universe                                                               | 4/5    |
+|      2021 | [[http://www.fortuneswheel.co.uk/][Fortunes Wheel]]           | Witching Tales   | Very interesting with tarot cards                                              | 4/5    |
+|      2021 | Légendes                 | Historic Fantasy | Great game for the universes. Hyper complex game system                        | 4/5    |
+|      2020 | D&D SRD 3.5              | Heroic Fantasy   | [[https://github.com/orey/srd-3.5][Repo spécial]] avec diverses versions.                                           | 4/5    |
+|      2020 | PremièreFable            | JDR pour enfants | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].                         | 4/5    |
+|      2022 | Hurlements (1989)        | Middle-Age       | Strange French game, at the center of the narrativist French trend             | 3/5    |
+|      2021 | [[http://www.onesevendesign.com/laserfeelings/][Lasers and Feelings]]      | Sci-Fi           | Great simple RPG                                                               | 3/5    |
+|      2021 | Bloodlust                | Heroic Fantasy   | French game by Croc                                                            | 3/5    |
+|      2021 | Metamorphosis Alpha      | Sci-Fi           | Interesting game                                                               | 3/5    |
+|      2021 | Ironsworn                | Heroic Fantasy   | Interesting game but too random (action dice vs 2D10)                          | 3/5    |
+|      2021 | [[https://www.drivethrurpg.com/product/89534/FU-The-Freeform-Universal-RPG-Classic-rules][FU]]                       | Generic system   | Very basic system for roleplay                                                 | 3/5    |
+|      2021 | [[http://storygame.free.fr/][Trucs trop bizarres]]      | Modern kids      | In French, a very simple game system for kids                                  | 3/5    |
+|      2021 | Tékumel                  | Heroic Fantasy   | Author's world                                                                 | 3/5    |
+|      2021 | Microlite                | Generic System   | [[https://github.com/orey/jdr/tree/master/Microlite20-fr][French translation]] done. Not playable as-is.                                   | 3/5    |
+|      2020 | Empire galactique        | Sci-Fi           | One of the first french RPG                                                    | 3/5    |
+|      2020 | D&D 5e basic rules       | Heroic Fantasy   |                                                                                | 3/5    |
+|      2020 | QAGS                     | Generic system   | Simple and funny dynamic system                                                | 3/5    |
+|      2020 | FU - Freeform Universal  | Generic system   | JDR basé sur le "Yes but.../No but..."                                         | 3/5    |
+|      2021 | D20 Modern SRD           | Generic System   | Exploration in parallel to some [[https://archive.org/details/Polyhedron105][Polyhedron]] readings                            | 2/5    |
+|      2021 | The Wretched             | Horror           | Bof                                                                            | 2/5    |
+|      2020 | Pokethulhu               | Fun              | You need to like the comics                                                    | 2/5    |
+|      2020 | CRGE                     | GM Emulator      | Based on the "Yes but.../No but..."                                            | 2/5    |
+|      2020 | Gateway                  | Heroic fantasy   | Based on D&D                                                                   | 2/5    |
+|      2020 | Hero kids                | RPG for kids     | Bof, better play a simple adult game, or Bubblegumshoe                         | 2/5    |
+|      2020 | Dagger                   | RPG for kids     | Bof                                                                            | 2/5    |
+
+** Brièvement regardés, à retravailler
+
+#+ATTR_HTML: :border 2 :rules all :frame border
+<<<<<<< HEAD
+#+ATTR_LATEX: :environment longtable :align cp{2cm}p{1.5cm}p{7cm}
+| *Date* | *Game*                 | *Type*         | *Comment*                                                |
+|   2022 | [[https://www.cortexrpg.com/compendium/explore-the-rules/][Cortex]]                 | Generic System |                                                          |
+|   2022 | [[https://www.drivethrurpg.com/product/117563][The Void]]               | Horror Sci-Fi  | Interesting Cthulu Saga in space                         |
+|   2022 | 1PG Star Legion        | Sci-Fi         | A sci-Fi small RPG                                       |
+|   2022 | [[https://www.drivethrurpg.com/product/186894/Cepheus-Engine-System-Reference-Document][Cepheus engine]]         | Sci-Fi         | The SRD of the Traveller TTRPG                           |
+|   2021 | [[https://github.com/orey/jdr/tree/master/BladesInTheDark-SRD][Blades in the Dark SRD]] | Heroic Fantasy |                                                          |
+|   2021 | [[http://komajdr.free.fr/fichiers/BiTs.rar][Bits ]]                  | Generic system | In French, a one page generic system                     |
+|   2021 | Modern AGE system      | Modern         | Ongoing                                                  |
+|   2021 | The Dragon             | Press          | Old issues of The Dragon, in [[https://archive.org/details/DragonMagazine045_201903][archive.org]] (1-100 251-280) |
+|   2021 | Gumshoe system SRD     | Generic System | Entering into simplified translation process             |
+|   2021 | 13th Age               | Heroic Fantasy | Just starting                                            |
+|   2021 | Gumshoe system         | Generic system | Investigation oriented: That one is for me :)            |
+|   2021 | GURPS                  | Generic System | To investigate                                           |
+|   2021 | Traveller 1e           | Sci-Fi         | Seducing                                                 |
+|   2020 | Covetous               | GM Emulator    | Bon produit avec plein de tables                         |
+|   2020 | Conspiracy X           | Modern         |                                                          |
+|   2020 | PIP system             | Generic system |                                                          |
+|   2020 | [[https://www.drivethrurpg.com/product/144558/Mini-Six-Bare-Bones-Edition][MiniSix]]                | Generic system | D6                                                       |
+=======
+#+ATTR_LATEX: :environment longtable :align cp{2cm}p{1.5cm}p{7cm}ccc
+| *Date* | *Game*                       | *Type*             | *Comment*                                                                      | *Note* | *OSR* | *Ongoing* |
+|   2022 | Ars Magica 2e                | Middle-Age Fantasy | Un système de magie très intéressant                                           | *5/5*  | N     | *Y*       |
+|   2022 | Troika!                      | Science Fantasy    | Le système de AFF dans un monde un peu glauque avec des univers parallèles     | 4/5    | Y     | *Y*       |
+|   2022 | Advanced Fighting Fantasy    | Heroic Fantasy     | Système de jeu complet simplifié                                               | *5/5*  | N     | *Y*       |
+|   2022 | [[https://www.colostle.com/][Coloste]]                      | Science Fantasy    | Un JDR solo assez amusant un peu poétique avec jeu de 64 cartes                | 4/5    | N     | Later     |
+|   2022 | Ghostbusters 1984 & 1986     | Fantômes           | Un système de jeu hyper simple, à la source de la vague D6 avec pools          | *5/5*  | N     | Later     |
+|   2022 | Méga                         | Sci-Fi             | Un jeu fantastique par son univers. Procurez-vous l'univers de Méga 4 !        | *5/5*  | N     | Later     |
+|   2022 | Risus                        | Generic system     | Bon, je me ravise, c'est un bon jeu. Se procurer l'écran pour les probas.      | 4/5    | N     | Later     |
+|   2022 | AD&D 1e, version US          | Heroic Fantasy     | Un travail colossal, un Gary Gygax au sommet de sa forme ! La matrice du JDR ! | *5/5*  | -     | Later     |
+|   2022 | [[https://www.cortexrpg.com/compendium/explore-the-rules/][Cortex]]                       | Generic System     |                                                                                | -      | N     | Later     |
+|   2022 | [[https://www.drivethrurpg.com/product/117563][The Void]]                     | Horror Sci-Fi      | Interesting Cthulu Saga in space                                               | -      | N     | N         |
+|   2022 | Troika!                      | Science Fantasy    | A reinterpretation of the [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][Fighting Fantasy]] rules with funny elements           | 4/5    | Y     | Later     |
+|   2022 | 1PG Star Legion              | Sci-Fi             | A sci-Fi small RPG                                                             | -      | N     | N         |
+|   2022 | [[https://www.drivethrurpg.com/product/186894/Cepheus-Engine-System-Reference-Document][Cepheus engine]]               | Sci-Fi             | The SRD of the Traveller TTRPG                                                 | -      | N     | N         |
+|   2022 | [[https://www.chaosium.com/runequest-starter-set/][Runequest Starter Set]]        | Heroic Fantasy     | A great game                                                                   | *5/5*  | N     | N         |
+|   2022 | Hurlements (1989)            | Middle-Age         | Strange French game, at the center of the narrativist French trend             | 2/5    | N     | N         |
+|   2021 | [[https://github.com/orey/jdr/tree/master/BladesInTheDark-SRD][Blades in the Dark SRD]]       | Heroic Fantasy     |                                                                                | -      | N     | Later     |
+|   2021 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system     | Irony with Clichés and D6 with difficulty factors                              | 3/5    | N     | N         |
+|   2021 | [[https://www.drivethrurpg.com/product/89534/FU-The-Freeform-Universal-RPG-Classic-rules][FU]]                           | Generic system     | Very basic system for roleplay                                                 | 3/5    | N     | N         |
+|   2021 | [[http://www.onesevendesign.com/laserfeelings/][Lasers and Feelings]]          | Sci-Fi             | Great simple RPG                                                               | 4/5    | N     | N         |
+|   2021 | GURPS                        | Generic system     | A great classical system with great supplements                                | 4/5    | N     | Later     |
+|   2021 | [[https://github.com/orey/jdr/blob/master/Fudge-fr/FudgeEnUnePage-ORey03.pdf][Fudge]] (en une page)          | Generic system     | An "open GURPS" with a 7-levels ladder and scales. Very GURPS inspired         | 4/5    | N     | Later     |
+|   2021 | [[http://komajdr.free.fr/fichiers/BiTs.rar][Bits ]]                        | Generic system     | In French, a one page generic system                                           | -      | N     | N         |
+|   2021 | [[http://storygame.free.fr/][Trucs trop bizarres]]          | Modern kids        | In French, a very simple game system                                           | 3/5    | N     | N         |
+|   2021 | Advanced Fighting Fantasy    | Heroic Fantasy     | To play with children                                                          | -      | N     | Later     |
+|   2021 | Modern AGE system            | Modern             | Ongoing                                                                        | -      | N     | Later     |
+|   2021 | Tunnels & Trolls 1e          | Heroic Fantasy     | Interesting                                                                    | 4/5    | N     | N         |
+|   2021 | Alternity 98                 | Modern (Generic)   | A very good system abandonned by WotC for the crappy D20 Modern                | *5/5*  | N     | Later     |
+|   2021 | The Esoterrorists 2e         | Modern             | The first Gumshoe system                                                       | -      | N     | Later     |
+|   2021 | The Dragon                   | Press              | Old issues of The Dragon, in [[https://archive.org/details/DragonMagazine045_201903][archive.org]] (1-100 251-280)                       | -      | -     | N         |
+|   2021 | D20 Modern SRD               | Generic System     | Exploration in parallel to some [[https://archive.org/details/Polyhedron105][Polyhedron]] readings                            | 2/5    | N     | N         |
+|   2021 | Gumshoe system SRD           | Generic System     | Entering into simplified translation process                                   | -      | N     | Later     |
+|   2021 | 13th Age                     | Heroic Fantasy     | Just starting                                                                  | -      | Y     | Later     |
+|   2021 | Basic Roleplaying System     | Generic System     | The best, especially for CoC, free ed. is great                                | *5/5*  | N     | Later     |
+|   2021 | The Wretched                 | Horror             | Bof                                                                            | 2/5    | N     | N         |
+|   2021 | GURPS                        | Generic System     | Not convinced                                                                  | 4/5    | N     | N         |
+|   2021 | Fighting Fantasy             | Generic System     | From Steve Jackson & Ian Livingstone : [[https://github.com/orey/jdr/tree/master/FightingFantasys-fr][French translation]]                      | 4/5    | Y     | N         |
+|   2021 | Bloodlust                    | Heroic Fantasy     | French game by Croc                                                            | 3/5    | N     | N         |
+|   2021 | Metamorphosis Alpha          | Sci-Fi             | Interesting game                                                               | 3/5    | -     | N         |
+|   2021 | Ironsworn                    | Heroic Fantasy     | Interesting game but too random (action dice vs 2D10)                          | 3/5    | N     | N         |
+|   2021 | Gumshoe system               | Generic system     | Investigation oriented: That one is for me :)                                  | -      | N     | Later     |
+|   2021 | DCC                          | Heroic Fantasy     | A whole universe                                                               | 4/5    | Y     | N         |
+|   2021 | Légendes                     | Historic Fantasy   | Great game for the universes. Hyper complex game system                        | 4/5    | N     | Later     |
+|   2021 | Tékumel                      | Heroic Fantasy     | Author's world                                                                 | 3/5    | N     | N         |
+|   2021 | Microlite                    | Generic System     | [[https://github.com/orey/jdr/tree/master/Microlite20-fr][French translation]] done. Not playable as-is.                                   | 3/5    | N     | N         |
+|   2021 | [[http://www.fortuneswheel.co.uk/][Fortunes Wheel]]               | Witching Tales     | Very interesting with tarot cards                                              | 4/5    | N     | Later     |
+|   2021 | Maléfices                    | French Steampunk   | Un des meilleurs JDR français                                                  | *5/5*  | N     | Later     |
+|   2021 | GURPS                        | Generic System     | To investigate                                                                 | -      | N     | N         |
+|   2021 | Traveller 1e                 | Sci-Fi             | Seducing                                                                       | -      | N     | Later     |
+|   2020 | D&D 5e basic rules           | Heroic Fantasy     |                                                                                | 3/5    | -     | N         |
+|   2020 | Covetous                     | GM Emulator        | Bon produit avec plein de tables                                               | -      | N     | Later     |
+|   2020 | Conspiracy X                 | Modern             |                                                                                | -      | N     | Later     |
+|   2020 | D&D SRD 3.5                  | Heroic Fantasy     | [[https://github.com/orey/srd-3.5][Repo spécial]] avec diverses versions.                                           | 4/5    | -     | N         |
+|   2020 | Méga                         | Sci-Fi             | A French success                                                               | -      | N     | Later     |
+|   2020 | Empire galactique            | Sci-Fi             | One of the first french RPG                                                    | 3/5    | N     | N         |
+|   2020 | L'appel de Cthulhu           | Horror             | The best                                                                       | *5/5*  | N     | Later     |
+|   2020 | Warhammer FR 1e              | Heroic Fantasy     | A very good game, surtout pour la Campagne Impériale                           | *5/5*  | N     | Later     |
+|   2020 | Hero kids                    | RPG for kids       | Bof, better play a simple adult game, or Bubblegumshoe                         | 2/5    | N     | N         |
+|   2020 | Pokethulhu                   | Fun                | You need to like the comics                                                    | 2/5    | N     | N         |
+|   2020 | CRGE                         | GM Emulator        | Based on the "Yes but.../No but..."                                            | 2/5    | N     | N         |
+|   2020 | Mythic                       | GM Emulator        | Great! [[https://github.com/orey/jdr/tree/master/Mythic-fr][Resources in French]] (un écran !)                                        | *5/5*  | N     | Later     |
+|   2020 | PIP system                   | Generic system     |                                                                                | -      | N     | Later     |
+|   2020 | QAGS - Quick Ass Game System | Generic system     | Simple and funny dynamic system                                                | 4/5    | N     | Later     |
+|   2020 | Gateway                      | Heroic fantasy     | Based on D&D                                                                   | 2/5    | Y     | N         |
+|   2020 | FU - Freeform Universal      | Generic system     | JDR basé sur le "Yes but.../No but..."                                         | 3/5    | N     | N         |
+|   2020 | [[https://github.com/orey/jdr/tree/master/Risus-fr][Risus]]                        | Generic system     | In French:  [[https://github.com/orey/jdr/tree/master/Risus-fr][Règles résumées Risus]] avec flowchart                               | 3/5    | N     | N         |
+|   2020 | PremièreFable (FirstFable)   | JDR pour enfants   | Traduction de FirstFable. Lien : [[https://orey.github.io/premierefable/][PremièreFable le JDR]].                         | 4/5    | N     | N         |
+|   2020 | [[https://www.drivethrurpg.com/product/144558/Mini-Six-Bare-Bones-Edition][MiniSix]]                      | Generic system     | D6                                                                             | -      | N     | Later     |
+|   2020 | Dagger                       | RPG for kids       | Bof                                                                            | 2/5    | Y     | N         |
+>>>>>>> 863575d0499c15dceda29626a79938b4bd9e9a35
+
+* Quelques réflexions sur les systèmes de jeux
+
+Ci-dessous, quelques réflexions les systèmes de jeux et autres marronniers du JDR.
+
+L'article sur PbtA a bougé ici : https://orey.github.io/blog/pages/pbta/
+ 
+** Sommes-nous vraiment tous des game designers ?
+
+Avec l'arrivée de plate-formes comme [[https://www.kickstarter.com][Kickstarter]] ou [[https://itch.io][itch]], beaucoup de game designers se sont révélés, offrant une énorme diversité au JDR. Pour autant, la multiplication de l'offre fait apparaître des jeux /dispensables/ qui font se poser la question : est-ce qu'il y a autant de bons game designers sur le marché ?
+
+Je n'en suis pas certain. Pour PbtA par exemple, les règles me semblent affreusement complexes et touffues, pleines de "trous dans la raquette" et nécessitant un investissement important pour tous les anciens MJ. Et pour quoi ? Pour faire du JDR narratif ? Mais on peut en faire facilement avec BRS ou même avec D&D, dans des univers où les PJ sont moins caricaturaux et ont plus de possibilités de faire des choses et de s'adapter à la situation.
+
+Pour ce qui est des scénarios ouverts, il faut se souvenir que bon nombre de scénarios anciens étaient très fouillés et très ouverts. Ils décrivaient l'univers de jeu, les PNJ, leurs motivations, le timing des événements et les PJ devaient s'insérer (voire bousculer) ces événements. Pour faire cela, il faut un système ouvert qui laisse la place belle aux inventions des joueurs, inventions qui ne manquaient pas d'arriver, souvent à la surprise du MJ.
+
+** La manne des JDR PDF à l'heure de l'impression à la demande
+
+Est-ce que le fait de lancer des systèmes complexes comme PbtA et de pouvoir lever de l'argent facilement ne rend pas plus facile l'arrivée sur le marché de produits immatures, pris dans l'engrenage financier de l'industrie du JDR ?
+
+De plus, est-ce que les réseaux sociaux ne permettent pas de lancer des jeux dont les coûts de production sont très faibles et les revenus potentiellement très importants ? Vendre des PDF plus quelques impressions à la demande est une facilité qui collabore à mettre sur le marché des jeux parfois inaboutis.
+
+Même chez les plus grands, le phénomène est réel. Comparons les suppléments GURPS 3e avec ceux de la 4e et vous verrez. Le digital a diminué la qualité, globalement, en poussant à la présence de suppléments, à l'exploitation du filon des suppléments sur une période courte, pendant la phase durant laquelle un jeu est à la mode.
+
+** Le règne de D&D 5e... et de l'OSR
+
+Alors, oui, dans tout cette offre pléthorique, D&D 5e règne en maître et, semble-t-il, dans la durée. D&D, c'est un peu l'anti-jeu moderne. Même si son système de jeu a gagné en cohérence et a pris certains éléments des nouvelles tendances, D&D est encore D&D.
+
+La mode OSR (Old-School Revival) pourrait être vu comme un genre de réaction à toutes ces innovations. J'ai lu dans des forums que les OSR-guys cherchaient une façon de jouer moins complexe, mais je ne suis pas d'accord. Ils veulent du "crunchy" de la grande époque, le sommet que nous aurons du mal à dépasser : AD&D 1e ! Des règles énormes et pleines de cas particuliers, des tables à tiroirs comme Gary Gygax les aimait, des tas et des tas d'informations de toutes sortes un peu en vrac, une certaine inventivité pour les PJ, les monstres et les pièges, un sommet du genre.
+
+** Système de jeu idéal
+
+Un équilibre entre :
+- Possibilités de faire des jets de dés sous contraintes,
+- Simplicité et logique globale du système,
+- Adaptation à l'univers.
+
+Par exemple, pour les charactéristiques, il est important qu'elles soient intuitives pour le MJ. Là dessus, D&D et BRS sont au dessus du lot.
+
+*** Numéro 1 - Basic Role Playing system - BRP
+
+Le système Basic RP ([[https://www.chaosium.com/brp-system-reference-document/][SRD ici]]), ou BRP, est un système très adaptable, logique et sans déformation de probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]). Il est particulièrement bien adapté aux univers fantasy, historiques et contemporains. Je ne connais pas d'implémentation du BRP en monde SF, en tous cas pas chez Chaosium.
+
+*** Numéro 2 - Maléfices
+
+- Un système de jeu Steampunk très adapté à l'univers.
+- Tarot très utile dans le jeu.
+- Un système un peu oublié.
+
+*** Numéro 3 - Donjons et Dragons
+
+D&D possède un bon système de jeu qui a fait ses preuves dans une multitude de versions. Son système est simple et basé sur le paradigme suivant : ~D20 + modificateurs >= Classe de difficulté~ (par exemple, dépendant plus ou moins directement de la classe d'armure). Ce système a l'avantage de ne pas tordre les probabilités (contrairement au [[https://github.com/orey/jdr/tree/master/D6-System][système D6]]).
+
+Voir [[https://github.com/orey/jdr/tree/master/DandD][la page dédiée]].
+
+** Articles sur les probabilités dans le JDR
+
+- Une analyse des problèmes de probabilités du système D6 : voir [[https://github.com/orey/jdr/tree/master/D6-System][le folder D6-system]]
+- Une analyse des probabilités de l'étrange système de jeu de IronSworn : voir [[https://github.com/orey/jdr/tree/master/IronSworn][le folder IronSworn]]
+
+** Quelques commentaires sur quelques jeux
+*** Méga (1984) - Méga 2 (1986)
+Il faut que je parle de ce jeu qui est mon premier JDR (enfin, j'avais eu D&D avant mais je n'avais pas réussi à l'utiliser).
+
+Un très beau supplément publié en CC sur le [[https://www.messagers-galactiques.com][site de Méga IV]] : l'encyclopédie galactique.
+ 
+*** Hurlements (1989)
+
+Hurlements (1989) a quelque peu défrayé la chronique en proposant un jeu très narratif à la belle époque des jeux d'Heroic Fantasy, notamment AD&D bien entendu. Pour autant, ce jeu ne m'a jamais convaincu, en raison, non de la pauvreté de son système de jeu, mais au niveau de la *pauvreté de sa vision du Moyen-Age*.
+
+En effet, le jeu est centré sur la lycanthropie, mais il est très pauvre à bien des égards.
+
+Tout d'abord, il propose une vision obscurantiste du Moyen-Age :
+- Comme toute bonne vision caricaturale française actuelle, la religion y est caricaturée et n'est pas comprise comme un élément structurant de la société ;
+- Il n'y a aucun mot sur la chevalerie et les passions qui y sont associées, et qui sont dans la littérature française du Moyen-Age.
+
+D'un point de vue de l'univers magique, l'univers de Hurlements est incroyablement pauvre :
+- Ainsi, on n'y trouve pas de magie ni de sorcellerie, alors que ces éléments sont au coeur de l'univers mental de cette période ;
+- Les pouvoirs de la religion n'y sont pas évoqués.
+
+Ainsi il aurait été intelligent de considérer qu'une certaine partie du Clergé était au courant des manifestations lycanthropiques et magiques, et que sans doute tous ne le voyaient pas forcément d'un mauvais oeil. Il aurait été intéressant par exemple de situer des abbayes comme des ponts entre les lycanthropes et certains religieux.
+
+Concernant la magie et la sorcellerie, cette dernière était au centre de la société médiévale, tout comme l'était la chevalerie.
+
+La vie dans la caravane est une mise en scène en mode "sandbox" qui est pourtant intéressante, mais beaucoup trop schématique (les PJ contre le reste du monde).
+
+Je passerai sur la prétention de l'écriture qui est souvent un peu soûlante quoique très française.
+
+Au final, ce jeu est un vrai grand raté, malgré la grosse campagne de soutien de Casus Belli et de Dragon Radieux à l'époque. Hurlements aurait pu devenir le /Pendragon/ français (jeu beaucoup plus mûr dans tous ses aspects) et il a sombré - assez justement - dans l'oubli.
+
+*** Fudge
+
+Deux éléments sont vraiment originaux :
+- Le premier est l'usage de mots pour décrire les niveaux des caractéristiques et des skills. Fudge est sans doute un des premiers jeux à avoir fait cela (même si en fait, la mécanique de jeux reste sous-jacente et basé sur des nombres).
+- Le second est la gestion des échelles, qui est une vraie originalité de Fudge. Il est, en effet, possible de faire lutter des PJ et PNJ appartenant à des échelles différents. Une innovation très intéressante car, sur ce point, la mécanique est bien aboutie.
+
+Voir l'[[https://github.com/orey/jdr/tree/master/Fudge-fr][article détaillé]].
+
+*** Tunnels & Trolls
+
+Le combat de groupe (mêlée) est un vrai combat de groupe :
+- Les attaques de tous les joueurs sont cumulées,
+- Les attaques de tous les monstres le sont aussi,
+- On fait la différence (contest) pour calculer les dégâts à répartir sur la partie concernée.
+
+Malin et efficace.
+
+*** Bloodlust
+
+**** Mécanisme de combat
+
+Une seule table pour attaquant vs défenseur. En abscisse et en ordonnée :
+- Attaque brutale
+- Attaque normale
+- Attaque rapide
+- Parade
+- Esquive
+
+Dans le combat, chacun est tour à tour attaquant et défenseur. Fluide et efficace.
+
+En bref, le combat est comme un double "contest" avec des modificateurs. C'est assez malin.
+
+**** Réussites et échecs critiques
+
+Bloodlust est un système à pourcentage. En cas de réussite, si l'unité de la valeur du jet est 0, on est dans un cas de réussite critique. Pareil pour les échecs critiques avec une valeur de l'unité de 1 sur le jet de pourcentage raté.
+
+

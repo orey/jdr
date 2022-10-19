@@ -59,7 +59,7 @@ Nous supposerons que nous savons maintenant faire les d2, d3, d4 et d5 avec 1d6.
 Pour les autres dés, nous allons utiliser 1d6 de "sixaine", de couleur différente : nous ne nommerons `S`. L'autre dé sear celui des unités et sera noté `U`. En tirant les deux dés, pour connaître le résultat, nous ferons donc `S x 6 + U`.
 
 | Type de dé | Lancer 2d6 : S et U | Formule | Commentaire |
-|---------|---|
+|---------|---|---|---|
 | 1d7 | S = 1d2, U = 1d4 | (1d2 - 1) x 4 + 1d4, relancer si 8 | Base 4 |
 | 1d8 | S = 1d2, U = 1d4 | (1d2 - 1) x 4 + 1d4 | Base 4 |
 | 1d9 | S = 1d2, U = 1d5 | (1d2 - 1) x 5 + 1d5, relancer si 10 | Base 5 |

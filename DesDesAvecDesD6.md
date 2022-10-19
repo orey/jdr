@@ -82,7 +82,7 @@ Certes, vous pouvez utiliser la formule ci-dessus pour tirer alternativement 1d1
 
 Cherchons en base 6. 100 en base 10 = 244 en base 6, car :
 
-    244 = **2** x 6^2 + **4** x 6^1 +  **4** x 6^0
+    244 = 2 x 6^2 + 4 x 6^1 +  4 x 6^0
     
 Si nous lançons 3d6 avec trois dés C, S et U :
 

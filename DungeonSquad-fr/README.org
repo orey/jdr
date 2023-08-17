@@ -1,6 +1,0 @@
-* Dungeon Squad, version française
-
-Voir :
-- Sur Itch : https://rouboudou.itch.io/dungeonsquad-fr
-- Repo dédié : https://github.com/orey/jdr-dungeon-squad-fr
-

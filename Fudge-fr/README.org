@@ -1,7 +1,0 @@
-* Fudge
-
-Voir :
-- Sur Itch : https://rouboudou.itch.io/fudge
-- Repo dédié : https://github.com/orey/jdr-fudge
-
-

@@ -1,5 +1,0 @@
-* La Grande Liste des intrigues de JDR
-
-Ce repo a bougé : https://github.com/orey/jdr-biglist-fr
-
-Le contenu sera bientôt sur itch.io.

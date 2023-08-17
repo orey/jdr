@@ -7,6 +7,9 @@
 
 [[file:CC3UL.png]]
 
+
+*En chantier*
+
 Cette page est une tentative de compression du SRD 3.0 de Gumshoe pour jouer des avenrures de type détective avec des rôlistes plus ou moins expérimentés.
 
 #+ATTR_HTML: :border 2 :rules all :frame border

@@ -86,12 +86,16 @@ Le dé de position peut aussi être utilisé sous contrainte. Par exemple, si le
 
 ** D#5 - Dé numéro 5 : contenu de la salle
 
-| Face | Symbole | Commentaire     |
-|------+---------+-----------------|
-|  1-2 | M       | Monstre*        |
-|  3-4 | E       | Contenu étrange |
-|    5 | V       | Vide            |
-|    6 | P       | Piège           |
+| Face | Symbole | Commentaire         |
+|------+---------+---------------------|
+|    1 | MT      | Monstre* + Trésor** |
+|    2 | M       | Monstre*            |
+|    3 | E       | Contenu étrange     |
+|    4 | P       | Piège               |
+|    5 | V       | Vide                |
+|    6 | T       | Trésor              |
 
 *Pour les monstres, utilisez une table de rencontres adaptée à votre jeu.
+
+**Pour les trésors, utilisez une table adaptée à votre jeu.
 

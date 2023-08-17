@@ -93,7 +93,7 @@ Le dé de position peut aussi être utilisé sous contrainte. Par exemple, si le
 |    3 | E       | Contenu étrange     |
 |    4 | P       | Piège               |
 |    5 | V       | Vide                |
-|    6 | T       | Trésor              |
+|    6 | T       | Trésor**            |
 
 *Pour les monstres, utilisez une table de rencontres adaptée à votre jeu.
 

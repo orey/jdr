@@ -62,6 +62,10 @@ function myPercentFormat(i){
     return (i*100).toFixed(PERCENTAGE_FIGURE_NUMBER).toString() + "%";
 }
 
+function myPercentFormatRound(i){
+    return (i*100).toFixed(0).toString() + "%";
+}
+
 
 class Fighter {
     constructor(number, faces, mod){
@@ -229,6 +233,8 @@ function main(){
         loose += temp2;
     }
 
+    let win1 = win
+    let loose1 = loose
     console.log("WIN = " + myPercentFormat(win) + " - LOOSE = " +  myPercentFormat(loose));
     console.log( myPercentFormat(win+loose));
 
@@ -245,9 +251,17 @@ function main(){
         loose += temp2;
     }
 
+    let win2 = win
+    let loose2 = loose
     console.log("WIN = " + myPercentFormat(win) + " - LOOSE = " +  myPercentFormat(loose));
     console.log( myPercentFormat(win+loose));
-   
+
+    console.log("--------------------------------------------");
+    console.log("loose1 - loose2 = " + myPercentFormat(loose1 - loose2))
+    console.log("win2 - win1 = " + myPercentFormat(win2 - win1))    
+    console.log("STRICT WIN = " + myPercentFormat(win1) + " EQUAL: " +  myPercentFormat(win2-win1) + " STRICT LOOSE: " + myPercentFormat(loose2))
+    console.log("STRICT WIN = " + myPercentFormatRound(win1) + " EQUAL: " +  myPercentFormatRound(win2-win1) + " STRICT LOOSE: " + myPercentFormatRound(loose2))
+  
 }
 
 main();

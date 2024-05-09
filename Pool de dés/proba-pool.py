@@ -5,19 +5,14 @@
 import sys
 
 
-def usage():
-    print("Usage:")
-    print("> python proba-pool.py [faces]")
-    print("'faces' must be integer")
-    print("We'll calculate probabilities for successes per threshold (1-7) from 1 to 7 dice")
-    sys.exit(0)
-
-
 # f : number of faces of dice 1
 # g : number of faces of dice 2
 def calculateCombis(f, g):
     combis = []
-    if type(g) is int:
+    if f == 0:
+        for j in range(1,g+1):
+            combis.append([j])
+    elif type(g) is int:
         for i in range(1,f+1):
             for j in range(1,g+1):
                 combis.append([i,j])
@@ -26,6 +21,7 @@ def calculateCombis(f, g):
             for j in range(0, len(g)):
                 combis.append([i,*g[j]])
     return combis
+
 
 def intelligentAdd(index, dict):
     cumul = 0
@@ -36,7 +32,7 @@ def intelligentAdd(index, dict):
 
 
 def calculateProbas(combis, threshold):
-    print("Number of combinations: " + str(len(combis)))
+    #print("Number of combinations: " + str(len(combis)))
     nos = {} #number of successes
     siz = len(combis)
     sizenos = len(combis[0]) + 1 # from 0 to len(combis) possibls successes
@@ -72,12 +68,53 @@ def printPAC(message, probs, cumuls):
     print("\nEnd of display")
 
 
+def usage():
+    print("Usage:")
+    print("> python proba-pool.py [faces]")
+    print("'faces' must be integer")
+    print("We'll calculate probabilities for successes per threshold (1-7) from 1 to 7 dice")
+    sys.exit(0)
+
+
+def printCumulsPerDifficulty(message, combis, dice, nb):
+    print("------------------ " + message + " ------------------")
+    print("| Success # (at least) ", end="|")
+    for nbsuc in range(0,nb+1):
+        print("{:^7.0f}".format(nbsuc) , end="|")
+    print("")
+    for difficulty in range(0,dice+1):
+        [probs, cumuls] = calculateProbas(combis,difficulty)
+        print("|",end="")
+        print(" Difficulty {:>2.0f}        ".format(difficulty), end="|")
+        for elem in cumuls:
+            print("{: 7.1%}".format(cumuls[elem]), end='|')
+        print("")
+    print("---------------------------------------------------")
+
+    
+def runForFaces(faces):
+    dice = int(faces)
+    # assomption : les difficultés vont jusqu'à "faces" (ce qui n'est pas vrai pour l'exploding dice)
+    combis = calculateCombis(0,dice)
+    printCumulsPerDifficulty("1D" + faces, combis, dice, 1)
+    for dicenb in range(2,8):
+        combis = calculateCombis(dice, combis)
+        printCumulsPerDifficulty(str(dicenb) + "D" + faces, combis, dice, dicenb)
+
+        
 def main(faces):
     dice = int(faces)
     print("Creating probas for dice with " + faces + " faces")
 
+    print("++++++++++++++++++++++")
+    combis = calculateCombis(0,dice)
+    [probs, cumuls] = calculateProbas(combis,4)
+    printPAC("1D"+ faces + ", seuil 4", probs,cumuls)
+    print("++++++++++++++++++++++")
+    
+    
     print("---------------------------------------")
-    combis = calculateCombis(6,6)
+    combis = calculateCombis(dice,dice)
     [probs, cumuls] = calculateProbas(combis,4)
     printPAC("2D6, seuil 4", probs,cumuls)
     [probs, cumuls] = calculateProbas(combis,5)
@@ -117,4 +154,5 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         usage()
     main(sys.argv[1])
+    runForFaces(sys.argv[1])
     

@@ -1,9 +1,8 @@
 #============================================
 # Copyleft O. Rey, rey.olivier@gmail.com
-# May 2024
+# 18 May 2024
 #============================================
 import sys
-
 
 # f : number of faces of dice 1
 # g : number of faces of dice 2
@@ -70,9 +69,9 @@ def printPAC(message, probs, cumuls):
 
 def usage():
     print("Usage:")
-    print("> python proba-pool.py [faces]")
-    print("'faces' must be integer")
-    print("We'll calculate probabilities for successes per threshold (1-7) from 1 to 7 dice")
+    print("> python proba-pool.py [faces] [maxnumberofdice]")
+    print("'faces' and 'maxnumberofdice' must be integers")
+    print("We'll calculate probabilities of having successes versus difficulty (variable between 1 and [faces]) while throwing [maxnumberofdice] dice.")
     sys.exit(0)
 
 
@@ -92,12 +91,12 @@ def printCumulsPerDifficulty(message, combis, dice, nb):
     print("---------------------------------------------------")
 
     
-def runForFaces(faces):
+def runForFaces(faces, maxnb):
     dice = int(faces)
     # assomption : les difficultés vont jusqu'à "faces" (ce qui n'est pas vrai pour l'exploding dice)
     combis = calculateCombis(0,dice)
     printCumulsPerDifficulty("1D" + faces, combis, dice, 1)
-    for dicenb in range(2,8):
+    for dicenb in range(2,int(maxnb) + 1):
         combis = calculateCombis(dice, combis)
         printCumulsPerDifficulty(str(dicenb) + "D" + faces, combis, dice, dicenb)
 
@@ -149,10 +148,11 @@ def main(faces):
     [probs, cumuls] = calculateProbas(combis,6)
     printPAC("5D6, seuil 6", probs,cumuls)
 
+
     
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 3:
         usage()
-    main(sys.argv[1])
-    runForFaces(sys.argv[1])
+    #main(sys.argv[1])
+    runForFaces(sys.argv[1], sys.argv[2])
     

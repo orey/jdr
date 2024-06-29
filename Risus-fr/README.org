@@ -1,8 +1,0 @@
-* Ressources en français pour Risus
-
-Un repo dédié à Risus est accessible : https://github.com/orey/jdr-risus
-
-Les documents finaux sont publiés ici :
-- [[https://rouboudou.itch.io/risus-ressources][https://rouboudou.itch.io/risus-ressources]]
-
-

@@ -1,6 +1,0 @@
-#+TITLE: Réflexions sur le système D6
-#+AUTHOR: Olivier Rey
-#+DATE: 2021-10-02
-#+STARTUP: content
-
-Cet article a changé de place : https://orey.github.io/blog/pages/D6-TargetNumber/

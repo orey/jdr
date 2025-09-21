@@ -1,8 +1,8 @@
-# README
+# SWADE-F
 
 ## Intro
 
-Ce document est une petite synthèse de Savage Worlds ADventure Edition (SWADE) en français avec une traduction originale non compatible avec la traduction française officielle. Le texte propose des renvois vers la version anglaise officielle, le but étant d'avoir une synthèse minimale jouable.
+Ce document est une petite synthèse de Savage Worlds ADventure Edition (SWADE) en français, dénommée "SWADE-F", avec une traduction originale non compatible avec la traduction française officielle. Le texte propose des renvois vers la version anglaise officielle, le but étant d'avoir une synthèse minimale jouable.
 
 Les compétences ont changé dans Swade en comparaison des éditions précédentes de Savage Worlds.
 
@@ -72,36 +72,51 @@ Tous les PJs démarrent avec 5 compétences fondamentales à d4 :
 |----------|-------------------------|------------------|-----------|
 | FOR      | Physique                | Athletics        | d4        |
 | INT      | Connaissances générales | Common knowledge | d4        |
-| POU      | Détection               | Notice           | d4        |
-| POU      | Persuasion              | Persuasion       | d4        |
 | DEX      | Discrétion              | Stealth          | d4        |
 
 Le joueur dispose de 12 points pour ses compétences (1 point pour d4, 2 points pour d6, etc.). Si la compétence dépasse l'attribut, elle coûte 2 point pour atteindre le dé supérieur.
 
 Il est impossible d'augmenter une compétence à plus de d12 (sauf exception). Dans ce cas, un point rapporte un pip (1 point => 1d12+1, 2 points => 1d12+2, etc.).
 
-| Attr. | Français          | Anglais      | Formule |
-|-------|-------------------|--------------|---------|
-| INT   | Savoir académique | Academics    |         |
-| INT   | Bataille          | Battle       |         |
-| DEX   | Navigation        | Boating      |         |
-| INT   | Electronique      | Electronics  |         |
-| POU   | Foi               | Faith        |         |
-| DEX   | Combat (mêlée)    | Fighting     |         |
-| POU   | Concentration     | Focus        |         |
-| INT   | Jeux d'argent     | Gambling     |         |
-| INT   | Hacking           | Hacking      |         |
-| INT   | Soins             | Healing      |         |
-| POU   | Intimidation      | Intimidation |         |
-| INT   | Langue            | Language     |         |
-| INT   | Occultisme        | Occult       |         |
-| POU   | Performance       | Performance  |         |
-| DEX   | Pilotage          | Piloting     |         |
-| INT   | Psionics          | Psionics     |         |
+| Attr. | Français                | Anglais           | Défaut |
+|-------|-------------------------|-------------------|--------|
+| INT   | Savoir académique       | Academics         |        |
+| FOR   | Physique                | Athletics*        | d4     |
+| INT   | Bataille                | Battle            |        |
+| DEX   | Navigation              | Boating           |        |
+| INT   | Connaissances générales | Common knowledge* | d4     |
+| AGI   | Conduite                | Driving           |        |
+| INT   | Electronique            | Electronics       |        |
+| POU   | Foi                     | Faith             |        |
+| DEX   | Combat (mêlée)          | Fighting          |        |
+| POU   | Concentration           | Focus             |        |
+| INT   | Jeux d'argent           | Gambling          |        |
+| INT   | Hacking                 | Hacking           |        |
+| INT   | Soins                   | Healing           |        |
+| POU   | Intimidation            | Intimidation      |        |
+| INT   | Langue                  | Language          |        |
+| POU   | Perception              | Notice*           | d4     |
+| INT   | Occultisme              | Occult            |        |
+| POU   | Performance             | Performance       |        |
+| POU   | Persuasion              | Persuasion*       | d4     |
+| DEX   | Pilotage                | Piloting          |        |
+| INT   | Psionics                | Psionics          |        |
+| INT   | Réparation              | Repair            |        |
+| INT   | Recherche               | Research          |        |
+| AGI   | Chevaucher              | Riding            |        |
+| INT   | Science                 | Science           |        |
+| AGI   | Tir                     | Shooting          |        |
+| INT   | Lancer un sort          | Spellcasting      |        |
+| AGI   | Discrétion              | Stealth*          | d4     |
+| INT   | Survie                  | Survival          |        |
+| INT   | Provocation*            | Taunt             |        |
+| AGI   | Vol                     | Thievery          |        |
+| INT   | Science étrange         | Weird science     |        |
+
 
 ## Créer des races
 
-Les races er cultures démarrent avec 2 points de caractéristiques positives. Au delà, les points positifs et négatifs doivent s'équilibrer.
+Les races et cultures démarrent avec 2 points de caractéristiques positives. Au delà, les points positifs et négatifs doivent s'équilibrer.
 
 
 
